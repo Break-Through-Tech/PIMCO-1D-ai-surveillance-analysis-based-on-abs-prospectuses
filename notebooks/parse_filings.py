@@ -11,7 +11,7 @@ from pathlib import Path
 from bs4 import BeautifulSoup
 
 DATA_DIR = Path(__file__).parent.parent / "data"
-OUTPUT_DIR = Path(__file__).parent.parent / "data"
+OUTPUT_DIR = Path(__file__).parent.parent / "data" / "clean_text"
 
 COMPANIES = {
     "TOYOTA": "TOYOTA_AUTO_FINANCE_RECEIVABLES_LLC",
@@ -136,6 +136,7 @@ def process_company(label: str, prefix: str) -> pd.DataFrame:
 
 
 def main():
+    OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
     all_dfs = []
     for label, prefix in COMPANIES.items():
         print(f"\nProcessing {label}...")
