@@ -19,6 +19,11 @@ ALLY BANK
 Sponsor and Servicer (CIK: 0001601846)
 [TABLE:0]
 Credit Enhancement and Liquidity
+[TABLE:1]
+[TABLE:2]
+[TABLE:5]
+[TABLE:6]
+[TABLE:7]
 Neither the Securities and Exchange Commission nor any state securities commission has approved or disapproved these notes or determined if
 this prospectus is truthful or complete. Any representation to the contrary is a criminal offense.
 Joint Bookrunners
@@ -198,6 +203,8 @@ its affiliate. The depositor or its affiliate will retain the right to sell at a
 1
 Table of Contents
 Interest Payments
+[TABLE:20]
+[TABLE:21]
 Principal Payments
 THE CERTIFICATES
 On the closing date, the issuing entity
@@ -228,6 +235,7 @@ the Servicing Agreements—Sale and Assignment of Receivables
 .”
 The issuing entity’s property will, subject to other specific
 exceptions described in this prospectus, also include:
+[TABLE:35]
 agreement, the servicing agreement and the custodian agreement.
 Receivables Principal Balance
 The initial aggregate
@@ -277,6 +285,7 @@ The overcollateralization target amount will be 1.30% of the initial aggregate r
 PRIORITY OF
 DISTRIBUTIONS
 The issuing entity will distribute available funds in the following order of priority:
+[TABLE:43]
 of the Class A Notes and the Class B Notes—reduced by the amount of principal
 allocated to the notes above—over the aggregate receivables principal balance,
 4
@@ -325,6 +334,7 @@ On the closing date, Mayer Brown LLP, as
 special tax counsel to the issuing entity, will deliver its opinion, subject to the assumptions and qualifications therein, to the effect that:
 5
 Table of Contents
+[TABLE:58]
 Each noteholder, by accepting an offered note (other than any notes that are retained by the depositor or one or more affiliates thereof), will agree to treat
 the offered notes as indebtedness for federal, state and local income and franchise tax purposes.
 CONSIDERATIONS FOR ERISA AND OTHER U.S. EMPLOYEE
@@ -823,6 +833,13 @@ the current owner of record to a successor owner of record.
 Criteria Applicable to the Selection of Receivables
 The pool of receivables to be sold to the trust was selected from Ally Bank’s portfolio based on several criteria, including that each
 receivable:
+[TABLE:112]
+[TABLE:115]
+[TABLE:116]
+[TABLE:117]
+[TABLE:118]
+[TABLE:119]
+[TABLE:120]
 The receivables in the pool of receivables on the closing date will be the same receivables that comprised the pool of receivables on the
 cutoff date.
 The pool of receivables was selected from Ally Bank’s portfolio of receivables that meet the criteria described above
@@ -1014,6 +1031,8 @@ The asset representations reviewer will conduct a review of 60 day or more delin
 representations and warranties provided by the sponsor and the depositor upon the satisfaction of each of the following conditions:
 41
 Table of Contents
+[TABLE:142]
+[TABLE:143]
 For more information regarding the asset representations reviewer, see “
 Asset Representations Reviewer
 ” in this prospectus.
@@ -1581,6 +1600,10 @@ Payments of Principal
 On each distribution date, the Aggregate Noteholders’ Principal Distributable Amount will be applied to make principal payments on the
 notes. Principal payments will be applied to the notes in sequential priority so that no principal payments will be made on any class of notes until all notes with a lower numerical and alphabetical designation have been paid in full. Thus, on each
 distribution date, the Aggregate Noteholders’ Principal Distributable Amount will be applied as follows:
+[TABLE:204]
+[TABLE:205]
+[TABLE:206]
+[TABLE:207]
 69
 Table of Contents
 At any time that the principal balances of the notes have been declared due and payable following the occurrence of an Event of Default, until
@@ -2547,6 +2570,7 @@ INSOLVENCY ASPECTS OF THE OFFERINGS
 Potentially Applicable Insolvency Regimes
 Three different legal regimes for the resolution or reorganization of insolvent companies could be applicable to the entities involved in an
 offering of notes:
+[TABLE:233]
 96
 Table of Contents
 Consequences of Insolvency Regimes for Payments on the Notes
@@ -2561,6 +2585,7 @@ The possibility also exists that the FDIC as receiver could seek to apply the do
 and liabilities of the depositor and, in turn, the trust with the assets and liabilities of Ally Bank.
 Independently or in conjunction
 with the assertion of either of these positions, the FDIC as receiver could seek to:
+[TABLE:239]
 In addition to an FDIA receivership of Ally Bank, it is possible that the depositor or the trust (each, a “
 special purpose
 entity

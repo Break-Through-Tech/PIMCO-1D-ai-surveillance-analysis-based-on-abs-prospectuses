@@ -1,0 +1,11 @@
+0,1,2,3,4
+Whole  Loan Summary,Whole  Loan Summary,Whole  Loan Summary,Whole  Loan Summary,Whole  Loan Summary
+Note,Original  Balance,Cut-off  Date Balance,Note  Holder,Controlling  Piece
+A-1-1,"$55,000,000","$55,000,000",WFCM 2025-C65,Yes
+A-1-2,"$5,000,000","$5,000,000",BMO 2025-C13,No
+A-2,"$49,000,000","$49,000,000",BANK 2025-BNK50,No
+A-3,"$25,000,000","$25,000,000",BBCMS 2025-C35,No
+A-4,"$16,000,000","$16,000,000",BBCMS 2025-C35,No
+A-5-1,"$6,000,000","$6,000,000",BMO 2025-C13,No
+A-5-2,"$4,000,000","$4,000,000",BBCMS 2025-C35,No
+Whole Loan,"$160,000,000","$160,000,000",,

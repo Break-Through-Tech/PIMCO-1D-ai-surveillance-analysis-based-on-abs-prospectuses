@@ -1,0 +1,2 @@
+0,1,2
+,3.0,"staggering the value dates for the buy and sell sides of the trade so that the value date for the purchase from the DTC Participant is at least one day prior to the value date for the sale to the Clearstream, Luxembourg Participant."

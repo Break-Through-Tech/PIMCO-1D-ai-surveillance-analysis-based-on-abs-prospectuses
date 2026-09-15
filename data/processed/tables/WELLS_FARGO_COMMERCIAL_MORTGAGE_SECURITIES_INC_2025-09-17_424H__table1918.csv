@@ -1,0 +1,35 @@
+0,1,2,3,4,5,6,7
+Mortgage Loan Information,Mortgage Loan Information,Mortgage Loan Information,Mortgage Loan Information,Mortgage Loan Information,,Property Information,Property Information
+Mortgage Loan Seller:,Mortgage Loan Seller:,JPMCB,JPMCB,JPMCB,,Single Asset/Portfolio:,Single Asset
+Credit Assessment (Fitch/MDBRS/Moody’s):,Credit Assessment (Fitch/MDBRS/Moody’s):,NR/NR/NR,NR/NR/NR,NR/NR/NR,,Location:,"New York, NY 10014"
+Original Balance:,Original Balance:,"$47,000,000","$47,000,000","$47,000,000",,General Property Type(2):,Mixed Use
+Cut-off Date Balance:,Cut-off Date Balance:,"$47,000,000","$47,000,000","$47,000,000",,Detailed Property Type(2):,Office/Retail
+% of Initial Pool Balance:,% of Initial Pool Balance:,7.5%,7.5%,7.5%,,Title Vesting:,Fee
+Loan Purpose:,Loan Purpose:,Refinance,Refinance,Refinance,,Year Built/Renovated:,1900/2003
+Borrower Sponsor:,Borrower Sponsor:,MacArthur Holdings,MacArthur Holdings,MacArthur Holdings,,Size:,"67,707 SF"
+Guarantors:,Guarantors:,Philip Katz and Howard Katz,Philip Katz and Howard Katz,Philip Katz and Howard Katz,,Cut-off Date Balance PSF:,$694
+Mortgage Rate:,Mortgage Rate:,7.10600%,7.10600%,7.10600%,,Maturity Date Balance PSF:,$694
+Note Date:,Note Date:,6/27/2025,6/27/2025,6/27/2025,,Property Manager:,"Surtsey Realty Company, L.L.C."
+Maturity Date:,Maturity Date:,7/5/2030,7/5/2030,7/5/2030,,,(borrower-related)
+Term to Maturity:,Term to Maturity:,60 months,60 months,60 months,,Underwriting and Financial Information,Underwriting and Financial Information
+Amortization Term:,Amortization Term:,0 months,0 months,0 months,,UW NOI(3):,"$4,607,619"
+IO Period:,IO Period:,60 months,60 months,60 months,,UW NCF:,"$4,458,664"
+Seasoning:,Seasoning:,3 months,3 months,3 months,,UW NOI Debt Yield:,9.8%
+Prepayment Provisions:,Prepayment Provisions:,"L(27),D(27),O(6)","L(27),D(27),O(6)","L(27),D(27),O(6)",,UW NCF Debt Yield:,9.5%
+Lockbox/Cash Mgmt Status:,Lockbox/Cash Mgmt Status:,Hard/Springing,Hard/Springing,Hard/Springing,,UW NOI Debt Yield at Maturity:,9.8%
+Additional Debt Type:,Additional Debt Type:,NAP,NAP,NAP,,UW NCF DSCR:,1.32x
+Additional Debt Balance:,Additional Debt Balance:,NAP,NAP,NAP,,Most Recent NOI(3):,"$3,739,937 (2/28/2025 TTM)"
+Future Debt Permitted (Type):,Future Debt Permitted (Type):,No (NAP),No (NAP),No (NAP),,2nd Most Recent NOI:,"$3,589,485 (12/31/2024)"
+,,,,,,3rd Most Recent NOI:,"$3,736,069 (12/31/2023)"
+Reserves(1),Reserves(1),Reserves(1),Reserves(1),Reserves(1),,Most Recent Occupancy(4):,89.2% (3/18/2025)
+Type,Initial,Initial,Monthly,Cap,,2nd Most Recent Occupancy:,91.2% (12/31/2024)
+RE Taxes:,"$119,259","$119,259","$115,840",NAP,,3rd Most Recent Occupancy:,82.3% (12/31/2023)
+Insurance:,$0,$0,"$1,941",NAP,,Appraised Value (as of):,"$73,300,000 (3/19/2025)"
+Replacement Reserve:,"$1,128","$1,128","$1,128",NAP,,Appraised Value PSF:,"$1,083"
+TI/LC Reserve:,"$250,000","$250,000","$5,642",NAP,,Cut-off Date LTV Ratio:,64.1%
+Unfunded Obligations Reserve:,"$1,256,940","$1,256,940",$0,NAP,,Maturity Date LTV Ratio:,64.1%
+Condominium Reserve:,$0,$0,Springing,NAP,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,

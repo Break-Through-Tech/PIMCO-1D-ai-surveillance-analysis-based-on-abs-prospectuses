@@ -1,0 +1,6 @@
+0,1,2,3
+,Initial Note Balance(1),,Interest Rate
+Class A-1a Notes,"$534,600,000 (aggregate)(2)",,%(3)
+Class A-1b Notes,"$534,600,000 (aggregate)(2)",,Compounded SOFR + %(3)(4)
+Class B Notes,"$40,870,000",,%(3)
+Class C Notes,"$24,530,000",,%(3)

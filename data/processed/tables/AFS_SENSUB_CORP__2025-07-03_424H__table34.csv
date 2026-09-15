@@ -1,0 +1,10 @@
+0,1,2,3,4,5,6,7,8,9,10
+,,,,,,,,,,
+Class,,,,Initial Principal Amount(1),Initial Principal Amount(1),,,Interest Rate,,Final Scheduled Distribution Date
+A-1,,,,$,174740000,,,__%,,"July 16, 2026"
+A-2-A(2),,},,$,327480000,,,__%,,"June 16, 2028"
+A-2-B(2),,},,$,327480000,,,30-day average  SOFR + ___%(3)(4),,"June 16, 2028"
+A-3,,,,$,327480000,,,__%,,"August 16, 2030"
+A-4,,,,$,55310000,,,__%,,"September 16, 2031"
+B,,,,$,15040000,,,__%,,"September 16, 2031"
+C,,,,$,14100000,,,__%,,"January 18, 2033"
