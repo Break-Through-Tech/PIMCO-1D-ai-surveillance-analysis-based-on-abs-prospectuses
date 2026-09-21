@@ -33,7 +33,30 @@ def extract_tables(raw_html):
     except ValueError:
         # pandas raises this when it finds zero tables in the document
         return []
- 
+
+def df_to_markdown(df, table_id, label="TABLE"):
+    """
+    Renders a DataFrame as a Markdown table, warpped with an ID marker 
+    so the source table stays traceable back to its saved CSV/DataFrame.
+    uses pandas' to_markdown() 
+    """ 
+    header = f"\n\n[{label}:{table_id}]\n"
+    footer = f"\n[{label}:{table_id}]\n\n"
+
+    try:
+        md = df.to_markdown(index=False)
+    #fallback if tabulate not imported - manual 
+    except ImportError:
+        cols = [str(c) for c in df.columns]
+        lines = ["| " + " | ".join(cols) + " |"]
+        lines.append("| " + " | ".join(["---"] * len(cols)) + " |")
+        for _, row in df.iterrows():
+            lines.append("| " + " | ".join(str(v) for v in row) + " |")
+        md = "\n".join(lines)
+    
+    return header + md + footer 
+
+
  
 def extract_filing(filepath):
     """
@@ -89,12 +112,12 @@ def extract_filing(filepath):
             if info["classification"] == "likely_data":
                 data_tables[i] = df
                 placeholder = soup.new_tag("p")
-                placeholder.string = f"[TABLE:{i}]"
+                placeholder.string = df_to_markdown(df, i, label="TABLE")
                 table_tag.replace_with(placeholder)
             elif info["classification"] == "likely_toc":
                 toc_tables[i] = df
                 placeholder = soup.new_tag("p")
-                placeholder.string = f"[TOC_TABLE:{i}]"
+                placeholder.string = df_to_markdown(df, i, label="TOC_TABLE")
                 table_tag.replace_with(placeholder)
             else:
                 table_tag.decompose()
