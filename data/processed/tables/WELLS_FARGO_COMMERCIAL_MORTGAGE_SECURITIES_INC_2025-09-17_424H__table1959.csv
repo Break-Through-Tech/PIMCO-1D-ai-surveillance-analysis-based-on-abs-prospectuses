@@ -1,0 +1,30 @@
+0,1,2,3,4,5,6,7
+Mortgage  Loan Information,Mortgage  Loan Information,Mortgage  Loan Information,Mortgage  Loan Information,Mortgage  Loan Information,,Property  Information,Property  Information
+Mortgage Loan Seller:,Mortgage Loan Seller:,LMF,LMF,LMF,,Single Asset/Portfolio:,Single Asset
+Credit Assessment (Fitch/MDBRS/Moody’s):,Credit Assessment (Fitch/MDBRS/Moody’s):,NR/NR/NR,NR/NR/NR,NR/NR/NR,,Location:,"Fresno, CA 93727"
+Original Balance:,Original Balance:,"$46,000,000","$46,000,000","$46,000,000",,General Property Type:,Multifamily
+Cut-off Date Balance:,Cut-off Date Balance:,"$46,000,000","$46,000,000","$46,000,000",,Detailed Property Type:,Garden
+% of Initial Pool Balance:,% of Initial Pool Balance:,7.4%,7.4%,7.4%,,Title Vesting:,Fee
+Loan Purpose:,Loan Purpose:,Refinance,Refinance,Refinance,,Year Built/Renovated:,1986/NAP
+Borrower Sponsor:,Borrower Sponsor:,Patrick De La Torre,Patrick De La Torre,Patrick De La Torre,,Size:,476 Units
+Guarantor:,Guarantor:,Patrick De La Torre,Patrick De La Torre,Patrick De La Torre,,Cut-off Date Balance per Unit:,"$96,639"
+Mortgage Rate:,Mortgage Rate:,6.35000%,6.35000%,6.35000%,,Maturity Date Balance per Unit:,"$96,639"
+Note Date:,Note Date:,9/8/2025,9/8/2025,9/8/2025,,Property Manager:,"WA Funding, Inc."
+Maturity Date:,Maturity Date:,9/6/2030,9/6/2030,9/6/2030,,Underwriting  and Financial Information,Underwriting  and Financial Information
+Term to Maturity:,Term to Maturity:,60 months,60 months,60 months,,UW NOI:,"$4,012,650"
+Amortization Term:,Amortization Term:,0 months,0 months,0 months,,UW NCF:,"$3,896,506"
+IO Period:,IO Period:,60 months,60 months,60 months,,UW NOI Debt Yield:,8.7%
+Seasoning:,Seasoning:,1 month,1 month,1 month,,UW NCF Debt Yield:,8.5%
+Prepayment Provisions:,Prepayment Provisions:,"L(25),D(28),O(7)","L(25),D(28),O(7)","L(25),D(28),O(7)",,UW NOI Debt Yield at Maturity:,8.7%
+Lockbox/Cash Mgmt Status:,Lockbox/Cash Mgmt Status:,Springing/Springing,Springing/Springing,Springing/Springing,,UW NCF DSCR:,1.32x
+Additional Debt Type:,Additional Debt Type:,NAP,NAP,NAP,,Most Recent NOI:,"$4,239,204 (7/31/2025 TTM)"
+Additional Debt Balance:,Additional Debt Balance:,NAP,NAP,NAP,,2nd Most Recent NOI:,"$4,191,401 (12/31/2024)"
+Future Debt Permitted (Type):,Future Debt Permitted (Type):,No (NAP),No (NAP),No (NAP),,3rd Most Recent NOI:,"$4,489,509 (12/31/2023)"
+,,,,,,Most Recent Occupancy:,90.8% (8/1/2025)
+Reserves(1),Reserves(1),Reserves(1),Reserves(1),Reserves(1),,2nd Most Recent Occupancy:,91.8% (12/31/2024)
+Type,Initial,Initial,Monthly,Cap,,3rd Most Recent Occupancy:,91.4% (12/31/ 2023)
+RE Taxes:,"$309,555","$309,555","$49,136",NAP,,Appraised Value (as of):,"$72,350,000 (7/10/2025)"
+Insurance:,"$220,359","$220,359","$52,467",NAP,,Appraised Value per Unit:,"$151,996"
+Replacement Reserve:,$0,$0,"$9,679",NAP,,Cut-off Date LTV Ratio:,63.6%
+Deferred Maintenance:,"$84,800","$84,800",$0,NAP,,Maturity Date LTV Ratio:,63.6%
+,,,,,,,

@@ -1,0 +1,31 @@
+0,1,2,3,4,5,6,7
+Mortgage Loan Information,Mortgage Loan Information,Mortgage Loan Information,Mortgage Loan Information,Mortgage Loan Information,,Property Information,Property Information
+Mortgage Loan Seller:,Mortgage Loan Seller:,BANA,BANA,BANA,,Single Asset/Portfolio:,Single Asset
+,,,,,,Location:,"Daleville, VA 24083"
+Original Balance:,Original Balance:,"$49,100,000","$49,100,000","$49,100,000",,General Property Type:,Multifamily
+Cut-off Date Balance:,Cut-off Date Balance:,"$49,100,000","$49,100,000","$49,100,000",,Detailed Property Type:,Mid Rise
+% of Initial Pool Balance:,% of Initial Pool Balance:,6.9%,6.9%,6.9%,,Title Vesting:,Fee
+Loan Purpose:,Loan Purpose:,Refinance,Refinance,Refinance,,Year Built/Renovated:,2025/NAP
+Borrower Sponsor:,Borrower Sponsor:,TPB Properties,TPB Properties,TPB Properties,,Size:,240 Units
+Guarantor:,Guarantor:,Thomas Bell,Thomas Bell,Thomas Bell,,Cut-off Date Balance per Unit:,"$204,583"
+Mortgage Rate:,Mortgage Rate:,6.2850%,6.2850%,6.2850%,,Maturity Date Balance per Unit:,"$204,583"
+Note Date:,Note Date:,10/29/2025,10/29/2025,10/29/2025,,Property Manager:,TPB Property Management LLC
+Maturity Date:,Maturity Date:,11/1/2030,11/1/2030,11/1/2030,,,(borrower-related)
+Term to Maturity:,Term to Maturity:,60 months,60 months,60 months,,Underwriting  and Financial Information,Underwriting  and Financial Information
+Amortization Term:,Amortization Term:,0 months,0 months,0 months,,UW NOI:,"$4,092,808"
+IO Period:,IO Period:,60 months,60 months,60 months,,UW NCF:,"$4,044,808"
+Seasoning:,Seasoning:,1 month,1 month,1 month,,UW NOI Debt Yield:,8.3%
+Prepayment Provisions:,Prepayment Provisions:,"L(25),YM1(28),O(7)","L(25),YM1(28),O(7)","L(25),YM1(28),O(7)",,UW NCF Debt Yield:,8.2%
+Lockbox/Cash Mgmt Status:,Lockbox/Cash Mgmt Status:,Springing/Springing,Springing/Springing,Springing/Springing,,UW NOI Debt Yield at Maturity:,8.3%
+Additional Debt Type:,Additional Debt Type:,NAP,NAP,NAP,,UW NCF DSCR:,1.29x
+Additional Debt Balance:,Additional Debt Balance:,NAP,NAP,NAP,,Most Recent NOI:,"$3,845,208 (9/30/2025 T-3 Ann.)"
+Future Debt Permitted (Type):,Future Debt Permitted (Type):,No (NAP),No (NAP),No (NAP),,2nd Most Recent NOI(2):,NAV
+,,,,,,3rd Most Recent NOI(2):,NAV
+,,,,,,Most Recent Occupancy:,97.5% (10/20/2025)
+Reserves(1),Reserves(1),Reserves(1),Reserves(1),Reserves(1),,2nd Most Recent Occupancy(2):,NAV
+Type,Initial,Initial,Monthly,Cap,,3rd Most Recent Occupancy(2):,NAV
+RE Taxes:,$0,$0,$763,NAP,,Appraised Value (as of):,"$71,840,000 (9/18/2025)"
+Insurance:,"$7,920","$7,920","$7,920",NAP,,Appraised Value per Unit:,"$299,333"
+Replacement Reserve:,$0,$0,"$4,000",NAP,,Cut-off Date LTV Ratio:,68.3%
+Environmental Reserve:,"$26,750","$26,750",$0,NAP,,Maturity Date LTV Ratio:,68.3%
+,,,,,,,

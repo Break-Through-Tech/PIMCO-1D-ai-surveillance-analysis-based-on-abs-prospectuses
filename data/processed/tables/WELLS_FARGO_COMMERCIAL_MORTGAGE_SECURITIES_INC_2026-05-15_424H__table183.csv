@@ -1,0 +1,9 @@
+0,1,2,3,4,5,6,7,8
+Mortgage  Loan Name,Mortgage  Loan Cut-off Date Balance,% of Initial  Pool Balance,Pari Passu  Companion Loan Cut-off Date Balance,Subordinate  Companion Loan Cut-off Date Balance,Mortgage  Loan Cut-off Date LTV Ratio(2),Whole Loan  Cut-off Date LTV Ratio(3),Mortgage  Loan Underwritten NCF DSCR(2),Whole Loan  Underwritten NCF DSCR(3)
+Southeast MHP Portfolio,"$85,000,000",9.97%,"$80,000,000",NAP,67.9%,67.9%,1.31x,1.31x
+Mountain Industrial Portfolio,"$81,500,000",9.6%,"$1,087,900,000","$450,600,000",49.8%,68.9%,1.93x,1.25x
+West Memorial Place,"$65,000,000",7.6%,"$41,000,000",NAP,56.4%,56.4%,1.42x,1.42x
+The Towers at Cupertino City Center,"$60,000,000",7.0%,"$85,000,000",NAP,63.6%,63.6%,1.69x,1.69x
+Hilton Waterfront Beach Resort,"$47,000,000",5.5%,"$80,000,000",NAP,58.0%,58.0%,1.79x,1.79x
+Freeway Business Park,"$30,000,000",3.5%,"$65,000,000",NAP,60.5%,60.5%,1.99x,1.99x
+1500 Post Oak Boulevard,"$20,000,000",2.3%,"$120,000,000",NAP,50.8%,50.8%,2.40x,2.40x

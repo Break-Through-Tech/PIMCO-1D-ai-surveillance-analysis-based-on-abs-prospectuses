@@ -1,0 +1,10 @@
+0,1,2,3,4,5,6,7,8,9
+Mortgage  Loan Name,Mortgage  Loan Cut-off Date Balance,% of Initial  Pool Balance,Pari Passu  Companion Loan Cut-off Date Balance,Subordinate  Companion Loan Cut-off Date Balance,Subordinate  Companion Loan Cut-off Date Balance,Mortgage  Loan Cut-off Date LTV Ratio(2),Whole Loan  Cut-off Date LTV Ratio(3),Mortgage  Loan Underwritten NCF DSCR(2),Whole Loan  Underwritten NCF DSCR(3)
+205 East 42nd Street,"$64,000,000",9.0%,"$40,000,000",NAP,61.2%,61.2%,61.2%,1.67x,1.67x
+Rosedale Apartments,"$60,700,000",8.6%,"$30,000,000",NAP,67.2%,67.2%,67.2%,1.25x,1.25x
+Marriott Melville,"$59,948,341",8.4%,"$10,990,529",NAP,68.5%,68.5%,68.5%,1.80x,1.80x
+International Plaza,"$50,000,000",7.0%,"$501,250,000","$23,750,000",40.9%,40.9%,42.7%,2.66x,2.48x
+Capital Storage Portfolio,"$40,000,000",5.6%,"$100,000,000",NAP,62.7%,62.7%,62.7%,1.39x,1.39x
+Mall at Bay Plaza,"$30,000,000",4.2%,"$140,000,000","$110,000,000",34.5%,34.5%,56.9%,2.29x,1.42x
+1010 Pacific Street,"$30,000,000",4.2%,"$54,500,000",NAP,68.7%,68.7%,68.7%,1.32x,1.32x
+Terra Apartments,"$19,000,000",2.7%,"$55,000,000",NAP,60.4%,60.4%,60.4%,1.30x,1.30x

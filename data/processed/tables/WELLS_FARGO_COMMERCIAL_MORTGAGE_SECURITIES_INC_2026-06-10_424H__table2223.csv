@@ -1,0 +1,34 @@
+0,1,2,3,4,5,6,7
+Mortgage Loan Information,Mortgage Loan Information,Mortgage Loan Information,Mortgage Loan Information,Mortgage Loan Information,,Property Information,Property Information
+Mortgage Loan Seller:,Mortgage Loan Seller:,WFB,WFB,WFB,,Single Asset/Portfolio:,Single Asset
+,,,,,,Location:,"Palm Desert, CA 92260"
+Original Balance:,Original Balance:,"$16,900,000","$16,900,000","$16,900,000",,General Property Type:,Retail
+Cut-off Date Balance:,Cut-off Date Balance:,"$16,900,000","$16,900,000","$16,900,000",,Detailed Property Type:,Anchored
+% of Initial Pool Balance:,% of Initial Pool Balance:,3.1%,3.1%,3.1%,,Title Vesting:,Fee
+Loan Purpose:,Loan Purpose:,Refinance,Refinance,Refinance,,Year Built/Renovated:,1982/2024
+Borrower Sponsor:,Borrower Sponsor:,"Wood Investments Companies, Inc.","Wood Investments Companies, Inc.","Wood Investments Companies, Inc.",,Size:,"80,072 SF"
+Guarantor:,Guarantor:,Patrick Wood,Patrick Wood,Patrick Wood,,Cut-off Date Balance PSF:,$211
+Mortgage Rate:,Mortgage Rate:,6.5540%,6.5540%,6.5540%,,Maturity Date Balance PSF:,$211
+Note Date:,Note Date:,5/5/2026,5/5/2026,5/5/2026,,Property Manager:,"Atoll Property Group, Inc."
+Maturity Date:,Maturity Date:,5/11/2031,5/11/2031,5/11/2031,,,
+Term to Maturity:,Term to Maturity:,60 months,60 months,60 months,,,
+Amortization Term:,Amortization Term:,0 months,0 months,0 months,,Underwriting and Financial Information,Underwriting and Financial Information
+IO Period:,IO Period:,60 months,60 months,60 months,,UW NOI:,"$1,498,251"
+Seasoning:,Seasoning:,1 month,1 month,1 month,,UW NCF:,"$1,465,542"
+Prepayment Provisions:,Prepayment Provisions:,"L(25),D(31),O(4)","L(25),D(31),O(4)","L(25),D(31),O(4)",,UW NOI Debt Yield:,8.9%
+Lockbox/Cash Mgmt Status:,Lockbox/Cash Mgmt Status:,Soft/Springing,Soft/Springing,Soft/Springing,,UW NCF Debt Yield:,8.7%
+Additional Debt Type:,Additional Debt Type:,NAP,NAP,NAP,,UW NOI Debt Yield at Maturity:,8.9%
+Additional Debt Balance:,Additional Debt Balance:,NAP,NAP,NAP,,UW NCF DSCR:,1.31x
+Future Debt Permitted (Type):,Future Debt Permitted (Type):,No (NAP),No (NAP),No (NAP),,Most Recent NOI:,"$1,509,986 (12/31/2025)"
+,,,,,,2nd Most Recent NOI:,"$1,028,607 (12/31/2024)"
+,,,,,,3rd Most Recent NOI(2):,NAV
+Reserves,Reserves,Reserves,Reserves,Reserves,,Most Recent Occupancy:,89.8% (4/28/2026)
+Type,Initial,Initial,Monthly,Cap,,2nd Most Recent Occupancy(3):,NAV
+RE Taxes:,$0,$0,"$22,173",NAP,,3rd Most Recent Occupancy(3):,NAV
+Insurance:,$0,$0,Springing(1),NAP,,Appraised Value (as of):,"$25,100,000 (11/14/2025)"
+Deferred Maintenance:,"$71,157","$71,157",$0,NAP,,Appraised Value PSF:,$313
+Replacement Reserve:,$0,$0,"$1,667",NAP,,Cut-off Date LTV Ratio:,67.3%
+TI/LC Reserve:,$0,$0,"$1,668","$60,054",,Maturity Date LTV Ratio:,67.3%
+Rent Concession Reserve:,"$61,600","$61,600",$0,NAP,,,
+Existing TI/LC Reserve:,"$40,209","$40,209",$0,NAP,,,
+,,,,,,,

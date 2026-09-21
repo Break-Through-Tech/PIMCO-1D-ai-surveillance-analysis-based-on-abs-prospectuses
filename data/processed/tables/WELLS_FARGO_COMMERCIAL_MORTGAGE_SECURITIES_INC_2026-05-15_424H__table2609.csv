@@ -1,0 +1,7 @@
+0,1,2,3,4
+,1 Mortgage Loan Status,1 Mortgage Loan Status,1 Mortgage Loan Status,1 Mortgage Loan Status
+,,A  - Payment Not Received But Still in Grace Period,0  - Current,4  - Performing Matured Balloon
+,,B  - Late Payment But Less Than 30 days Delinquent,1  - 30-59 Days Delinquent,5  - Non Performing Matured Balloon
+,,,2  - 60-89 Days Delinquent,6  - 121+ Days Delinquent
+,,,3  - 90-120 Days Delinquent,
+,,,,

@@ -1,0 +1,6 @@
+0,1,2,3,4,5,6,7
+Mortgage  Loan or Mortgaged Property Name,% of Initial  Pool Balance by Allocated Loan Amount,Cut-off Date  LTV Ratio (Other Than “As-Is”),LTV Ratio  at Maturity (“Other Than As-Is”),Other Than  “As-Is” Appraised Value,Cut-off Date  LTV Ratio (“As-Is”),LTV Ratio  at Maturity (“As-Is”),“As-Is”  Appraised Value
+Aloft Chesapeake(1),1.9%,51.0%,51.0%,"$20,500,000",61.4%,61.4%,"$17,000,000"
+Fairfield Inn & Suites Williamsburg(1),1.5%,53.6%,53.6%,"$15,500,000",75.5%,75.5%,"$11,000,000"
+West Memorial Place(2),1.8%,56.4%,56.4%,"$188,000,000",57.3%,57.3%,"$185,000,000"
+Golden Hill(3),1.5%,53.7%,50.7%,"$14,900,000",55.6%,52.4%,"$14,400,000"

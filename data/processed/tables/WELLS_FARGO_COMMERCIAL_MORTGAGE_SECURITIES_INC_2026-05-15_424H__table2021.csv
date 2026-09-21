@@ -1,0 +1,31 @@
+0,1,2,3,4,5,6
+Mortgage Loan Information,Mortgage Loan Information,Mortgage Loan Information,Mortgage Loan Information,,Property Information,Property Information
+Mortgage Loan Seller:,Mortgage Loan Seller:,BANA,BANA,,Single Asset/Portfolio:,Portfolio
+,,,,,Location:,"Los Angeles, CA 90024"
+Original Balance:,Original Balance:,"$65,000,000","$65,000,000",,General Property Type:,Multifamily
+Cut-off Date Balance:,Cut-off Date Balance:,"$65,000,000","$65,000,000",,Detailed Property Type(3):,Student Housing
+% of Initial Pool Balance:,% of Initial Pool Balance:,7.6%,7.6%,,Title Vesting:,Fee
+Loan Purpose(1):,Loan Purpose(1):,Acquisition/Refinance,Acquisition/Refinance,,Year Built/Renovated(5):,Various/Various
+Borrower Sponsors:,Borrower Sponsors:,"Dr. Jason Roostaeian, MD and","Dr. Jason Roostaeian, MD and",,Size(3)(5):,200 Units
+,,Linda Roostaeian,Linda Roostaeian,,Cut-off Date Balance per Unit:,"$325,000"
+Guarantors:,Guarantors:,"Dr. Jason Roostaeian, MD and","Dr. Jason Roostaeian, MD and",,Maturity Date Balance per Unit:,"$325,000"
+,,Linda Roostaeian,Linda Roostaeian,,Property Manager:,ARRT LLC
+Mortgage Rate:,Mortgage Rate:,6.3320%,6.3320%,,,(borrower-related)
+Note Date:,Note Date:,4/7/2026,4/7/2026,,Underwriting  and Financial Information,Underwriting  and Financial Information
+Maturity Date:,Maturity Date:,5/1/2031,5/1/2031,,UW NOI:,"$5,529,697"
+Term to Maturity:,Term to Maturity:,60 months,60 months,,UW NCF:,"$5,469,697"
+Amortization Term:,Amortization Term:,0 months,0 months,,UW NOI Debt Yield:,8.5%
+IO Period:,IO Period:,60 months,60 months,,UW NCF Debt Yield:,8.4%
+Seasoning:,Seasoning:,1 month,1 month,,UW NOI Debt Yield at Maturity:,8.5%
+Prepayment Provisions:,Prepayment Provisions:,"L(25),D(30),O(5)","L(25),D(30),O(5)",,UW NCF DSCR:,1.31x
+Lockbox/Cash Mgmt Status:,Lockbox/Cash Mgmt Status:,Soft/Springing,Soft/Springing,,Most Recent NOI(4):,"$5,051,727 (1/31/2026 TTM)"
+Additional Debt Type:,Additional Debt Type:,NAP,NAP,,2nd Most Recent NOI(4):,"$5,056,301 (12/31/2025)"
+Additional Debt Balance:,Additional Debt Balance:,NAP,NAP,,3rd Most Recent NOI(4):,"$5,091,940 (12/31/2024)"
+Future Debt Permitted (Type):,Future Debt Permitted (Type):,No (NAP),No (NAP),,Most Recent Occupancy(5):,97.0% (Various)
+,,,,,2nd Most Recent Occupancy:,96.8% (12/31/2025)
+Reserves(2),Reserves(2),Reserves(2),Reserves(2),,3rd Most Recent Occupancy:,94.6% (12/31/2024)
+Type,Initial,Monthly,Cap,,Appraised Value (as of)(6):,"$103,750,000 (1/27/2026)"
+RE Taxes:,"$204,965","$102,482",NAP,,Appraised Value per Unit:,"$518,750"
+Insurance:,"$23,429","$23,429",NAP,,Cut-off Date LTV Ratio:,62.7%
+Replacement Reserve:,$0,"$5,000",NAP,,Maturity Date LTV Ratio:,62.7%
+,,,,,,

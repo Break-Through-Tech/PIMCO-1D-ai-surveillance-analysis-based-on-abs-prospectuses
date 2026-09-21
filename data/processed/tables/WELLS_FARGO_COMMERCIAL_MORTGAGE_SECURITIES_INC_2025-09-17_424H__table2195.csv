@@ -1,0 +1,31 @@
+0,1,2,3,4,5,6,7
+Mortgage Loan Information,Mortgage Loan Information,Mortgage Loan Information,Mortgage Loan Information,Mortgage Loan Information,,Property Information,Property Information
+Mortgage Loan Seller:,Mortgage Loan Seller:,WFB,WFB,WFB,,Single Asset/Portfolio:,Single Asset
+Credit Assessment (Fitch /MDBRS/Moody’s):,Credit Assessment (Fitch /MDBRS/Moody’s):,NR/NR/NR,NR/NR/NR,NR/NR/NR,,Location:,"Sayville, NY 11782"
+Original Balance:,Original Balance:,"$13,487,500","$13,487,500","$13,487,500",,General Property Type:,Leased Fee
+Cut-off Date Balance:,Cut-off Date Balance:,"$13,487,500","$13,487,500","$13,487,500",,Detailed Property Type:,Leased Fee
+% of Initial Pool Balance:,% of Initial Pool Balance:,2.2%,2.2%,2.2%,,Title Vesting:,Fee
+Loan Purpose:,Loan Purpose:,Acquisition,Acquisition,Acquisition,,Year Built/Renovated:,2014/NAP
+Borrower Sponsors:,Borrower Sponsors:,John Darcy Bolton and the John Darcy Bolton Living Trust,John Darcy Bolton and the John Darcy Bolton Living Trust,John Darcy Bolton and the John Darcy Bolton Living Trust,,Size:,"529,130 SF"
+Guarantors:,Guarantors:,John Darcy Bolton and the John Darcy Bolton Living Trust,John Darcy Bolton and the John Darcy Bolton Living Trust,John Darcy Bolton and the John Darcy Bolton Living Trust,,Cut-off Date Balance PSF:,$25
+Mortgage Rate:,Mortgage Rate:,6.620%,6.620%,6.620%,,Maturity Balance PSF:,$25
+Note Date:,Note Date:,8/28/2025,8/28/2025,8/28/2025,,Property Manager:,Self-Managed
+Maturity Date:,Maturity Date:,9/11/2030,9/11/2030,9/11/2030,,,
+Term to Maturity:,Term to Maturity:,60 months,60 months,60 months,,Underwriting and Financial Information,Underwriting and Financial Information
+Amortization Term:,Amortization Term:,0 months,0 months,0 months,,UW NOI:,"$1,131,667"
+,,,,,,UW NCF:,"$1,131,667"
+IO Period:,IO Period:,60 months,60 months,60 months,,UW NOI Debt Yield:,8.4%
+,,,,,,UW NCF Debt Yield:,8.4%
+Seasoning:,Seasoning:,1 month,1 month,1 month,,UW NOI Debt Yield at Maturity:,8.4%
+Prepayment Provisions:,Prepayment Provisions:,"L(25),D(31),O(4)","L(25),D(31),O(4)","L(25),D(31),O(4)",,UW NCF DSCR:,1.25x
+Lockbox/Cash Mgmt Status:,Lockbox/Cash Mgmt Status:,Soft/Springing,Soft/Springing,Soft/Springing,,Most Recent NOI(1):,NAV
+Additional Debt Type:,Additional Debt Type:,No,No,No,,2nd Most Recent NOI(1):,NAV
+Additional Debt Balance:,Additional Debt Balance:,NAP,NAP,NAP,,3rd Most Recent NOI(1):,NAV
+Future Debt Permitted (Type):,Future Debt Permitted (Type):,No (NAP),No (NAP),No (NAP),,Most Recent Occupancy:,100.0% (8/28/2025)
+Reserves(2),Reserves(2),Reserves(2),Reserves(2),Reserves(2),,2nd Most Recent Occupancy:,100.0% (12/31/2024)
+Type,Initial,Initial,Monthly,Cap,,3rd Most Recent Occupancy:,100.0% (12/31/2023)
+RE Taxes:,$0,$0,Springing,NAP,,Appraised Value (as of):,"$21,000,000 (7/24/2025)"
+Insurance:,$0,$0,Springing,NAP,,Appraised Value PSF:,$40
+Replacements:,$0,$0,Springing,NAP,,Cut-off Date LTV Ratio:,64.2%
+Leasing Costs:,$0,$0,Springing,NAP,,Maturity Date LTV Ratio:,64.2%
+,,,,,,,

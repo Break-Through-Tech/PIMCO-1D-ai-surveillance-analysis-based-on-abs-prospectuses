@@ -1,0 +1,7 @@
+0,1,2,3,4,5,6,7,8,9,10
+Notes,,Initial Note  Balance,,Interest Rate,,Accrual  Method,,Anticipated  Redemption Date,,Final  Maturity Date
+Class A-1a notes,,"$637,806,000",,3.96%,,30/360,,"October 20, 2027",,"October 21, 2030"
+Class A-1b notes,,"$75,000,000",,Compounded SOFR + 0.42%(1),,Actual/360,,"October 20, 2027",,"October 21, 2030"
+Class B notes,,"$54,496,000",,4.24%,,30/360,,"October 20, 2027",,"October 21, 2030"
+Class C notes,,"$32,698,000",,4.41%,,30/360,,"October 20, 2027",,"October 21, 2030"
+Total,,"$800,000,000",,,,,,,,

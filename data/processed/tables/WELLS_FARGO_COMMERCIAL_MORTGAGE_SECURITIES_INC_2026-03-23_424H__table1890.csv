@@ -1,0 +1,21 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13
+Tenant Summary(1),Tenant Summary(1),Tenant Summary(1),Tenant Summary(1),Tenant Summary(1),Tenant Summary(1),Tenant Summary(1),Tenant Summary(1),Tenant Summary(1),Tenant Summary(1),Tenant Summary(1),Tenant Summary(1),Tenant Summary(1),Tenant Summary(1)
+,,,,,,,,Annual Sales Data(2),Annual Sales Data(2),Annual Sales Data(2),,,
+Tenant Name,Property,Credit Rating (Fitch/Moody’s/ S&P)(3),Tenant SF,Approx % of Total SF,Annual UW Rent,% of Total Annual UW Rent,Annual UW Rent PSF,Sales $,Sales PSF,Occ. Cost %,Lease Expiration,Renewal Options,Term. Option (Y/N)
+Giant(4),Plaza at Landmark,NR/Baa1/BBB+,65000,7.7%,"$1,235,000",7.4%,$19.00,"$22,873,711(5)",$352,6.8%,12/31/2030,6 x 5 yrs,N
+Safeway(6),Fair City Mall,NR/Ba1/BB+,61915,7.4%,"$1,052,555",6.3%,$17.00,"$43,340,529",$700,3.3%,9/30/2033,4 x 5 yrs,N
+Lifetime Fitness,Fair City Mall,BB-/NR/NR,58900,7.0%,"$862,355",5.1%,$14.64,"$9,413,148",$160,11.1%,7/31/2031,3 x 5 yrs,N
+Marshall's,Plaza at Landmark,NR/A2/A,43375,5.2%,"$699,564",4.2%,$16.13,"$12,108,096",$279,8.9%,1/31/2034,2 x 5 yrs,N
+Total Wine and More,Plaza at Landmark,NR/NR/NR,26377,3.1%,"$656,256",3.9%,$24.88,"$12,675,179",$481,6.4%,10/31/2028,3 x 5 yrs,N
+Ross,Plaza at Landmark,NR/A2/BBB+,28700,3.4%,"$574,000",3.4%,$20.00,"$12,158,470(5)",$424,5.7%,1/31/2031,2 x 5 yrs,N
+Marshall's,Fair City Mall,NR/A2/A,27630,3.3%,"$568,344",3.4%,$20.57,"$12,028,271(5)",$435,6.7%,1/31/2029,2 x 5 yrs,N
+Hobby Lobby,Plaza at Landmark,NR/NR/NR,62480,7.4%,"$562,320",3.4%,$9.00,NAV,NAV,NAV,3/31/2029,3 x 5 yrs,N
+Burlington,Fair City Mall,NR/NR/BB+,30964,3.7%,"$464,460",2.8%,$15.00,"$5,576,039(5)",$180,11.2%,2/29/2032,4 x 5 yrs,N
+LA Fitness(7),Plaza at Landmark,NR/B2/B,42735,5.1%,"$360,000",2.1%,$8.42,NAV,NAV,NAV,1/31/2028,,N
+Major Tenants  Subtotal/Wtd. Avg.,,,448076,53.3%,"$7,034,854",42.0%,$15.70,,,,,,
+,,,,,,,,,,,,,
+Other Tenants,,,371023,44.1%,"$9,713,155",58.0%,$26.17,,,,,,
+Occupied Subtotal/Wtd. Avg.,,,819099,97.4%,"$16,748,009",100.0%,$20.45,,,,,,
+,,,,,,,,,,,,,
+Vacant Space,,,21544,2.6%,,,,,,,,,
+Total/Wtd. Avg.,,,840643,100.0%,,,,,,,,,

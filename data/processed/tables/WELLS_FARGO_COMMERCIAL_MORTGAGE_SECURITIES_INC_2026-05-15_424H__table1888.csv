@@ -1,0 +1,31 @@
+0,1,2,3,4,5,6,7
+Mortgage Loan Information,Mortgage Loan Information,Mortgage Loan Information,Mortgage Loan Information,Mortgage Loan Information,,Property Information,Property Information
+Mortgage Loan Seller:,Mortgage Loan Seller:,WFB/BANA/MSMCH,WFB/BANA/MSMCH,WFB/BANA/MSMCH,,Single Asset/Portfolio:,Portfolio
+,,,,,,Location(5):,"Various, Various"
+Original Balance(1):,Original Balance(1):,"$81,500,000","$81,500,000","$81,500,000",,General Property Type(5):,Industrial
+Cut-off Date Balance(1):,Cut-off Date Balance(1):,"$81,500,000","$81,500,000","$81,500,000",,Detailed Property Type(5):,Various
+% of Initial Pool Balance:,% of Initial Pool Balance:,9.6%,9.6%,9.6%,,Title Vesting(6):,Fee/Leasehold
+Loan Purpose:,Loan Purpose:,Refinance,Refinance,Refinance,,Year Built/Renovated(5):,Various/Various
+Borrower Sponsor:,Borrower Sponsor:,Industrial Logistics Properties Trust,Industrial Logistics Properties Trust,Industrial Logistics Properties Trust,,Size:,"19,189,611 SF"
+Guarantor:,Guarantor:,Industrial Logistics Properties Trust,Industrial Logistics Properties Trust,Industrial Logistics Properties Trust,,Cut-off Date Balance per SF(1):,$61
+Mortgage Rate(2):,Mortgage Rate(2):,5.096767533%,5.096767533%,5.096767533%,,Maturity Date Balance per SF(1):,$61
+Note Date:,Note Date:,5/8/2026,5/8/2026,5/8/2026,,Property Manager:,The RMR Group LLC (borrower-
+Maturity Date:,Maturity Date:,5/11/2031,5/11/2031,5/11/2031,,,related)
+Term to Maturity:,Term to Maturity:,60 months,60 months,60 months,,Underwriting and Financial Information,Underwriting and Financial Information
+Amortization Term:,Amortization Term:,0 months,0 months,0 months,,UW NOI:,"$123,567,331"
+IO Period:,IO Period:,60 months,60 months,60 months,,UW NCF,"$116,850,967"
+Seasoning:,Seasoning:,1 month,1 month,1 month,,UW NOI Debt Yield(1):,10.6%
+Prepayment Provisions(3):,Prepayment Provisions(3):,"L(23),YM1(2),DorYM1(28),O(7)","L(23),YM1(2),DorYM1(28),O(7)","L(23),YM1(2),DorYM1(28),O(7)",,UW NCF Debt Yield(1):,10.0%
+Lockbox/Cash Mgmt Status:,Lockbox/Cash Mgmt Status:,Hard/Springing,Hard/Springing,Hard/Springing,,UW NOI Debt Yield at Maturity(1):,10.6%
+Additional Debt Type(1):,Additional Debt Type(1):,Pari Passu/B-Note,Pari Passu/B-Note,Pari Passu/B-Note,,UW NCF DSCR(1):,1.93x
+Additional Debt Balance(1):,Additional Debt Balance(1):,"$1,087,900,000/$450,600,000","$1,087,900,000/$450,600,000","$1,087,900,000/$450,600,000",,Most Recent NOI:,"$122,186,205 (9/30/2025 TTM)"
+Future Debt Permitted (Type):,Future Debt Permitted (Type):,No (NAP),No (NAP),No (NAP),,2nd Most Recent NOI:,"$120,156,924 (12/31/2024)"
+Reserves(4),Reserves(4),Reserves(4),Reserves(4),Reserves(4),,3rd Most Recent NOI:,"$117,555,625 (12/31/2023)"
+Type,Initial,Initial,Monthly,Cap,,Most Recent Occupancy(7):,96.3% (Various)
+RE Taxes:,$0,$0,Springing,NAP,,2nd Most Recent Occupancy:,99.0% (12/31/2024)
+Insurance:,$0,$0,Springing,NAP,,3rd Most Recent Occupancy:,98.9% (12/31/2023)
+TI/LC Reserve:,$0,$0,Springing,NAP,,Appraised Value (as of)(8):,"$2,350,000,000 (2/11/2026)"
+Replacement Reserve:,$0,$0,Springing,NAP,,Appraised Value per SF(8):,$122
+Ground Lease Reserve:,$0,$0,Springing,NAP,,Cut-off Date LTV Ratio(1)(8):,49.8%
+Unfunded Obligations Reserve:,"$3,530,579","$3,530,579",$0,NAP,,Maturity Date LTV Ratio(1)(8):,49.8%
+,,,,,,,

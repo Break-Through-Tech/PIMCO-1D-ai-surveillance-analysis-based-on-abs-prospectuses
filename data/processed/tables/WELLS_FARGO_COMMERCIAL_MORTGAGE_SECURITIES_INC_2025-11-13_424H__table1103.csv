@@ -1,0 +1,17 @@
+0,1,2
+Group  of Exchangeable Certificates,Class  of Exchangeable Certificates,Corresponding  Trust Components
+Class  C Exchangeable Certificates,Class C,"Class C, Class  C-X1, Class C-X2"
+Class  C Exchangeable Certificates,Class C-1,"Class C, Class C-X2"
+Class  C Exchangeable Certificates,Class C-2,Class C
+Class  C Exchangeable Certificates,Class C-X1,Class C-X1
+Class  C Exchangeable Certificates,Class  C-X2,"Class  C-X1, Class C-X2"
+Class  D Exchangeable Certificates,Class D,"Class D, Class  D-X1, Class D-X2"
+Class  D Exchangeable Certificates,Class D-1,"Class D, Class D-X2"
+Class  D Exchangeable Certificates,Class D-2,Class D
+Class  D Exchangeable Certificates,Class D-X1,Class D-X1
+Class  D Exchangeable Certificates,Class  D-X2,"Class  D-X1, Class D-X2"
+Class  E Exchangeable Certificates,Class E,"Class E, Class  E-X1, Class E-X2"
+Class  E Exchangeable Certificates,Class E-1,"Class E, Class E-X2"
+Class  E Exchangeable Certificates,Class E-2,Class E
+Class  E Exchangeable Certificates,Class E-X1,Class E-X1
+Class  E Exchangeable Certificates,Class  E-X2,"Class  E-X1, Class E-X2"

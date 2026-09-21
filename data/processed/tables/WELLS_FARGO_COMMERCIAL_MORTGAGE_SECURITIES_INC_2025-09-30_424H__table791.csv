@@ -1,0 +1,30 @@
+0,1,2,3,4,5
+Mortgage Loan,Mortgage Loan Type,Note Name,Control Note/ Non-Control Note,Original Principal Balance,Note Holder(1)
+512 West 22nd Street,Serviced,Note A-1,Control,"$65,000,000",WFCM 2025-C65
+512 West 22nd Street,Serviced,Note A-2,Non-Control,"$19,500,000",BMO 2025-C13
+,Serviced,Note A-3,Non-Control,"$45,500,000",BMO 2025-C13
+4 Union Square South,Serviced,Note A-1-1,Control,"$60,000,000",WFCM 2025-C65
+4 Union Square South,Serviced,Note A-1-2,Non-Control,"$32,500,000",WFB
+4 Union Square South,Serviced,Note A-2,Non-Control,"$27,500,000",WFB
+Market Place Center,Serviced,Note A-1-A,Control,"$36,000,000",WFCM 2025-C65
+Market Place Center,Serviced,Note A-1-B,Non-Control,"$4,000,000",WFB
+Market Place Center,Serviced,Note A-2,Non-Control,"$27,000,000",WFB
+Market Place Center,Serviced,Note A-3-A,Control,"$10,000,000",WFB
+Market Place Center,Serviced,Note A-3-B,Non-Control,"$4,000,000",WFB
+Market Place Center,Serviced,Note A-4-A,Non-Control,"$24,000,000",WFCM 2025-C65
+Market Place Center,Serviced,Note A-4-B,Control,"$10,000,000",JPMCB
+Market Place Center,Serviced,Note A-5,Non-Control,"$20,000,000",JPMCB
+BioMed MIT Portfolio,Non-Serviced,Note A1-S,Control Note,"$87,400,000",BX 2025-LIFE
+BioMed MIT Portfolio,Non-Serviced,Note A2-S,Non-Control Note,"$87,400,000",BX 2025-LIFE
+BioMed MIT Portfolio,Non-Serviced,Note A3-S,Non-Control Note,"$87,400,000",BX 2025-LIFE
+BioMed MIT Portfolio,Non-Serviced,Note A4-S,Non-Control Note,"$87,400,000",BX 2025-LIFE
+BioMed MIT Portfolio,Non-Serviced,Note A5-S,Non-Control Note,"$87,400,000",BX 2025-LIFE
+BioMed MIT Portfolio,Non-Serviced,Note A1-C1-A,Non-Control Note,"$18,750,000",BBCMS 2025-C35
+BioMed MIT Portfolio,Non-Serviced,Note A1-C1-B,Non-Control Note,"$22,250,000",WFCM 2025-C65
+BioMed MIT Portfolio,Non-Serviced,Note A1-C2-A,Non-Control Note,"$23,500,000",JPMCB
+BioMed MIT Portfolio,Non-Serviced,Note A1-C2-B,Non-Control Note,17500000,BMO 2025-C13
+BioMed MIT Portfolio,Non-Serviced,Note A2-C1,Non-Control Note,"$41,000,000",MSBAM 2025-C35
+BioMed MIT Portfolio,Non-Serviced,Note A2-C2-A,Non-Control Note,"$18,500,000",MSBAM 2025-C35
+BioMed MIT Portfolio,Non-Serviced,Note A2-C2-B,Non-Control Note,"$22,500,000",Benchmark 2025-B41
+BioMed MIT Portfolio,Non-Serviced,Note A3-C1-A,Non-Control Note,"$18,750,000",BBCMS 2025-C35
+BioMed MIT Portfolio,Non-Serviced,Note A3-C1-B,Non-Control Note,"$20,250,000",Benchmark 2025-B41
