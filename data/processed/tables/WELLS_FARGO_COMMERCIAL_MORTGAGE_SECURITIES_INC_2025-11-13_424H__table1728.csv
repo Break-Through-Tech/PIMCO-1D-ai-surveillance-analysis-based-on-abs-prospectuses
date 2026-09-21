@@ -1,0 +1,30 @@
+0,1,2,3,4,5,6
+Mortgage Loan Information,Mortgage Loan Information,Mortgage Loan Information,Mortgage Loan Information,,Property Information,Property Information
+Mortgage Loan Seller:,JPMCB,JPMCB,JPMCB,,Single Asset/Portfolio:,Single Asset
+,,,,,Location:,"Melville, NY 11747"
+Original Balance(1):,"$60,000,000","$60,000,000","$60,000,000",,General Property Type:,Hospitality
+Cut-off Date Balance(1):,"$59,948,341","$59,948,341","$59,948,341",,Detailed Property Type:,Full Service
+% of Initial Pool Balance:,8.4%,8.4%,8.4%,,Title Vesting:,Fee
+Loan Purpose:,Refinance,Refinance,Refinance,,Year Built/Renovated:,1990/2018
+Borrower Sponsor:,Columbia Sussex Corporation,Columbia Sussex Corporation,Columbia Sussex Corporation,,Size:,371 Rooms
+Guarantor:,"CSC Holdings, LLC","CSC Holdings, LLC","CSC Holdings, LLC",,Cut-off Date Balance per Room(1):,"$191,210"
+Mortgage Rate:,6.7500%,6.7500%,6.7500%,,Maturity Date Balance per Room(1):,"$180,913"
+Note Date:,11/4/2025,11/4/2025,11/4/2025,,Property Manager:,"Crestview Management, LLC"
+Maturity Date:,11/6/2030,11/6/2030,11/6/2030,,,(sponsor affiliated)
+Term to Maturity:,60 months,60 months,60 months,,Underwriting and Financial Information,Underwriting and Financial Information
+Amortization Term:,360 months,360 months,360 months,,UW NOI(3):,"$11,260,877"
+IO Period:,0 months,0 months,0 months,,UW NCF(3):,"$9,922,988"
+Seasoning:,1 month,1 month,1 month,,UW NOI Debt Yield(1):,15.9%
+Prepayment Provisions(2):,"L(25),D(29),O(6)","L(25),D(29),O(6)","L(25),D(29),O(6)",,UW NCF Debt Yield(1):,14.0%
+Lockbox/Cash Mgmt Status:,Hard/Springing,Hard/Springing,Hard/Springing,,UW NOI Debt Yield at Maturity(1):,16.8%
+Additional Debt Type(1):,Pari Passu,Pari Passu,Pari Passu,,UW NCF DSCR(1):,1.80x
+Additional Debt Balance(1):,"$10,990,529","$10,990,529","$10,990,529",,Most Recent NOI:,"$12,411,212 (9/30/2025 TTM)"
+Future Debt Permitted (Type):,No (NAP),No (NAP),No (NAP),,2nd Most Recent NOI:,"$10,004,604 (12/31/2024)"
+,,,,,3rd Most Recent NOI:,"$10,496,726 (12/31/2023)"
+Reserves(3),Reserves(3),Reserves(3),Reserves(3),,Most Recent Occupancy:,64.8% (9/30/2025)
+Type,Initial,Monthly,Cap,,2nd Most Recent Occupancy:,64.6% (8/31/2025)
+Tax Reserve:,"$690,202","$138,040",NAP,,3rd Most Recent Occupancy:,62.7% (12/31/2024)
+Insurance Reserve:,$0,Springing,NAP,,Appraised Value (as of) (5):,"$103,565,000 (10/15/2025)"
+FF&E Reserve(4):,"$5,565,000","$111,491",NAP,,Appraised Value per Room:,"$279,151"
+PIP Reserve:,$0,Springing,NAP,,Cut-off Date LTV Ratio(1):,68.5%
+Replacement Comfort Letter Reserve:,"$2,500",NAP,NAP,,Maturity Date LTV Ratio(1):,64.8%

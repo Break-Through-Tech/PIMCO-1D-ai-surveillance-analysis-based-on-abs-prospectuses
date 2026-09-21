@@ -1,0 +1,31 @@
+0,1,2,3,4,5,6,7
+Mortgage  Loan Information,Mortgage  Loan Information,Mortgage  Loan Information,Mortgage  Loan Information,Mortgage  Loan Information,,Property  Information,Property  Information
+Mortgage Loan Seller:,Mortgage Loan Seller:,WFB,WFB,WFB,,Single Asset/Portfolio:,Single Asset
+,,,,,,Location:,"New York, NY 10003"
+Original Balance(1):,Original Balance(1):,"$60,000,000","$60,000,000","$60,000,000",,General Property Type:,Retail
+Cut-off Date Balance(1):,Cut-off Date Balance(1):,"$60,000,000","$60,000,000","$60,000,000",,Detailed Property Type:,Anchored
+% of Initial Pool Balance:,% of Initial Pool Balance:,8.7%,8.7%,8.7%,,Title Vesting:,Fee
+Loan Purpose:,Loan Purpose:,Refinance,Refinance,Refinance,,Year Built/Renovated:,1971/2003
+Borrower Sponsor:,Borrower Sponsor:,Vornado Realty L.P.,Vornado Realty L.P.,Vornado Realty L.P.,,Size:,"204,189 SF"
+Guarantor:,Guarantor:,Vornado Realty L.P.,Vornado Realty L.P.,Vornado Realty L.P.,,Cut-off Date Balance PSF(1):,$588
+Mortgage Rate:,Mortgage Rate:,5.6420%,5.6420%,5.6420%,,Maturity Date Balance PSF(1):,$588
+Note Date:,Note Date:,8/12/2025,8/12/2025,8/12/2025,,Property Manager:,Vornado Office Management LLC
+Maturity Date:,Maturity Date:,9/11/2035,9/11/2035,9/11/2035,,,(borrower-related)
+Term to Maturity:,Term to Maturity:,120 months,120 months,120 months,,Underwriting  and Financial Information,Underwriting  and Financial Information
+Amortization Term:,Amortization Term:,0 months,0 months,0 months,,UW NOI:,"$17,073,095"
+IO Period:,IO Period:,120 months,120 months,120 months,,UW NCF:,"$16,588,633"
+Seasoning:,Seasoning:,1 month,1 month,1 month,,UW NOI Debt Yield(1):,14.2%
+Prepayment Provisions(4):,Prepayment Provisions(4):,"L(25),D(88),O(7)","L(25),D(88),O(7)","L(25),D(88),O(7)",,UW NCF Debt Yield(1):,13.8%
+Lockbox/Cash Mgmt Status:,Lockbox/Cash Mgmt Status:,Hard/Springing,Hard/Springing,Hard/Springing,,UW NOI Debt Yield at Maturity(1):,14.2%
+Additional Debt Type:,Additional Debt Type:,Pari Passu,Pari Passu,Pari Passu,,UW NCF DSCR(1):,2.42x
+Additional Debt Balance:,Additional Debt Balance:,"$60,000,000","$60,000,000","$60,000,000",,Most Recent NOI:,"$17,308,268 (4/30/2025 TTM)"
+Future Debt Permitted (Type):,Future Debt Permitted (Type):,No (NAP),No (NAP),No (NAP),,2nd Most Recent NOI:,"$17,204,383 (12/31/2024)"
+,,,,,,3rd Most Recent NOI:,"$16,961,741 (12/31/2023)"
+Reserves(2),Reserves(2),Reserves(2),Reserves(2),Reserves(2),,Most Recent Occupancy:,100.0% (4/1/2025)
+Type,Initial,Initial,Monthly,Cap,,2nd Most Recent Occupancy:,100.0% (1/31/2024)
+Taxes:,"$1,567,806","$1,567,806","$522,602",NAP,,3rd Most Recent Occupancy:,100.0% (1/31/2023)
+Insurance:,$0,$0,Springing,NAP,,Appraised Value (as of):,"$290,000,000 (5/12/2025)"
+Replacement Reserve:,$0,$0,Springing,NAP,,Appraised Value PSF:,"$1,420"
+TI/LC  Obligations:,"$200,000","$200,000",$0,NAP,,Cut-off Date LTV Ratio(1):,41.4%
+Rollover Reserve:,$0,$0,"$34,031",NAP,,Maturity Date LTV Ratio(1):,41.4%
+,,,,,,,

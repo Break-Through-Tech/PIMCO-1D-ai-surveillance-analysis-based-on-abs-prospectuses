@@ -1,0 +1,10 @@
+0,1,2,3,4,5,6,7,8,9,10
+,,,,Initial  Principal Amount(2)(3),Initial  Principal Amount(2)(3),,,Interest  Rate,,Final  Scheduled Maturity Date
+Class A-1 Notes,,,,$,332000000,,,·%,,"June 15, 2026"
+Class A-2-A Notes(4),,},,$,509500000,,,·%,,"August 15, 2028"
+Class A-2-B Notes(4),,},,$,509500000,,,SOFR  Rate +·%(5),,"August 15, 2028"
+Class A-3 Notes,,,,$,484500000,,,·%,,"December 17, 2029"
+Class A-4 Notes,,,,$,100140000,,,·%,,"June 17 , 2030"
+Class B Notes,,,,$,27700000,,,·%,,"July 15, 2030"
+Class C Notes,,,,$,46160000,,,·%,,"July 15, 2032"
+Total,,,,$,1500000000,,,,,

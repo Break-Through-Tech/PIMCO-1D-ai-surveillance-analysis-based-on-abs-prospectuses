@@ -1,0 +1,8 @@
+0,1,2,3,4,5,6,7,8
+Notes,Initial Principal  Amount(2),Interest Rate,Accrual Method,Expected Final Payment Date(3),Final Scheduled Payment Date,Initial Price  to Public,Underwriting  Discount,Proceeds to Depositor(4)
+Class A-1,"$150,000,000",____%,Actual/360,"August 26, 2024","February 25, 2025",___%,___%,___%
+Class A-2a,"$375,000,000  (aggregate)(5)",____%,30/360,"October 27, 2025","July 27, 2026",___%,___%,___%
+Class A-2b,"$375,000,000  (aggregate)(5)",Benchmark + ____%(6)(7),Actual/360,"October 27, 2025","July 27, 2026",___%,___%,___%
+Class A-3,"$375,000,000",____%,30/360,"July 27, 2026","March 25, 2027",___%,___%,___%
+Class A-4,"$100,000,000",____%,30/360,"September 25, 2026","June 25, 2027",___%,___%,___%
+Total,"$1,000,000,000",,,,,$______,$_______,$_______

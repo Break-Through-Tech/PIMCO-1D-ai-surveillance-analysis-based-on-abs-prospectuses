@@ -1,0 +1,8 @@
+0,1,2,3,4,5,6
+Class(1),,Initial  Principal Amount(2),,Interest Rate,,Final Scheduled Maturity Date
+A-1,,"$340,000,000",,·%,,"June 15, 2027"
+A-2-A A-2-B,},"$550,800,000",,·% SOFR Rate +·%(3),,"May 15, 2029"
+A-3,,"$550,800,000",,·%,,"February 18, 2031"
+A-4,,"$79,630,000",,·%,,"February 17, 2032"
+B,,"$29,540,000",,·%,,"February 17, 2032"
+C,,"$49,230,000",,·%,,"October 17, 2033"

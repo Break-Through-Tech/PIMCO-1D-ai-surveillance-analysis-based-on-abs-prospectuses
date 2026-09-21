@@ -1,0 +1,31 @@
+0,1,2,3,4,5,6
+Mortgage Loan Information,Mortgage Loan Information,Mortgage Loan Information,Mortgage Loan Information,,Property Information,Property Information
+Mortgage Loan Seller:,Mortgage Loan Seller:,WFB,WFB,,Single Asset/Portfolio:,Single Asset
+,,,,,Location:,"Cupertino, CA 95014"
+Original Balance(1):,Original Balance(1):,"$25,000,000","$25,000,000",,General Property Type:,Office
+Cut-off Date Balance(1):,Cut-off Date Balance(1):,"$25,000,000","$25,000,000",,Detailed Property Type:,Suburban
+% of Initial Pool Balance:,% of Initial Pool Balance:,4.6%,4.6%,,Title Vesting:,Fee
+Loan Purpose:,Loan Purpose:,Refinance,Refinance,,Year Built/Renovated:,1987/2024
+Borrower Sponsor:,Borrower Sponsor:,"Prometheus Real Estate Group, Inc.","Prometheus Real Estate Group, Inc.",,Size:,"357,838 SF"
+Guarantor:,Guarantor:,"DNS Real Estate, LLC","DNS Real Estate, LLC",,Cut-off Date Balance PSF(1):,$405
+Mortgage Rate:,Mortgage Rate:,6.4420%,6.4420%,,Maturity Date Balance PSF(1):,$405
+Note Date:,Note Date:,2/20/2026,2/20/2026,,Property Manager:,"Prometheus Real Estate Group, Inc. (borrower-related)"
+Maturity Date:,Maturity Date:,3/11/2031,3/11/2031,,,
+Term to Maturity:,Term to Maturity:,60 months,60 months,,Underwriting and Financial Information,Underwriting and Financial Information
+Amortization Term:,Amortization Term:,0 months,0 months,,UW NOI:,"$16,406,214"
+IO Period:,IO Period:,60 months,60 months,,UW NCF:,"$15,997,889"
+Seasoning:,Seasoning:,3 months,3 months,,UW NOI Debt Yield(1):,11.3%
+Prepayment Provisions(2):,Prepayment Provisions(2):,"L(27),D(31),O(2)","L(27),D(31),O(2)",,UW NCF Debt Yield(1):,11.0%
+Lockbox/Cash Mgmt Status:,Lockbox/Cash Mgmt Status:,Hard/Springing,Hard/Springing,,UW NOI Debt Yield at Maturity(1):,11.3%
+Additional Debt Type(1):,Additional Debt Type(1):,Pari Passu,Pari Passu,,UW NCF DSCR(1):,1.69x
+Additional Debt Balance(1):,Additional Debt Balance(1):,"$120,000,000","$120,000,000",,Most Recent NOI:,"$16,942,082 (12/31/2025)"
+Future Debt Permitted (Type):,Future Debt Permitted (Type):,No (NAP),No (NAP),,2nd Most Recent NOI:,"$17,571,384 (12/31/2024)"
+Reserves(3),Reserves(3),Reserves(3),Reserves(3),,3rd Most Recent NOI:,"$15,854,039 (12/31/2023)"
+Type,Initial,Monthly,Cap,,Most Recent Occupancy:,89.8% (2/11/2026)
+RE Taxes:,"$273,252","$273,252",NAP,,2nd Most Recent Occupancy:,91.0% (12/31/2024)
+Insurance:,$0,Springing,NAP,,3rd Most Recent Occupancy:,95.8% (12/31/2023)
+Replacement Reserve:,"$171,433","$5,962","$214,632",,Appraised Value (as of):,"$228,000,000 (1/13/2026)"
+Leasing Reserve:,"$2,000,000","$59,615","$3,000,000",,Appraised Value PSF:,$637
+Existing TI/LC Reserve:,"$3,069,418",$0,NAP,,Cut-off Date LTV Ratio(1):,63.6%
+Rent Concession Reserve:,"$665,801",$0,NAP,,Maturity Date LTV Ratio(1):,63.6%
+,,,,,,

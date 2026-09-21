@@ -1,0 +1,31 @@
+0,1,2,3,4,5,6,7,8
+Mortgage  Loan Information,Mortgage  Loan Information,Mortgage  Loan Information,Mortgage  Loan Information,Mortgage  Loan Information,,Property  Information,Property  Information,Property  Information
+Mortgage Loan Seller:,Mortgage Loan Seller:,CREFI,CREFI,CREFI,,Single Asset/Portfolio:,Single Asset,Single Asset
+,,,,,,Location:,"New York, NY 10010","New York, NY 10010"
+Original Balance(1):,Original Balance(1):,"$53,000,000","$53,000,000","$53,000,000",,General Property Type:,Office,Office
+Cut-off Date Balance(1):,Cut-off Date Balance(1):,"$53,000,000","$53,000,000","$53,000,000",,Detailed Property Type:,CBD,CBD
+% of Initial Pool Balance:,% of Initial Pool Balance:,9.0%,9.0%,9.0%,,Title Vesting:,Fee,Fee
+Loan Purpose:,Loan Purpose:,Refinance,Refinance,Refinance,,Year Built/Renovated:,1906/2015,1906/2015
+Borrower Sponsors:,Borrower Sponsors:,"Amish Patel, Jed Walentas and Walentas Trust 3","Amish Patel, Jed Walentas and Walentas Trust 3","Amish Patel, Jed Walentas and Walentas Trust 3",,Size:,"331,744 SF","331,744 SF"
+Guarantor:,Guarantor:,Walentas Trust 3,Walentas Trust 3,Walentas Trust 3,,Cut-off Date Balance Per SF(1):,$250,$250
+Mortgage Rate:,Mortgage Rate:,6.4600%,6.4600%,6.4600%,,Maturity Date Balance Per SF(1):,$250,$250
+Note Date:,Note Date:,1/29/2026,1/29/2026,1/29/2026,,Property Manager:,Two Trees Management Co. LLC (borrower-related),Two Trees Management Co. LLC (borrower-related)
+Maturity Date:,Maturity Date:,2/6/2036,2/6/2036,2/6/2036,,Property Manager:,Two Trees Management Co. LLC (borrower-related),Two Trees Management Co. LLC (borrower-related)
+Term to Maturity:,Term to Maturity:,120 months,120 months,120 months,,Underwriting  and Financial Information,Underwriting  and Financial Information,Underwriting  and Financial Information
+Amortization Term:,Amortization Term:,0 months,0 months,0 months,,UW NOI(4):,"$12,682,647","$12,682,647"
+IO Period:,IO Period:,120 months,120 months,120 months,,UW NCF:,"$11,868,908","$11,868,908"
+Seasoning:,Seasoning:,2 months,2 months,2 months,,UW NOI Debt Yield(1):,15.3%,15.3%
+Prepayment Provisions:,Prepayment Provisions:,"L(26),D(87),O(7)","L(26),D(87),O(7)","L(26),D(87),O(7)",,UW NCF Debt Yield(1):,14.3%,14.3%
+Lockbox/Cash Mgmt Status:,Lockbox/Cash Mgmt Status:,Springing/Springing,Springing/Springing,Springing/Springing,,UW NOI Debt Yield at Maturity(1):,15.3%,15.3%
+Additional Debt Type(1):,Additional Debt Type(1):,Pari Passu,Pari Passu,Pari Passu,,UW NCF DSCR(1):,2.18x,
+Additional Debt Balance(1):,Additional Debt Balance(1):,"$30,000,000","$30,000,000","$30,000,000",,Most Recent NOI(4):,"$8,158,122 (9/30/2025 TTM)","$8,158,122 (9/30/2025 TTM)"
+Future Debt Permitted (Type):,Future Debt Permitted (Type):,No (NAP),No (NAP),No (NAP),,2nd Most Recent NOI:,"$9,362,821 (12/31/2024)","$9,362,821 (12/31/2024)"
+Reserves(2),Reserves(2),Reserves(2),Reserves(2),Reserves(2),,3rd Most Recent NOI:,"$12,314,881 (12/31/2023)","$12,314,881 (12/31/2023)"
+Type,Initial,Initial,Monthly,Cap,,Most Recent Occupancy:,97.3% (12/31/2025),97.3% (12/31/2025)
+RE Taxes:,"$854,048","$854,048","$427,024",NAP,,2nd Most Recent Occupancy:,68.1% (12/31/2024),68.1% (12/31/2024)
+Insurance:,$0,$0,Springing,NAP,,3rd Most Recent Occupancy:,96.1% (12/31/2023),96.1% (12/31/2023)
+Replacement Reserve:,$0,$0,"$5,529",NAP,,Appraised Value (as of):,"$208,000,000 (12/16/2025)","$208,000,000 (12/16/2025)"
+TI/LC Reserve:,$0,$0,"$41,667",NAP,,Appraised Value PSF:,$627,$627
+Other(3):,"$2,863,694","$2,863,694",$0,NAP,,Cut-off Date LTV Ratio(1):,39.9%,39.9%
+,,,,,,Maturity Date LTV Ratio(1):,39.9%,39.9%
+,,,,,,,,

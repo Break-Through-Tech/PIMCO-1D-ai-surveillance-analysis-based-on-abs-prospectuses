@@ -1,0 +1,19 @@
+0,1,2,3,4,5,6,7,8,9,10
+Exchangeable  Certificate Factor Detail,Exchangeable  Certificate Factor Detail,Exchangeable  Certificate Factor Detail,Exchangeable  Certificate Factor Detail,Exchangeable  Certificate Factor Detail,Exchangeable  Certificate Factor Detail,Exchangeable  Certificate Factor Detail,Exchangeable  Certificate Factor Detail,Exchangeable  Certificate Factor Detail,Exchangeable  Certificate Factor Detail,Exchangeable  Certificate Factor Detail
+Class,CUSIP,Beginning  Balance,Principal  Distribution,Interest  Distribution,Interest  Shortfalls / (Paybacks),Cumulative  Interest Shortfalls,Prepayment  Penalties,Losses,Total  Distribution,Ending  Balance
+Regular  Certificates,Regular  Certificates,Regular  Certificates,Regular  Certificates,Regular  Certificates,Regular  Certificates,Regular  Certificates,Regular  Certificates,Regular  Certificates,Regular  Certificates,Regular  Certificates
+C-1,,0.00000000,0.00000000,0.00000000,0.00000000,0.00000000,0.00000000,0.00000000,0.00000000,0.00000000
+C-2,,0.00000000,0.00000000,0.00000000,0.00000000,0.00000000,0.00000000,0.00000000,0.00000000,0.00000000
+D-1,,0.00000000,0.00000000,0.00000000,0.00000000,0.00000000,0.00000000,0.00000000,0.00000000,0.00000000
+D-2,,0.00000000,0.00000000,0.00000000,0.00000000,0.00000000,0.00000000,0.00000000,0.00000000,0.00000000
+E-1,,0.00000000,0.00000000,0.00000000,0.00000000,0.00000000,0.00000000,0.00000000,0.00000000,0.00000000
+E-2,,0.00000000,0.00000000,0.00000000,0.00000000,0.00000000,0.00000000,0.00000000,0.00000000,0.00000000
+,,,,,,,,,,
+Notional  Certificates,Notional  Certificates,Notional  Certificates,Notional  Certificates,Notional  Certificates,Notional  Certificates,Notional  Certificates,Notional  Certificates,Notional  Certificates,Notional  Certificates,Notional  Certificates
+C-X1,,0.00000000,0.00000000,0.00000000,0.00000000,0.00000000,0.00000000,0.00000000,0.00000000,0.00000000
+C-X2,,0.00000000,0.00000000,0.00000000,0.00000000,0.00000000,0.00000000,0.00000000,0.00000000,0.00000000
+D-X1,,0.00000000,0.00000000,0.00000000,0.00000000,0.00000000,0.00000000,0.00000000,0.00000000,0.00000000
+D-X2,,0.00000000,0.00000000,0.00000000,0.00000000,0.00000000,0.00000000,0.00000000,0.00000000,0.00000000
+E-X1,,0.00000000,0.00000000,0.00000000,0.00000000,0.00000000,0.00000000,0.00000000,0.00000000,0.00000000
+E-X2,,0.00000000,0.00000000,0.00000000,0.00000000,0.00000000,0.00000000,0.00000000,0.00000000,0.00000000
+,,,,,,,,,,

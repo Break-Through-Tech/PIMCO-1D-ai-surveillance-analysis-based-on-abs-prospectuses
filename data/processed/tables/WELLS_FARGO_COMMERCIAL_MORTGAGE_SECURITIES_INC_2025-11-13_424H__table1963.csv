@@ -1,0 +1,34 @@
+0,1,2,3,4,5,6
+Mortgage  Loan Information,Mortgage  Loan Information,Mortgage  Loan Information,Mortgage  Loan Information,,Property  Information,Property  Information
+Mortgage Loan Seller:,JPMCB,JPMCB,JPMCB,,Single Asset/Portfolio:,Single Asset
+,,,,,Location:,"The Bronx, NY 10475"
+Original Balance(1):,"$30,000,000","$30,000,000","$30,000,000",,General Property Type:,Retail
+Cut-off Date Balance(1):,"$30,000,000","$30,000,000","$30,000,000",,Detailed Property Type:,Super Regional Mall
+% of Initial Pool Balance:,4.2%,4.2%,4.2%,,Title Vesting:,Fee
+Loan Purpose:,Refinance,Refinance,Refinance,,Year Built/Renovated:,2014/NAP
+Borrower Sponsor:,Prestige Properties & Development,Prestige Properties & Development,Prestige Properties & Development,,Size(4):,"695,857 SF"
+Guarantors:,Sami Shalem and Irving Pergament,Sami Shalem and Irving Pergament,Sami Shalem and Irving Pergament,,Cut-off Date Balance PSF(1):,$244
+Mortgage Rate(2):,6.7150%,6.7150%,6.7150%,,Maturity Date Balance PSF(1):,$244
+Note Date:,10/31/2025,10/31/2025,10/31/2025,,Property Manager:,Prestige Properties &
+Maturity Date:,11/1/2030,11/1/2030,11/1/2030,,,"Development Co., Inc."
+Term to Maturity:,60 months,60 months,60 months,,,(Borrower-related)
+Amortization Term:,0 months,0 months,0 months,,Underwriting  and Financial Information,Underwriting  and Financial Information
+IO Period:,60 months,60 months,60 months,,UW NOI:,"$26,538,392"
+Seasoning:,1 month,1 month,1 month,,UW NCF:,"$26,482,560"
+Prepayment Provisions:,"L(25),YM1(29),O(6)","L(25),YM1(29),O(6)","L(25),YM1(29),O(6)",,UW NOI Debt Yield(1):,15.6%
+Lockbox/Cash Mgmt Status:,Hard/Springing,Hard/Springing,Hard/Springing,,UW NCF Debt Yield(1):,15.6%
+Additional Debt Type(1):,Pari Passu/B-Note,Pari Passu/B-Note,Pari Passu/B-Note,,UW NOI Debt Yield at Maturity(1):,15.6%
+Additional Debt Balance(1):,"$140,000,000/$110,000,000","$140,000,000/$110,000,000","$140,000,000/$110,000,000",,UW NCF DSCR(1):,2.29x
+Future Debt Permitted (Type):,Yes (Mezzanine),Yes (Mezzanine),Yes (Mezzanine),,Most Recent NOI:,"$26,227,930 (9/30/2025 TTM)"
+,,,,,2nd Most Recent NOI:,"$26,641,518 (12/31/2024)"
+,,,,,3rd Most Recent NOI:,"$26,551,097 (12/31/2023)"
+Reserves(3),Reserves(3),Reserves(3),Reserves(3),,Most Recent Occupancy(5)(6):,91.6% (10/29/2025)
+Type,Initial,Monthly,Cap,,2nd Most Recent Occupancy(5):,96.3% (12/31/2024)
+Tax Reserve,"$1,384,553",Springing,NAP,,3rd Most Recent Occupancy(5):,96.3% (12/31/2023)
+Insurance Reserve,$0,Springing,NAP,,Appraised Value (as of) (7):,"$492,274,298 (Various)"
+HVAC Replacement Reserve,"$2,990,000",$0,NAP,,Appraised Value PSF(7):,$707
+Replacement Reserve,"$4,653","$4,653","$111,664",,Cut-off Date LTV Ratio(1)(7):,34.5%
+Lease Rollover Reserve,"$6,000,000",Springing,NAP,,Maturity Date LTV Ratio(1)(7):,34.5%
+Outstanding TI Reserve,"$3,335,236",$0,NAP,,,
+Gap Rent Reserve,"$583,333",$0,NAP,,,
+,,,,,,

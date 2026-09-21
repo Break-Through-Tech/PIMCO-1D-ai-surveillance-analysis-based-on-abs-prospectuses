@@ -1,0 +1,32 @@
+0,1,2,3,4,5,6,7
+Mortgage Loan Information,Mortgage Loan Information,Mortgage Loan Information,Mortgage Loan Information,Mortgage Loan Information,,Property Information,Property Information
+Mortgage Loan Seller:,Mortgage Loan Seller:,BSPRT,BSPRT,BSPRT,,Single Asset/Portfolio:,Single Asset
+,,,,,,Location:,"Middletown, PA 17057"
+Original Balance:,Original Balance:,"$24,500,000","$24,500,000","$24,500,000",,General Property Type:,Industrial
+Cut-off Date Balance:,Cut-off Date Balance:,"$24,500,000","$24,500,000","$24,500,000",,Detailed Property Type:,Warehouse
+% of Initial Pool Balance:,% of Initial Pool Balance:,4.2%,4.2%,4.2%,,Title Vesting:,Fee
+Loan Purpose:,Loan Purpose:,Refinance,Refinance,Refinance,,Year Built/Renovated:,1940/2024
+Borrower Sponsor:,Borrower Sponsor:,Ira J. Miller,Ira J. Miller,Ira J. Miller,,Size:,"435,880 SF"
+Guarantor:,Guarantor:,Ira J. Miller,Ira J. Miller,Ira J. Miller,,Cut-off Date Balance PSF:,$56
+Mortgage Rate:,Mortgage Rate:,6.4200%,6.4200%,6.4200%,,Maturity Date Balance PSF:,$56
+Note Date:,Note Date:,12/23/2025,12/23/2025,12/23/2025,,Property Manager:,Self-managed
+Maturity Date:,Maturity Date:,1/6/2036,1/6/2036,1/6/2036,,,
+Term to Maturity:,Term to Maturity:,120 months,120 months,120 months,,,
+Amortization Term:,Amortization Term:,0 months,0 months,0 months,,Underwriting and Financial Information,Underwriting and Financial Information
+IO Period:,IO Period:,120 months,120 months,120 months,,UW NOI(2):,"$2,971,500"
+Seasoning:,Seasoning:,3 months,3 months,3 months,,UW NCF:,"$2,818,942"
+Prepayment Provisions:,Prepayment Provisions:,"YM1(116),O(4)","YM1(116),O(4)","YM1(116),O(4)",,UW NOI Debt Yield:,12.1%
+Lockbox/Cash Mgmt Status:,Lockbox/Cash Mgmt Status:,Springing/Springing,Springing/Springing,Springing/Springing,,UW NCF Debt Yield:,11.5%
+Additional Debt Type:,Additional Debt Type:,NAP,NAP,NAP,,UW NOI Debt Yield at Maturity:,12.1%
+Additional Debt Balance:,Additional Debt Balance:,NAP,NAP,NAP,,UW NCF DSCR:,1.77x
+Future Debt Permitted (Type):,Future Debt Permitted (Type):,No (NAP),No (NAP),No (NAP),,Most Recent NOI(2):,"$2,141,465 (10/31/2025 TTM)"
+,,,,,,2nd Most Recent NOI:,"$1,823,998 (12/31/2024)"
+,,,,,,3rd Most Recent NOI:,"$832,067 (12/31/2023)"
+Reserves(1),Reserves(1),Reserves(1),Reserves(1),Reserves(1),,Most Recent Occupancy(3):,91.9% (11/5/2025)
+Type,Initial,Initial,Monthly,Cap,,2nd Most Recent Occupancy:,NAV
+RE Taxes:,"$70,880","$70,880","$11,813",NAP,,3rd Most Recent Occupancy:,NAV
+Insurance:,"$92,677","$92,677","$46,338",NAP,,Appraised Value (as of) (3):,"$39,200,000 (4/15/2025)"
+Replacement Reserve:,$0,$0,"$3,632",NAP,,Appraised Value PSF(3):,$90
+TI/LC Reserve:,$0,$0,"$9,081","$327,000",,Cut-off Date LTV Ratio(3):,62.5%
+,,,,,,Maturity Date LTV Ratio(3):,62.5%
+,,,,,,,

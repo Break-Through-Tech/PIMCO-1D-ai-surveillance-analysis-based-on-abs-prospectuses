@@ -1,0 +1,8 @@
+0,1,2,3,4
+Whole  Loan Summary,Whole  Loan Summary,Whole  Loan Summary,Whole  Loan Summary,Whole  Loan Summary
+Note,Original  Balance,Cut-off  Date Balance,Note  Holder,Controlling  Note
+A-1,"$40,000,000","$40,000,000",WFCM 2025-5C7,Yes
+A-2,"$20,000,000","$20,000,000",WFCM 2025-5C7,No
+A-3,"$20,000,000","$20,000,000",WFCM 2026-5C8,No
+A-4,"$40,000,000","$40,000,000",BMARK 2025-V19,No
+Total,"$120,000,000","$120,000,000",,

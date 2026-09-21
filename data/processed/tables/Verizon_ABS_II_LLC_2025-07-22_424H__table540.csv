@@ -1,0 +1,29 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13
+,,,End of Month Aggregate Principal Balance(19),,Delinquencies,Delinquencies,Delinquencies,Delinquencies,Delinquencies,Delinquencies,Delinquencies,Delinquencies,Delinquencies
+,,,End of Month Aggregate Principal Balance(19),,31-60 days(20),,61-90 days(20),,91-120 days(20),,121+ days(20),,>60 days Delinquent %(21)
+Months Since Origination,,,End of Month Aggregate Principal Balance(19),,31-60 days(20),,61-90 days(20),,91-120 days(20),,121+ days(20),,>60 days Delinquent %(21)
+Months Since Origination,0.0,,"$3,421,900,802",,"$12,219,263",,"$1,082,565",,"$270,301",,"$84,701",,0.04%
+Months Since Origination,1.0,,3355905748,,13160953,,586737,,89758,,31193,,0.02%
+Months Since Origination,2.0,,3225042426,,28263313,,1093787,,93073,,19261,,0.04%
+Months Since Origination,3.0,,3087017526,,30142578,,2943947,,322252,,31512,,0.11%
+Months Since Origination,4.0,,2949562703,,22690988,,3363636,,849543,,95441,,0.15%
+Months Since Origination,5.0,,2814251573,,18624183,,2325472,,815637,,265878,,0.12%
+Months Since Origination,6.0,,2677413593,,17588668,,1741358,,322619,,229512,,0.09%
+Months Since Origination,7.0,,2538819033,,17888005,,2330707,,353258,,95512,,0.11%
+Months Since Origination,8.0,,2399591789,,17778825,,3078177,,843538,,246650,,0.17%
+Months Since Origination,9.0,,2259928521,,16879124,,3192705,,1166857,,477661,,0.21%
+Months Since Origination,10.0,,2118418378,,15367002,,3390630,,1291009,,695012,,0.25%
+Months Since Origination,11.0,,1974224920,,14488039,,3373841,,1499949,,936692,,0.29%
+Months Since Origination,12.0,,1829537788,,13637776,,3242856,,1461735,,1124261,,0.32%
+Months Since Origination,13.0,,1685492097,,12665658,,3360914,,1523325,,1109967,,0.36%
+Months Since Origination,14.0,,1544691708,,11536446,,3145614,,1618535,,1233530,,0.39%
+Months Since Origination,15.0,,1400885421,,10790513,,2899342,,1576528,,1197338,,0.40%
+Months Since Origination,16.0,,1257708256,,9497102,,2664948,,1486629,,1155968,,0.42%
+Months Since Origination,17.0,,1116713217,,8842797,,2333755,,1390812,,1092606,,0.43%
+Months Since Origination,18.0,,977359737,,8565922,,2166438,,1208893,,1009644,,0.45%
+Months Since Origination,19.0,,839947930,,7947070,,2117516,,1175234,,1001956,,0.51%
+Months Since Origination,20.0,,703604097,,7061194,,2035535,,1192478,,952397,,0.59%
+Months Since Origination,21.0,,568658039,,6175091,,1776787,,1200718,,889755,,0.68%
+Months Since Origination,22.0,,433622588,,5070059,,1705919,,1014721,,872894,,0.83%
+Months Since Origination,23.0,,303117834,,4282340,,1432568,,935540,,691473,,1.01%
+Months Since Origination,24.0,,187434584,,3303980,,1254057,,829069,,592271,,1.43%

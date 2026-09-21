@@ -1,0 +1,31 @@
+0,1,2,3,4,5,6
+Mortgage Loan Information,Mortgage Loan Information,Mortgage Loan Information,Mortgage Loan Information,,Property Information,Property Information
+Mortgage Loan Seller:,Mortgage Loan Seller:,AREF2,AREF2,,Single Asset/Portfolio:,Single Asset
+,,,,,Location:,"Lancaster, PA 17602"
+Original Balance:,Original Balance:,"$28,250,000","$28,250,000",,General Property Type:,Retail
+Cut-off Date Balance:,Cut-off Date Balance:,"$28,250,000","$28,250,000",,Detailed Property Type:,Anchored
+% of Initial Pool Balance:,% of Initial Pool Balance:,5.2%,5.2%,,Title Vesting:,Fee
+Loan Purpose:,Loan Purpose:,Refinance,Refinance,,Year Built/Renovated:,1986-1994/2023
+Borrower Sponsor:,Borrower Sponsor:,Jeffrey Fernbach,Jeffrey Fernbach,,Size:,"292,452 SF"
+Guarantor:,Guarantor:,Jeffrey Fernbach,Jeffrey Fernbach,,Cut-off Date Balance PSF:,$97
+Mortgage Rate:,Mortgage Rate:,7.0070%,7.0070%,,Maturity Date Balance PSF:,$97
+Note Date:,Note Date:,4/29/2026,4/29/2026,,Property Manager:,OP Management Limited Liability Company
+Maturity Date:,Maturity Date:,5/6/2031,5/6/2031,,,(borrower-related)
+Term to Maturity:,Term to Maturity:,60 months,60 months,,Underwriting and Financial Information,Underwriting and Financial Information
+Amortization Term:,Amortization Term:,0 months,0 months,,UW NOI(2):,"$3,372,148"
+IO Period:,IO Period:,60 months,60 months,,UW NCF:,"$3,152,809"
+Seasoning:,Seasoning:,1 month,1 month,,UW NOI Debt Yield:,11.9%
+Prepayment Provisions:,Prepayment Provisions:,"L(25),D(31),O(4)","L(25),D(31),O(4)",,UW NCF Debt Yield:,11.2%
+Lockbox/Cash Mgmt Status:,Lockbox/Cash Mgmt Status:,Hard/Springing,Hard/Springing,,UW NOI Debt Yield at Maturity:,11.9%
+Additional Debt Type:,Additional Debt Type:,NAP,NAP,,UW NCF DSCR:,1.57x
+Additional Debt Balance:,Additional Debt Balance:,NAP,NAP,,Most Recent NOI(2):,"$2,836,835 (1/31/2026 TTM)"
+Future Debt Permitted (Type):,Future Debt Permitted (Type):,No (NAP),No (NAP),,2nd Most Recent NOI:,"$2,666,827 (12/31/2024)"
+Reserves(1),Reserves(1),Reserves(1),Reserves(1),,3rd Most Recent NOI:,"$2,491,784 (12/31/2023)"
+Type,Initial,Monthly,Cap,,Most Recent Occupancy:,82.4% (4/10/2026)
+RE Taxes:,"$55,541","$11,108",NAP,,2nd Most Recent Occupancy:,78.4% (12/31/2024)
+Insurance:,"$26,230","$13,115",NAP,,3rd Most Recent Occupancy:,66.6% (12/31/2023)
+Replacement Reserve:,$0,"$3,656",NAP,,Appraised Value (as of):,"$42,850,000 (2/4/2026)"
+Deferred Maintenance:,"$103,354",$0,NAP,,Appraised Value PSF:,$147
+TI/LC Reserve:,"$750,000","$14,623","$1,000,000",,Cut-off Date LTV Ratio:,65.9%
+Outstanding TI/LC Reserve:,"$800,460",$0,NAP,,Maturity Date LTV Ratio:,65.9%
+Outstanding Free Rent:,"$293,415",$0,NAP,,,

@@ -1,0 +1,5 @@
+0,1,2,3,4,5,6,7
+Mortgage  Loan or Mortgaged Property Name,% of Initial  Pool Balance by Allocated Loan Amount,Cut-off Date  LTV Ratio (Other Than “As-Is”),LTV Ratio  at Maturity (“Other Than As-Is”),Other Than  “As-Is” Appraised Value,Cut-off Date  LTV Ratio (“As-Is”),LTV Ratio  at Maturity (“As-Is”),“As-Is”  Appraised Value
+Bleeker Street Industrial(1),5.3%,55.0%,55.0%,"$59,600,000",57.7%,57.7%,"$56,800,000"
+Del Rey Campus(2),4.4%,60.4%,60.4%,"$132,500,000",64.5%,64.5%,"$124,000,000"
+Courtyard by Marriott Collierville(3),1.7%,64.8%,64.8%,"$16,200,000",75.0%,75.0%,"$14,000,000"

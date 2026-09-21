@@ -1,0 +1,32 @@
+0,1,2,3,4,5,6,7
+Mortgage Loan Information,Mortgage Loan Information,Mortgage Loan Information,Mortgage Loan Information,Mortgage Loan Information,,Property Information,Property Information
+Mortgage Loan Seller:,Mortgage Loan Seller:,Mortgage Loan Seller:,JPMCB,JPMCB,,Single Asset/Portfolio:,Single Asset
+,,,,,,Location:,"New York, NY 10017"
+Original Balance(1):,Original Balance(1):,Original Balance(1):,"$64,000,000","$64,000,000",,General Property Type:,Office
+Cut-off Date Balance(1):,Cut-off Date Balance(1):,Cut-off Date Balance(1):,"$64,000,000","$64,000,000",,Detailed Property Type:,CBD
+% of Initial Pool Balance:,% of Initial Pool Balance:,% of Initial Pool Balance:,9.0%,9.0%,,Title Vesting(2):,Fee
+Loan Purpose(2):,Loan Purpose(2):,Loan Purpose(2):,Acquisition,Acquisition,,Year Built/Renovated:,1927/2013
+Borrower Sponsor:,Borrower Sponsor:,Borrower Sponsor:,The 601W Companies,The 601W Companies,,Size:,"339,357 SF"
+Guarantors:,Guarantors:,Guarantors:,Mark Karasick and Michael Silberberg,Mark Karasick and Michael Silberberg,,Cut-off Date Balance PSF(1):,$306
+Mortgage Rate:,Mortgage Rate:,Mortgage Rate:,6.6430%,6.6430%,,Maturity Date Balance PSF(1)::,$306
+Note Date:,Note Date:,Note Date:,11/10/2025,11/10/2025,,Property Manager:,205 East Property Manager LLC
+Maturity Date:,Maturity Date:,Maturity Date:,12/5/2030,12/5/2030,,,(borrower related)
+Term to Maturity:,Term to Maturity:,Term to Maturity:,60 months,60 months,,Underwriting  and Financial Information,Underwriting  and Financial Information
+Amortization Term:,Amortization Term:,Amortization Term:,0 months,0 months,,UW NOI:,"$12,255,715"
+IO Period:,IO Period:,IO Period:,60 months,60 months,,UW NCF:,"$11,699,311"
+Seasoning:,Seasoning:,Seasoning:,0 months,0 months,,UW NOI Debt Yield(1):,11.8%
+Prepayment Provisions:,Prepayment Provisions:,Prepayment Provisions:,"YM1(55),O(5)","YM1(55),O(5)",,UW NCF Debt Yield(1):,11.2%
+Lockbox/Cash Mgmt Status:,Lockbox/Cash Mgmt Status:,Lockbox/Cash Mgmt Status:,Hard/Springing,Hard/Springing,,UW NOI Debt Yield at Maturity(1):,11.8%
+Additional Debt Type(1):,Additional Debt Type(1):,Additional Debt Type(1):,Pari Passu,Pari Passu,,UW NCF DSCR(1):,1.67x
+Additional Debt Balance(1):,Additional Debt Balance(1):,Additional Debt Balance(1):,"$40,000,000","$40,000,000",,Most Recent NOI(4):,NAV
+Future Debt Permitted (Type):,Future Debt Permitted (Type):,Future Debt Permitted (Type):,No (NAP),No (NAP),,2nd Most Recent NOI(4):,NAV
+,,,,,,3rd Most Recent NOI(4):,NAV
+,,,,,,Most Recent Occupancy(4):,97.8% (10/20/2025)
+Reserves(3),Reserves(3),Reserves(3),Reserves(3),Reserves(3),,2nd Most Recent Occupancy(4):,NAV
+Type,Initial,Monthly,Monthly,Cap,,3rd Most Recent Occupancy(4):,NAV
+RE Taxes:,"$363,355","$61,354","$61,354",NAP,,Appraised Value (as of):,"$170,000,000 (8/1/2025)"
+Insurance:,"$116,153",Springing,Springing,NAP,,Appraised Value PSF:,$501
+Replacement Reserve:,"$1,000,000","$7,090","$7,090",NAP,,Cut-off Date LTV Ratio(1):,61.2%
+TI/LC Reserve:,$0,"$28,361","$28,361",NAP,,Maturity Date LTV Ratio(1):,61.2%
+Other Reserves:,"$460,622",$0,$0,NAP,,,
+,,,,,,,

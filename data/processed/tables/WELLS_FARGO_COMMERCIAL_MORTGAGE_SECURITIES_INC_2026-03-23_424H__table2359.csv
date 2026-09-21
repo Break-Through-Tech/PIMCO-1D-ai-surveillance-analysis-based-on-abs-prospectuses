@@ -1,0 +1,31 @@
+0,1,2,3,4,5,6,7
+Mortgage  Loan Information,Mortgage  Loan Information,Mortgage  Loan Information,Mortgage  Loan Information,Mortgage  Loan Information,,Property  Information,Property  Information
+Mortgage Loan Sellers:,Mortgage Loan Sellers:,SGFC,SGFC,SGFC,,Single Asset/Portfolio:,Single Asset
+,,,,,,Location:,"Milwaukee, WI 53208, 53233"
+Original Balance:,Original Balance:,"$13,450,000","$13,450,000","$13,450,000",,General Property Type:,Multifamily
+Cut-off Date Balance:,Cut-off Date Balance:,"$13,401,535","$13,401,535","$13,401,535",,Detailed Property Type:,Garden
+% of Initial Pool Balance:,% of Initial Pool Balance:,2.3%,2.3%,2.3%,,Title Vesting:,Fee
+Loan Purpose:,Loan Purpose:,Refinance,Refinance,Refinance,,Year Built/Renovated:,1963-1974/2025
+Borrower Sponsor:,Borrower Sponsor:,Youssef Berrada,Youssef Berrada,Youssef Berrada,,Size:,120 Units
+Guarantor:,Guarantor:,Youssef Berrada,Youssef Berrada,Youssef Berrada,,Cut-off Date Balance per Unit:,"$111,679"
+Mortgage Rate:,Mortgage Rate:,6.3100%,6.3100%,6.3100%,,Maturity Balance per Unit:,"$96,089"
+Note Date:,Note Date:,11/25/2025,11/25/2025,11/25/2025,,Property Manager:,"Berrada Properties Management, Inc."
+Maturity Date:,Maturity Date:,12/1/2035,12/1/2035,12/1/2035,,,(borrower-related)
+Term to Maturity:,Term to Maturity:,120 months,120 months,120 months,,Underwriting and Financial Information,Underwriting and Financial Information
+Amortization Term:,Amortization Term:,360 months,360 months,360 months,,UW NOI:,"$1,369,528"
+IO Period:,IO Period:,0 months,0 months,0 months,,UW NCF:,"$1,338,928"
+Seasoning:,Seasoning:,4 months,4 months,4 months,,UW NOI Debt Yield:,10.2%
+Prepayment Provisions:,Prepayment Provisions:,"L(23),YM1(93),O(4)","L(23),YM1(93),O(4)","L(23),YM1(93),O(4)",,UW NCF Debt Yield:,10.0%
+Lockbox/Cash Mgmt Status:,Lockbox/Cash Mgmt Status:,Springing/Springing,Springing/Springing,Springing/Springing,,UW NOI Debt Yield at Maturity:,11.9%
+Additional Debt Type:,Additional Debt Type:,NAP,NAP,NAP,,UW NCF DSCR:,1.34x
+Additional Debt Balance:,Additional Debt Balance:,NAP,NAP,NAP,,Most Recent NOI:,"$1,343,497 (T-11 Annualized 1/31/2026)"
+Future Debt Permitted (Type):,Future Debt Permitted (Type):,No (NAP),No (NAP),No (NAP),,2nd Most Recent NOI(2):,NAV
+,,,,,,3rd Most Recent NOI(2):,NAV
+Reserves,Reserves,Reserves,Reserves,Reserves,,Most Recent Occupancy:,100.0% (2/1/2026)
+Type,Initial,Initial,Monthly,Cap,,2nd Most Recent Occupancy(2):,NAV
+RE Taxes:,$0,$0,"$10,115",NAP,,3rd Most Recent Occupancy(2):,NAV
+Insurance(1):,$0,$0,Springing,NAP,,Appraised Value (as of):,"$21,400,000 (11/5/2025)"
+Replacement Reserve:,$0,$0,"$2,550",NAP,,Appraised Value per Unit:,"$178,333"
+Static Insurance Reserve:,"$35,000","$35,000",$0,NAP,,Cut-off Date LTV Ratio:,62.6%
+,,,,,,Maturity Date LTV Ratio:,53.9%
+,,,,,,,

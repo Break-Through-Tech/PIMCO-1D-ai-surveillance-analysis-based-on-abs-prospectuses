@@ -1,0 +1,32 @@
+0,1,2,3,4,5,6,7,8
+Mortgage Loan Information,Mortgage Loan Information,Mortgage Loan Information,Mortgage Loan Information,Mortgage Loan Information,,Property Information,Property Information,Property Information
+Mortgage Loan Seller:,Mortgage Loan Seller:,CREFI,CREFI,CREFI,,Single Asset/Portfolio:,Single Asset,Single Asset
+,,,,,,Location:,"New York, NY 10016","New York, NY 10016"
+Original Balance(1):,Original Balance(1):,"$40,000,000","$40,000,000","$40,000,000",,General Property Type:,Office,Office
+Cut-off Date Balance(1):,Cut-off Date Balance(1):,"$40,000,000","$40,000,000","$40,000,000",,Detailed Property Type:,CBD,CBD
+% of Initial Pool Balance:,% of Initial Pool Balance:,5.2%,5.2%,5.2%,,Title Vesting:,Fee,Fee
+Loan Purpose:,Loan Purpose:,Refinance,Refinance,Refinance,,Year Built/Renovated:,1916/2020,1916/2020
+Borrower Sponsors:,Borrower Sponsors:,"Michael T. Cohen, Robert B. Getreu, and","Michael T. Cohen, Robert B. Getreu, and","Michael T. Cohen, Robert B. Getreu, and",,Size:,"308,287 SF","308,287 SF"
+,,Andrew H. Roos,Andrew H. Roos,Andrew H. Roos,,Cut-off Date Balance Per SF:,$195,$195
+Guarantors(2):,Guarantors(2):,NAP,NAP,NAP,,Maturity Date Balance Per SF:,$195,$195
+Mortgage Rate:,Mortgage Rate:,5.5900%,5.5900%,5.5900%,,Property Manager:,"Colliers International REMS US,","Colliers International REMS US,"
+Note Date:,Note Date:,2/4/2026,2/4/2026,2/4/2026,,,LLC (borrower-affiliated),LLC (borrower-affiliated)
+Maturity Date:,Maturity Date:,2/6/2031,2/6/2031,2/6/2031,,,,
+Term to Maturity:,Term to Maturity:,60 months,60 months,60 months,,Underwriting and Financial Information,Underwriting and Financial Information,Underwriting and Financial Information
+Amortization Term:,Amortization Term:,0 months,0 months,0 months,,UW NOI(5):,"$11,560,150","$11,560,150"
+IO Period:,IO Period:,60 months,60 months,60 months,,UW NCF:,"$10,823,979","$10,823,979"
+Seasoning:,Seasoning:,1 month,1 month,1 month,,UW NOI Debt Yield(1):,19.3%,19.3%
+Prepayment Provisions(3):,Prepayment Provisions(3):,"L(25),D(28),O(7)","L(25),D(28),O(7)","L(25),D(28),O(7)",,UW NCF Debt Yield(1):,18.0%,18.0%
+Lockbox/Cash Mgmt Status:,Lockbox/Cash Mgmt Status:,Springing/Springing,Springing/Springing,Springing/Springing,,UW NOI Debt Yield at Maturity(1):,19.3%,19.3%
+Additional Debt Type(1):,Additional Debt Type(1):,Pari Passu,Pari Passu,Pari Passu,,UW NCF DSCR(1):,3.18x,
+Additional Debt Balance(1):,Additional Debt Balance(1):,"$20,000,000","$20,000,000","$20,000,000",,Most Recent NOI(5):,"$10,061,815 (11/30/2025 TTM)","$10,061,815 (11/30/2025 TTM)"
+Future Debt Permitted (Type):,Future Debt Permitted (Type):,No (NAP),No (NAP),No (NAP),,2nd Most Recent NOI:,"$10,267,878 (12/31/2024)","$10,267,878 (12/31/2024)"
+Reserves(4),Reserves(4),Reserves(4),Reserves(4),Reserves(4),,3rd Most Recent NOI:,"$10,608,331 (12/31/2023)","$10,608,331 (12/31/2023)"
+Type,Initial,Initial,Monthly,Cap,,Most Recent Occupancy:,88.2% (1/5/2026),88.2% (1/5/2026)
+RE Taxes:,"$580,340","$580,340","$290,170",NAP,,2nd Most Recent Occupancy:,94.2% (12/31/2024),94.2% (12/31/2024)
+Insurance:,$0,$0,Springing,NAP,,3rd Most Recent Occupancy:,88.2% (12/31/2023),88.2% (12/31/2023)
+Replacement Reserve:,$0,$0,"$9,530",NAP,,Appraised Value (as of):,"$161,900,000 (11/6/2025)","$161,900,000 (11/6/2025)"
+,,,,,,Appraised Value PSF:,$525,$525
+,,,,,,Cut-off Date LTV Ratio:,37.1%,37.1%
+,,,,,,Maturity Date LTV Ratio:,37.1%,37.1%
+,,,,,,,,

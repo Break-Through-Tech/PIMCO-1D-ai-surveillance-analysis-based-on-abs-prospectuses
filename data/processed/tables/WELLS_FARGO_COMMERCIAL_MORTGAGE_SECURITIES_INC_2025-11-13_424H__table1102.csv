@@ -1,0 +1,11 @@
+0,1,2
+Trust  Component,Initial  Certificate Balance or Notional Amount,Pass-Through  Rate
+Class C,"$26,975,000",Class C Certificate Pass-Through  Rate minus 1.00%
+Class C-X1,Equal to Class C Trust Component  Certificate Balance,0.50%
+Class  C-X2,Equal  to Class C Trust Component Certificate Balance,0.50%
+Class D,"$16,859,000",Class D Certificate Pass-Through  Rate minus 1.00%
+Class D-X1,Equal to Class D Trust Component  Certificate Balance,0.50%
+Class  D-X2,Equal  to Class D Trust Component Certificate Balance,0.50%
+Class E,"$7,587,000",Class E Certificate Pass-Through  Rate minus 1.00%
+Class E-X1,Equal to Class E Trust Component  Certificate Balance,0.50%
+Class  E-X2,Equal  to Class E Trust Component Certificate Balance,0.50%
