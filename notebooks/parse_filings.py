@@ -1,6 +1,6 @@
 """
 Milestone 1 — HTML Filing Parser
-Parses SEC 424H filings for Toyota, Hyundai, CarMax, and Harley-Davidson.
+Parses SEC 424H filings for all 15 companies in the dataset.
 Extracts clean text and structured table content from semi-structured HTML.
 """
 
@@ -18,6 +18,17 @@ COMPANIES = {
     "HYUNDAI": "HYUNDAI_ABS_FUNDING_LLC",
     "CARMAX": "CARMAX_AUTO_FUNDING_LLC",
     "HARLEY_DAVIDSON": "HARLEY-DAVIDSON_CUSTOMER_FUNDING_CORP_",
+    "AFS_SENSUB": "AFS_SENSUB_CORP_",
+    "ALLY": "Ally_Auto_Assets_LLC",
+    "AMERICAN_EXPRESS": "AMERICAN_EXPRESS_CREDIT_ACCOUNT_MASTER_TRUST",
+    "AMERICAN_HONDA": "AMERICAN_HONDA_RECEIVABLES_LLC",
+    "BMW": "BMW_AUTO_LEASING_LLC",
+    "BRIDGECREST": "Bridgecrest_Auto_Funding_LLC",
+    "FORD": "FORD_CREDIT_AUTO_RECEIVABLES_TWO_LLC",
+    "SANTANDER": "SANTANDER_DRIVE_AUTO_RECEIVABLES_LLC",
+    "VERIZON": "Verizon_ABS_II_LLC",
+    "WELLS_FARGO": "WELLS_FARGO_COMMERCIAL_MORTGAGE_SECURITIES_INC",
+    "WORLD_OMNI": "WORLD_OMNI_AUTO_RECEIVABLES_LLC",
 }
 
 
