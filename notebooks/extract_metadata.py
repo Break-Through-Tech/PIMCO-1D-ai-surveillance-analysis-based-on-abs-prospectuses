@@ -6,6 +6,7 @@ Extracts structured metadata from clean text files and builds the index DataFram
 import re
 import pandas as pd
 from pathlib import Path
+from datetime import datetime
 
 CLEAN_DIR = Path(__file__).parent.parent / "data" / "clean_text"
 OUTPUT_DIR = Path(__file__).parent.parent / "data"
@@ -57,6 +58,26 @@ def clean_number(val: str | None) -> str | None:
     return re.sub(r",", "", val.strip())
 
 
+def extract_labeled_table_value(
+    text: str,
+    labels: list[str],
+    value_pattern: str,
+) -> str | None:
+    """Extract a value from the first pipe-delimited row with a known label."""
+    value_re = re.compile(value_pattern, re.IGNORECASE)
+    normalized_labels = [re.sub(r"\s+", " ", label).strip().lower() for label in labels]
+
+    for line in text.splitlines():
+        cells = [re.sub(r"\s+", " ", cell).strip() for cell in line.split("|")]
+        for index, cell in enumerate(cells):
+            if any(label in cell.lower() for label in normalized_labels):
+                for candidate in cells[index + 1:]:
+                    match = value_re.search(candidate)
+                    if match:
+                        return match.group(1).strip()
+    return None
+
+
 # ---------------------------------------------------------------------------
 # Field extractors
 # ---------------------------------------------------------------------------
@@ -96,6 +117,7 @@ def extract_deal_name(text: str) -> str | None:
 
 def extract_cik(text: str) -> str | None:
     patterns = [
+        r"Issuing Entity[^\n]*CIK\s+Number:\s*([\d]+)",
         r"Issuing Entity.*?CIK(?:\s*No\.?|:)\s*([\d]+)",
         r"CIK(?:\s*No\.?|:)\s*([\d]+)\s*\nIssuing Entity",
         r"\(CIK(?:\s*No\.?|:)\s*([\d]+)\)\s*\nIssuing Entity",
@@ -124,6 +146,8 @@ def extract_depositor(text: str) -> str | None:
 
 def extract_sponsor(text: str) -> str | None:
     patterns = [
+        r"([A-Z][A-Za-z .,&]+(?:LLC|Corp\.?|Inc\.?|Corporation))\s+Sponsor(?:, Administrator)?(?: and| &) Servicer",
+        r"\|\s*([A-Z][A-Za-z ,\.]+(?:LLC|Corp\.?|Inc\.?|Corporation))\s+Sponsor(?:, Administrator)?(?: and| &) Servicer",
         r"Sponsor(?:,?[A-Za-z ,]*)?(?:and|&)[A-Za-z ,]*Servicer[^\n]*\n([A-Z][A-Za-z ,\.]+(?:LLC|Corp\.?|Inc\.?|Corporation))",
         r"([A-Z][A-Za-z ,\.]+(?:LLC|Corp\.?|Inc\.?|Corporation))[^\n]*\nSponsor(?:,? and Servicer)?",
         r"Sponsor(?:,?[A-Za-z ,]*)?Servicer\s*\(CIK[^)]*\)\s*\n([A-Z][A-Za-z ,\.]+)",
@@ -153,20 +177,35 @@ def extract_cutoff_date(text: str) -> str | None:
 
 
 def extract_total_balance(text: str) -> str | None:
+    table_value = extract_labeled_table_value(
+        text,
+        ["Total Principal Balance", "Initial Pool Balance"],
+        r"(\$[\d,]+(?:\.\d{1,2})?)",
+    )
+    if table_value:
+        return clean_dollar(table_value)
+
     patterns = [
-        r"Total Principal Balance\s*\|[^|]*\|\s*(\$[\d,\.]+)",
-        r"Aggregate(?:\s+Starting|\s+Amount Financed|\s+Outstanding)?\s+Principal Balance\s*\|[^|]*\|\s*(\$[\d,\.]+)",
-        r"an aggregate (?:outstanding |principal )?balance of (\$[\d,\.]+)",
-        r"an aggregate principal balance of (\$[\d,\.]+)",
-        r"initial (?:aggregate )?(?:receivables )?principal balance[^\$]*(\$[\d,\.]+)",
-        r"initial pool balance\s*\n[^\$]*(\$[\d,\.]+)",
-        r"pool balance[^\$\n]*(\$[\d,\.]+)",
+        r"Aggregate(?:\s+Starting|\s+Amount Financed|\s+Outstanding)?\s+Principal Balance\s*\|[^|]*\|\s*(\$[\d,]+(?:\.\d{1,2})?)",
+        r"an aggregate (?:outstanding |principal )?balance of (\$[\d,]+(?:\.\d{1,2})?)",
+        r"an aggregate principal balance of (\$[\d,]+(?:\.\d{1,2})?)",
+        r"initial (?:aggregate )?(?:receivables )?principal balance[^\$]*(\$[\d,]+(?:\.\d{1,2})?)",
+        r"initial pool balance\s*\n[^\$]*(\$[\d,]+(?:\.\d{1,2})?)",
+        r"pool balance[^\$\n]*(\$[\d,]+(?:\.\d{1,2})?)",
     ]
     val = first_match(patterns, text)
     return clean_dollar(val)
 
 
 def extract_num_receivables(text: str) -> str | None:
+    table_value = extract_labeled_table_value(
+        text,
+        ["Number of Receivables", "Number of Contracts", "Number of Loans"],
+        r"([\d,]+)",
+    )
+    if table_value:
+        return clean_number(table_value)
+
     patterns = [
         r"Number of (?:Receivables|Contracts(?: in Pool)?|Loans?)\s*\|[^|]*\|\s*([\d,]+)",
         r"Number\s*\n\s*of receivables\s*\|\s*([\d,]+)",
@@ -180,6 +219,14 @@ def extract_num_receivables(text: str) -> str | None:
 
 
 def extract_avg_balance(text: str) -> str | None:
+    table_value = extract_labeled_table_value(
+        text,
+        ["Average Principal Balance", "Average Amount Financed"],
+        r"(\$[\d,]+(?:\.\d{1,2})?)",
+    )
+    if table_value:
+        return clean_dollar(table_value)
+
     patterns = [
         r"Average Principal Balance\s*\|[^|]*\|\s*(\$[\d,\.]+)",
         r"Average Amount Financed\s*\|[^|]*\|\s*(\$[\d,\.]+)",
@@ -191,6 +238,19 @@ def extract_avg_balance(text: str) -> str | None:
 
 
 def extract_wa_apr(text: str) -> str | None:
+    table_value = extract_labeled_table_value(
+        text,
+        [
+            "Weighted Average APR",
+            "Weighted Average Annual Percentage Rate",
+            "Weighted Average Contract Rate",
+            "Weighted average Interest Rate",
+        ],
+        r"([\d]+(?:\.\d+)?)\s*%",
+    )
+    if table_value:
+        return table_value
+
     patterns = [
         r"Weighted Average APR[^\|]*\|[^|]*\|\s*([\d\.]+)\s*%",
         r"Weighted Average APR of all Receivables[^\|]*\|[^|]*\|\s*([\d\.]+)",
@@ -208,6 +268,14 @@ def extract_wa_apr(text: str) -> str | None:
 
 
 def extract_wa_fico(text: str) -> str | None:
+    table_value = extract_labeled_table_value(
+        text,
+        ["Weighted Average FICO"],
+        r"([\d]+(?:\.\d+)?)",
+    )
+    if table_value:
+        return table_value
+
     patterns = [
         r"Weighted Average FICO[^\|]*\|[^|]*\|\s*([\d\.]+)",
         r"weighted average (?:custom score of \d+ and a )?weighted average credit bureau score of ([\d\.]+)",
@@ -221,6 +289,14 @@ def extract_wa_fico(text: str) -> str | None:
 
 
 def extract_wa_original_term(text: str) -> str | None:
+    table_value = extract_labeled_table_value(
+        text,
+        ["Weighted Average Original Term", "Weighted Average Original Number of Scheduled Payments"],
+        r"([\d]+(?:\.\d+)?)",
+    )
+    if table_value:
+        return table_value
+
     patterns = [
         r"Weighted Average Original(?:\s+Number of Scheduled Payments|\s+Term(?:\s+to Maturity)?)[^\|]*\|[^|]*\|\s*([\d\.]+)",
         r"Weighted Average Original Term \(In Months\)[^\|]*\|[^|]*\|\s*([\d\.]+)",
@@ -237,6 +313,14 @@ def extract_wa_original_term(text: str) -> str | None:
 
 
 def extract_wa_remaining_term(text: str) -> str | None:
+    table_value = extract_labeled_table_value(
+        text,
+        ["Weighted Average Remaining Term", "Weighted Average Remaining Number of Scheduled Payments"],
+        r"([\d]+(?:\.\d+)?)",
+    )
+    if table_value:
+        return table_value
+
     patterns = [
         r"Weighted Average Remaining(?:\s+Number of Scheduled Payments|\s+Term(?:\s+to Maturity)?)[^\|]*\|[^|]*\|\s*([\d\.]+)",
         r"Weighted Average Remaining Term \(In Months\)[^\|]*\|[^|]*\|\s*([\d\.]+)",
@@ -254,6 +338,15 @@ def extract_wa_remaining_term(text: str) -> str | None:
 
 def extract_aggregate_principal(text: str) -> str | None:
     """Extract the headline deal size (base/smaller scenario)."""
+    candidates = re.findall(
+        r"aggregate initial principal amount of \$?([\d,]+(?:\.\d+)?)",
+        text[:12000],
+        re.IGNORECASE,
+    )
+    if candidates:
+        selected = min(candidates, key=lambda value: float(value.replace(",", "")))
+        return clean_dollar("$" + selected)
+
     patterns = [
         r"^\$?([\d,]+(?:\.\d+)?)\s*\(1\)\s*\n",
         r"aggregate initial principal amount of (?:the notes(?: is)?|notes will be) \$?([\d,]+(?:\.\d+)?)\b",
@@ -433,6 +526,40 @@ def extract_metadata(filepath: Path, company: str, asset_type: str) -> dict:
     return record
 
 
+def validate_record(record: dict) -> str:
+    """Return semicolon-separated quality flags for a parsed filing."""
+    flags = []
+    if record["deal_name"] is None:
+        flags.append("missing_deal_name")
+    if record["issuing_entity_cik"] is None:
+        flags.append("missing_cik")
+    if record["aggregate_principal_amount"] is None:
+        flags.append("missing_aggregate_principal")
+    if record["filing_date"] != "unknown":
+        try:
+            datetime.strptime(record["filing_date"], "%Y-%m-%d")
+        except ValueError:
+            flags.append("invalid_filing_date")
+
+    for field in ("wa_apr", "wa_fico", "wa_ltv", "wa_dscr"):
+        value = record.get(field)
+        if value is not None:
+            numeric = re.search(r"[\d.]+", str(value))
+            if numeric and float(numeric.group()) < 0:
+                flags.append(f"negative_{field}")
+
+    if record.get("total_principal_balance") and record.get("number_of_receivables"):
+        try:
+            balance = float(record["total_principal_balance"].replace("$", ""))
+            count = float(record["number_of_receivables"])
+            average = record.get("avg_principal_balance")
+            if average and abs(balance / count - float(average.replace("$", ""))) > 1:
+                flags.append("balance_average_mismatch")
+        except ValueError:
+            flags.append("numeric_parse_error")
+    return ";".join(flags)
+
+
 # ---------------------------------------------------------------------------
 # Main
 # ---------------------------------------------------------------------------
@@ -446,7 +573,9 @@ def main():
         print(f"\nProcessing {company} ({len(files)} files)...")
         for f in files:
             print(f"  {f.name}")
-            records.append(extract_metadata(f, company, asset_type))
+            record = extract_metadata(f, company, asset_type)
+            record["quality_flags"] = validate_record(record)
+            records.append(record)
 
     df = pd.DataFrame(records)
 
@@ -460,7 +589,7 @@ def main():
         "aggregate_securitization_value", "aggregate_residual_value",
         "total_trust_receivables", "number_of_accounts",
         "number_of_loans", "number_of_properties", "wa_ltv", "wa_dscr",
-        "first_payment_date", "credit_enhancement_types", "filename",
+        "first_payment_date", "credit_enhancement_types", "quality_flags", "filename",
     ]
     df = df[cols]
 
