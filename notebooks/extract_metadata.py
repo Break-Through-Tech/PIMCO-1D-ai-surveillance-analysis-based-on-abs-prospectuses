@@ -14,23 +14,7 @@ OUTPUT_DIR = Path(__file__).parent.parent / "data"
 # ---------------------------------------------------------------------------
 # Company config: label, filename prefix, asset_type group
 # ---------------------------------------------------------------------------
-COMPANIES = {
-    "TOYOTA":           ("TOYOTA_AUTO_FINANCE_RECEIVABLES_LLC",          "auto_loans"),
-    "HYUNDAI":          ("HYUNDAI_ABS_FUNDING_LLC",                       "auto_loans"),
-    "CARMAX":           ("CARMAX_AUTO_FUNDING_LLC",                       "auto_loans_subprime"),
-    "HARLEY_DAVIDSON":  ("HARLEY-DAVIDSON_CUSTOMER_FUNDING_CORP_",        "motorcycle_loans"),
-    "AFS_SENSUB":       ("AFS_SENSUB_CORP_",                              "auto_loans_subprime"),
-    "ALLY":             ("Ally_Auto_Assets_LLC",                          "auto_loans"),
-    "AMERICAN_EXPRESS": ("AMERICAN_EXPRESS_CREDIT_ACCOUNT_MASTER_TRUST",  "credit_card_revolving"),
-    "AMERICAN_HONDA":   ("AMERICAN_HONDA_RECEIVABLES_LLC",                "auto_loans"),
-    "BMW":              ("BMW_AUTO_LEASING_LLC",                          "auto_leases"),
-    "BRIDGECREST":      ("Bridgecrest_Auto_Funding_LLC",                  "auto_loans_subprime"),
-    "FORD":             ("FORD_CREDIT_AUTO_RECEIVABLES_TWO_LLC",          "auto_loans"),
-    "SANTANDER":        ("SANTANDER_DRIVE_AUTO_RECEIVABLES_LLC",          "auto_loans_subprime"),
-    "VERIZON":          ("Verizon_ABS_II_LLC",                            "device_payment_revolving"),
-    "WELLS_FARGO":      ("WELLS_FARGO_COMMERCIAL_MORTGAGE_SECURITIES_INC","cmbs"),
-    "WORLD_OMNI":       ("WORLD_OMNI_AUTO_RECEIVABLES_LLC",               "auto_loans"),
-}
+from config.companies import COMPANIES, ASSET_TYPES
 
 
 # ---------------------------------------------------------------------------
@@ -565,7 +549,8 @@ def validate_record(record: dict) -> str:
 # ---------------------------------------------------------------------------
 def main():
     records = []
-    for company, (prefix, asset_type) in COMPANIES.items():
+    for company, prefix in COMPANIES.items():
+        asset_type = ASSET_TYPES[company]
         files = sorted(CLEAN_DIR.glob(f"{prefix}*_clean.txt"))
         if not files:
             print(f"  [WARN] No clean files found for {company}")
