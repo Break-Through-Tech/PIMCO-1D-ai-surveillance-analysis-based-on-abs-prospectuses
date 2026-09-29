@@ -1,0 +1,10 @@
+0,1,2,3,4,5,6,7,8
+Mortgage  Loan Name,Mortgage  Loan Cut-off Date Balance,% of Initial  Pool Balance,Pari Passu  Companion Loan Cut-off Date Balance,Subordinate  Companion Loan Cut-off Date Balance,Mortgage  Loan Cut-off Date LTV Ratio(1),Whole Loan  Cut-off Date LTV Ratio(2),Mortgage  Loan Underwritten NCF DSCR(1),Whole Loan  Underwritten NCF DSCR(2)
+512 West 22nd Street,"$65,000,000",9.4%,"$65,000,000",,62.4%,62.4%,1.57x,1.57x
+4 Union Square South,"$60,000,000",8.7%,"$60,000,000",,41.4%,41.4%,2.42x,2.42x
+Market Place Center,"$60,000,000",8.7%,"$75,000,000",,50.9%,50.9%,2.96x,2.96x
+BioMed MIT Portfolio,"$57,500,000",8.3%,"$789,500,000","$478,000,000",35.3%,55.2%,2.75x,1.66x
+Coastal Equities Portfolio,"$55,000,000",8.0%,"$105,000,000",,66.9%,66.9%,1.66x,1.66x
+Washington Square,"$30,833,333",4.5%,"$309,166,667",,51.9%,51.9%,2.07x,2.07x
+The Willard & The  Met,"$25,000,000",3.6%,"$41,500,000",,63.9%,63.9%,1.25x,1.25x
+32 Old Slip – Leased Fee,"$10,000,000",1.5%,"$157,000,000",,74.2%,74.2%,1.10x,1.10x

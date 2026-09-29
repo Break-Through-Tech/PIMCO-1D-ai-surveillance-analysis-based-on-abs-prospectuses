@@ -1,0 +1,31 @@
+0,1,2,3,4,5,6
+Mortgage  Loan Information,Mortgage  Loan Information,Mortgage  Loan Information,Mortgage  Loan Information,,Property  Information,Property  Information
+Mortgage Loan Seller:,Mortgage Loan Seller:,JPMCB,JPMCB,,Single Asset/Portfolio(3):,Portfolio
+,,,,,Location(3):,"Various, VA Various"
+Original Balance(1):,Original Balance(1):,"$58,000,000","$58,000,000",,General Property Type:,Retail
+Cut-off Date Balance(1):,Cut-off Date Balance(1):,"$58,000,000","$58,000,000",,Detailed Property Type:,Anchored
+% of Initial Pool Balance:,% of Initial Pool Balance:,9.9%,9.9%,,Title Vesting:,Fee
+Loan Purpose:,Loan Purpose:,Refinance,Refinance,,Year Built/Renovated(3):,Various/2020
+Borrower Sponsor:,Borrower Sponsor:,HHH Properties,HHH Properties,,Size:,"840,643 SF"
+Guarantors:,Guarantors:,"Marshall S. Ruben, Myrna Ruben Haft and Dana Ruben Rogers","Marshall S. Ruben, Myrna Ruben Haft and Dana Ruben Rogers",,Cut-off Date Balance PSF(1):,$196
+Mortgage Rate:,Mortgage Rate:,6.0930%,6.0930%,,Maturity Date Balance PSF(1):,$196
+Note Date:,Note Date:,2/20/2026,2/20/2026,,Property Manager:,HHH Properties Corp.
+Maturity Date:,Maturity Date:,3/1/2036,3/1/2036,,,(borrower-related)
+Term to Maturity:,Term to Maturity:,120 months,120 months,,,
+Amortization Term:,Amortization Term:,0 months,0 months,,Underwriting  and Financial Information(1),Underwriting  and Financial Information(1)
+IO Period:,IO Period:,120 months,120 months,,UW NOI(4):,"$15,191,983"
+Seasoning:,Seasoning:,1 month,1 month,,UW NCF,"$14,208,344"
+Prepayment Provisions:,Prepayment Provisions:,"L(24),YM1(90),O(6)","L(24),YM1(90),O(6)",,UW NOI Debt Yield(1):,9.2%
+Lockbox/Cash Mgmt. Status:,Lockbox/Cash Mgmt. Status:,Hard/Springing,Hard/Springing,,UW NCF Debt Yield(1):,8.6%
+Additional Debt Type(1):,Additional Debt Type(1):,Pari Passu,Pari Passu,,UW NOI Debt Yield at Maturity(1):,9.2%
+Additional Debt Balance(1):,Additional Debt Balance(1):,"$107,000,000","$107,000,000",,UW NCF DSCR(1):,1.39x
+Future Debt Permitted (Type):,Future Debt Permitted (Type):,No (NAP),No (NAP),,Most Recent NOI(4)(5):,"$14,085,754 (12/31/2025)"
+Reserves(2),Reserves(2),Reserves(2),Reserves(2),,2nd Most Recent NOI(5):,"$12,595,407 (12/31/2024)"
+Type,Initial,Monthly,Cap,,3rd Most Recent NOI:,"$13,097,024 (12/31/2023)"
+RE Taxes:,"$781,365","$195,341",NAP,,Most Recent Occupancy:,97.4% (12/31/2025)
+Insurance:,$0,Springing,NAP,,2nd Most Recent Occupancy:,96.0% (12/31/2024)
+Replacement Reserve:,"$14,011","$14,011",NAP,,3rd Most Recent Occupancy:,93.8% (12/32/2023)
+TI/LC Reserve:,"$4,000,000",Springing,"$4,000,000",,Appraised Value (as of)(6):,"$234,700,000 (11/30/2025)"
+Free Rent Reserve:,"$752,723",$0,NAP,,Appraised Value PSF(6):,$279
+Outstanding TI/LC Reserve:,"$549,705",$0,NAP,,Cut-off Date LTV Ratio(1):,70.3%
+,,,,,Maturity Date LTV Ratio(1):,70.3%

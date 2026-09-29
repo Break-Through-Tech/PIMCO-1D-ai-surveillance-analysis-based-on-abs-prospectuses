@@ -1,0 +1,31 @@
+0,1,2,3,4,5,6,7,8
+Mortgage Loan Information,Mortgage Loan Information,Mortgage Loan Information,Mortgage Loan Information,Mortgage Loan Information,,Property Information,Property Information,Property Information
+Mortgage Loan Seller:,Mortgage Loan Seller:,BANA,BANA,BANA,,Single Asset/Portfolio:,Single Asset,Single Asset
+,,,,,,Location:,"Long Beach, CA 90810","Long Beach, CA 90810"
+Original Balance(1):,Original Balance(1):,"$30,000,000","$30,000,000","$30,000,000",,General Property Type:,Office,Office
+Cut-off Date Balance(1):,Cut-off Date Balance(1):,"$30,000,000","$30,000,000","$30,000,000",,Detailed Property Type:,Suburban,Suburban
+% of Initial Pool Balance:,% of Initial Pool Balance:,3.5%,3.5%,3.5%,,Title Vesting:,Fee,Fee
+Loan Purpose:,Loan Purpose:,Refinance,Refinance,Refinance,,Year Built/Renovated:,1982/2005,1982/2005
+Borrower Sponsor:,Borrower Sponsor:,"Omninet Capital, LLC","Omninet Capital, LLC","Omninet Capital, LLC",,Size:,"494,055 SF","494,055 SF"
+Guarantors:,Guarantors:,Neil Kadisha and Benjamin Nazarian,Neil Kadisha and Benjamin Nazarian,Neil Kadisha and Benjamin Nazarian,,Cut-off Date Balance Per SF(1):,$192,$192
+Mortgage Rate:,Mortgage Rate:,6.0240%,6.0240%,6.0240%,,Maturity Date Balance Per SF(1):,$192,$192
+Note Date:,Note Date:,2/19/2026,2/19/2026,2/19/2026,,Property Manager:,"Omninet Property Management, Inc.","Omninet Property Management, Inc."
+Maturity Date:,Maturity Date:,3/1/2031,3/1/2031,3/1/2031,,,(borrower-related),(borrower-related)
+Term to Maturity:,Term to Maturity:,60 months,60 months,60 months,,Underwriting and Financial Information,Underwriting and Financial Information,Underwriting and Financial Information
+Amortization Term:,Amortization Term:,0 months,0 months,0 months,,UW NOI(4):,"$11,937,377","$11,937,377"
+IO Period:,IO Period:,60 months,60 months,60 months,,UW NCF:,"$11,547,266","$11,547,266"
+Seasoning:,Seasoning:,3 months,3 months,3 months,,UW NOI Debt Yield(1):,12.6%,12.6%
+Prepayment Provisions:,Prepayment Provisions:,"L(27),D(26),O(7)","L(27),D(26),O(7)","L(27),D(26),O(7)",,UW NCF Debt Yield(1):,12.2%,12.2%
+Lockbox/Cash Mgmt Status:,Lockbox/Cash Mgmt Status:,Hard/Springing,Hard/Springing,Hard/Springing,,UW NOI Debt Yield at Maturity(1):,12.6%,12.6%
+Additional Debt Type(1):,Additional Debt Type(1):,Pari Passu,Pari Passu,Pari Passu,,UW NCF DSCR(1):,1.99x,
+Additional Debt Balance(1):,Additional Debt Balance(1):,"$65,000,000","$65,000,000","$65,000,000",,Most Recent NOI(4):,"$7,268,161 (11/30/2025 TTM)","$7,268,161 (11/30/2025 TTM)"
+Future Debt Permitted (Type):,Future Debt Permitted (Type):,No (NAP),No (NAP),No (NAP),,2nd Most Recent NOI(4):,"$1,750,570 (12/31/2024)","$1,750,570 (12/31/2024)"
+,,,,,,3rd Most Recent NOI(4):,"$1,897,884 (12/31/2023)","$1,897,884 (12/31/2023)"
+Reserves,Reserves,Reserves,Reserves,Reserves,,Most Recent Occupancy(4):,89.9% (2/1/2026),89.9% (2/1/2026)
+Type,Initial,Initial,Monthly,Cap,,2nd Most Recent Occupancy(4):,27.1% (12/31/2024),27.1% (12/31/2024)
+RE Taxes:,$0,$0,"$101,204",NAP,,3rd Most Recent Occupancy(4):,31.0% (12/31/2023),31.0% (12/31/2023)
+Insurance:,$0,$0,Springing(2),NAP,,Appraised Value (as of)(5):,"$157,000,000 (4/1/2026)","$157,000,000 (4/1/2026)"
+Replacement Reserve:,"$240,000","$240,000","$10,293",NAP,,Appraised Value Per SF:,$318,$318
+TI/LC Reserve:,$0,$0,"$41,171","$1,482,165",,Cut-off Date LTV Ratio(1)(5):,60.5%,60.5%
+Other Reserves(3):,"$18,234,780","$18,234,780",$0,NAP,,Maturity Date LTV Ratio(1)(5):,60.5%,60.5%
+,,,,,,,,

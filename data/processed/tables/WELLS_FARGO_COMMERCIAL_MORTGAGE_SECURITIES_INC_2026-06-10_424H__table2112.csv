@@ -1,0 +1,31 @@
+0,1,2,3,4,5,6,7
+Mortgage Loan Information,Mortgage Loan Information,Mortgage Loan Information,Mortgage Loan Information,Mortgage Loan Information,,Property Information,Property Information
+Mortgage Loan Seller:,Mortgage Loan Seller:,SGFC,SGFC,SGFC,,Single Asset/Portfolio:,Single Asset
+,,,,,,Location:,"New York, NY 10017"
+Original Balance(1):,Original Balance(1):,"$20,000,000","$20,000,000","$20,000,000",,General Property Type:,Mixed Use
+Cut-off Date Balance(1):,Cut-off Date Balance(1):,"$19,973,118","$19,973,118","$19,973,118",,Detailed Property Type:,Retail/Office
+% of Initial Pool Balance:,% of Initial Pool Balance:,3.7%,3.7%,3.7%,,Title Vesting:,Fee
+Loan Purpose:,Loan Purpose:,Refinance,Refinance,Refinance,,Year Built/Renovated:,1897-1927/2017
+Borrower Sponsor:,Borrower Sponsor:,Joseph Moinian,Joseph Moinian,Joseph Moinian,,Size:,"507,207 SF"
+Guarantor:,Guarantor:,Joseph Moinian,Joseph Moinian,Joseph Moinian,,Cut-off Date Balance PSF(1):,$610
+Mortgage Rate:,Mortgage Rate:,7.0600%,7.0600%,7.0600%,,Maturity Date Balance PSF(1)(2):,$601
+Note Date:,Note Date:,1/9/2026,1/9/2026,1/9/2026,,Property Manager:,Columbus Property Management LLC
+Maturity Date:,Maturity Date:,1/9/2031,1/9/2031,1/9/2031,,,
+Term to Maturity:,Term to Maturity:,60 months,60 months,60 months,,Underwriting  and Financial Information,Underwriting  and Financial Information
+Amortization Term(2):,Amortization Term(2):,NAP,NAP,NAP,,UW NOI:,"$30,196,800"
+IO Period:,IO Period:,0 months,0 months,0 months,,UW NCF:,"$30,095,359"
+Seasoning:,Seasoning:,5 months,5 months,5 months,,UW NOI Debt Yield(1):,9.8%
+Prepayment Provisions(3):,Prepayment Provisions(3):,"L(23),YM1(6),DorYM1(27),O(4)","L(23),YM1(6),DorYM1(27),O(4)","L(23),YM1(6),DorYM1(27),O(4)",,UW NCF Debt Yield(1):,9.7%
+Lockbox/Cash Mgmt Status:,Lockbox/Cash Mgmt Status:,Hard/In Place,Hard/In Place,Hard/In Place,,UW NOI Debt Yield at Maturity(1):,9.9%
+Additional Debt Type(1):,Additional Debt Type(1):,Pari Passu,Pari Passu,Pari Passu,,UW NCF DSCR(1)(2):,1.30x
+Additional Debt Balance(1):,Additional Debt Balance(1):,"$289,610,215","$289,610,215","$289,610,215",,Most Recent NOI:,"$28,391,172 (10/31/2025 TTM)"
+Future Debt Permitted (Type):,Future Debt Permitted (Type):,No (NAP),No (NAP),No (NAP),,2nd Most Recent NOI:,"$26,957,312 (12/31/2024)"
+Reserves,Reserves,Reserves,Reserves,Reserves,,3rd Most Recent NOI:,"$23,594,550 (12/31/2023)"
+Type,Initial,Initial,Monthly,Cap,,Most Recent Occupancy:,88.8% (11/18/2025)
+RE Taxes:,$0,$0,Springing(4),NAP,,2nd Most Recent Occupancy:,95.0% (12/31/2024)
+Insurance:,$0,$0,Springing(5),NAP,,3rd Most Recent Occupancy:,96.0% (12/31/2023)
+Replacement Reserve:,$0,$0,"$8,453",NAP,,Appraised Value (as of):,"$490,000,000 (11/21/2025)"
+Rollover Reserve(6):,"$52,000","$52,000",$0,NAP,,Appraised Value PSF:,$966
+Deferred Maintenance Reserve:,"$100,750","$100,750",$0,NAP,,Cut-off Date LTV Ratio(1):,63.2%
+Rent Concession Reserve:,"$2,515,028","$2,515,028",$0,NAP,,Maturity Date LTV Ratio(1)(2):,62.3%
+,,,,,,,

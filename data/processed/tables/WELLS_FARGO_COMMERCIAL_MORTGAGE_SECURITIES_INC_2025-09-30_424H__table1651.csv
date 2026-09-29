@@ -1,0 +1,32 @@
+0,1,2,3,4,5,6,7
+Mortgage  Loan Information,Mortgage  Loan Information,Mortgage  Loan Information,Mortgage  Loan Information,Mortgage  Loan Information,,Property  Information,Property  Information
+Mortgage Loan Seller:,Mortgage Loan Seller:,Mortgage Loan Seller:,JPMCB,JPMCB,,Single Asset/Portfolio:,Single Asset
+,,,,,,Location:,"New York, NY 10011"
+Original Balance(1):,Original Balance(1):,Original Balance(1):,"$65,000,000","$65,000,000",,General Property Type:,Office
+Cut-off Date Balance(1):,Cut-off Date Balance(1):,Cut-off Date Balance(1):,"$65,000,000","$65,000,000",,Detailed Property Type:,CBD
+% of Initial Pool Balance:,% of Initial Pool Balance:,% of Initial Pool Balance:,9.4%,9.4%,,Title Vesting:,Fee
+Loan Purpose:,Loan Purpose:,Loan Purpose:,Acquisition,Acquisition,,Year Built/Renovated:,2019/NAP
+Borrower Sponsor:,Borrower Sponsor:,Borrower Sponsor:,RAGHSA Real Estate LLC,RAGHSA Real Estate LLC,,Size:,"172,576 SF"
+Guarantor:,Guarantor:,Guarantor:,RAGHSA Real Estate LLC,RAGHSA Real Estate LLC,,Cut-off Date Balance Per SF(1):,$753
+Mortgage Rate:,Mortgage Rate:,Mortgage Rate:,6.6410%,6.6410%,,Maturity Date Balance Per SF(1):,$753
+Note Date:,Note Date:,Note Date:,8/14/2025,8/14/2025,,Property Manager:,RCMC NY LLC
+Maturity Date:,Maturity Date:,Maturity Date:,9/5/2035,9/5/2035,,,
+Term to Maturity:,Term to Maturity:,Term to Maturity:,120 months,120 months,,Underwriting  and Financial Information(1),Underwriting  and Financial Information(1)
+Amortization Term:,Amortization Term:,Amortization Term:,0 months,0 months,,UW NOI(3):,"$14,578,877"
+IO Period:,IO Period:,IO Period:,120 months,120 months,,UW NCF:,"$13,764,049"
+Seasoning:,Seasoning:,Seasoning:,1 month,1 month,,UW NOI Debt Yield:,11.2%
+Prepayment Provisions:,Prepayment Provisions:,Prepayment Provisions:,"L(25),D(88),O(7)","L(25),D(88),O(7)",,UW NCF Debt Yield:,10.6%
+Lockbox/Cash Mgmt Status:,Lockbox/Cash Mgmt Status:,Lockbox/Cash Mgmt Status:,Hard/Springing,Hard/Springing,,UW NOI Debt Yield at Maturity:,11.2%
+Additional Debt Type:,Additional Debt Type:,Additional Debt Type:,Pari Passu,Pari Passu,,UW NCF DSCR:,1.57x
+Additional Debt Balance:,Additional Debt Balance:,Additional Debt Balance:,"$65,000,000","$65,000,000",,Most Recent NOI(3):,"$13,091,530 (6/30/2025 TTM)"
+Future Debt Permitted (Type):,Future Debt Permitted (Type):,Future Debt Permitted (Type):,No (NAP),No (NAP),,2nd Most Recent NOI:,"$12,643,938 (12/31/2024)"
+,,,,,,3rd Most Recent NOI:,"$11,864,688 (12/31/2023)"
+,,,,,,Most Recent Occupancy(4)(5):,100.0% (8/7/2025)
+Reserves(2),Reserves(2),Reserves(2),Reserves(2),Reserves(2),,2nd Most Recent Occupancy:,83.5% (12/31/2024)
+Type,Initial,Monthly,Monthly,Cap,,3rd Most Recent Occupancy:,78.6% (12/31/2023)
+RE Taxes:,"$251,864","$83,955","$83,955",NAP,,Appraised Value (as of):,"$208,500,000 (6/25/2025)"
+Insurance:,"$31,204","$31,204","$31,204",NAP,,Appraised Value Per SF:,"$1,208"
+Replacement Reserves:,$0,Springing,Springing,"$103,546",,Cut-off Date LTV Ratio:,62.4%
+TI/LC Reserves:,"$35,953","$35,953","$35,953","$2,157,000",,Maturity Date LTV Ratio:,62.4%
+Other Reserves(6):,"$2,712,875",$0,$0,NAP,,,
+,,,,,,,

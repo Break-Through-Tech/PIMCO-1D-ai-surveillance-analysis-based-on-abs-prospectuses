@@ -1,0 +1,5 @@
+0,1,2,3,4,5,6,7,8
+Mortgage  Loan Name,Mortgage  Loan  Cut-off Date Balance,Mortgage  Loan Cut-off % of Initial Pool Balance,Maximum  Principal Amount (if specified)(1),Maximum  Combined LTV(2),Minimum  Combined DSCR(2),Minimum  Combined DY(2),Intercreditor  Agreement Required(3),Mortgage  Lender Allowed to Require Rating Agency Confirmation(3)
+Vertex HQ,"$32,300,000",5.2%,NAP,60.8%,NAP,8.3%,Yes,No
+Holiday Inn Indianapolis Airport Area - N,"$9,731,310",1.6%,NAP,60.9%,1.43x,NAP,Yes,Yes
+Spring Ridge Village Apartments,"$7,250,000",1.2%,NAP,51.8%,1.28x,NAP,Yes,Yes

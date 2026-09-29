@@ -1,0 +1,7 @@
+0,1,2,3,4,5,6
+Type of Fee,,Amount of Fee,,Party Receiving Fee,,Priority in Distribution
+Asset Representations Reviewer annual fee(1) plus expenses and indemnity amounts,,"$5,000 each year",,Asset Representations Reviewer,,"First priority, to the extent not paid by the Servicer"
+Asset Representations Reviewer review fee(1),,$200 for each Review Receivable on completion of a review,,Asset Representations Reviewer,,"First priority, to the extent not paid by the Servicer"
+Servicing Fee(2)(3),,One-twelfth of 1.25% of the aggregate principal balance of the Receivables as of the first day of the related Collection Period.(4),,Servicer,,The Servicing Fee for the related Payment Date and any previously unpaid Servicing Fee will reduce the Available Funds available for distribution.
+Indenture Trustee fee(5) plus expenses and indemnity amounts,,"$6,000 each year",,Indenture Trustee,,"Following an event of default and acceleration of the Notes, first priority to the extent not paid by the Administrator"
+Owner Trustee fee(6) plus expenses and indemnity amounts,,"$4,000 each year",,Owner Trustee,,"Following an event of default and acceleration of the Notes, first priority to the extent not paid by the Administrator"

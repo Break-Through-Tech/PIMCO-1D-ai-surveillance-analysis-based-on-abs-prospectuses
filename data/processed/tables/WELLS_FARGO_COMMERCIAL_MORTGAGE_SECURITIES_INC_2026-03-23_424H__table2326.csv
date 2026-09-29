@@ -1,0 +1,34 @@
+0,1,2,3,4,5,6,7
+Mortgage  Loan Information,Mortgage  Loan Information,Mortgage  Loan Information,Mortgage  Loan Information,Mortgage  Loan Information,,Property Information,Property Information
+Mortgage Loan Seller:,Mortgage Loan Seller:,LMF,LMF,LMF,,Single Asset/Portfolio:,Single Asset
+,,,,,,Location:,"Greenwich, CT 06830"
+Original Balance:,Original Balance:,"$13,700,000","$13,700,000","$13,700,000",,General Property Type:,Mixed Use
+Cut-off Date Balance:,Cut-off Date Balance:,"$13,700,000","$13,700,000","$13,700,000",,Detailed Property Type:,Retail/Multifamily
+% of Initial Pool Balance:,% of Initial Pool Balance:,2.3%,2.3%,2.3%,,Title Vesting:,Fee
+Loan Purpose:,Loan Purpose:,Refinance,Refinance,Refinance,,Year Built/Renovated:,1884-1972/NAP
+Borrower Sponsor:,Borrower Sponsor:,Englantina Gega,Englantina Gega,Englantina Gega,,Size(1):,"34,385 SF"
+Guarantor:,Guarantor:,Englantina Gega,Englantina Gega,Englantina Gega,,Cut-off Date Balance Per SF(1):,$398
+Mortgage Rate:,Mortgage Rate:,7.0800%,7.0800%,7.0800%,,Maturity Date Balance Per SF(1):,$398
+Note Date:,Note Date:,2/11/2026,2/11/2026,2/11/2026,,Property Manager:,USA Management LLC
+Maturity Date:,Maturity Date:,2/6/2036,2/6/2036,2/6/2036,,,
+Term to Maturity:,Term to Maturity:,120 months,120 months,120 months,,Underwriting  and Financial Information,Underwriting  and Financial Information
+Amortization Term:,Amortization Term:,0 months,0 months,0 months,,UW NOI:,"$1,380,836"
+IO Period:,IO Period:,120 months,120 months,120 months,,UW NCF:,"$1,350,104"
+Seasoning:,Seasoning:,2 months,2 months,2 months,,UW NOI Debt Yield:,10.1%
+Prepayment Provisions:,Prepayment Provisions:,"L(26),D(87),O(7)","L(26),D(87),O(7)","L(26),D(87),O(7)",,UW NCF Debt Yield:,9.9%
+Lockbox/Cash Mgmt Status:,Lockbox/Cash Mgmt Status:,Springing/Springing,Springing/Springing,Springing/Springing,,UW NOI Debt Yield at Maturity:,10.1%
+Additional Debt Type:,Additional Debt Type:,NAP,NAP,NAP,,UW NCF DSCR:,1.37x
+Additional Debt Balance:,Additional Debt Balance:,NAP,NAP,NAP,,Most Recent NOI:,"$1,398,327 (10/31/2025 TTM)"
+Future Debt Permitted (Type):,Future Debt Permitted (Type):,No (NAP),No (NAP),No (NAP),,2nd Most Recent NOI:,"$1,399,013 (12/31/2024)"
+,,,,,,3rd Most Recent NOI:,"$1,261,820 (12/31/2023)"
+,,,,,,Most Recent Occupancy(2):,100.0% (12/1/2025)
+Reserves,Reserves,Reserves,Reserves,Reserves,,2nd Most Recent Occupancy(2):,94.1% (12/31/2024)
+Type,Initial,Initial,Monthly,Cap,,3rd Most Recent Occupancy(2):,88.2% (12/31/2023)
+RE Taxes:,"$55,125","$55,125","$13,125",NAP,,Appraised Value (as of):,"$21,900,000 (10/22/2025)"
+Insurance:,"$17,540","$17,540","$5,568",NAP,,Appraised Value Per SF(1):,$637
+Replacement Reserve:,$0,$0,$515,"$31,000",,Cut-off Date LTV Ratio:,62.6%
+TI/LC Reserve:,$0,$0,"$2,046","$122,745",,Maturity Date LTV Ratio:,62.6%
+Deferred Maintenance:,"$13,809","$13,809",$0,NAP,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,

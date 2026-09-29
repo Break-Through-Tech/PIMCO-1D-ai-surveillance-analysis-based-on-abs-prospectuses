@@ -1,0 +1,33 @@
+0,1,2,3,4,5,6,7
+Mortgage Loan Information,Mortgage Loan Information,Mortgage Loan Information,Mortgage Loan Information,Mortgage Loan Information,,Property Information,Property Information
+Mortgage Loan Seller:,Mortgage Loan Seller:,WFB,WFB,WFB,,Single Asset/Portfolio:,Single Asset
+,,,,,,Location:,"Ashwaubenon, WI 54304"
+Original Balance:,Original Balance:,"$18,000,000","$18,000,000","$18,000,000",,General Property Type:,Multifamily
+Cut-off Date Balance:,Cut-off Date Balance:,"$18,000,000","$18,000,000","$18,000,000",,Detailed Property Type:,Mid Rise
+% of Initial Pool Balance:,% of Initial Pool Balance:,2.5%,2.5%,2.5%,,Title Vesting:,Fee
+Loan Purpose:,Loan Purpose:,Refinance,Refinance,Refinance,,Year Built/Renovated:,2023/NAP
+Borrower Sponsor:,Borrower Sponsor:,Merge Urban Development Group,Merge Urban Development Group,Merge Urban Development Group,,Size(2):,88 Units
+Guarantor:,Guarantor:,Brent Dahlstrom,Brent Dahlstrom,Brent Dahlstrom,,Cut-off Date Balance Per unit:,"$204,545"
+Mortgage Rate:,Mortgage Rate:,6.4610%,6.4610%,6.4610%,,Maturity Date Balance Per unit:,"$204,545"
+Note Date:,Note Date:,10/8/2025,10/8/2025,10/8/2025,,Property Manager:,"Diverge, LLC"
+Maturity Date:,Maturity Date:,10/11/2030,10/11/2030,10/11/2030,,,
+Term to Maturity:,Term to Maturity:,60 months,60 months,60 months,,,
+Amortization Term:,Amortization Term:,0 months,0 months,0 months,,Underwriting and Financial Information,Underwriting and Financial Information
+IO Period:,IO Period:,60 months,60 months,60 months,,UW NOI:,"$1,556,620"
+Seasoning:,Seasoning:,2 months,2 months,2 months,,UW NCF:,"$1,528,466"
+Prepayment Provisions:,Prepayment Provisions:,"L(26),D(27),O(7)","L(26),D(27),O(7)","L(26),D(27),O(7)",,UW NOI Debt Yield:,8.6%
+Lockbox/Cash Mgmt Status:,Lockbox/Cash Mgmt Status:,Springing/Springing,Springing/Springing,Springing/Springing,,UW NCF Debt Yield:,8.5%
+Additional Debt Type:,Additional Debt Type:,NAP,NAP,NAP,,UW NOI Debt Yield at Maturity:,8.6%
+Additional Debt Balance:,Additional Debt Balance:,NAP,NAP,NAP,,UW NCF DSCR:,1.30x
+Future Debt Permitted (Type):,Future Debt Permitted (Type):,No (NAP),No (NAP),No (NAP),,Most Recent NOI(3):,"$1,535,780 (8/31/2025 TTM)"
+,,,,,,2nd Most Recent NOI(3):,"$1,156,958 (12/31/2024)"
+Reserves,Reserves,Reserves,Reserves,Reserves,,3rd Most Recent NOI(3):,"$89,032 (12/31/2023)"
+Type,Initial,Initial,Monthly,Cap,,Most Recent Occupancy(3):,100.0% (8/26/2025)
+RE Taxes:,"$60,297","$60,297","$20,099",NAP,,2nd Most Recent Occupancy(3):,95.5% (12/31/2024)
+Insurance:,$0,$0,Springing(1),NAP,,3rd Most Recent Occupancy(3):,43.2% (12/31/2023)
+Replacement Reserve:,$0,$0,"$2,026",NAP,,Appraised Value (as of):,"$27,000,000 (4/4/2025)"
+Leasing Reserve:,$0,$0,$321,NAP,,Appraised Value Per unit:,"$306,818"
+Existing TI/LC Reserve Funds:,"$337,000","$337,000",$0,NAP,,Cut-off Date LTV Ratio:,66.7%
+,,,,,,Maturity Date LTV Ratio:,66.7%
+,,,,,,,
+,,,,,,,

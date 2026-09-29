@@ -1,0 +1,10 @@
+0,1,2,3,4,5,6,7,8
+,Principal  Amount(2),Principal  Amount(2),Principal  Amount(2),,Interest Rate,,Final Scheduled  Payment Date,
+Class A-1 notes,,$,262500000,,●%,,"April 15, 2026",
+Class A-2a notes(3),},480000000,480000000,,●%,,"December 15, 2027",
+Class A-2b notes(3)(4)(5),},480000000,480000000,,30-day average SOFR + ●%,,"December 15, 2027",
+Class A-3 notes,,428000000,428000000,,●%,,"October 15, 2029",
+Class A-4 notes,,79500000,79500000,,●%,,"February 15, 2031",
+Class B notes,,39480000,39480000,,●%,,"February 15, 2031",
+Class C notes(6),,26310000,26310000,,0.00%,,"September 15, 2032",
+Total(2),,$,1315790000,,,,,

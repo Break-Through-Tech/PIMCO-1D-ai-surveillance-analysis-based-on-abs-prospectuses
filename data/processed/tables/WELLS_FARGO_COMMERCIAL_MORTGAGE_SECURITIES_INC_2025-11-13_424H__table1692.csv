@@ -1,0 +1,31 @@
+0,1,2,3,4,5,6,7
+Mortgage Loan Information,Mortgage Loan Information,Mortgage Loan Information,Mortgage Loan Information,Mortgage Loan Information,,Property Information,Property Information
+Mortgage Loan Seller:,Mortgage Loan Seller:,BANA,BANA,BANA,,Single Asset/Portfolio:,Single Asset
+,,,,,,Location:,"Lynchburg, VA 24502"
+Original Balance(1):,Original Balance(1):,"$60,700,000","$60,700,000","$60,700,000",,General Property Type:,Multifamily
+Cut-off Date Balance(1):,Cut-off Date Balance(1):,"$60,700,000","$60,700,000","$60,700,000",,Detailed Property Type:,Mid Rise
+% of Initial Pool Balance:,% of Initial Pool Balance:,8.6%,8.6%,8.6%,,Title Vesting:,Fee
+Loan Purpose:,Loan Purpose:,Refinance,Refinance,Refinance,,Year Built/Renovated:,2023-2025/NAP
+Borrower Sponsor:,Borrower Sponsor:,TPB Properties,TPB Properties,TPB Properties,,Size:,494 Units
+Guarantor:,Guarantor:,Thomas Bell,Thomas Bell,Thomas Bell,,Cut-off Date Balance per Unit(1):,"$183,603"
+Mortgage Rate:,Mortgage Rate:,6.3000%,6.3000%,6.3000%,,Maturity Date Balance per Unit(1):,"$183,603"
+Note Date:,Note Date:,10/27/2025,10/27/2025,10/27/2025,,Property Manager:,TPB Property Management LLC
+Maturity Date:,Maturity Date:,11/1/2030,11/1/2030,11/1/2030,,,(borrower-related)
+Term to Maturity:,Term to Maturity:,60 months,60 months,60 months,,Underwriting  and Financial Information,Underwriting  and Financial Information
+Amortization Term:,Amortization Term:,0 months,0 months,0 months,,UW NOI:,"$7,344,158"
+IO Period:,IO Period:,60 months,60 months,60 months,,UW NCF:,"$7,245,358"
+Seasoning:,Seasoning:,1 month,1 month,1 month,,UW NOI Debt Yield(1):,8.1%
+Prepayment Provisions(2):,Prepayment Provisions(2):,"L(25),YM1(28),O(7)","L(25),YM1(28),O(7)","L(25),YM1(28),O(7)",,UW NCF Debt Yield(1):,8.0%
+Lockbox/Cash Mgmt Status:,Lockbox/Cash Mgmt Status:,Springing/Springing,Springing/Springing,Springing/Springing,,UW NOI Debt Yield at Maturity(1):,8.1%
+Additional Debt Type(1):,Additional Debt Type(1):,Pari Passu,Pari Passu,Pari Passu,,UW NCF DSCR(1):,1.25x
+Additional Debt Balance(1):,Additional Debt Balance(1):,"$30,000,000","$30,000,000","$30,000,000",,Most Recent NOI(4):,"$8,696,679 (9/30/2025 T-3 Ann.)"
+Future Debt Permitted (Type):,Future Debt Permitted (Type):,No (NAP),No (NAP),No (NAP),,2nd Most Recent NOI(4):,"$5,287,171 (9/30/2025 TTM)"
+,,,,,,3rd Most Recent NOI(4):,NAV
+,,,,,,Most Recent Occupancy(4):,94.7% (10/3/2025)
+,,,,,,2nd Most Recent Occupancy(4):,NAV
+Reserves(3),Reserves(3),Reserves(3),Reserves(3),Reserves(3),,3rd Most Recent Occupancy(4):,NAV
+Type,Initial,Initial,Monthly,Cap,,Appraised Value (as of):,"$135,020,000 (9/18/2025)"
+RE Taxes:,"$370,987","$370,987","$61,831",NAP,,Appraised Value per Unit:,"$273,320"
+Insurance:,"$13,492","$13,492","$13,492",NAP,,Cut-off Date LTV Ratio(1):,67.2%
+Replacement Reserve:,$0,$0,"$8,233",NAP,,Maturity Date LTV Ratio(1):,67.2%
+,,,,,,,

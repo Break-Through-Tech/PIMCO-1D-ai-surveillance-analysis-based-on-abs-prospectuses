@@ -1,0 +1,31 @@
+0,1,2,3,4,5,6,7
+Mortgage Loan Information,Mortgage Loan Information,Mortgage Loan Information,Mortgage Loan Information,Mortgage Loan Information,,Mortgaged Property Information,Mortgaged Property Information
+Mortgage Loan Seller:,Mortgage Loan Seller:,MSMCH,MSMCH,MSMCH,,Single Asset/Portfolio:,Portfolio
+,,,,,,Location(2):,"Various, Various"
+Original Balance:,Original Balance:,"$32,800,000","$32,800,000","$32,800,000",,General Property Type:,Manufactured Housing
+Cut-off Date Balance:,Cut-off Date Balance:,"$32,800,000","$32,800,000","$32,800,000",,Detailed Property Type:,Manufactured Housing
+% of Initial Pool Balance:,% of Initial Pool Balance:,3.8%,3.8%,3.8%,,Title Vesting:,Fee
+Loan Purpose:,Loan Purpose:,Refinance,Refinance,Refinance,,Year Built/Renovated(2):,Various/NAP
+Borrower Sponsor:,Borrower Sponsor:,COARE Communities LLC,COARE Communities LLC,COARE Communities LLC,,Size:,482 Pads
+Guarantor:,Guarantor:,Hansel Rodriguez,Hansel Rodriguez,Hansel Rodriguez,,Cut-off Date Balance Per Pad:,"$68,050"
+Mortgage Rate:,Mortgage Rate:,6.2200%,6.2200%,6.2200%,,Maturity Date Balance Per Pad:,"$68,050"
+Note Date:,Note Date:,3/31/2026,3/31/2026,3/31/2026,,Property Manager:,COHR Management LLC
+Maturity Date:,Maturity Date:,4/1/2031,4/1/2031,4/1/2031,,,(borrower-related)
+Term to Maturity:,Term to Maturity:,60 months,60 months,60 months,,Underwriting and Financial Information,Underwriting and Financial Information
+Amortization Term:,Amortization Term:,0 months,0 months,0 months,,UW NOI:,"$2,835,687"
+IO Period:,IO Period:,60 months,60 months,60 months,,UW NCF:,"$2,810,387"
+Seasoning:,Seasoning:,2 months,2 months,2 months,,UW NOI Debt Yield:,8.6%
+Prepayment Provisions:,Prepayment Provisions:,"L(23),YM1(30),O(7)","L(23),YM1(30),O(7)","L(23),YM1(30),O(7)",,UW NCF Debt Yield:,8.6%
+Lockbox/Cash Mgmt Status:,Lockbox/Cash Mgmt Status:,Springing/Springing,Springing/Springing,Springing/Springing,,UW NOI Debt Yield at Maturity:,8.6%
+Additional Debt Type:,Additional Debt Type:,NAP,NAP,NAP,,UW NCF DSCR:,1.36x
+Additional Debt Balance:,Additional Debt Balance:,NAP,NAP,NAP,,Most Recent NOI:,"$2,633,964 (12/31/2025)"
+Future Debt Permitted (Type):,Future Debt Permitted (Type):,No (NAP),No (NAP),No (NAP),,2nd Most Recent NOI(3):,NAV
+,,,,,,3rd Most Recent NOI(3):,NAV
+Reserves(1),Reserves(1),Reserves(1),Reserves(1),Reserves(1),,Most Recent Occupancy:,95.4% (3/5/2026)
+Type,Initial,Initial,Monthly,Cap,,2nd Most Recent Occupancy(3):,NAV
+RE Taxes:,"$41,120","$41,120","$10,280",NAP,,3rd Most Recent Occupancy(3):,NAV
+Insurance:,"$40,317","$40,317","$10,079",NAP,,Appraised Value (as of):,"$51,600,000 (Various)"
+Deferred Maintenance:,"$81,153","$81,153",$0,NAP,,Appraised Value per Pad:,"$107,054"
+Replacement Reserve:,$0,$0,"$4,017",NAP,,Cut-off Date LTV Ratio:,63.6%
+Litigation Reserve:,"$45,000","$45,000",$0,NAP,,Maturity Date LTV Ratio:,63.6%
+,,,,,,,

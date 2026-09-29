@@ -1,0 +1,23 @@
+0,1,2,3
+Cash  Flow Analysis(1),Cash  Flow Analysis(1),Cash  Flow Analysis(1),Cash  Flow Analysis(1)
+,7/25/2025  Ann. T-10,UW,UW  per Unit
+Gross Potential Rent(2),"$3,711,574","$6,806,604","$55,792"
+Other Income(3),"$93,451","$464,935","$3,811"
+(Vacancy / Credit Loss),$0,"($356,755)","($2,924)"
+Effective Gross Income,"$3,805,025","$6,914,784","$56,679"
+,,,
+Real Estate Taxes(4),"$1,137,382","$70,561",$578
+Insurance,"$103,304","$172,884","$1,417"
+Other Expenses,"$395,084","$735,747","$6,031"
+Total Expenses,"$1,635,769","$979,192","$8,026"
+,,,
+Net Operating Income(5),"$2,169,256","$5,935,593","$48,652"
+Capital Expenditures,$0,"$30,500",$250
+TI/LC,$0,"$8,213",$67
+Net Cash Flow,"$2,169,256","$5,896,880","$48,335"
+,,,
+Occupancy %(6),54.5%,95.0%,
+NOI DSCR(7),0.48x,1.31x,
+NCF DSCR(7),0.48x,1.30x,
+NOI Debt Yield(7),2.9%,8.0%,
+NCF Debt Yield(7),2.9%,8.0%,

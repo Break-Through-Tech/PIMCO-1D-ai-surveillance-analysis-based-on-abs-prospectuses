@@ -1,0 +1,15 @@
+0,1,2
+Issuing Entity,,"Toyota Auto Receivables 2025-C Owner Trust, a Delaware statutory trust."
+Depositor,,"Toyota Auto Finance Receivables LLC, a Delaware limited liability company, is a wholly-owned, limited purpose subsidiary of Toyota Motor Credit Corporation. The principal  executive offices of Toyota Auto Finance Receivables LLC are located at 6565 Headquarters Drive, W2-3D, Plano, Texas 75024-5965 and its telephone number is (469) 486-9020."
+"Sponsor, Administrator  and Servicer",,"Toyota Motor Credit Corporation, a California corporation (“TMCC”). The principal executive offices of TMCC are located at 6565 Headquarters Drive, Plano, Texas 75024-5965  and its telephone number is (469) 486-9300."
+Asset Representations Reviewer,,"Clayton Fixed Income Services LLC, a Delaware limited liability company."
+Indenture Trustee,,"Citibank, N.A., a national banking association."
+Owner Trustee,,"Wilmington Trust, National Association, a national banking association."
+Securities Intermediary,,"Citibank, N.A., a national banking association."
+Relevant Agreements,,
+Indenture,,"The indenture among the issuing entity, the indenture trustee and the securities intermediary. The indenture provides for the terms of the notes."
+Trust Agreement,,"The trust agreement, as amended and restated, between the depositor and the owner trustee. The trust agreement establishes and governs the issuing entity and provides for  the terms of the certificate."
+Receivables Purchase Agreement,,"The receivables purchase agreement between the depositor and TMCC. The receivables purchase agreement governs the sale of the receivables from TMCC, as the originator of  the receivables, to the depositor."
+Sale and Servicing Agreement,,"The sale and servicing agreement among the issuing entity, the servicer and the depositor. The sale and servicing agreement governs the sale of the receivables by the  depositor to the issuing entity and the servicing of the receivables by the servicer."
+Administration Agreement,,"The administration agreement among the administrator, the issuing entity and the indenture trustee. The administration agreement governs the provision of reports by the  administrator and the performance by the administrator of other administrative duties for the issuing entity."
+Asset Representations Review Agreement,,"The asset representations review agreement among the asset representations reviewer, the issuing entity, the servicer and the administrator. The asset representations review agreement governs  the performance by the asset representations reviewer of asset representations reviews."

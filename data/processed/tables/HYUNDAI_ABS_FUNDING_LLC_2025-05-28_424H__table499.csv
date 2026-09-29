@@ -1,0 +1,10 @@
+0,1,2,3,4
+Party,,Amount of Fee,,Priority in Distribution
+Servicer(1),,"An amount equal to the product of (1) 1.00% per annum; (2) one-twelfth (or, in the case of the first Payment Date, a fraction equal to the number of days from the Cut-off Date to and including the last day of the Collection Period (assuming a 30 day calendar month), over 360); and (3) the aggregate principal balance of the Receivables as of the first day of the related Collection Period (or, in the case of the first Payment Date, the aggregate principal balance of the Receivables as of the Cut-off Date)",,Payable prior to payment of principal of and interest on the Notes
+Indenture Trustee,,Expenses and indemnification payments(2),,"Prior to an event of default and acceleration of the Notes, payable after payments of principal of and interest on the Notes and after any required deposits in the Reserve Account"
+,,,,
+Owner Trustee,,"$3,500 per annum plus expenses and indemnification payments(2)",,"Prior to an event of default and acceleration of the Notes, payable after payments of principal of and interest on the Notes and after any required deposits in the Reserve Account"
+,,,,
+Asset Representations Reviewer,,"$5,000 per annum plus expenses and indemnification payments(2)",,"Prior to an event of default and acceleration of the Notes, payable after payments of principal of and interest on the Notes and after any required deposits in the Reserve Account"
+,,,,
+Asset Representations Review Expenses,,Up to $200 for each Subject Receivable on completion of an asset representations review,,"Prior to an event of default and acceleration of the Notes, payable after payments of principal of and interest on the Notes and after any required deposits in the Reserve Account"

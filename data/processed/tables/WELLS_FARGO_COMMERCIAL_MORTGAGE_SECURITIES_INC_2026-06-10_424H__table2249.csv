@@ -1,0 +1,33 @@
+0,1,2,3,4,5,6,7
+Mortgage Loan Information,Mortgage Loan Information,Mortgage Loan Information,Mortgage Loan Information,Mortgage Loan Information,,Property Information,Property Information
+Mortgage Loan Seller:,Mortgage Loan Seller:,LMF,LMF,LMF,,Single Asset/Portfolio:,Single Asset
+,,,,,,Location:,"Moline, IL 61265"
+Original Balance:,Original Balance:,"$12,000,000","$12,000,000","$12,000,000",,General Property Type:,Retail
+Cut-off Date Balance:,Cut-off Date Balance:,"$12,000,000","$12,000,000","$12,000,000",,Detailed Property Type:,Anchored
+% of Initial Pool Balance:,% of Initial Pool Balance:,2.2%,2.2%,2.2%,,Title Vesting:,Fee
+Loan Purpose:,Loan Purpose:,Refinance,Refinance,Refinance,,Year Built/Renovated:,1996/NAP
+Borrower Sponsor:,Borrower Sponsor:,E. Stanley Kroenke,E. Stanley Kroenke,E. Stanley Kroenke,,Size:,"389,330 SF"
+Guarantor:,Guarantor:,E. Stanley Kroenke,E. Stanley Kroenke,E. Stanley Kroenke,,Cut-off Date Balance PSF:,$31
+Mortgage Rate:,Mortgage Rate:,5.1600%,5.1600%,5.1600%,,Maturity Date Balance PSF:,$31
+Note Date:,Note Date:,4/14/2026,4/14/2026,4/14/2026,,Property Manager:,"TKG Management, Inc.  (borrower-related)"
+Maturity Date:,Maturity Date:,5/6/2031,5/6/2031,5/6/2031,,,
+Term to Maturity:,Term to Maturity:,60 months,60 months,60 months,,,
+Amortization Term:,Amortization Term:,0 months,0 months,0 months,,Underwriting and Financial Information,Underwriting and Financial Information
+IO Period:,IO Period:,60 months,60 months,60 months,,UW NOI:,"$3,231,877"
+Seasoning:,Seasoning:,1 month,1 month,1 month,,UW NCF:,"$3,056,679"
+Prepayment Provisions:,Prepayment Provisions:,"L(23),YM1(33),O(4)","L(23),YM1(33),O(4)","L(23),YM1(33),O(4)",,UW NOI Debt Yield:,26.9%
+Lockbox/Cash Mgmt Status:,Lockbox/Cash Mgmt Status:,Springing/Springing,Springing/Springing,Springing/Springing,,UW NCF Debt Yield:,25.5%
+Additional Debt Type:,Additional Debt Type:,NAP,NAP,NAP,,UW NOI Debt Yield at Maturity:,26.9%
+Additional Debt Balance:,Additional Debt Balance:,NAP,NAP,NAP,,UW NCF DSCR:,4.87x
+Future Debt Permitted (Type):,Future Debt Permitted (Type):,No (NAP),No (NAP),No (NAP),,Most Recent NOI:,"$3,287,224 (1/31/2026 TTM)"
+,,,,,,2nd Most Recent NOI:,"$3,290,990 (12/31/2025)"
+,,,,,,3rd Most Recent NOI:,"$3,245,409 (12/31/2024)"
+Reserves,Reserves,Reserves,Reserves,Reserves,,Most Recent Occupancy:,98.7% (3/2/2026)
+Type,Initial,Initial,Monthly,Cap,,2nd Most Recent Occupancy:,100.0% (12/31/2025)
+RE Taxes:,$0,$0,Springing(1),NAP,,3rd Most Recent Occupancy:,100.0% (12/31/2024)
+Insurance:,$0,$0,Springing(2),NAP,,Appraised Value (as of):,"$36,000,000 (3/6/2026)"
+Replacement Reserve:,$0,$0,Springing(3),NAP,,Appraised Value PSF:,$92
+TI/LC Reserve:,$0,$0,Springing(4),"$583,995",,Cut-off Date LTV Ratio:,33.3%
+,,,,,,Maturity Date LTV Ratio:,33.3%
+,,,,,,,
+,,,,,,,

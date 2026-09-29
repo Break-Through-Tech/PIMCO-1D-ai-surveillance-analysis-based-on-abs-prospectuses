@@ -1,0 +1,31 @@
+0,1,2,3,4,5,6
+Mortgage Loan Information,Mortgage Loan Information,Mortgage Loan Information,Mortgage Loan Information,,Property Information,Property Information
+Mortgage Loan Seller:,Mortgage Loan Seller:,AREF2,AREF2,,Single Asset/Portfolio:,Single Asset
+,,,,,Location:,"Hampton, VA 23666"
+Original Balance:,Original Balance:,"$22,100,000","$22,100,000",,General Property Type:,Retail
+Cut-off Date Balance:,Cut-off Date Balance:,"$22,100,000","$22,100,000",,Detailed Property Type:,Anchored
+% of Initial Pool Balance:,% of Initial Pool Balance:,2.9%,2.9%,,Title Vesting:,Fee
+Loan Purpose:,Loan Purpose:,Refinance,Refinance,,Year Built/Renovated:,1998/NAP
+Borrower Sponsor:,Borrower Sponsor:,Sean Porter,Sean Porter,,Size:,"162,750 SF"
+Guarantor:,Guarantor:,Sean Porter,Sean Porter,,Cut-off Date Balance PSF:,$136
+Mortgage Rate:,Mortgage Rate:,6.78300%,6.78300%,,Maturity Balance PSF:,$136
+Note Date:,Note Date:,1/16/2026,1/16/2026,,Property Manager:,Colliers International Asset
+Maturity Date:,Maturity Date:,2/6/2031,2/6/2031,,,"Services, LLC"
+Term to Maturity:,Term to Maturity:,60 months,60 months,,Underwriting and Financial Information,Underwriting and Financial Information
+Amortization Term:,Amortization Term:,0 months,0 months,,UW NOI:,"$2,316,073"
+IO Period:,IO Period:,60 months,60 months,,UW NCF,"$2,128,911"
+Seasoning:,Seasoning:,1 month,1 month,,UW NOI Debt Yield:,10.5%
+Prepayment Provisions:,Prepayment Provisions:,"L(25),D(28),O(7)","L(25),D(28),O(7)",,UW NCF Debt Yield:,9.6%
+Lockbox/Cash Mgmt Status:,Lockbox/Cash Mgmt Status:,Hard/Springing,Hard/Springing,,UW NOI Debt Yield at Maturity:,10.5%
+Additional Debt Type:,Additional Debt Type:,NAP,NAP,,UW NCF DSCR:,1.40x
+Additional Debt Balance:,Additional Debt Balance:,NAP,NAP,,Most Recent NOI(2)(3):,"$2,092,081 (11/30/2025 TTM)"
+Future Debt Permitted (Type):,Future Debt Permitted (Type):,No (NAP),No (NAP),,2nd Most Recent NOI(2)(3):,"$1,174,907 (12/31/2024)"
+Reserves,Reserves,Reserves,Reserves,,3rd Most Recent NOI(2)(3):,"$639,455 (12/31/2023)"
+Type,Initial,Monthly,Cap,,Most Recent Occupancy(3):,97.7% (1/6/2026)
+RE Taxes:,"$62,078","$15,520",NAP,,2nd Most Recent Occupancy(3):,95.4% (11/30/2025)
+Insurance:,"$132,893","$12,081",NAP,,3rd Most Recent Occupancy(3):,72.7% (12/31/2024)
+Replacement Reserve:,$0,"$2,034","$73,238",,Appraised Value (as of):,"$32,900,000 (12/15/2025)"
+TI/LC Reserve:,"$150,000","$13,563","$300,000",,Appraised Value PSF:,$202
+Outstanding TI/LC Reserve(1):,"$422,929",$0,NAP,,Cut-off Date LTV Ratio:,67.2%
+Gap Rent Reserve(1):,"$21,719",$0,NAP,,Maturity Date LTV Ratio:,67.2%
+,,,,,,

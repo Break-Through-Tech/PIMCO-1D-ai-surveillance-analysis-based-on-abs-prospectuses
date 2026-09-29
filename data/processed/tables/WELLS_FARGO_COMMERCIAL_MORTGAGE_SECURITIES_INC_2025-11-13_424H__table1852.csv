@@ -1,0 +1,34 @@
+0,1,2,3,4,5,6,7
+Mortgage Loan Information,Mortgage Loan Information,Mortgage Loan Information,Mortgage Loan Information,Mortgage Loan Information,,Property Information,Property Information
+Mortgage Loan Seller:,Mortgage Loan Seller:,WFB,WFB,WFB,,Single Asset/Portfolio:,Single Asset
+,,,,,,Location:,"Los Angeles, CA 90016"
+Original Balance:,Original Balance:,"$48,000,000","$48,000,000","$48,000,000",,General Property Type:,Mixed Use
+Cut-off Date Balance:,Cut-off Date Balance:,"$48,000,000","$48,000,000","$48,000,000",,Detailed Property Type:,Retail/Office
+% of Initial Pool Balance:,% of Initial Pool Balance:,6.8%,6.8%,6.8%,,Title Vesting:,Fee
+Loan Purpose:,Loan Purpose:,Refinance,Refinance,Refinance,,Year Built/Renovated:,1950/2025
+Borrower Sponsor:,Borrower Sponsor:,"Karubian Enterprises, LLC","Karubian Enterprises, LLC","Karubian Enterprises, LLC",,Size:,"127,054 SF"
+Guarantor:,Guarantor:,John F. Karubian,John F. Karubian,John F. Karubian,,Cut-off Date Balance PSF:,$378
+Mortgage Rate:,Mortgage Rate:,6.3000%,6.3000%,6.3000%,,Maturity Date Balance PSF:,$378
+Note Date:,Note Date:,10/30/2025,10/30/2025,10/30/2025,,Property Manager:,"Forsat, Inc."
+Maturity Date:,Maturity Date:,11/11/2030,11/11/2030,11/11/2030,,,
+Term to Maturity:,Term to Maturity:,60 months,60 months,60 months,,,
+Amortization Term:,Amortization Term:,0 months,0 months,0 months,,Underwriting and Financial Information,Underwriting and Financial Information
+IO Period:,IO Period:,60 months,60 months,60 months,,UW NOI:,"$5,564,040"
+Seasoning:,Seasoning:,1 month,1 month,1 month,,UW NCF:,"$5,378,048"
+Prepayment Provisions:,Prepayment Provisions:,"L(25),D(28),O(7)","L(25),D(28),O(7)","L(25),D(28),O(7)",,UW NOI Debt Yield:,11.6%
+Lockbox/Cash Mgmt Status:,Lockbox/Cash Mgmt Status:,Springing/Springing,Springing/Springing,Springing/Springing,,UW NCF Debt Yield:,11.2%
+Additional Debt Type:,Additional Debt Type:,NAP,NAP,NAP,,UW NOI Debt Yield at Maturity:,11.6%
+Additional Debt Balance:,Additional Debt Balance:,NAP,NAP,NAP,,UW NCF DSCR:,1.75x
+Future Debt Permitted (Type):,Future Debt Permitted (Type):,No (NAP),No (NAP),No (NAP),,Most Recent NOI:,"$5,523,505 (8/31/2025 TTM)"
+,,,,,,2nd Most Recent NOI:,"$5,350,027 (12/31/2024)"
+Reserves(1),Reserves(1),Reserves(1),Reserves(1),Reserves(1),,3rd Most Recent NOI:,"$5,365,131 (12/31/2023)"
+Type,Initial,Initial,Monthly,Cap,,Most Recent Occupancy:,92.2% (9/1/2025)
+RE Taxes:,"$88,400","$88,400","$22,100",NAP,,2nd Most Recent Occupancy:,92.5% (12/31/2024)
+Insurance:,$0,$0,Springing,NAP,,3rd Most Recent Occupancy:,91.0% (12/31/2023)
+Replacement Reserve:,$0,$0,"$2,118","$76,232",,Appraised Value (as of):,"$89,800,000 (9/4/2025)"
+Leasing Reserve:,"$300,000","$300,000",Springing,"$300,000",,Appraised Value PSF:,$707
+Rent Concession Reserve:,"$56,171","$56,171",$0,NAP,,Cut-off Date LTV Ratio:,53.5%
+Immediate Repair Reserve:,"$71,818","$71,818",$0,NAP,,Maturity Date LTV Ratio:,53.5%
+APLA Health Springing Reserve,$0,$0,Springing,NAP,,,
+,,,,,,,
+,,,,,,,

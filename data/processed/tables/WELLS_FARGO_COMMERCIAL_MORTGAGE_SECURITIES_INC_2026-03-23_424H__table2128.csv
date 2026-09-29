@@ -1,0 +1,31 @@
+0,1,2,3,4,5,6,7
+Mortgage  Loan Information,Mortgage  Loan Information,Mortgage  Loan Information,Mortgage  Loan Information,Mortgage  Loan Information,,Property  Information,Property  Information
+Mortgage Loan Seller:,Mortgage Loan Seller:,SGFC,SGFC,SGFC,,Single Asset/Portfolio:,Single Asset
+,,,,,,Location:,"New York, NY 10007"
+Original Balance(1):,Original Balance(1):,"$27,000,000","$27,000,000","$27,000,000",,General Property Type:,Office
+Cut-off Date Balance(1):,Cut-off Date Balance(1):,"$27,000,000","$27,000,000","$27,000,000",,Detailed Property Type:,CBD
+% of Initial Pool Balance:,% of Initial Pool Balance:,4.6%,4.6%,4.6%,,Title Vesting:,Fee
+Loan Purpose:,Loan Purpose:,Refinance,Refinance,Refinance,,Year Built/Renovated:,1987/2024
+Borrower Sponsor:,Borrower Sponsor:,"Jack Resnick & Sons, Inc.","Jack Resnick & Sons, Inc.","Jack Resnick & Sons, Inc.",,Size:,"626,617 SF"
+Guarantor:,Guarantor:,Jonathan D. Resnick,Jonathan D. Resnick,Jonathan D. Resnick,,Cut-off Date Balance Per SF(1):,$235
+Mortgage Rate:,Mortgage Rate:,6.4050%,6.4050%,6.4050%,,Maturity Date Balance Per SF(1):,$235
+Note Date:,Note Date:,11/4/2025,11/4/2025,11/4/2025,,Property Manager:,"Jack Resnick & Sons, Inc."
+Maturity Date:,Maturity Date:,12/1/2035,12/1/2035,12/1/2035,,,(borrower-related)
+Term to Maturity:,Term to Maturity:,120 months,120 months,120 months,,Underwriting  and Financial Information,Underwriting  and Financial Information
+Amortization Term:,Amortization Term:,0 months,0 months,0 months,,UW NOI(4):,"$18,893,213"
+IO Period:,IO Period:,120 months,120 months,120 months,,UW NCF:,"$18,141,272"
+Seasoning:,Seasoning:,4 months,4 months,4 months,,UW NOI Debt Yield(1):,12.9%
+Prepayment Provisions:,Prepayment Provisions:,"L(23),YM1(5),DorYM1(85),O(7)","L(23),YM1(5),DorYM1(85),O(7)","L(23),YM1(5),DorYM1(85),O(7)",,UW NCF Debt Yield(1):,12.3%
+Lockbox/Cash Mgmt Status:,Lockbox/Cash Mgmt Status:,Hard/Springing,Hard/Springing,Hard/Springing,,UW NOI Debt Yield at Maturity(1):,12.9%
+Additional Debt Type(1):,Additional Debt Type(1):,Pari Passu,Pari Passu,Pari Passu,,UW NCF DSCR(1):,1.90x
+Additional Debt Balance(1):,Additional Debt Balance(1):,"$120,000,000","$120,000,000","$120,000,000",,Most Recent NOI(4):,"$16,402,863 (8/31/2025 TTM)"
+Future Debt Permitted (Type):,Future Debt Permitted (Type):,No (NAP),No (NAP),No (NAP),,2nd Most Recent NOI(5):,"$16,417,572 (12/31/2024)"
+Reserves(2),Reserves(2),Reserves(2),Reserves(2),Reserves(2),,3rd Most Recent NOI(5):,"$18,318,434 (12/31/2023)"
+Type,Initial,Initial,Monthly,Cap,,Most Recent Occupancy:,91.7% (10/1/2025)
+RE Taxes:,"$3,188,067","$3,188,067","$273,643",NAP,,2nd Most Recent Occupancy:,88.6% (12/31/2024)
+Insurance:,$0,$0,Springing,NAP,,3rd Most Recent Occupancy:,96.6% (12/31/2023)
+Replacement Reserve:,$0,$0,"$10,444",NAP,,Appraised Value (as of):,"$280,000,000 (9/25/2025)"
+TI/LC Reserve:,$0,$0,"$52,218",NAP,,Appraised Value Per SF:,$447
+Outstanding TI/LCs & LL Work Reserve(3):,"$1,623,080","$1,623,080",$0,NAP,,Cut-off Date LTV Ratio(1):,52.5%
+Rent Abatement Reserve(3):,"$193,184","$193,184",$0,NAP,,Maturity Date LTV Ratio(1):,52.5%
+,,,,,,,

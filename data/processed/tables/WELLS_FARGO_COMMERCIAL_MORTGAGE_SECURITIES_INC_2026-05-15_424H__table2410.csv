@@ -1,0 +1,15 @@
+0,1,2,3,4,5,6,7,8,9
+Tenant Summary(1),Tenant Summary(1),Tenant Summary(1),Tenant Summary(1),Tenant Summary(1),Tenant Summary(1),Tenant Summary(1),Tenant Summary(1),Tenant Summary(1),Tenant Summary(1)
+Tenant Name,Credit Rating (Fitch/Moody’s/S&P)(2),Tenant SF,Approx. % of SF,Annual UW Rent,% of Total Annual UW Rent,Annual UW Rent PSF,Lease Exp.,Renewal Options,Term. Option (Y/N)
+County of LA - DPSS,AA/Aa2/AA-,207289,42.0%,"$7,809,605",49.2%,$37.67,12/31/2039,1 x 5yr,Y(3)
+County of LA – DCFS(4),AA/Aa2/AA-,89895,18.2%,"$3,345,425",21.1%,$37.21,6/30/2041,1 x 5yr,Y(4)
+Housing Authority of the City of Long Beach,AA/Aa2/AA-,46915,9.5%,"$1,476,440",9.3%,$31.47,12/31/2034,1 x 5yr,N
+State of California Department of Industrial Relations,AA/Aa2/AA-,37294,7.5%,"$1,477,984",9.3%,$39.63,10/31/2028,NAP,Y(5)
+Altamed Health Services Corporation,NR/NR/NR,25317,5.1%,"$761,792",4.8%,$30.09,10/31/2030,2 x 5yr,N
+Major Tenants Subtotal/Wtd. Avg.,,406710,82.3%,"$14,871,245",93.6%,$36.56,,,
+,,,,,,,,,
+Other Tenants,,37661,7.6%,"$1,017,926",6.4%,$27.03,,,
+Occupied Subtotal/Wtd. Avg.,,444371,89.9%,"$15,889,171",100.0%,$35.76,,,
+,,,,,,,,,
+Vacant Space,,49684,10.1%,,,,,,
+Total/Wtd. Avg.,,494055,100.0%,,,,,,

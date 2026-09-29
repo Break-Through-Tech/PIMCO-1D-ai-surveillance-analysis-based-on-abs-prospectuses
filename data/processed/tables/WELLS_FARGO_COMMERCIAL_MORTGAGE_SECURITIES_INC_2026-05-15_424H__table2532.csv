@@ -1,0 +1,29 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13
+Certificate  Distribution Detail,Certificate  Distribution Detail,Certificate  Distribution Detail,Certificate  Distribution Detail,Certificate  Distribution Detail,Certificate  Distribution Detail,Certificate  Distribution Detail,Certificate  Distribution Detail,Certificate  Distribution Detail,Certificate  Distribution Detail,Certificate  Distribution Detail,Certificate  Distribution Detail,Certificate  Distribution Detail,Certificate  Distribution Detail
+Class,CUSIP,Pass-Through  Rate (2),,Original  Balance,Beginning  Balance,Principal  Distribution,Interest  Distribution,Prepayment  Penalties,Realized  Losses,Total  Distribution,Ending  Balance,Current  Credit Support¹,Original  Credit Support¹
+Regular  Certificates,Regular  Certificates,Regular  Certificates,Regular  Certificates,Regular  Certificates,Regular  Certificates,Regular  Certificates,Regular  Certificates,Regular  Certificates,Regular  Certificates,Regular  Certificates,Regular  Certificates,Regular  Certificates,Regular  Certificates
+A-1,,0.000000%,,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00%,0.00%
+A-2,,0.000000%,,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00%,0.00%
+A-3,,0.000000%,,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00%,0.00%
+A-S,,0.000000%,,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00%,0.00%
+B,,0.000000%,,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00%,0.00%
+C,,0.000000%,,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00%,0.00%
+D,,0.000000%,,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00%,0.00%
+E,,0.000000%,,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00%,0.00%
+F,,0.000000%,,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00%,0.00%
+G-RR,,0.000000%,,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00%,0.00%
+H-RR,,0.000000%,,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00%,0.00%
+RR,,0.000000%,,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00%,0.00%
+RR Interest,,0.000000%,,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00%,0.00%
+R,,0.000000%,,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00%,0.00%
+Regular  SubTotal,Regular  SubTotal,,,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,,
+,,,,,,,,,,,,,
+Notional  Certificates,Notional  Certificates,Notional  Certificates,Notional  Certificates,Notional  Certificates,Notional  Certificates,Notional  Certificates,Notional  Certificates,Notional  Certificates,Notional  Certificates,Notional  Certificates,Notional  Certificates,Notional  Certificates,Notional  Certificates
+X-A,,0.000000%,,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,,
+X-B,,0.000000%,,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,,
+X-D,,0.000000%,,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,,
+X-E,,0.000000%,,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,,
+X-F,,0.000000%,,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,,
+Notional  SubTotal,Notional  SubTotal,,,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,,
+,,,,,,,,,,,,,
+Deal  Distribution Total,Deal  Distribution Total,Deal  Distribution Total,,,,0.00,0.00,0.00,0.00,0.00,,,

@@ -1,0 +1,7 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22
+Class,​,​,​,​,​,Initial Principal Amount,Initial Principal Amount,Initial Principal Amount,Initial Principal Amount,​,​,Initial Offered Amount(1),Initial Offered Amount(1),Initial Offered Amount(1),Initial Offered Amount(1),​,​,Interest Rate,Interest Rate,Interest Rate,Interest Rate,​
+Class A-1,​,​,​,​,​,​,$,87000000,​,​,​,​,$,82650000,​,​,​,​,​,%,​,​
+Class A-2a,​,​,},​,​,​,$,193160000,​,​,​,​,$,183500000,​,​,​,​,​,%,​,​
+Class A-2b,​,​,},​,​,​,$,193160000,​,​,​,​,$,183500000,​,​,​,​,​,Benchmark + %(2),​,​
+Class A-3,​,​,​,​,​,​,$,193160000,​,​,​,​,$,183500000,​,​,​,​,​,%,​,​
+Class A-4,​,​,​,​,​,​,$,53000000,​,​,​,​,$,50350000,​,​,​,​,​,%,​,​

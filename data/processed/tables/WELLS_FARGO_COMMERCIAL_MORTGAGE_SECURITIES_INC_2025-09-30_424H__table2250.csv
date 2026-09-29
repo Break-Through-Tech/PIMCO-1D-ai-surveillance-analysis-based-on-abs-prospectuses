@@ -1,0 +1,31 @@
+0,1,2,3,4,5,6
+Mortgage Loan Information,Mortgage Loan Information,Mortgage Loan Information,Mortgage Loan Information,,Mortgaged Property Information,Mortgaged Property Information
+Mortgage Loan Seller:,Mortgage Loan Seller:,AREF2,AREF2,,Single Asset/Portfolio:,Portfolio
+,,,,,Location:,Various
+Original Balance:,Original Balance:,"$24,000,000","$24,000,000",,General Property Type:,Retail
+Cut-off Date Balance:,Cut-off Date Balance:,"$24,000,000","$24,000,000",,Detailed Property Type:,Single Tenant
+% of Initial Pool Balance:,% of Initial Pool Balance:,3.5%,3.5%,,Title Vesting:,Fee
+Loan Purpose:,Loan Purpose:,Refinance,Refinance,,Year Built/Renovated:,Various/NAP
+Borrower Sponsor:,Borrower Sponsor:,Stewart Alpert,Stewart Alpert,,Size:,"80,665 SF"
+Guarantor:,Guarantor:,Stewart Alpert,Stewart Alpert,,Cut-off Date Balance PSF:,$298
+Mortgage Rate:,Mortgage Rate:,6.8920%,6.8920%,,Maturity Balance PSF:,$298
+Note Date:,Note Date:,7/23/2025,7/23/2025,,Property Manager:,Self-managed
+Maturity Date:,Maturity Date:,8/6/2035,8/6/2035,,,
+Term to Maturity:,Term to Maturity:,120 months,120 months,,Underwriting and Financial Information,Underwriting and Financial Information
+Amortization Term:,Amortization Term:,0 months,0 months,,UW NOI:,"$2,266,520"
+IO Period:,IO Period:,120 months,120 months,,UW NCF,"$2,058,205"
+Seasoning:,Seasoning:,2 months,2 months,,UW NOI Debt Yield:,9.4%
+Prepayment Provisions:,Prepayment Provisions:,"L(12),YM2(14),DorYM2(90),O(4)","L(12),YM2(14),DorYM2(90),O(4)",,UW NCF Debt Yield:,8.6%
+Lockbox/Cash Mgmt Status:,Lockbox/Cash Mgmt Status:,Hard/Springing,Hard/Springing,,UW NOI Debt Yield at Maturity:,9.4%
+Additional Debt Type:,Additional Debt Type:,NAP,NAP,,UW NCF DSCR:,1.23x
+Additional Debt Balance:,Additional Debt Balance:,NAP,NAP,,Most Recent NOI(1):,NAV
+Future Debt Permitted (Type):,Future Debt Permitted (Type):,No (NAP),No (NAP),,2nd Most Recent NOI(1):,NAV
+Reserves,Reserves,Reserves,Reserves,,3rd Most Recent NOI(1):,NAV
+Type,Initial,Monthly,Cap,,Most Recent Occupancy:,100.0% (5/1/2025)
+RE Taxes:,$0,Springing,NAP,,2nd Most Recent Occupancy:,100.0% (12/31/2024)
+Insurance:,"$18,356","$1,530",NAP,,3rd Most Recent Occupancy:,100.0% (12/31/2023)
+Replacement Reserve:,$0,"$1,008",NAP,,Appraised Value (as of)(2):,"$35,700,000 (Various)"
+TI/LC Reserve:,$0,"$20,166",NAP,,Appraised Value per SF:,$443
+,,,,,Cut-off Date LTV Ratio:,67.2%
+,,,,,Maturity Date LTV Ratio:,67.2%
+,,,,,,

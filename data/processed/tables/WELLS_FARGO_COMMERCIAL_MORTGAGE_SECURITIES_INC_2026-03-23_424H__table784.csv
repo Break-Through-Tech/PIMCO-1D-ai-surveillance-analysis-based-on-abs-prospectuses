@@ -1,0 +1,24 @@
+0,1,2,3,4,5
+Mortgage Loan,Mortgage Loan Type,Note Name,Control Note/ Non-Control Note,Original Principal Balance,Note Holder(1)
+NOVA Retail 2-Pack,Serviced,Note A-1-1,Control,"$58,000,000",WFCM 2026-C66
+NOVA Retail 2-Pack,Serviced,Note A-1-2,Non-Control,"$12,000,000","JPMorgan Chase Bank, National Association"
+NOVA Retail 2-Pack,Serviced,Note A-2,Non-Control,"$20,000,000","JPMorgan Chase Bank, National Association"
+,,Note A-3,Non-Control,"$18,750,000",Goldman Sachs Bank USA
+,,Note A-4,Non-Control,"$18,750,000",Goldman Sachs Bank USA
+,,Note A-5,Non-Control,"$18,750,000",Goldman Sachs Bank USA
+,,Note A-6,Non-Control,"$18,750,000",Goldman Sachs Bank USA
+Marriott Anchorage Downtown,Serviced,Note A-1,Control,"$58,000,000",WFCM 2026-C66
+Marriott Anchorage Downtown,Serviced,Note A-2,Non-Control,"$30,000,000","Wells Fargo Bank, National Association"
+,,Note A-3,Non-Control,"$20,000,000","Wells Fargo Bank, National Association"
+,,Note A-4,Non-Control,"$17,000,000","Wells Fargo Bank, National Association"
+Sheraton Denver Downtown Hotel,Non-Serviced,Note A-1,Control,"$100,000,000",BANK 2025-BNK51
+Sheraton Denver Downtown Hotel,Non-Serviced,Note A-2,Non-Control,"$40,000,000",WFCM 2026-C66
+Sheraton Denver Downtown Hotel,Non-Serviced,Note A-3,Non-Control,"$25,000,000","Wells Fargo Bank, National Association"
+Sheraton Denver Downtown Hotel,Non-Serviced,Note A-4,Non-Control,"$15,000,000",WFCM 2026-C66
+50 West 23rd Street,Serviced,Note A-1,Control,"$53,000,000",WFCM 2026-C66
+50 West 23rd Street,Serviced,Note A-2,Non-Control,"$30,000,000",Benchmark 2026-B42
+U-Haul AREC RW Portfolio,Non-Serviced,Note A-1-1,Control,"$58,000,000",BMO 2026-C14
+U-Haul AREC RW Portfolio,Non-Serviced,Note A-1-2,Non-Control,"$2,000,000",Benchmark 2026-B42
+U-Haul AREC RW Portfolio,Non-Serviced,Note A-2-1,Non-Control,"$20,000,000",WFCM 2026-C66
+U-Haul AREC RW Portfolio,Non-Serviced,Note A-2-2,Non-Control,"$4,000,000",Benchmark 2026-B42
+U-Haul AREC RW Portfolio,Non-Serviced,Note A-3,Non-Control,"$15,000,000",WFCM 2026-C66

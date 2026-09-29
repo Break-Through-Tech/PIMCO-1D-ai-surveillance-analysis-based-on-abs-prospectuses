@@ -1,0 +1,29 @@
+0,1,2,3
+Cash Flow Analysis,Cash Flow Analysis,Cash Flow Analysis,Cash Flow Analysis
+,11/30/2025 TTM,UW(1),UW per Unit
+Base Rent,"$1,787,942","$2,480,758","$10,423"
+Grossed Up Vacant Space,$0,"$302,126","$1,269"
+Gross Potential Rent,"$1,787,942","$2,782,884","$11,693"
+Laundry,$0,$0,$0
+Other Income,"$114,906","$82,243",$346
+Net Rentable Income,"$1,902,848","$2,865,127","$12,038"
+(Collection Loss),$0,$0,$0
+(Concessions),$0,$0,$0
+(Vacancy),$0,"($302,126)","($1,269)"
+Effective Gross Income,"$1,902,848","$2,563,001","$10,769"
+,,,
+Management Fee,"$67,425","$76,890",$323
+Real Estate Taxes,"$10,484",$0,$0
+Insurance,"$204,355","$221,371",$930
+Other Operating Expenses,"$560,298","$769,953","$3,235"
+Total Operating Expenses,"$842,562","$1,068,214","$4,488"
+,,,
+Net Operating Income,"$1,060,285","$1,494,787","$6,281"
+Replacement Reserves/TI,$0,"$67,354",$283
+Net Cash Flow,"$1,060,285","$1,427,433","$5,998"
+,,,
+Occupancy (%),98.7%,89.1%,
+NOI DSCR,1.00x,1.41x,
+NCF DSCR,1.00x,1.35x,
+NOI Debt Yield,6.1%,8.7%,
+NCF Debt Yield,6.1%,8.3%,

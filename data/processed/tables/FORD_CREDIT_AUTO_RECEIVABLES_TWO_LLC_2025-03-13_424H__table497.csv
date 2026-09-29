@@ -1,0 +1,10 @@
+0,1,2
+Fee,,Amount
+Indenture  trustee acceptance fee,,"$5,000  on closing of the transaction"
+Indenture  trustee annual fee,,"$7,500  each year"
+Owner  trustee acceptance fee,,"$2,500  on closing of the transaction"
+Owner  trustee annual fee,,"$3,500  each year"
+Asset  representations reviewer annual fee,,"$5,000  each year"
+Asset  representations reviewer review fee,,Up  to $230 for each review receivable on completion of a review
+Servicing  fee,,1/12  of 1.00% of the pool balance each month
+,,

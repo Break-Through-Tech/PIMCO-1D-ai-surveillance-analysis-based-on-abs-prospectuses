@@ -1,0 +1,10 @@
+0,1,2,3,4,5,6,7,8
+Mortgage  Loan Name,Mortgage  Loan Cut-off Date Balance,% of Initial  Pool Balance,Pari Passu  Companion Loan Cut-off Date Balance,Subordinate  Companion Loan Cut-off Date Balance,Mortgage  Loan Cut-off Date LTV Ratio(1),Whole Loan  Cut-off Date LTV Ratio(2),Mortgage  Loan Underwritten NCF DSCR(1),Whole Loan  Underwritten NCF DSCR(2)
+Mall at Prince George’s,"$58,000,000",9.4%,"$42,000,000",NAP,56.7%,56.7%,1.70x,1.70x
+535 & 545 5th Avenue,"$49,946,237",8.1%,"$259,720,430",NAP,63.2%,63.2%,1.30x,1.30x
+Del Rey Campus,"$27,500,000",4.4%,"$52,500,000",NAP,60.4%,60.4%,1.57x,1.57x
+Mountain Industrial Portfolio,"$25,000,000",4.0%,"$1,144,400,000","$450,600,000",49.8%,68.9%,1.93x,1.25x
+1500 Post Oak Boulevard,"$25,000,000",4.0%,"$115,000,000",NAP,50.8%,50.8%,2.40x,2.40x
+The Towers at Cupertino City Center,"$25,000,000",4.0%,"$120,000,000",NAP,63.6%,63.6%,1.69x,1.69x
+ONX Industrial Campus,"$20,000,000",3.2%,"$55,000,000",NAP,61.0%,61.0%,1.35x,1.35x
+Kirby Industrial,"$10,000,000",1.6%,"$92,000,000",NAP,59.0%,59.0%,1.28x,1.28x

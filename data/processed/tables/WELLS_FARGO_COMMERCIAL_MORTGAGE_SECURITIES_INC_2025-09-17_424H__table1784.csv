@@ -1,0 +1,30 @@
+0,1,2,3,4,5,6
+Mortgage Loan Information,Mortgage Loan Information,Mortgage Loan Information,Mortgage Loan Information,,Mortgaged Property Information,Mortgaged Property Information
+Mortgage Loan Seller:,Mortgage Loan Seller:,AREF2,AREF2,,Single Asset/Portfolio:,Portfolio
+Credit Assessment (Fitch/MDBRS/Moody’s):,Credit Assessment (Fitch/MDBRS/Moody’s):,NR/NR/NR,NR/NR/NR,,Location(2):,Various
+Original Balance:,Original Balance:,"$51,500,000","$51,500,000",,General Property Type:,Industrial
+Cut-off Date Balance:,Cut-off Date Balance:,"$51,500,000","$51,500,000",,Detailed Property Type:,Warehouse
+% of Initial Pool Balance:,% of Initial Pool Balance:,8.3%,8.3%,,Title Vesting:,Fee
+Loan Purpose:,Loan Purpose:,Refinance,Refinance,,Year Built/Renovated(2):,Various
+Borrower Sponsors:,Borrower Sponsors:,"Thomas J. O'Brien, Rodney L. Provience and Jeffery Rhett Wiseman","Thomas J. O'Brien, Rodney L. Provience and Jeffery Rhett Wiseman",,Size:,"1,101,126 SF"
+Guarantors:,Guarantors:,"Thomas J. O'Brien, Rodney L. Provience and Jeffery Rhett Wiseman","Thomas J. O'Brien, Rodney L. Provience and Jeffery Rhett Wiseman",,Cut-off Date Balance PSF:,$47
+Mortgage Rate:,Mortgage Rate:,6.313%,6.313%,,Maturity Balance PSF:,$47
+Note Date:,Note Date:,9/9/2025,9/9/2025,,Property Manager(3):,Various
+Maturity Date:,Maturity Date:,9/10/2030,9/10/2030,,,
+Term to Maturity:,Term to Maturity:,60 months,60 months,,Underwriting and Financial Information,Underwriting and Financial Information
+Amortization Term:,Amortization Term:,0 months,0 months,,UW NOI:,"$4,764,833"
+IO Period:,IO Period:,60 months,60 months,,UW NCF,"$4,379,439"
+Seasoning:,Seasoning:,1 month,1 month,,UW NOI Debt Yield:,9.3%
+Prepayment Provisions:,Prepayment Provisions:,"L(25),D(32),O(3)","L(25),D(32),O(3)",,UW NCF Debt Yield:,8.5%
+Lockbox/Cash Mgmt Status:,Lockbox/Cash Mgmt Status:,Hard/Springing,Hard/Springing,,UW NOI Debt Yield at Maturity:,9.3%
+Additional Debt Type:,Additional Debt Type:,NAP,NAP,,UW NCF DSCR:,1.33x
+Additional Debt Balance:,Additional Debt Balance:,NAP,NAP,,Most Recent NOI:,"$4,898,775 (5/31/2025)"
+Future Debt Permitted (Type):,Future Debt Permitted (Type):,No (NAP),No (NAP),,2nd Most Recent NOI:,"$5,294,261 (12/31/2024)"
+Reserves(1),Reserves(1),Reserves(1),Reserves(1),,3rd Most Recent NOI:,"$5,323,029 (12/31/2023)"
+Type,Initial,Monthly,Cap,,Most Recent Occupancy:,100.0% (7/16/2025)
+RE Taxes:,"$966,287","$113,681",NAP,,2nd Most Recent Occupancy:,100.0% (12/31/2024)
+Insurance:,"$127,165","$16,955",NAP,,3rd Most Recent Occupancy:,93.1% (12/31/2023)
+Replacement Reserve:,$0,"$9,176",NAP,,Appraised Value (as of)(4):,"$77,170,000 (Various)"
+Deferred Maintenance:,"$307,680",$0,NAP,,Appraised Value per SF:,$70
+TI/LC Reserve:,$0,"$22,940",NAP,,Cut-off Date LTV Ratio:,66.7%
+Liquidity Reserve:,"$250,000",$0,NAP,,Maturity Date LTV Ratio:,66.7%

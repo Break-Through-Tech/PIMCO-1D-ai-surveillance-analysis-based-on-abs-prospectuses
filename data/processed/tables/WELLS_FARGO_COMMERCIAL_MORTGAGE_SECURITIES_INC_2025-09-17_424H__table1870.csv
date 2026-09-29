@@ -1,0 +1,32 @@
+0,1,2,3,4,5,6,7
+Mortgage Loan Information,Mortgage Loan Information,Mortgage Loan Information,Mortgage Loan Information,Mortgage Loan Information,,Property Information,Property Information
+Mortgage Loan Seller:,Mortgage Loan Seller:,CREFI,CREFI,CREFI,,Single Asset/Portfolio:,Portfolio
+Credit Assessment (Fitch/MDBRS/Moody’s):,Credit Assessment (Fitch/MDBRS/Moody’s):,NR/NR/NR,NR/NR/NR,NR/NR/NR,,Location(5):,"Various, NY"
+Original Balance(1):,Original Balance(1):,"$48,000,000","$48,000,000","$48,000,000",,General Property Type(5):,Various
+Cut-off Date Balance(1):,Cut-off Date Balance(1):,"$48,000,000","$48,000,000","$48,000,000",,Detailed Property Type(5):,Various
+% of Initial Pool Balance:,% of Initial Pool Balance:,7.7%,7.7%,7.7%,,Title Vesting:,Fee
+Loan Purpose:,Loan Purpose:,Refinance,Refinance,Refinance,,Year Built/Renovated(5):,Various / Various
+Borrower Sponsors(2):,Borrower Sponsors(2):,"Jonathan Soudry, Ariel Soudry and Steven Soudry","Jonathan Soudry, Ariel Soudry and Steven Soudry","Jonathan Soudry, Ariel Soudry and Steven Soudry",,Size(6):,204 Units
+Guarantors:,Guarantors:,"Jonathan Soudry, Ariel Soudry and Steven Soudry","Jonathan Soudry, Ariel Soudry and Steven Soudry","Jonathan Soudry, Ariel Soudry and Steven Soudry",,Cut-off Date Balance per Unit:,"$382,353"
+Mortgage Rate:,Mortgage Rate:,6.2900%,6.2900%,6.2900%,,Maturity Date Balance per Unit:,"$382,353"
+Note Date:,Note Date:,7/31/2025,7/31/2025,7/31/2025,,Property Manager:,Better Living Properties Management LLC (borrower-related)
+Maturity Date:,Maturity Date:,8/6/2030,8/6/2030,8/6/2030,,Underwriting  and Financial Information(1),Underwriting  and Financial Information(1)
+Term to Maturity:,Term to Maturity:,60 months,60 months,60 months,,UW NOI:,"$6,932,285"
+Amortization Term:,Amortization Term:,0 months,0 months,0 months,,UW NCF:,"$6,807,839"
+IO Period:,IO Period:,60 months,60 months,60 months,,UW NOI Debt Yield:,8.9%
+Seasoning:,Seasoning:,2 months,2 months,2 months,,UW NCF Debt Yield:,8.7%
+Prepayment Provisions:,Prepayment Provisions:,"L(26),D(27),O(7)","L(26),D(27),O(7)","L(26),D(27),O(7)",,UW NOI Debt Yield at Maturity:,8.9%
+Lockbox/Cash Mgmt Status:,Lockbox/Cash Mgmt Status:,Springing/Springing,Springing/Springing,Springing/Springing,,UW NCF DSCR:,1.37x
+Additional Debt Type(1):,Additional Debt Type(1):,Pari Passu,Pari Passu,Pari Passu,,Most Recent NOI:,"$6,902,918 (TTM 6/30/2025)"
+Additional Debt Balance(1):,Additional Debt Balance(1):,"$30,000,000","$30,000,000","$30,000,000",,2nd Most Recent NOI:,"$6,587,686 (12/31/2024)"
+Future Debt Permitted (Type):,Future Debt Permitted (Type):,No (NAP),No (NAP),No (NAP),,3rd Most Recent NOI:,"$6,491,818 (12/31/2023)"
+,,,,,,Most Recent Occupancy(6):,99.0% (7/2/2025)
+Reserves(3),Reserves(3),Reserves(3),Reserves(3),Reserves(3),,2nd Most Recent Occupancy(6):,98.6% (12/31/2024)
+Type,Initial,Initial,Monthly,Cap,,3rd Most Recent Occupancy(6):,99.3% (12/31/2023)
+RE Taxes:,"$333,627","$333,627","$166,814",NAP,,Appraised Value (as of):,"$123,700,000 (Various)"
+Insurance:,"$63,234","$63,234","$31,617",NAP,,Appraised Value per Unit:,"$606,373"
+Replacement Reserve:,$0,$0,"$7,491",NAP,,Cut-off Date LTV Ratio:,63.1%
+TI / LC Reserve:,$0,$0,"$2,600","$100,000",,Maturity Date LTV Ratio):,63.1%
+Deferred Maintenance:,"$32,750","$32,750",$0,NAP,,,
+Other Reserves(4):,"$632,750","$632,750",$0,NAP,,,
+,,,,,,,

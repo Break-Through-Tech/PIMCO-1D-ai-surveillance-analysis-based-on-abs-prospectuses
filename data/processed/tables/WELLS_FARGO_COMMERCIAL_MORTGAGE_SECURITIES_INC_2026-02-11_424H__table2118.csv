@@ -1,0 +1,32 @@
+0,1,2,3,4,5,6
+Mortgage  Loan Information,Mortgage  Loan Information,Mortgage  Loan Information,Mortgage  Loan Information,,Property  Information,Property  Information
+Mortgage Loan Seller:,Mortgage Loan Seller:,WFB,WFB,,Single Asset/Portfolio:,Single Asset
+,,,,,Location:,"Orange, CA 92868"
+Original Balance:,Original Balance:,"$26,000,000","$26,000,000",,General Property Type:,Office
+Cut-off Date Balance:,Cut-off Date Balance:,"$26,000,000","$26,000,000",,Detailed Property Type:,Suburban
+% of Initial Pool Balance:,% of Initial Pool Balance:,3.4%,3.4%,,Title Vesting:,Fee
+Loan Purpose:,Loan Purpose:,Acquisition,Acquisition,,Year Built/Renovated:,1988/2025
+Borrower Sponsor:,Borrower Sponsor:,MGR Real Estate,MGR Real Estate,,Size:,"186,983 SF"
+Guarantor:,Guarantor:,Michael G. Rademaker,Michael G. Rademaker,,Cut-off Date Balance PSF:,$139
+Mortgage Rate:,Mortgage Rate:,6.4120%,6.4120%,,Maturity Date Balance PSF:,$139
+Note Date:,Note Date:,12/19/2025,12/19/2025,,Property Manager:,"MGR Property Management,"
+Maturity Date:,Maturity Date:,1/11/2031,1/11/2031,,,Inc. (borrower-related)
+Term to Maturity:,Term to Maturity:,60 months,60 months,,Underwriting  and Financial Information,Underwriting  and Financial Information
+Amortization Term:,Amortization Term:,0 months,0 months,,UW NOI:,"$3,450,825"
+IO Period:,IO Period:,60 months,60 months,,UW NCF:,"$3,407,954"
+Seasoning:,Seasoning:,2 months,2 months,,UW NOI Debt Yield:,13.3%
+Prepayment Provisions:,Prepayment Provisions:,"L(26),YM1(27),O(7)","L(26),YM1(27),O(7)",,UW NCF Debt Yield:,13.1%
+Lockbox/Cash Mgmt Status:,Lockbox/Cash Mgmt Status:,Soft/Springing,Soft/Springing,,UW NOI Debt Yield at Maturity:,13.3%
+Additional Debt Type:,Additional Debt Type:,NAP,NAP,,UW NCF DSCR:,2.02x
+Additional Debt Balance:,Additional Debt Balance:,NAP,NAP,,Most Recent NOI:,"$2,270,134 (8/31/2025 TTM)"
+Future Debt Permitted (Type):,Future Debt Permitted (Type):,No (NAP),No (NAP),,2nd Most Recent NOI:,NAV(2)
+,,,,,3rd Most Recent NOI:,NAV(2)
+Reserves,Reserves,Reserves,Reserves,,Most Recent Occupancy:,77.4% (12/9/2025)
+Type,Initial,Monthly,Cap,,2nd Most Recent Occupancy:,NAV(2)
+RE Taxes:,"$194,456","$48,614",NAP,,3rd Most Recent Occupancy:,NAV(2)
+Insurance:,$0,Springing(1),NAP,,Appraised Value (as of):,"$39,700,000 (9/30/2025)"
+Replacement Reserve:,$0,"$3,115","$112,140",,Appraised Value PSF:,$212
+TI/LC Reserve:,"$2,750,000","$23,359",NAP,,Cut-off Date LTV Ratio:,65.5%
+Existing TI/LC Reserve:,"$391,253",$0,NAP,,Maturity Date LTV Ratio:,65.5%
+Gap Rent Reserve:,"$9,784",$0,NAP,,,
+Rent Concession Reserve:,"$532,480",$0,NAP,,,

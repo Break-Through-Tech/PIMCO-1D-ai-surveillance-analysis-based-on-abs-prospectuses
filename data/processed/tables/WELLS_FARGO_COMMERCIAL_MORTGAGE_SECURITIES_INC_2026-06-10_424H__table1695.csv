@@ -1,0 +1,30 @@
+0,1,2,3,4,5,6
+Mortgage Loan Information,Mortgage Loan Information,Mortgage Loan Information,Mortgage Loan Information,,Mortgaged Property Information,Mortgaged Property Information
+Mortgage Loan Seller:,Mortgage Loan Seller:,AREF2,AREF2,,Single Asset/Portfolio:,Single Asset
+,,,,,Location:,"Omaha, NE 68114"
+Original Balance(1):,Original Balance(1):,"$49,000,000","$49,000,000",,General Property Type:,Retail
+Cut-off Date Balance(1):,Cut-off Date Balance(1):,"$49,000,000","$49,000,000",,Detailed Property Type:,Super Regional Mall
+% of Initial Pool Balance:,% of Initial Pool Balance:,9.0%,9.0%,,Title Vesting:,Fee
+Loan Purpose:,Loan Purpose:,Refinance,Refinance,,Year Built/Renovated:,1968/2015
+Borrower Sponsor:,Borrower Sponsor:,BPR-FF JV LLC,BPR-FF JV LLC,,Size:,"538,040 SF"
+Guarantor:,Guarantor:,BPR-FF JV LLC,BPR-FF JV LLC,,Cut-off Date Balance PSF(1):,$125
+Mortgage Rate:,Mortgage Rate:,7.4780%,7.4780%,,Maturity Date Balance PSF(1):,$119
+Note Date:,Note Date:,5/13/2026,5/13/2026,,Property Manager:,GGP Services Inc. (f/k/a Brookfield Properties Retail Inc.) (borrower-related)
+Maturity Date:,Maturity Date:,6/6/2031,6/6/2031,,,GGP Services Inc. (f/k/a Brookfield Properties Retail Inc.) (borrower-related)
+Term to Maturity:,Term to Maturity:,60 months,60 months,,Underwriting and Financial Information(1),Underwriting and Financial Information(1)
+Amortization Term:,Amortization Term:,360 months,360 months,,UW NOI:,"$13,247,667"
+IO Period:,IO Period:,0 months,0 months,,UW NCF:,"$12,332,999"
+Seasoning:,Seasoning:,0 months,0 months,,UW NOI Debt Yield(1):,19.8%
+Prepayment Provisions(2):,Prepayment Provisions(2):,"L(24),D(32),O(4)","L(24),D(32),O(4)",,UW NCF Debt Yield(1):,18.4%
+Lockbox/Cash Mgmt Status:,Lockbox/Cash Mgmt Status:,Hard/Springing,Hard/Springing,,UW NOI Debt Yield at Maturity(1):,20.7%
+Additional Debt Type(1)(4):,Additional Debt Type(1)(4):,Pari Passu/Mezzanine,Pari Passu/Mezzanine,,UW NCF DSCR(1):,2.20x
+Additional Debt Balance(1)(4):,Additional Debt Balance(1)(4):,"$18,000,000/$12,000,000","$18,000,000/$12,000,000",,Most Recent NOI:,"$13,246,995 (3/31/2026 TTM)"
+Future Debt Permitted (Type):,Future Debt Permitted (Type):,No (NAP),No (NAP),,2nd Most Recent NOI:,"$13,405,779 (12/31/2025)"
+Reserves(3),Reserves(3),Reserves(3),Reserves(3),,3rd Most Recent NOI:,"$13,692,737 (12/31/2024)"
+Type,Initial,Monthly,Cap,,Most Recent Occupancy:,94.0% (4/30/2026)
+RE Taxes:,$0,Springing,NAP,,2nd Most Recent Occupancy:,94.6% (12/31/2025)
+Insurance:,$0,Springing,NAP,,3rd Most Recent Occupancy:,95.6% (12/31/2024)
+Replacement Reserve:,$0,"$8,967",NAP,,Appraised Value (as of):,"$125,800,000 (12/12/2025)"
+Deferred Maintenance:,"$106,557",$0,NAP,,Appraised Value per SF:,$234
+TI/LC Reserve:,"$1,488,600","$67,255",NAP,,Cut-off Date LTV Ratio(1):,53.3%
+Gap Rent Reserve:,"$91,001",$0,NAP,,Maturity Date LTV Ratio(1):,50.8%

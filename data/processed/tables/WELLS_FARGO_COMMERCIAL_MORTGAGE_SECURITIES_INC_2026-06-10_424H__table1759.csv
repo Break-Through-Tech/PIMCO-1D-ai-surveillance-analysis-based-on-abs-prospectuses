@@ -1,0 +1,30 @@
+0,1,2,3,4,5,6
+Mortgage Loan Information,Mortgage Loan Information,Mortgage Loan Information,Mortgage Loan Information,,Property Information,Property Information
+Mortgage Loan Seller:,Mortgage Loan Seller:,AREF2,AREF2,,Single Asset/Portfolio:,Portfolio
+,,,,,Location:,"Various, GA Various"
+Original Balance:,Original Balance:,"$49,000,000","$49,000,000",,General Property Type:,Various
+Cut-off Date Balance:,Cut-off Date Balance:,"$49,000,000","$49,000,000",,Detailed Property Type:,Various
+% of Initial Pool Balance:,% of Initial Pool Balance:,9.0%,9.0%,,Title Vesting(2):,Fee/Leasehold
+Loan Purpose:,Loan Purpose:,Refinance,Refinance,,Year Built/Renovated:,Various/Various
+Borrower Sponsors:,Borrower Sponsors:,Gabe Hrib and Michael Hrib,Gabe Hrib and Michael Hrib,,Size:,"387,623 SF"
+Guarantors:,Guarantors:,Gabe Hrib and Michael Hrib,Gabe Hrib and Michael Hrib,,Cut-off Date Balance per SF:,$126
+Mortgage Rate:,Mortgage Rate:,6.5700%,6.5700%,,Maturity Date Balance per SF:,$126
+Note Date:,Note Date:,5/14/2026,5/14/2026,,Property Manager:,"GM Property Group, LLC"
+Maturity Date:,Maturity Date:,6/6/2031,6/6/2031,,,(borrower-related)
+Term to Maturity:,Term to Maturity:,60 months,60 months,,Underwriting  and Financial Information,Underwriting  and Financial Information
+Amortization Term:,Amortization Term:,0 months,0 months,,UW NOI(3):,"$5,007,262"
+IO Period:,IO Period:,60 months,60 months,,UW NCF:,"$4,774,661"
+Seasoning:,Seasoning:,0 months,0 months,,UW NOI Debt Yield:,10.2%
+Prepayment Provisions:,Prepayment Provisions:,"L(24),D(32),O(4)","L(24),D(32),O(4)",,UW NCF Debt Yield:,9.7%
+Lockbox/Cash Mgmt Status:,Lockbox/Cash Mgmt Status:,Hard/Springing,Hard/Springing,,UW NOI Debt Yield at Maturity:,10.2%
+Additional Debt Type:,Additional Debt Type:,NAP,NAP,,UW NCF DSCR:,1.46x
+Additional Debt Balance:,Additional Debt Balance:,NAP,NAP,,Most Recent NOI(3):,"$4,561,941 (2/28/2026 TTM)"
+Future Debt Permitted (Type):,Future Debt Permitted (Type):,No (NAP),No (NAP),,2nd Most Recent NOI:,"$4,499,775 (12/31/2025)"
+Reserves(1),Reserves(1),Reserves(1),Reserves(1),,3rd Most Recent NOI(4):,NAV
+Type,Initial,Monthly,Cap,,Most Recent Occupancy:,97.0% (5/8/2026)
+RE Taxes:,"$455,521","$50,613",NAP,,2nd Most Recent Occupancy:,87.5% (12/31/2025)
+Insurance:,"$67,091",Springing,NAP,,3rd Most Recent Occupancy(4):,NAV
+Replacement Reserve:,$0,"$3,230",NAP,,Appraised Value (as of)(5):,"$75,050,000 (Various)"
+Deferred Maintenance:,"$51,854",$0,NAP,,Appraised Value per SF:,$194
+TI/LC Reserve:,"$500,000","$16,151","$750,000",,Cut-off Date LTV Ratio:,65.3%
+Roof Repair Reserve:,"$285,000",$0,NAP,,Maturity Date LTV Ratio:,65.3%

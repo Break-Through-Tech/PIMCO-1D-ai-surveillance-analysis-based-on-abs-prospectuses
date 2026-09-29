@@ -1,0 +1,33 @@
+0,1,2,3,4,5,6,7
+Mortgage  Loan Information,Mortgage  Loan Information,Mortgage  Loan Information,Mortgage  Loan Information,Mortgage  Loan Information,,Property  Information,Property  Information
+Mortgage Loan Seller:,Mortgage Loan Seller:,WFB,WFB,WFB,,Single Asset/Portfolio:,Single Asset
+,,,,,,Location:,"Columbus, GA 31909"
+Original Balance:,Original Balance:,"$60,000,000","$60,000,000","$60,000,000",,General Property Type:,Retail
+Cut-off Date Balance:,Cut-off Date Balance:,"$60,000,000","$60,000,000","$60,000,000",,Detailed Property Type:,Anchored
+% of Initial Pool Balance:,% of Initial Pool Balance:,7.8%,7.8%,7.8%,,Title Vesting:,Fee/Leasehold(2)
+Loan Purpose:,Loan Purpose:,Refinance,Refinance,Refinance,,Year Built/Renovated:,2002/2024
+Borrower Sponsor:,Borrower Sponsor:,AVR Realty,AVR Realty,AVR Realty,,Size:,"587,087 SF"
+Guarantor:,Guarantor:,AVR Enterprises LLC,AVR Enterprises LLC,AVR Enterprises LLC,,Cut-off Date Balance PSF:,$102
+Mortgage Rate:,Mortgage Rate:,5.8570%,5.8570%,5.8570%,,Maturity Date Balance PSF:,$102
+Note Date:,Note Date:,11/26/2025,11/26/2025,11/26/2025,,Property Manager:,AVR Forum Management Corp.
+Maturity Date:,Maturity Date:,12/1/2030,12/1/2030,12/1/2030,,,(borrower-related)
+Term to Maturity:,Term to Maturity:,60 months,60 months,60 months,,Underwriting  and Financial Information,Underwriting  and Financial Information
+Amortization Term:,Amortization Term:,0 months,0 months,0 months,,UW NOI:,"$6,600,609"
+IO Period:,IO Period:,60 months,60 months,60 months,,UW NCF:,"$6,119,772"
+Seasoning:,Seasoning:,3 months,3 months,3 months,,UW NOI Debt Yield:,11.0%
+Prepayment Provisions:,Prepayment Provisions:,"L(27),D(26),O(7)","L(27),D(26),O(7)","L(27),D(26),O(7)",,UW NCF Debt Yield:,10.2%
+Lockbox/Cash Mgmt Status:,Lockbox/Cash Mgmt Status:,Hard/Springing,Hard/Springing,Hard/Springing,,UW NOI Debt Yield at Maturity:,11.0%
+Additional Debt Type:,Additional Debt Type:,NAP,NAP,NAP,,UW NCF DSCR:,1.72x
+Additional Debt Balance:,Additional Debt Balance:,NAP,NAP,NAP,,Most Recent NOI:,"$6,716,673 (9/30/2025 TTM)"
+Future Debt Permitted (Type):,Future Debt Permitted (Type):,No (NAP),No (NAP),No (NAP),,2nd Most Recent NOI:,"$6,370,049 (12/31/2024)"
+Reserves(1),Reserves(1),Reserves(1),Reserves(1),Reserves(1),,3rd Most Recent NOI:,"$6,083,555 (12/31/2023)"
+Type,Initial,Initial,Monthly,Cap,,Most Recent Occupancy:,86.0% (10/22/2025)
+RE Taxes:,"$76,771","$76,771","$76,771",NAP,,2nd Most Recent Occupancy:,87.9% (12/31/2024)
+Insurance:,$0,$0,Springing,NAP,,3rd Most Recent Occupancy:,76.7% (12/31/2023)
+Replacement Reserve:,$0,$0,"$10,321",NAP,,Appraised Value (as of):,"$89,200,000 (9/25/2025)"
+Rollover Reserve,$0,$0,"$39,583","$1,425,000",,Appraised Value PSF:,$152
+Ground Rent Reserve:,"$165,420","$165,420",$0,NAP,,Cut-off Date LTV Ratio:,67.3%
+Free Rent Reserve,"$61,723","$61,723",$0,NAP,,Maturity Date LTV Ratio:,67.3%
+Fee Conversion Reserve:,"$3,669,814","$3,669,814",$0,NAP,,,
+Outstanding TI/LC Reserve:,"$549,615","$549,615",$0,NAP,,,
+,,,,,,,

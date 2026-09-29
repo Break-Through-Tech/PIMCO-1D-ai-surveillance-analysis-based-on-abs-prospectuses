@@ -1,0 +1,30 @@
+0,1,2,3,4,5,6
+Mortgage Loan Information,Mortgage Loan Information,Mortgage Loan Information,Mortgage Loan Information,,Property Information,Property Information
+Mortgage Loan Seller:,Mortgage Loan Seller:,WFB,WFB,,Single Asset/Portfolio:,Portfolio
+,,,,,Location(2):,"Spokane Valley, WA"
+Original Balance:,Original Balance:,"$20,800,000","$20,800,000",,General Property Type(2):,Retail
+Cut-off Date Balance:,Cut-off Date Balance:,"$20,800,000","$20,800,000",,Detailed Property Type(2):,Various
+% of Initial Pool Balance:,% of Initial Pool Balance:,2.4%,2.4%,,Title Vesting:,Fee
+Loan Purpose:,Loan Purpose:,Refinance,Refinance,,Year Built/Renovated(2):,Various/Various
+Borrower Sponsor:,Borrower Sponsor:,Robert A. Rosier,Robert A. Rosier,,Size(2):,"157,978 SF"
+Guarantor:,Guarantor:,Robert A. Rosier,Robert A. Rosier,,Cut-off Date Balance PSF:,$132
+Mortgage Rate:,Mortgage Rate:,6.5770%,6.5770%,,Maturity Balance PSF:,$132
+Note Date:,Note Date:,5/7/2026,5/7/2026,,Property Manager:,Self-Managed
+Maturity Date:,Maturity Date:,5/11/2031,5/11/2031,,,
+Term to Maturity:,Term to Maturity:,60 months,60 months,,Underwriting and Financial Information,Underwriting and Financial Information
+Amortization Term:,Amortization Term:,0 months,0 months,,UW NOI:,"$2,138,508"
+IO Period:,IO Period:,60 months,60 months,,UW NCF,"$1,996,328"
+Seasoning:,Seasoning:,1 month,1 month,,UW NOI Debt Yield:,10.3%
+Prepayment Provisions:,Prepayment Provisions:,"L(25),D(31),O(4)","L(25),D(31),O(4)",,UW NCF Debt Yield:,9.6%
+Lockbox/Cash Mgmt Status:,Lockbox/Cash Mgmt Status:,Hard/Springing,Hard/Springing,,UW NOI Debt Yield at Maturity:,10.3%
+Additional Debt Type:,Additional Debt Type:,NAP,NAP,,UW NCF DSCR:,1.44x
+Additional Debt Balance:,Additional Debt Balance:,NAP,NAP,,Most Recent NOI:,"$2,094,548 (2/28/2026 TTM)"
+Future Debt Permitted (Type):,Future Debt Permitted (Type):,No (NAP),No (NAP),,2nd Most Recent NOI:,"$2,189,418 (12/31/2025)"
+Reserves,Reserves,Reserves,Reserves,,3rd Most Recent NOI:,"$2,224,592 (12/31/2024)"
+Type,Initial,Monthly,Cap,,Most Recent Occupancy:,98.5% (4/1/2026)
+RE Taxes:,$0,"$22,453",NAP,,2nd Most Recent Occupancy(3):,NAV
+Insurance(1):,$0,Springing,NAP,,3rd Most Recent Occupancy(3):,NAV
+Replacement Reserve:,$0,"$1,975",NAP,,Appraised Value (as of)(4):,"$30,600,000 (12/8/2025)"
+Leasing Reserve:,$0,"$9,874",NAP,,Appraised Value per SF(4):,$194
+,,,,,Cut-off Date LTV Ratio:,68.0%
+,,,,,Maturity Date LTV Ratio:,68.0%

@@ -1,0 +1,15 @@
+0,1,2,3,4
+,Initial Principal Amount,Interest Rate,Accrual Method,Final Scheduled Payment Date
+Class A‑1 Notes(1)(2),"$290,000,000",___%,Actual/360,"May 15, 2025"
+Class A‑2a Notes(1)(2),"$478,000,000 (3)",___%,30/360,"March 15, 2027"
+Class A-2b Notes(1)(2),"$478,000,000 (3)",SOFR Rate + ___%(4)(5),Actual/360,"March 15, 2027"
+Class A‑3 Notes(1)(2),"$478,000,000",___%,30/360,"January 16, 2029"
+Class A‑4 Notes(1)(2),"$70,200,000",___%,30/360,"July 16, 2029"
+Class B Notes(1)(2),"$33,800,000",0.00%,30/360,"October 15, 2030"
+,Initial Public Offering Price,Underwriting Discounts and Commissions,Underwriting Discounts and Commissions,Proceeds To Depositor
+Per Class A-1 Note,_____%,_____%,_____%,_____%
+Per Class A-2a Note,_____%,_____%,_____%,_____%
+Per Class A-2b Note,_____%,_____%,_____%,_____%
+Per Class A-3 Note,_____%,_____%,_____%,_____%
+Per Class A-4 Note,_____%,_____%,_____%,_____%
+Total,$__________(6),$__________(6),$__________(6),$__________(6)

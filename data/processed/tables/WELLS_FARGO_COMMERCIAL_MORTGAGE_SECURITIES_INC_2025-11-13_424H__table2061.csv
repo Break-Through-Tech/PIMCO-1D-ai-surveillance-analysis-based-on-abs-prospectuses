@@ -1,0 +1,34 @@
+0,1,2,3,4,5,6,7
+Mortgage Loan Information,Mortgage Loan Information,Mortgage Loan Information,Mortgage Loan Information,Mortgage Loan Information,,Property Information,Property Information
+Mortgage Loan Seller:,Mortgage Loan Seller:,MSMCH,MSMCH,MSMCH,,Single Asset/Portfolio:,Portfolio
+,,,,,,Location(5):,"Various, Various"
+Original Balance:,Original Balance:,"$25,910,000","$25,910,000","$25,910,000",,General Property Type(5):,Various
+Cut-off Date Balance:,Cut-off Date Balance:,"$25,910,000","$25,910,000","$25,910,000",,Detailed Property Type(5):,Various
+% of Initial Pool Balance:,% of Initial Pool Balance:,3.6%,3.6%,3.6%,,Title Vesting:,Fee
+Loan Purpose:,Loan Purpose:,Acquisition,Acquisition,Acquisition,,Year Built/Renovated(5):,Various/Various
+Borrower Sponsors:,Borrower Sponsors:,"David Fisher, Warren Thomas, Joshua","David Fisher, Warren Thomas, Joshua","David Fisher, Warren Thomas, Joshua",,Size:,"241,558 SF"
+,,Ungerecht and,Ungerecht and,Ungerecht and,,Cut-off Date Balance PSF:,$107
+,,"ExchangeRight Real Estate, LLC","ExchangeRight Real Estate, LLC","ExchangeRight Real Estate, LLC",,Maturity Date Balance PSF:,$107
+Guarantors:,Guarantors:,"David Fisher, Warren Thomas,","David Fisher, Warren Thomas,","David Fisher, Warren Thomas,",,Property Manager:,"NLP Management, LLC (borrower-"
+,,Joshua Ungerecht and,Joshua Ungerecht and,Joshua Ungerecht and,,,related)
+,,"ExchangeRight Real Estate, LLC","ExchangeRight Real Estate, LLC","ExchangeRight Real Estate, LLC",,,
+Mortgage Rate:,Mortgage Rate:,5.7000%,5.7000%,5.7000%,,,
+Note Date:,Note Date:,9/30/2025,9/30/2025,9/30/2025,,,
+Maturity Date:,Maturity Date:,10/1/2030,10/1/2030,10/1/2030,,Underwriting  and Financial Information,Underwriting  and Financial Information
+Term to Maturity:,Term to Maturity:,60 months,60 months,60 months,,UW NOI:,"$3,170,289"
+Amortization Term:,Amortization Term:,0 months,0 months,0 months,,UW NCF:,"$3,134,055"
+IO Period:,IO Period:,60 months,60 months,60 months,,UW NOI Debt Yield:,12.2%
+Seasoning:,Seasoning:,2 months,2 months,2 months,,UW NCF Debt Yield,12.1%
+Prepayment Provisions:,Prepayment Provisions:,"L(26),D(27),O(7)","L(26),D(27),O(7)","L(26),D(27),O(7)",,UW NOI Debt Yield at Maturity:,12.2%
+Lockbox/Cash Mgmt Status:,Lockbox/Cash Mgmt Status:,Hard/Springing,Hard/Springing,Hard/Springing,,UW NCF DSCR:,2.09x
+Additional Debt Type:,Additional Debt Type:,NAP,NAP,NAP,,Most Recent NOI(6):,NAV
+Additional Debt Balance:,Additional Debt Balance:,NAP,NAP,NAP,,2nd Most Recent NOI(6):,NAV
+Future Debt Permitted (Type):,Future Debt Permitted (Type):,No (NAP),No (NAP),No (NAP),,3rd Most Recent NOI(6):,NAV
+Reserves,Reserves,Reserves,Reserves,Reserves,,Most Recent Occupancy:,100.0% (12/1/2025)
+Type,Initial,Initial,Monthly,Cap,,2nd Most Recent Occupancy(6):,NAV
+RE Taxes:,"$17,422","$17,422","$17,422(1)",NAP,,3rd Most Recent Occupancy(6):,NAV
+Insurance:,$0,$0,Springing(2),NAP,,Appraised Value (as of)(7):,"$51,815,000 (Various)"
+Replacement Reserve:,"$219,402","$219,402",Springing(3),NAP,,Appraised Value PSF:,$215
+Deferred Maintenance:,"$42,908","$42,908",$0,NAP,,Cut-off Date LTV Ratio:,50.0%
+TI/LC Reserve:,"$500,000","$500,000",Springing(4),NAP,,Maturity Date LTV Ratio:,50.0%
+,,,,,,,

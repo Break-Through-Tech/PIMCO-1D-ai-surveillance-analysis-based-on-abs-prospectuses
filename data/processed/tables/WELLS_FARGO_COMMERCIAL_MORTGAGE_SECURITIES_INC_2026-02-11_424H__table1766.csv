@@ -1,0 +1,31 @@
+0,1,2,3,4,5,6,7
+Mortgage Loan Information,Mortgage Loan Information,Mortgage Loan Information,Mortgage Loan Information,Mortgage Loan Information,,Property Information,Property Information
+Mortgage Loan Seller:,Mortgage Loan Seller:,AREF2,AREF2,AREF2,,Single Asset/Portfolio:,Single Asset
+,,,,,,Location:,"Miami, FL 33179"
+Original Balance(1):,Original Balance(1):,"$62,500,000","$62,500,000","$62,500,000",,General Property Type:,Multifamily
+Cut-off Date Balance(1):,Cut-off Date Balance(1):,"$62,500,000","$62,500,000","$62,500,000",,Detailed Property Type:,Garden
+% of Initial Pool Balance:,% of Initial Pool Balance:,8.2%,8.2%,8.2%,,Title Vesting:,Fee
+Loan Purpose:,Loan Purpose:,Refinance,Refinance,Refinance,,Year Built/Renovated:,1969-1971/2022
+Borrower Sponsors:,Borrower Sponsors:,Joseph Ehrman and Barry,Joseph Ehrman and Barry,Joseph Ehrman and Barry,,Size:,468 Units
+,,Schreiber,Schreiber,Schreiber,,Cut-off Date Balance per Unit(1):,"$186,966"
+Guarantors(2):,Guarantors(2):,Various,Various,Various,,Maturity Date Balance per Unit(1):,"$186,966"
+Mortgage Rate:,Mortgage Rate:,6.4500%,6.4500%,6.4500%,,Property Manager:,OptimumProp LLC (borrower-
+Note Date:,Note Date:,1/26/2026,1/26/2026,1/26/2026,,,affiliated)
+Maturity Date:,Maturity Date:,2/6/2031,2/6/2031,2/6/2031,,Underwriting and Financial Information,Underwriting and Financial Information
+Term to Maturity:,Term to Maturity:,60 months,60 months,60 months,,UW NOI:,"$7,317,952"
+Amortization Term:,Amortization Term:,0 months,0 months,0 months,,UW NCF:,"$7,200,952"
+IO Period:,IO Period:,60 months,60 months,60 months,,UW NOI Debt Yield(1):,8.4%
+Seasoning:,Seasoning:,1 month,1 month,1 month,,UW NCF Debt Yield(1):,8.2%
+Prepayment Provisions(3):,Prepayment Provisions(3):,"L(25),D(30),O(5)","L(25),D(30),O(5)","L(25),D(30),O(5)",,UW NOI Debt Yield at Maturity(1):,8.4%
+Lockbox/Cash Mgmt Status:,Lockbox/Cash Mgmt Status:,Soft/Springing,Soft/Springing,Soft/Springing,,UW NCF DSCR(1):,1.26x
+Additional Debt Type(1):,Additional Debt Type(1):,Pari Passu,Pari Passu,Pari Passu,,Most Recent NOI:,"$6,700,039 (11/30/2025 TTM)"
+Additional Debt Balance(1):,Additional Debt Balance(1):,"$25,000,000","$25,000,000","$25,000,000",,2nd Most Recent NOI:,"$6,343,469 (12/31/2024)"
+Future Debt Permitted (Type):,Future Debt Permitted (Type):,No (NAP),No (NAP),No (NAP),,3rd Most Recent NOI(5):,NAV
+Reserves(4),Reserves(4),Reserves(4),Reserves(4),Reserves(4),,Most Recent Occupancy:,97.2% (11/30/2025)
+Type,Initial,Initial,Monthly,Cap,,2nd Most Recent Occupancy:,93.8% (12/31/2024)
+RE Taxes:,"$409,412","$409,412","$102,353",NAP,,3rd Most Recent Occupancy(5):,NAV
+Insurance:,"$237,082","$237,082","$50,205",NAP,,Appraised Value (as of):,"$125,200,000 (12/29/2025)"
+Replacement Reserve:,"$351,000","$351,000","$9,750",NAP,,Appraised Value per Unit:,"$267,521"
+Supplemental Replacement Reserve:,$0,$0,"$19,500","$234,000",,Cut-off Date LTV Ratio(1):,69.9%
+Deferred Maintenance:,"$26,105","$26,105",$0,NAP,,Maturity Date LTV Ratio(1):,69.9%
+,,,,,,,

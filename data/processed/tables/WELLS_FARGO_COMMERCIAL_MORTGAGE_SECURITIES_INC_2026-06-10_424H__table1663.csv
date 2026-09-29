@@ -1,0 +1,30 @@
+0,1,2,3,4,5,6
+Mortgage Loan Information,Mortgage Loan Information,Mortgage Loan Information,Mortgage Loan Information,,Property Information,Property Information
+Mortgage Loan Seller:,Mortgage Loan Seller:,AREF2,AREF2,,Single Asset/Portfolio:,Portfolio
+,,,,,Location:,"St. Louis, MO Various"
+Original Balance:,Original Balance:,"$50,000,000","$50,000,000",,General Property Type:,Multifamily
+Cut-off Date Balance:,Cut-off Date Balance:,"$50,000,000","$50,000,000",,Detailed Property Type:,Various
+% of Initial Pool Balance:,% of Initial Pool Balance:,9.2%,9.2%,,Title Vesting:,Fee
+Loan Purpose:,Loan Purpose:,Refinance,Refinance,,Year Built/Renovated:,Various/Various
+Borrower Sponsor:,Borrower Sponsor:,Victor Alston,Victor Alston,,Size:,565 Units
+Guarantor(1):,Guarantor(1):,Victor Alston,Victor Alston,,Cut-off Date Balance per Unit:,"$88,496"
+Mortgage Rate:,Mortgage Rate:,6.9900%,6.9900%,,Maturity Date Balance per Unit:,"$88,496"
+Note Date:,Note Date:,4/2/2026,4/2/2026,,Property Managers:,Elite Properties STL LLC and Central
+Maturity Date:,Maturity Date:,4/6/2031,4/6/2031,,,PM STL LLC (each borrower–related)
+Term to Maturity:,Term to Maturity:,60 months,60 months,,Underwriting  and Financial Information,Underwriting  and Financial Information
+Amortization Term:,Amortization Term:,0 months,0 months,,UW NOI:,"$4,962,880"
+IO Period:,IO Period:,60 months,60 months,,UW NCF:,"$4,821,758"
+Seasoning:,Seasoning:,2 months,2 months,,UW NOI Debt Yield:,9.9%
+Prepayment Provisions:,Prepayment Provisions:,"L(26),D(26),O(8)","L(26),D(26),O(8)",,UW NCF Debt Yield:,9.6%
+Lockbox/Cash Mgmt Status:,Lockbox/Cash Mgmt Status:,Springing/Springing,Springing/Springing,,UW NOI Debt Yield at Maturity:,9.9%
+Additional Debt Type:,Additional Debt Type:,NAP,NAP,,UW NCF DSCR:,1.36x
+Additional Debt Balance:,Additional Debt Balance:,NAP,NAP,,Most Recent NOI(4):,"$4,320,212 (1/31/2026 TTM)"
+Future Debt Permitted (Type):,Future Debt Permitted (Type):,No (NAP),No (NAP),,2nd Most Recent NOI(4):,"$5,521,037 (12/31/2024)"
+,,,,,3rd Most Recent NOI(4):,"$5,720,070 (12/31/2023)"
+Reserves(2),Reserves(2),Reserves(2),Reserves(2),,Most Recent Occupancy(4):,90.4% (5/26/2026)
+Type,Initial,Monthly,Cap,,2nd Most Recent Occupancy(4):,82.3% (12/31/2025)
+RE Taxes:,"$248,778","$49,756",NAP,,3rd Most Recent Occupancy(4):,93.1% (12/31/2024)
+Insurance:,$0,Springing,NAP,,Appraised Value (as of)(5):,"$73,860,000 (2/20/2026)"
+Replacement Reserve:,$0,"$11,771",NAP,,Appraised Value per Unit:,"$130,726"
+Deferred Maintenance:,"$14,250",$0,NAP,,Cut-off Date LTV Ratio:,67.7%
+Other Reserves(3):,"$892,470",$0,NAP,,Maturity Date LTV Ratio:,67.7%

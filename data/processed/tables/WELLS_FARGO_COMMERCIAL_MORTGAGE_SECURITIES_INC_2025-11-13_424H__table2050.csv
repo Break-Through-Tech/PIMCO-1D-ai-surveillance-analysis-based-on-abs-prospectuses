@@ -1,0 +1,23 @@
+0,1,2,3,4
+Cash  Flow Analysis(1),Cash  Flow Analysis(1),Cash  Flow Analysis(1),Cash  Flow Analysis(1),Cash  Flow Analysis(1)
+,12/31/2024,7/31/2025 TTM,UW,UW per Unit
+Gross Potential Rent,"$6,891,184","$6,684,945","$7,444,318","$42,539"
+Other Income(2),"$213,557","$243,656","$366,986","$2,097"
+(Vacancy / Credit Loss),$0,$0,"($223,330)","($1,276)"
+Effective Gross Income,"$7,104,741","$6,928,601","$7,587,974","$43,360"
+,,,,
+Real Estate Taxes(3),"$88,533","$88,223","$88,223",$504
+Insurance,"$111,310","$120,615","$155,383",$888
+Other Expenses(4),"$696,121","$684,268","$834,896","$4,771"
+Total Expenses,"$895,964","$893,106","$1,078,502","$6,163"
+,,,,
+Net Operating Income,"$6,208,777","$6,035,495","$6,509,472","$37,197"
+Capital Expenditures,$0,$0,"$43,750",$250
+TI/LC,$0,$0,$0,$0
+Net Cash Flow,"$6,208,777","$6,035,495","$6,465,722","$36,947"
+,,,,
+Occupancy %(5),97.3%,96.6%,97.0%,
+NOI DSCR(6),1.26x,1.23x,1.33x,
+NCF DSCR(6),1.26x,1.23x,1.32x,
+NOI Debt Yield(6),7.3%,7.1%,7.7%,
+NCF Debt Yield(6),7.3%,7.1%,7.7%,

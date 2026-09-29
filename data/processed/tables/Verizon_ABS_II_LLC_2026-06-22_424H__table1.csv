@@ -1,0 +1,13 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12
+Notes(1),,Initial Note Balance,Initial Note Balance,Initial Note Balance,,Interest Rate,,Accrual Method,,Anticipated Redemption Date,,Final  Maturity Date
+Class A-1a notes,,,"$623,710,000 (aggregate)(2)",,,%(3),,30/360,,"June 20, 2029",,"June 21, 2032"
+Class A-1b notes,,,"$623,710,000 (aggregate)(2)",,,Compounded SOFR + %(3)(4)(5),,Actual/360,,"June 20, 2029",,"June 21, 2032"
+Class B notes,,,"$47,680,000",,,%(3),,30/360,,"June 20, 2029",,"June 21, 2032"
+Class C notes,,,"$28,610,000",,,%(3),,30/360,,"June 20, 2029",,"June 21, 2032"
+Total,,,"$700,000,000",,,,,,,,,
+,,Initial Public Offering Price,Initial Public Offering Price,Initial Public Offering Price,,Underwriting Discounts and Commissions,Underwriting Discounts and Commissions,Underwriting Discounts and Commissions,,Net Proceeds(6),Net Proceeds(6),Net Proceeds(6)
+Class A-1a notes,,,$,,,%,%,%,,$,$,$
+Class A-1b notes,,,$,,,%,%,%,,$,$,$
+Class B notes,,,$,,,%,%,%,,$,$,$
+Class C notes,,,$,,,%,%,%,,$,$,$
+Total,,,$,,,,,,,$,$,$
