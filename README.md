@@ -1,121 +1,98 @@
-# AI Studio Challenge Project Title
+# AI Surveillance Analysis Based on ABS Prospectuses
 
-> 💡 **Note for the team:** This is just a template. Update the above title with your AI Studio Challenge Project name. Remove all guidance notes and example text in this template and populate this README with your own content. You can work on this README throughout AI Studio, and get feedback from your AI Studio Coach and Challenge Advisor before finalizing it.  
+Milestone 1 for the Break Through Tech AI Studio project with PIMCO.
 
----
+## Project Goal
 
-### 👥 **Team Members**
+Build a searchable index of SEC ABS prospectuses so users can find relevant deals and inspect supporting source text. This milestone provides deterministic HTML parsing, structured metadata extraction, keyword or regular-expression search, and filtering by filing year, company, and asset type.
 
-**Example:**
+The current dataset contains 116 publicly available SEC `424H` HTML filings from 15 issuers. The challenge overview describes a future `424B`/PDF workflow; this repository currently uses the downloaded `424H` HTML files because they preserve table structure and are available locally.
 
-| Name             | GitHub Handle | Contribution                                                             |
-|------------------|---------------|--------------------------------------------------------------------------|
-| Taylor Nguyen    | @taylornguyen | Data exploration, visualization, overall project coordination            |
-| Jordan Ramirez   | @jramirez     | Data collection, exploratory data analysis (EDA), dataset documentation  |
-| Amina Hassan     | @aminahassan  | Data preprocessing, feature engineering, data validation                 |
-| Priya Mehta      | @pmehta       | Model selection, hyperparameter tuning, model training and optimization  |
-| Chris Park       | @chrispark    | Model evaluation, performance analysis, results interpretation           |
+## Current Deliverables
 
----
+- Clean text and table extraction from SEC filing HTML.
+- Metadata index at `data/filings_index.csv`.
+- Parsed-file summary at `data/clean_text/parsed_filings_summary.csv`.
+- Search results with deal metadata, source paths, match counts, and supporting snippets.
+- Asset-family metadata coverage for auto loans, motorcycle loans, auto leases, revolving receivables, device-payment receivables, and CMBS.
 
-## 🎯 **Project Highlights**
+## Setup
 
-**Example:**
+Use Python 3.10 or newer, then install dependencies:
 
-- Developed a machine learning model using `[model type/technique]` to address `[challenge project task]`.
-- Achieved `[key metric or result]`, demonstrating `[value or impact]` for `[host company]`.
-- Generated actionable insights to inform business decisions at `[host company or stakeholders]`.
-- Implemented `[specific methodology]` to address industry constraints or expectations.
+```powershell
+python -m pip install -r requirements.txt
+```
 
----
+## Reproduce the Index
 
-## 👩🏽‍💻 **Setup and Installation**
+Run the parser first if clean text has not been generated:
 
-**Provide step-by-step instructions so someone else can run your code and reproduce your results. Depending on your setup, include:**
+```powershell
+python notebooks/parse_filings.py
+python notebooks/extract_metadata.py
+```
 
-* How to clone the repository
-* How to install dependencies
-* How to set up the environment
-* How to access the dataset(s)
-* How to run the notebook or scripts
+The parser writes cleaned filing text to `data/clean_text/`. The metadata extractor writes `data/filings_index.csv` and includes `quality_flags` for missing or inconsistent fields.
 
----
+## Search and Filter
 
-## 🏗️ **Project Overview**
+Search all filings for a keyword:
 
-**Describe:**
+```powershell
+python notebooks/search_filings.py --query custody
+```
 
-- How this project is connected to the Break Through Tech AI Program
-- Your AI Studio host company and the project objective and scope
-- The real-world significance of the problem and the potential impact of your work
+Search with metadata filters:
 
----
+```powershell
+python notebooks/search_filings.py --query "weighted average" --year 2025 --asset-type auto_loans
+python notebooks/search_filings.py --query "physical\s+custody" --regex --company TOYOTA
+python notebooks/search_filings.py --asset-type cmbs --max-results 5
+```
 
-## 📊 **Data Exploration**
+Use `--json` when passing results to another program:
 
-**You might consider describing the following (as applicable):**
+```powershell
+python notebooks/search_filings.py --query "reserve account" --json
+```
 
-* The dataset(s) used: origin, format, size, type of data
-* Data exploration and preprocessing approaches
-* Insights from your Exploratory Data Analysis (EDA)
-* Challenges and assumptions when working with the dataset(s)
+Each result includes the deal name, issuer label, asset type, filing date, source clean-text path, match count, and up to three supporting snippets.
 
-**Potential visualizations to include:**
+## Data Organization
 
-* Plots, charts, heatmaps, feature visualizations, sample dataset images
+| Path | Purpose |
+|---|---|
+| `data/*.htm` | Downloaded SEC filing documents |
+| `data/clean_text/*_clean.txt` | Parsed searchable text |
+| `data/filings_index.csv` | Structured metadata index |
+| `data/_manifest.csv` | SEC source and download manifest |
+| `notebooks/parse_filings.py` | HTML and table parser |
+| `notebooks/extract_metadata.py` | Metadata extraction and quality checks |
+| `notebooks/search_filings.py` | Keyword, regex, and metadata-filter search |
 
----
+## Validation
 
-## 🧠 **Model Development**
+Run the search smoke tests:
 
-**You might consider describing the following (as applicable):**
+```powershell
+python -m unittest notebooks/test_search_filings.py
+```
 
-* Model(s) used (e.g., CNN with transfer learning, regression models)
-* Feature selection and Hyperparameter tuning strategies
-* Training setup (e.g., % of data for training/validation, evaluation metric, baseline performance)
+The Milestone 1 search layer is intentionally deterministic. It does not yet use embeddings or an LLM; those are planned for Milestone 2.
 
+## Limitations and Next Steps
 
----
+- The current corpus is `424H` HTML rather than `424B` PDF.
+- Metadata extraction is issuer-family aware but still produces quality flags for fields requiring manual review.
+- Search is lexical and may miss semantically equivalent language.
+- Milestone 2 will add chunking, embeddings, retrieval evaluation, and answer citations.
 
-## 📈 **Results & Key Findings**
+## References
 
-**You might consider describing the following (as applicable):**
+- [SEC EDGAR search](https://www.sec.gov/edgar/search/)
+- [PIMCO ABS surveillance challenge overview](Challenge-Project-Overview.md)
 
-* Performance metrics (e.g., Accuracy, F1 score, RMSE)
-* How your model performed
-* Insights from evaluating model fairness
+## Acknowledgements
 
-**Potential visualizations to include:**
-
-* Confusion matrix, precision-recall curve, feature importance plot, prediction distribution, outputs from fairness or explainability tools
-
----
-
-## 🚀 **Next Steps**
-
-**You might consider addressing the following (as applicable):**
-
-* What are some of the limitations of your model?
-* What would you do differently with more time/resources?
-* What additional datasets or techniques would you explore?
-
----
-
-## 📝 **License**
-
-Specify how your project can be used by others. Choose an appropriate license and link it here (e.g., MIT, Apache 2.0). Make sure your Challenge Advisor approves of the selected license type. 
-
-**Example:**
-This project is licensed under the MIT License.
-
----
-
-## 📄 **References** (Optional but encouraged)
-
-Cite relevant papers, articles, or resources that supported your project.
-
----
-
-## 🙏 **Acknowledgements** (Optional but encouraged)
-
-Thank your Challenge Advisor, host company representatives, TA, and others who supported your project.
+This project is part of the Break Through Tech AI Studio program and is developed for the PIMCO challenge.

@@ -1,0 +1,131 @@
+Milestone 1 Commands
+=====================
+
+Run these commands from the repository root:
+
+C:\Users\Owner\PIMCO-1D-ai-surveillance-analysis-based-on-abs-prospectuses
+
+If needed, change to the repository root first:
+
+Set-Location "C:\Users\Owner\PIMCO-1D-ai-surveillance-analysis-based-on-abs-prospectuses"
+
+
+1. Verify Python and pandas
+---------------------------
+
+py -3 --version
+py -3 -c "import pandas; print('pandas', pandas.__version__)"
+
+
+2. Install project dependencies
+-------------------------------
+
+py -3 -m pip install -r requirements.txt
+
+
+3. Run the search unit test
+---------------------------
+
+py -3 -m unittest notebooks/test_search_filings.py -v
+
+Expected result:
+
+Ran 1 test
+OK
+
+
+4. Run every test in the notebooks folder
+-----------------------------------------
+
+py -3 -m unittest discover -s notebooks -p "test_*.py" -v
+
+
+5. Search for a literal keyword or phrase
+------------------------------------------
+
+py -3 notebooks/search_filings.py --query "reserve account" --max-results 3
+
+This searches the clean filing text for the exact phrase, ignoring capitalization.
+The output includes matching companies, deals, filing dates, match counts, source
+paths, and supporting snippets.
+
+
+6. Search with a year and asset-type filter
+--------------------------------------------
+
+py -3 notebooks/search_filings.py --query "weighted average" --year 2025 --asset-type auto_loans --max-results 5
+
+This searches only 2025 filings whose asset type is auto_loans.
+
+
+7. Search one company
+---------------------
+
+py -3 notebooks/search_filings.py --query "servicer" --company TOYOTA --max-results 3
+
+Company names are matched without regard to capitalization.
+
+
+8. Search with a regular expression
+------------------------------------
+
+py -3 notebooks/search_filings.py --query "physical\s+custody" --regex --max-results 5
+
+The regex allows one or more whitespace characters between physical and custody.
+
+
+9. List filings using metadata only
+-----------------------------------
+
+py -3 notebooks/search_filings.py --asset-type cmbs --max-results 5
+
+This does not search for text. It lists matching CMBS filings from the metadata index.
+
+
+10. Combine keyword and metadata filters
+----------------------------------------
+
+py -3 notebooks/search_filings.py --query "reserve account" --company HYUNDAI --year 2025 --asset-type auto_loans --max-results 3
+
+All supplied filters are applied together before the text search.
+
+
+11. Return JSON results
+-----------------------
+
+py -3 notebooks/search_filings.py --query "custody" --max-results 2 --json
+
+JSON results contain company, deal name, asset type, filing date, filename,
+source path, match count, and supporting snippets.
+
+
+12. Check Python syntax
+-----------------------
+
+py -3 -m py_compile notebooks/parse_filings.py notebooks/extract_metadata.py notebooks/search_filings.py notebooks/test_search_filings.py
+
+A successful syntax check prints no output.
+
+
+13. Rebuild clean text and metadata
+------------------------------------
+
+py -3 notebooks/parse_filings.py
+py -3 notebooks/extract_metadata.py
+
+The first command regenerates clean text files. The second rebuilds
+data/filings_index.csv with extracted metadata and quality flags.
+
+
+Useful command options
+----------------------
+
+--query TEXT          Literal text or regex to search for
+--regex               Interpret --query as a regular expression
+--company TEXT        Filter by company, such as TOYOTA or BMW
+--asset-type TEXT     Filter by asset type, such as auto_loans or cmbs
+--year YYYY           Filter by filing year
+--max-results NUMBER  Limit the number of returned filings
+--json                Print structured JSON instead of formatted output
+--index PATH          Use a different metadata CSV
+--clean-dir PATH      Use a different clean-text directory
