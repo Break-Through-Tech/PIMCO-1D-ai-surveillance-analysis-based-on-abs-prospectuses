@@ -70,6 +70,10 @@ Each result includes the deal name, issuer label, asset type, filing date, sourc
 | `notebooks/parse_filings.py` | HTML and table parser |
 | `notebooks/extract_metadata.py` | Metadata extraction and quality checks |
 | `notebooks/search_filings.py` | Keyword, regex, and metadata-filter search |
+| `notebooks/chunk_filings.py` | Page-aware, token-limited chunk generator |
+| `notebooks/embed_chunks.py` | Batched embedding index builder |
+| `notebooks/search_embeddings.py` | Natural-language vector similarity search |
+| `notebooks/answer_questions.py` | Evidence-grounded answers with citations |
 
 ## Validation
 
@@ -79,14 +83,44 @@ Run the search smoke tests:
 python -m unittest notebooks/test_search_filings.py
 ```
 
-The Milestone 1 search layer is intentionally deterministic. It does not yet use embeddings or an LLM; those are planned for Milestone 2.
+The Milestone 1 search layer is intentionally deterministic. Milestone 2
+implementation is complete: the project now supports vector indexing,
+semantic retrieval, and evidence-grounded answers with citations. Retrieval
+evaluation against the team's held-out question set remains as follow-up work.
+
+## Milestone 2 semantic Q&A
+
+Set `OPENAI_API_KEY` in the terminal, generate chunks, and build the local
+embedding index:
+
+```powershell
+$env:OPENAI_API_KEY = "your-team-api-key"
+python notebooks/chunk_filings.py --limit 2
+python notebooks/embed_chunks.py
+```
+
+Ask a natural-language question. The query is embedded, the closest chunks
+are retrieved by cosine similarity, and only those chunks are sent to the
+completion model:
+
+```powershell
+python notebooks/answer_questions.py `
+    --query "Which deals use physical custody?" `
+    --top-k 5
+```
+
+The default completion model is `gpt-6-luna`; use `--model gpt-5.6-luna` if
+needed. Answers are instructed to use only retrieved evidence and cite the
+filing, page, section, and chunk identifiers supplied in the prompt.
 
 ## Limitations and Next Steps
 
 - The current corpus is `424H` HTML rather than `424B` PDF.
 - Metadata extraction is issuer-family aware but still produces quality flags for fields requiring manual review.
-- Search is lexical and may miss semantically equivalent language.
-- Milestone 2 will add chunking, embeddings, retrieval evaluation, and answer citations.
+- Lexical search may miss semantically equivalent language; use Milestone 2
+  semantic search for natural-language questions.
+- Milestone 2 implementation is complete. Remaining work is to evaluate
+  retrieval quality and answer support against the team's held-out questions.
 
 ## References
 

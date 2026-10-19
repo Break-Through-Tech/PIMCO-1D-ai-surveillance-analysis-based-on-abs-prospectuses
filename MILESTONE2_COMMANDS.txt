@@ -1,0 +1,148 @@
+Milestone 2: Asking Questions with the LLM
+==========================================
+
+This short tutorial assumes the chunk and embedding index has already been
+created. Run these commands from the repository root:
+
+C:\Users\Owner\PIMCO-1D-ai-surveillance-analysis-based-on-abs-prospectuses
+
+
+1. Ask a basic natural-language question
+------------------------------------------
+
+py -3 notebooks/answer_questions.py --query "Which deals use physical custody?"
+
+The program embeds the question, retrieves the most similar filing chunks,
+and asks the LLM to answer using only those chunks.
+
+
+2. Ask about a specific topic
+-----------------------------
+
+py -3 notebooks/answer_questions.py --query "What are the servicer replacement provisions?"
+
+Other useful questions:
+
+py -3 notebooks/answer_questions.py --query "How are reserve accounts funded?"
+
+py -3 notebooks/answer_questions.py --query "What events can trigger an early amortization?"
+
+py -3 notebooks/answer_questions.py --query "Who is responsible for collecting receivables?"
+
+py -3 notebooks/answer_questions.py --query "What representations are made about the collateral?"
+
+
+3. Retrieve more or fewer evidence chunks
+------------------------------------------
+
+py -3 notebooks/answer_questions.py --query "How is collateral custody handled?" --top-k 3
+
+Use a larger value when the question may require evidence from several parts of
+a filing:
+
+py -3 notebooks/answer_questions.py --query "Compare the servicing provisions across the retrieved deals." --top-k 10
+
+Use a smaller value for a focused question:
+
+py -3 notebooks/answer_questions.py --query "What is the stated reserve account?" --top-k 3
+
+The LLM only receives the retrieved chunks. A larger --top-k gives it more
+evidence but may also introduce less-relevant text.
+
+
+4. Use a different completion model
+------------------------------------
+
+The default model is gpt-6-luna:
+
+py -3 notebooks/answer_questions.py --query "Summarize the payment priorities." --top-k 5
+
+To use the other approved model:
+
+py -3 notebooks/answer_questions.py --query "Summarize the payment priorities." --top-k 5 --model gpt-5.6-luna
+
+
+5. Questions that require citations
+------------------------------------
+
+The answer prompt instructs the LLM to cite substantive claims using source
+labels. Ask explicitly for citations when you want a review-friendly response:
+
+py -3 notebooks/answer_questions.py --query "Which deals mention physical custody? List each deal and cite the supporting page." --top-k 8
+
+py -3 notebooks/answer_questions.py --query "Summarize the relevant servicing language and cite every claim." --top-k 6
+
+Expected citations identify the filing, physical page, printed page when
+available, section, and chunk ID.
+
+
+6. Questions that should avoid unsupported conclusions
+------------------------------------------------------
+
+The answer prompt tells the model to use only retrieved evidence. Phrase
+questions so it reports what the documents say rather than guessing:
+
+py -3 notebooks/answer_questions.py --query "Based only on the retrieved prospectus text, what custody arrangements are described?" --top-k 5
+
+py -3 notebooks/answer_questions.py --query "Does the retrieved evidence establish who has physical possession of the receivables? Explain and cite the text." --top-k 5
+
+py -3 notebooks/answer_questions.py --query "If the retrieved evidence is insufficient, say so. What does it establish about servicer termination?" --top-k 6
+
+
+7. Compare multiple deals
+--------------------------
+
+Use a question that asks for a structured comparison:
+
+py -3 notebooks/answer_questions.py --query "Compare the reserve-account provisions across the retrieved deals. Identify each deal and cite the supporting evidence." --top-k 10
+
+Remember that the answer can only compare deals represented in the retrieved
+chunks. Increase --top-k if too few deals appear.
+
+
+8. Inspect retrieved evidence without asking the LLM to summarize
+----------------------------------------------------------------
+
+This command performs semantic retrieval and prints the matching chunks:
+
+py -3 notebooks/search_embeddings.py --query "How are collections held before distribution?" --top-k 5
+
+Use JSON output when you want to inspect or pass the retrieved evidence to
+another program:
+
+py -3 notebooks/search_embeddings.py --query "How are collections held before distribution?" --top-k 5 --json
+
+This is useful for checking whether an answer is supported by the retrieved
+text.
+
+
+9. A practical question-writing pattern
+----------------------------------------
+
+Use this pattern when creating evaluation questions:
+
+  [Question about a document topic]
+  + [requested output]
+  + [citation requirement]
+  + [uncertainty instruction]
+
+Example:
+
+py -3 notebooks/answer_questions.py --query "What happens if the servicer is terminated? Summarize the steps, cite each claim, and say when the retrieved evidence is insufficient." --top-k 8
+
+
+10. What the command does
+--------------------------
+
+answer_questions.py follows this sequence:
+
+  Your question
+      -> question embedding
+      -> cosine-similarity search over chunk vectors
+      -> top-k evidence chunks
+      -> LLM prompt containing only those chunks
+      -> cited answer
+
+The LLM is not given the entire prospectus corpus. It answers from the
+retrieved evidence and should say when that evidence does not support a
+definite answer.
