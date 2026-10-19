@@ -1,3 +1,6 @@
 #Raw and processed filling data - each teammate maintains their own locally 
 data / 
 !data/.gitkeep
+
+__pycache__/
+*.pyc

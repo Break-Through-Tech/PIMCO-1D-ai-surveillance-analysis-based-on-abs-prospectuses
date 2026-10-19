@@ -3,3 +3,4 @@ lxml>=5.0.0
 pandas>=2.0.0
 html5lib
 tabulate
+tiktoken>=0.7.0
