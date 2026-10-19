@@ -115,8 +115,10 @@ TOKEN_LIMIT = 8_191          # OpenAI text-embedding-3-* hard limit
 DIVIDER_TOKEN_LIMIT = 30     # pages with ≤ this many tokens are dividers
 
 _TOC_HEADING = re.compile(r"TABLE\s+OF\s+CONTENTS", re.IGNORECASE)
-# A real TOC row: "SECTION TITLE | 42"  (right cell is a page label)
-_TOC_ROW = re.compile(r"^(.+?)\s*\|\s*([A-Za-z0-9][\w\-]*)\s*$")
+# A real TOC row: "SECTION TITLE | 42"  or multi-cell "SECTION |  |  | 42 |"
+# We match any pipe-delimited row whose first non-empty cell is a title and
+# whose last non-empty cell is a page label (digit, roman, or annex like A-3).
+_PAGE_LABEL = re.compile(r"^[A-Za-z0-9][\w\-]*$")
 # A page is the real TOC page only if it has the heading AND at least this
 # many TOC rows (section | page_number).  Running headers say "Table of
 # Contents" on every page but don't have the actual section list.
@@ -143,6 +145,28 @@ def strip_marker_lines(text: str) -> str:
 # ---------------------------------------------------------------------------
 # TOC parsing
 # ---------------------------------------------------------------------------
+def _parse_toc_row(line: str) -> tuple[str, str] | None:
+    """
+    Extract (title, page_label) from a pipe-delimited TOC row.
+    Handles both 2-cell rows  "SECTION | 42"
+    and multi-cell rows       "SECTION |  |  | 42 |"
+    Returns None if the line doesn't look like a TOC entry.
+    """
+    cells = [c.strip() for c in line.split("|")]
+    non_empty = [c for c in cells if c]
+    if len(non_empty) < 2:
+        return None
+    title = non_empty[0]
+    label = non_empty[-1]
+    # Label must be a page reference: digits, roman numerals, or annex (A-3)
+    if not _PAGE_LABEL.match(label):
+        return None
+    # Title must be at least 3 chars and not itself a page label
+    if len(title) < 3 or _PAGE_LABEL.match(title):
+        return None
+    return title, label
+
+
 def parse_toc(paged_text: str) -> dict[str, str]:
     """
     Return a mapping  printed_label -> section_title  built from the TOC table.
@@ -161,14 +185,10 @@ def parse_toc(paged_text: str) -> dict[str, str]:
             continue
         if not in_toc:
             continue
-        m = _TOC_ROW.match(line.strip())
-        if m:
-            title, label = m.group(1).strip(), m.group(2).strip()
-            if title and label:
-                toc_map[label] = title
-        # Stop after a long run of non-TOC lines (we've left the TOC section)
-        elif in_toc and line.strip() and not line.startswith("["):
-            pass  # keep scanning; TOC can span multiple pages
+        parsed = _parse_toc_row(line)
+        if parsed:
+            title, label = parsed
+            toc_map[label] = title
     return toc_map
 
 
@@ -385,7 +405,7 @@ def chunk_filing(htm_path: Path) -> list[dict]:
     toc_page_nums: set[str] = set()
     for page_num_str, _, body in pages:
         if _TOC_HEADING.search(body):
-            row_count = sum(1 for line in body.splitlines() if _TOC_ROW.match(line.strip()))
+            row_count = sum(1 for line in body.splitlines() if _parse_toc_row(line) is not None)
             if row_count >= _TOC_MIN_ROWS:
                 toc_page_nums.add(page_num_str)
 
