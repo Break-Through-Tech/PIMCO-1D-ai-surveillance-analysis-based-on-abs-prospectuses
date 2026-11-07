@@ -4,8 +4,11 @@ Page markers for the clean text.
 Checking all 122 raw filings showed that every filing marks page boundaries in
 exactly one of three ways:
 
-    comment  <!-- Field: Page; Sequence: N -->       55 files (Honda, Ford, Hyundai,
+    comment  <!-- Field: /Page -->                   55 files (Honda, Ford, Hyundai,
                                                        Wells Fargo, World Omni, most Bridgecrest)
+             The printed page number sits between <!-- Field: Page; Sequence: N -->
+             and <!-- Field: /Page -->, so the boundary goes on the closing comment
+             to keep the number on its own page.
     before   style="page-break-before:always"         43 files
     after    style="page-break-after:always"          24 files
 
@@ -38,7 +41,7 @@ from pathlib import Path
 from bs4 import Comment, NavigableString
 
 _SENTINEL = "\x00PAGEBREAK\x00"
-_COMMENT_MARKER = re.compile(r"^\s*Field:\s*Page\b", re.IGNORECASE)  # not "Field: /Page"
+_COMMENT_MARKER = re.compile(r"^\s*Field:\s*/Page\b", re.IGNORECASE)  # closes the page footer
 _BREAK_BEFORE = re.compile(r"page-break-before\s*:\s*always", re.IGNORECASE)
 _BREAK_AFTER = re.compile(r"page-break-after\s*:\s*always", re.IGNORECASE)
 
@@ -105,9 +108,17 @@ def printed_label(page_text: str):
     """
     The page label printed at the foot of a page: '148', 'A-13', or 'ii'.
     Filings sometimes split 'A-24' across two lines ('A-' then '24'), so the
-    last two lines are checked together. Returns None when nothing matches.
+    last two lines are checked together. The label may also sit in its own
+    one-row table ('[TABLE_n]', '| 3 |', '[/TABLE_n]') or between dashes
+    ('- i -'). Returns None when nothing matches.
     """
     lines = [line.strip() for line in page_text.splitlines() if line.strip()]
+    if (len(lines) >= 3 and re.fullmatch(r"\[/TABLE_\d+\]", lines[-1])
+            and re.fullmatch(r"\[TABLE_\d+\]", lines[-3])):
+        lines = lines[:-3] + [lines[-2].strip(" |")]
+    if lines:
+        lines[-1] = re.sub(r"^-\s*(\S+)\s*-$", r"\1", lines[-1])
+    lines = [line.strip() for line in lines if line.strip()]
     if not lines:
         return None
     last = lines[-1]
