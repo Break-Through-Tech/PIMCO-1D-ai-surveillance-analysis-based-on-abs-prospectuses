@@ -1,3 +1,4 @@
+[PAGE 1]
 Filed Pursuant to Rule 424(h)
 Registration No. 333-286053
 Registration No.
@@ -40,40 +41,40 @@ rate retail installment sale contracts used to finance the purchase of new and u
 [/TABLE_0]
 Credit Enhancement and Liquidity
 [TABLE_1]
- |  |  | Reserve account, with an initial deposit of at least $2,804,997.09.
+ | • |  | Reserve account, with an initial deposit of at least $2,804,997.09.
 [/TABLE_1]
 [TABLE_2]
- |  |  | Overcollateralization in the initial amount of $5,048,836.17.
+ | • |  | Overcollateralization in the initial amount of $5,048,836.17.
 [/TABLE_2]
 [TABLE_3]
- |  |  | Excess cashflow collected on the pool of fixed rate retail installment sale contracts.
+ | • |  | Excess cashflow collected on the pool of fixed rate retail installment sale contracts.
 [/TABLE_3]
 [TABLE_4]
- |  |  | Collections achieved through discounting certain receivables for the low annual percentage rates on some of the
+ | • |  | Collections achieved through discounting certain receivables for the low annual percentage rates on some of the
 fixed rate installment sale contracts.
 [/TABLE_4]
 [TABLE_5]
- |  |  | Class B Asset Backed Notes, with an initial principal balance of $23,560,000.
+ | • |  | Class B Asset Backed Notes, with an initial principal balance of $23,560,000.
 [/TABLE_5]
 [TABLE_6]
- |  |  | Class C Asset Backed Notes, with an initial principal balance of $19,630,000.
+ | • |  | Class C Asset Backed Notes, with an initial principal balance of $19,630,000.
 [/TABLE_6]
 [TABLE_7]
- |  |  | Class D Asset Backed Notes, with an initial principal balance of $14,590,000.
+ | • |  | Class D Asset Backed Notes, with an initial principal balance of $14,590,000.
 [/TABLE_7]
 [TABLE_8]
- |  |  | The Class B Notes, the Class C Notes and the Class D Notes are not being offered under this
+ | • |  | The Class B Notes, the Class C Notes and the Class D Notes are not being offered under this
 prospectus and instead will be retained initially by the depositor or its affiliate or, to the extent not required to be retained, sold in private placements.
 [/TABLE_8]
 [TABLE_9]
- |  |  | The Class D Notes are subordinated to the Class A Notes, the Class B Notes and the Class C
+ | • |  | The Class D Notes are subordinated to the Class A Notes, the Class B Notes and the Class C
 Notes.
 [/TABLE_9]
 [TABLE_10]
- |  |  | The Class C Notes are subordinated to the Class A Notes and the Class B Notes.
+ | • |  | The Class C Notes are subordinated to the Class A Notes and the Class B Notes.
 [/TABLE_10]
 [TABLE_11]
- |  |  | The Class B Notes are subordinated to the Class A Notes.
+ | • |  | The Class B Notes are subordinated to the Class A Notes.
 [/TABLE_11]
 Neither the Securities and Exchange Commission nor any state securities commission has approved or disapproved these notes or determined if
 this prospectus is truthful or complete. Any representation to the contrary is a criminal offense.
@@ -82,6 +83,8 @@ Joint Bookrunners
 Barclays |  | BofA Securities |  | Wells Fargo Securities
 [/TABLE_12]
 The date of this prospectus is October , 2025.
+
+[PAGE 2 | printed i]
 IMPORTANT NOTICE ABOUT INFORMATION
 PRESENTED IN THIS PROSPECTUS
 You should rely only on the information provided in this prospectus and any pricing supplement hereto, including the information incorporated
@@ -97,10 +100,10 @@ Ally Auto Assets LLC has met the registration requirements of General Instructio
 SF-3
 by filing no later than the date of the filing of the final prospectus, and determining that each of its affiliated depositors and issuing entities have timely filed, or have cured by filing at least 90 days prior to the date hereof:
 [TABLE_13]
- |  |  | the CEO certification described in “ The Depositor—CEO Certification ”; and
+ | • |  | the CEO certification described in “ The Depositor—CEO Certification ”; and
 [/TABLE_13]
 [TABLE_14]
- |  |  | the transaction documents containing the provisions described in “ The Receivables Pool—Asset
+ | • |  | the transaction documents containing the provisions described in “ The Receivables Pool—Asset
 Representations Review ,” “ The Receivables Pool—Dispute Resolution ” and “ Reports to Securityholders—Investor Communications .”
 [/TABLE_14]
 FORWARD LOOKING STATEMENTS
@@ -128,6 +131,8 @@ EUROPEAN UNION (WITHDRAWAL) ACT 2018 (AS AMENDED, THE “
 EUWA
 ”).
 i
+
+[PAGE 3 | printed ii]
 THE NOTES ARE NOT INTENDED TO BE OFFERED, SOLD OR OTHERWISE MADE AVAILABLE TO AND SHOULD NOT BE OFFERED,
 SOLD OR OTHERWISE MADE AVAILABLE TO ANY UK RETAIL INVESTOR IN THE UNITED KINGDOM. FOR THESE PURPOSES, A UK RETAIL INVESTOR MEANS A PERSON WHO IS ONE (OR MORE) OF: (I) A RETAIL CLIENT, AS DEFINED IN POINT (8) OF ARTICLE 2 OF REGULATION (EU)
 NO 2017/565 AS IT FORMS PART OF THE DOMESTIC LAW OF THE UNITED KINGDOM BY VIRTUE OF THE EUWA; OR (II) A CUSTOMER WITHIN THE MEANING OF THE PROVISIONS OF THE UNITED KINGDOM FINANCIAL SERVICES AND MARKETS ACT 2000 (AS AMENDED, THE
@@ -174,6 +179,8 @@ EU
 PROSPECTUS REGULATION
 ” MEANS REGULATION (EU) 2017/1129 (AS AMENDED).
 ii
+
+[PAGE 4 | printed iii]
 THE NOTES ARE NOT INTENDED TO BE OFFERED, SOLD OR OTHERWISE MADE AVAILABLE TO AND SHOULD NOT BE OFFERED,
 SOLD OR OTHERWISE MADE AVAILABLE TO ANY RETAIL INVESTOR IN THE EEA. FOR THESE PURPOSES, A RETAIL INVESTOR MEANS A PERSON WHO IS ONE (OR MORE) OF: (I) A RETAIL CLIENT AS DEFINED IN POINT (11) OF ARTICLE 4(1) OF DIRECTIVE 2014/65/EU (AS
 AMENDED, “
@@ -185,6 +192,8 @@ PRIIPS REGULATION
 RETAIL INVESTORS IN THE EEA HAS BEEN PREPARED AND THEREFORE OFFERING OR SELLING THE NOTES OR OTHERWISE MAKING THEM AVAILABLE TO ANY RETAIL INVESTOR IN THE EEA MAY BE UNLAWFUL UNDER THE PRIIPS REGULATION
 .
 iii
+
+[PAGE 5 | printed iv]
 TABLE OF CONTENTS
 Prospectus
 [TABLE_15]
@@ -232,6 +241,8 @@ WEIGHTED AVERAGE LIFE OF THE OFFERED NOTES |  |  | 52 |
 Percent of Initial Note Principal Balance Outstanding at Various ABS Percentages |  |  | 54 | 
 [/TABLE_15]
 iv
+
+[PAGE 6 | printed v]
 [TABLE_16]
 THE NOTES |  |  | 68 | 
 Distributions |  |  | 68 | 
@@ -285,6 +296,8 @@ Consequences of Insolvency Regimes for Payments on the Notes |  |  | 99 |
 Bankruptcy of the Trust |  |  | 100 | 
 [/TABLE_16]
 v
+
+[PAGE 7 | printed vi]
 [TABLE_17]
 Measures to Avoid Insolvency Proceedings With Respect to Special Purpose Entities |  |  | 100 | 
 FDIC Rule |  |  | 101 | 
@@ -314,6 +327,8 @@ INCORPORATION BY REFERENCE |  |  | 120 |
 GLOSSARY OF TERMS TO THIS PROSPECTUS |  |  | 121 | 
 [/TABLE_17]
 vi
+
+[PAGE 8 | printed 1]
 SUMMARY
 This summary highlights selected information from this prospectus and does not contain all of the information that you need to consider in
 making your investment decision. To understand the material terms of this offering of the offered notes, carefully read this entire prospectus.
@@ -386,27 +401,29 @@ Class C Notes will have a final scheduled distribution date of June 16, 2031. Th
 Class D Notes are not being offered under this prospectus. The Class B Notes, the Class C Notes and the Class D Notes (other than the EVI) will be sold in one or more private placements or retained initially by the depositor or
 its affiliate. The depositor or its affiliate will retain the right to sell at any time all or a portion of such retained notes to the extent that it is not required to retain such notes.
 1
+
+[PAGE 9 | printed 2]
 Interest Payments
 [TABLE_18]
- |  |  | The interest rate for each class of notes will be a fixed rate.
+ | • |  | The interest rate for each class of notes will be a fixed rate.
 [/TABLE_18]
 [TABLE_19]
- |  |  | Interest will accrue on the notes from and including the closing date to but excluding the first distribution date and for each monthly period thereafter, as set forth below.
+ | • |  | Interest will accrue on the notes from and including the closing date to but excluding the first distribution date and for each monthly period thereafter, as set forth below.
 [/TABLE_19]
 [TABLE_20]
- |  |  | The issuing entity will pay interest on the notes on the fifteenth day of each calendar month, or if that day is not a business day, the next business day, beginning on November 17, 2025. We refer to these dates as
+ | • |  | The issuing entity will pay interest on the notes on the fifteenth day of each calendar month, or if that day is not a business day, the next business day, beginning on November 17, 2025. We refer to these dates as
 “ distribution dates .”
 [/TABLE_20]
 [TABLE_21]
- |  |  | The issuing entity will pay interest on the notes, other than the Class A-1 Notes, on each distribution date based on a 360-day year
+ | • |  | The issuing entity will pay interest on the notes, other than the Class A-1 Notes, on each distribution date based on a 360-day year
 consisting of twelve 30-day months. The issuing entity will pay interest on the Class A-1 Notes on each distribution date based on the actual days elapsed during
 the period for which interest is payable and a 360-day year.
 [/TABLE_21]
 [TABLE_22]
- |  |  | Interest payments on all classes of the Class A Notes will have the same priority.
+ | • |  | Interest payments on all classes of the Class A Notes will have the same priority.
 [/TABLE_22]
 [TABLE_23]
- |  |  | The payment of interest on the Class B Notes is subordinated to the payment of interest on, and, in limited circumstances, payments of principal of, the Class A Notes, the payment of interest on the
+ | • |  | The payment of interest on the Class B Notes is subordinated to the payment of interest on, and, in limited circumstances, payments of principal of, the Class A Notes, the payment of interest on the
 Class C Notes is subordinated to the payment of interest on, and, in limited circumstances, payments of principal of, the Class A Notes and the Class B Notes, and the payment of interest on the Class D Notes is subordinated to
 the payment of interest on, and, in limited circumstances, payments of principal of, the Class A Notes, the Class B Notes and the Class C Notes, in each case to the extent described in “ Priority of Distributions. ”
 In general, no interest will be paid on the Class B Notes on any distribution date until all interest due and payable on the Class A Notes has been paid in full, no interest will be paid on the Class C Notes on any distribution date
@@ -415,13 +432,13 @@ Notes, the Class B Notes and the Class C Notes has been paid in full.
 [/TABLE_23]
 Principal Payments
 [TABLE_24]
- |  |  | The issuing entity will pay principal on the notes monthly on each distribution date.
+ | • |  | The issuing entity will pay principal on the notes monthly on each distribution date.
 [/TABLE_24]
 [TABLE_25]
- |  |  | The issuing entity will make principal payments on the notes based on the amount of collections and defaults on the receivables during the prior month.
+ | • |  | The issuing entity will make principal payments on the notes based on the amount of collections and defaults on the receivables during the prior month.
 [/TABLE_25]
 [TABLE_26]
- |  |  | On each distribution date, except as described below under “ Priority of Distributions—Acceleration, ” the amounts available to make principal payments on the notes will be applied as follows:
+ | • |  | On each distribution date, except as described below under “ Priority of Distributions—Acceleration, ” the amounts available to make principal payments on the notes will be applied as follows:
 [/TABLE_26]
 [TABLE_27]
 (1) | to the Class A-1 Notes, until the Class A-1 Notes are paid in full,
@@ -445,7 +462,7 @@ Principal Payments
 (7) | to the Class D Notes, until the Class D Notes are paid in full.
 [/TABLE_33]
 [TABLE_34]
- |  |  | The failure of the issuing entity to pay any class of notes in full on or before its final scheduled distribution date will constitute an event of default.
+ | • |  | The failure of the issuing entity to pay any class of notes in full on or before its final scheduled distribution date will constitute an event of default.
 [/TABLE_34]
 THE CERTIFICATES
 On the closing date, the issuing entity
@@ -455,6 +472,8 @@ depositor will retain the remaining 95% of the certificates. The depositor or it
 Credit Risk Retention
 ” in this prospectus.
 2
+
+[PAGE 10 | printed 3]
 THE RECEIVABLES
 Property of the Issuing Entity
 The primary assets of the
@@ -476,22 +495,22 @@ the Servicing Agreements—Sale and Assignment of Receivables
 The issuing entity’s property will, subject to other specific
 exceptions described in this prospectus, also include:
 [TABLE_35]
- |  |  | the remaining payments on the receivables as of a cutoff date of September 1, 2025 and monies received with respect to those remaining payments; we refer to that date as the “ cutoff date ,”
+ | • |  | the remaining payments on the receivables as of a cutoff date of September 1, 2025 and monies received with respect to those remaining payments; we refer to that date as the “ cutoff date ,”
 [/TABLE_35]
 [TABLE_36]
- |  |  | amounts held on deposit in trust accounts maintained for the issuing entity,
+ | • |  | amounts held on deposit in trust accounts maintained for the issuing entity,
 [/TABLE_36]
 [TABLE_37]
- |  |  | security interests in the vehicles financed by the receivables,
+ | • |  | security interests in the vehicles financed by the receivables,
 [/TABLE_37]
 [TABLE_38]
- |  |  | any recourse Ally Bank has against the dealers from which it purchased the receivables,
+ | • |  | any recourse Ally Bank has against the dealers from which it purchased the receivables,
 [/TABLE_38]
 [TABLE_39]
- |  |  | any proceeds from claims on insurance policies covering the financed vehicles, and
+ | • |  | any proceeds from claims on insurance policies covering the financed vehicles, and
 [/TABLE_39]
 [TABLE_40]
- |  |  | all rights of the issuing entity under the related transfer agreements with the depositor, including the rights of the depositor under the pooling
+ | • |  | all rights of the issuing entity under the related transfer agreements with the depositor, including the rights of the depositor under the pooling
 [/TABLE_40]
 [TABLE_41]
  |  | agreement, the servicing agreement and the custodian agreement.
@@ -536,6 +555,8 @@ The Receivables
 Pool—Exceptions to Underwriting Guidelines
 ” in this prospectus for more information regarding these exceptions.
 3
+
+[PAGE 11 | printed 4]
 The depositor performed a review of the pool of receivables, including a review of the ongoing processes and
 procedures used by the sponsor and the servicer and a review of the underlying data and disclosure regarding the receivables. The depositor concluded that it has reasonable assurance that the disclosure regarding the pool of receivables in this
 prospectus is accurate in all material respects. See “
@@ -556,59 +577,61 @@ PRIORITY OF
 DISTRIBUTIONS
 The issuing entity will distribute available funds in the following order of priority:
 [TABLE_43]
- |  |  | basic servicing fee payments to the servicer,
+ | • |  | basic servicing fee payments to the servicer,
 [/TABLE_43]
 [TABLE_44]
- |  |  | to the asset representations reviewer, the fees, expenses and indemnities due and owing under the asset representations review agreement, and to the indenture trustee and the vote tabulation agent, any fees, costs and
+ | • |  | to the asset representations reviewer, the fees, expenses and indemnities due and owing under the asset representations review agreement, and to the indenture trustee and the vote tabulation agent, any fees, costs and
 indemnities with respect to an asset representations review, each of which have not been previously paid in full, up to a maximum of $275,000 per calendar year,
 [/TABLE_44]
 [TABLE_45]
- |  |  | interest on the Class A Notes, pro rata among the Class A Notes,
+ | • |  | interest on the Class A Notes, pro rata among the Class A Notes,
 [/TABLE_45]
 [TABLE_46]
- |  |  | principal on the notes in an amount equal to the excess, if any, of the aggregate principal balance of the Class A Notes over the aggregate receivables principal balance,
+ | • |  | principal on the notes in an amount equal to the excess, if any, of the aggregate principal balance of the Class A Notes over the aggregate receivables principal balance,
 [/TABLE_46]
 [TABLE_47]
- |  |  | interest on the Class B Notes,
+ | • |  | interest on the Class B Notes,
 [/TABLE_47]
 [TABLE_48]
- |  |  | principal on the notes in an amount equal to the excess, if any, of the aggregate principal balance
+ | • |  | principal on the notes in an amount equal to the excess, if any, of the aggregate principal balance
 [/TABLE_48]
 [TABLE_49]
  |  | of the Class A Notes and the Class B Notes—reduced by the amount of principal allocated to the notes above—over the aggregate receivables principal balance,
 [/TABLE_49]
 [TABLE_50]
- |  |  | interest on the Class C Notes,
+ | • |  | interest on the Class C Notes,
 [/TABLE_50]
 [TABLE_51]
- |  |  | principal on the notes in an amount equal to the excess, if any, of the aggregate principal balance of the Class A Notes, the Class B Notes and the Class C Notes—reduced by the amounts of principal
+ | • |  | principal on the notes in an amount equal to the excess, if any, of the aggregate principal balance of the Class A Notes, the Class B Notes and the Class C Notes—reduced by the amounts of principal
 allocated to the notes above—over the aggregate receivables principal balance,
 [/TABLE_51]
 [TABLE_52]
- |  |  | interest on the Class D Notes,
+ | • |  | interest on the Class D Notes,
 [/TABLE_52]
 [TABLE_53]
- |  |  | principal on the notes in an amount equal to the excess, if any, of the aggregate principal balance of the Class A Notes, the Class B Notes, the Class C Notes and the Class D Notes—reduced by
+ | • |  | principal on the notes in an amount equal to the excess, if any, of the aggregate principal balance of the Class A Notes, the Class B Notes, the Class C Notes and the Class D Notes—reduced by
 the amounts of principal allocated to the notes above—over the aggregate receivables principal balance,
 [/TABLE_53]
 [TABLE_54]
- |  |  | deposits into the reserve account, until the amount in the reserve account equals the specified reserve account balance,
+ | • |  | deposits into the reserve account, until the amount in the reserve account equals the specified reserve account balance,
 [/TABLE_54]
 [TABLE_55]
- |  |  | principal on the notes in an amount equal to the lesser of (a) the aggregate principal balance of the notes—reduced by the amounts of principal allocated to the notes above, and (b) the excess of the
+ | • |  | principal on the notes in an amount equal to the lesser of (a) the aggregate principal balance of the notes—reduced by the amounts of principal allocated to the notes above, and (b) the excess of the
 aggregate principal balance of the notes—reduced by the amounts of principal allocated to the notes above—over an amount equal to the aggregate receivables principal balance minus the overcollateralization target amount,
 [/TABLE_55]
 [TABLE_56]
- |  |  | to the indenture trustee, any costs of the indenture trustee incurred associated with a resignation of the servicer and the appointment of a successor servicer,
+ | • |  | to the indenture trustee, any costs of the indenture trustee incurred associated with a resignation of the servicer and the appointment of a successor servicer,
 [/TABLE_56]
 [TABLE_57]
- |  |  | to the owner trustee, the indenture trustee, the administrator and the asset representations reviewer, amounts due and owing under the trust agreement, the indenture, the servicing agreement, the administration
+ | • |  | to the owner trustee, the indenture trustee, the administrator and the asset representations reviewer, amounts due and owing under the trust agreement, the indenture, the servicing agreement, the administration
 agreement and the asset representations review agreement, which have not been previously paid in full, and
 [/TABLE_57]
 [TABLE_58]
- |  |  | any remaining amounts, to the certificateholders.
+ | • |  | any remaining amounts, to the certificateholders.
 [/TABLE_58]
 4
+
+[PAGE 12 | printed 5]
 Acceleration
 If an event of default occurs and the notes are accelerated, until the time when all events of default have been cured or waived as provided in the indenture,
 the issuing entity will pay interest and principal first on the Class A Notes. Interest will be paid pro rata among the classes of Class A Notes and principal will be paid sequentially by class starting with the
@@ -652,14 +675,16 @@ TAX STATUS
 On the closing date, Mayer Brown LLP, as
 special tax counsel to the issuing entity, will deliver its opinion, subject to the assumptions and qualifications therein, to the effect that:
 [TABLE_59]
- |  |  | the offered notes will be characterized as indebtedness for federal income tax purposes to the extent the notes are treated as beneficially owned by a person other than the sponsor or its affiliates for such purposes,
+ | • |  | the offered notes will be characterized as indebtedness for federal income tax purposes to the extent the notes are treated as beneficially owned by a person other than the sponsor or its affiliates for such purposes,
 [/TABLE_59]
 5
+
+[PAGE 13 | printed 6]
 [TABLE_60]
- |  |  | the issuing entity will be classified as a grantor trust under the Internal Revenue Code of 1986, as amended (the “ Internal Revenue Code ”), and
+ | • |  | the issuing entity will be classified as a grantor trust under the Internal Revenue Code of 1986, as amended (the “ Internal Revenue Code ”), and
 [/TABLE_60]
 [TABLE_61]
- |  |  | the issuing entity will not be taxable as an association or publicly traded partnership taxable as a corporation.
+ | • |  | the issuing entity will not be taxable as an association or publicly traded partnership taxable as a corporation.
 [/TABLE_61]
 Each noteholder, by accepting an offered note (other than any notes that are retained by the depositor or one or more affiliates thereof), will agree to treat
 the offered notes as indebtedness for federal, state and local income and franchise tax purposes.
@@ -719,6 +744,8 @@ interest with respect to this transaction in accordance with the EU Securitizati
 undertake to take or refrain from taking any action to facilitate or enable compliance by EU Affected Investors with the EU Due Diligence Requirements, by UK Affected Investors with the UK Due Diligence Requirements, or by any person with the
 requirements of any other law or regulation now or hereafter in effect in the European Union, any
 6
+
+[PAGE 14 | printed 7]
 European Economic Area member state or the UK, in relation to risk retention, due diligence and monitoring, transparency, credit granting standards or any other conditions with respect to
 investments in securitization transactions. The arrangements described in this prospectus under “
 Credit Risk Retention
@@ -743,89 +770,93 @@ Risks relating to macroeconomic, regulatory and other external factors
 The notes are subject to risks relating to the macroeconomic, regulatory and other external factors, which could
 lead to shortfalls in payments or losses on your notes, adversely affect the market value of your notes or limit your ability to resell your notes, including:
 [TABLE_62]
- |  |  | Federal or state laws or regulatory legislation could have an adverse effect on the sponsor, the servicer and its affiliates.
+ | • |  | Federal or state laws or regulatory legislation could have an adverse effect on the sponsor, the servicer and its affiliates.
 [/TABLE_62]
 [TABLE_63]
- |  |  | A deterioration of economic conditions could affect the ability of obligors to make payments.
+ | • |  | A deterioration of economic conditions could affect the ability of obligors to make payments.
 [/TABLE_63]
 [TABLE_64]
- |  |  | Receivables that fail to comply with consumer protection laws may be unenforceable.
+ | • |  | Receivables that fail to comply with consumer protection laws may be unenforceable.
 [/TABLE_64]
 [TABLE_65]
- |  |  | Climate-related events may cause losses on your notes.
+ | • |  | Climate-related events may cause losses on your notes.
 [/TABLE_65]
 Risks relating to the characteristics, servicing
 and performance of the receivables pool
 The notes are subject to risks relating to the characteristics, servicing and performance of the receivables,
 which could lead to shortfalls in payments or losses on your notes, adversely affect the market value of your notes or limit your ability to resell your notes.
 [TABLE_66]
- |  |  | The frequency and amount of losses may be greater for receivables with longer terms.
+ | • |  | The frequency and amount of losses may be greater for receivables with longer terms.
 [/TABLE_66]
 [TABLE_67]
- |  |  | Market factors may reduce the value of used vehicles, which could result in losses on your notes.
+ | • |  | Market factors may reduce the value of used vehicles, which could result in losses on your notes.
 [/TABLE_67]
 [TABLE_68]
- |  |  | The indenture trustee will not be identified as the secured party of record with respect to the receivables, which could hinder or delay the indenture trustee’s ability to enforce its rights in the financed
+ | • |  | The indenture trustee will not be identified as the secured party of record with respect to the receivables, which could hinder or delay the indenture trustee’s ability to enforce its rights in the financed
 vehicles.
 [/TABLE_68]
 [TABLE_69]
- |  |  | Interests of other persons in the receivables and financed vehicles could be superior to the indenture trustee’s interest.
+ | • |  | Interests of other persons in the receivables and financed vehicles could be superior to the indenture trustee’s interest.
 [/TABLE_69]
 Risks relating to the transaction parties
 The notes are
 subject to risks relating to the various transaction parties, which could lead to shortfalls in payments or losses on your notes, adversely affect the market value of your notes or limit your ability to resell your notes, including:
 [TABLE_70]
- |  |  | Temporary commingling of funds by the servicer exposes the notes to a risk of loss.
+ | • |  | Temporary commingling of funds by the servicer exposes the notes to a risk of loss.
 [/TABLE_70]
 7
+
+[PAGE 15 | printed 8]
 [TABLE_71]
- |  |  | The manner in which the servicer exercises its discretion in the servicing of the receivables may reduce the yield on your notes or result in losses or delays in the payment on your notes.
+ | • |  | The manner in which the servicer exercises its discretion in the servicing of the receivables may reduce the yield on your notes or result in losses or delays in the payment on your notes.
 [/TABLE_71]
 [TABLE_72]
- |  |  | The insolvency or replacement of the servicer may result in a delay or reduction in the payments on your notes.
+ | • |  | The insolvency or replacement of the servicer may result in a delay or reduction in the payments on your notes.
 [/TABLE_72]
 [TABLE_73]
- |  |  | FDIC receivership or conservatorship of the sponsor could result in a challenge to the bankruptcy remote structure of the transaction.
+ | • |  | FDIC receivership or conservatorship of the sponsor could result in a challenge to the bankruptcy remote structure of the transaction.
 [/TABLE_73]
 Risks relating to the nature of the notes and the structure of the transaction
 The notes are subject to risks relating to their nature as asset-backed securities and the structure of the transaction, which could lead to shortfalls in
 payments or losses on your notes, adversely affect the market value of your notes or limit your ability to resell your notes.
 [TABLE_74]
- |  |  | The issuing entity’s ability to make payments on the notes will depend on the collections on the receivables .
+ | • |  | The issuing entity’s ability to make payments on the notes will depend on the collections on the receivables .
 [/TABLE_74]
 [TABLE_75]
- |  |  | The sponsor, the depositor and their respective affiliates other than the issuing entity are generally not obligated to make any payments on the securities and do not guarantee payments on the receivables or the
+ | • |  | The sponsor, the depositor and their respective affiliates other than the issuing entity are generally not obligated to make any payments on the securities and do not guarantee payments on the receivables or the
 securities . Repurchase obligations are limited.
 [/TABLE_75]
 [TABLE_76]
- |  |  | Only the issuing entity’s assets will be available to make payments on the notes .
+ | • |  | Only the issuing entity’s assets will be available to make payments on the notes .
 [/TABLE_76]
 [TABLE_77]
- |  |  | Prepayments, repurchases, or an optional purchase or early termination of the receivables could shorten the average life of the securities.
+ | • |  | Prepayments, repurchases, or an optional purchase or early termination of the receivables could shorten the average life of the securities.
 [/TABLE_77]
 [TABLE_78]
- |  |  | Foreign noteholders investing in notes could be treated as engaged in a U.S. trade or business for United States federal income tax purposes on account of their own activities.
+ | • |  | Foreign noteholders investing in notes could be treated as engaged in a U.S. trade or business for United States federal income tax purposes on account of their own activities.
 [/TABLE_78]
 [TABLE_79]
- |  |  | There is a risk of a taxable deemed exchange of the notes if the transaction documents are amended, which could result in gain or loss recognition for noteholders.
+ | • |  | There is a risk of a taxable deemed exchange of the notes if the transaction documents are amended, which could result in gain or loss recognition for noteholders.
 [/TABLE_79]
 [TABLE_80]
- |  |  | The Class A Notes are subject to risk of loss because payments of principal and interest are subordinated to the servicing fee and other third party fees. Each senior class of Class A Notes will be entitled to
+ | • |  | The Class A Notes are subject to risk of loss because payments of principal and interest are subordinated to the servicing fee and other third party fees. Each senior class of Class A Notes will be entitled to
 distributions of principal prior to a subordinate class of Class A Notes in an event of default.
 [/TABLE_80]
 [TABLE_81]
- |  |  | An occurrence of an event of default may result in prepayment of the notes or the sale of the assets of the issuing entity.
+ | • |  | An occurrence of an event of default may result in prepayment of the notes or the sale of the assets of the issuing entity.
 [/TABLE_81]
 [TABLE_82]
- |  |  | Retention of notes by the depositor or another majority-owned affiliate of the sponsor may reduce liquidity of the notes.
+ | • |  | Retention of notes by the depositor or another majority-owned affiliate of the sponsor may reduce liquidity of the notes.
 [/TABLE_82]
 [TABLE_83]
- |  |  | A secondary market in the notes may not develop or may never exist, which could result in decreased liquidity.
+ | • |  | A secondary market in the notes may not develop or may never exist, which could result in decreased liquidity.
 [/TABLE_83]
 [TABLE_84]
- |  |  | An adverse change in the initial ratings of the notes, or the issuance of unsolicited ratings on the notes, may have an adverse effect on the market value of your notes.
+ | • |  | An adverse change in the initial ratings of the notes, or the issuance of unsolicited ratings on the notes, may have an adverse effect on the market value of your notes.
 [/TABLE_84]
 8
+
+[PAGE 16 | printed 9]
 RISK FACTORS
 You should consider the following risk factors in deciding whether to purchase the offered notes.
 Risks Relating to Macroeconomic, Regulatory and Other External Factors
@@ -850,6 +881,8 @@ outlook is similarly uncertain as to pending enforcement cases. It is also uncer
 activity.
 [/TABLE_85]
 9
+
+[PAGE 17 | printed 10]
 [TABLE_86]
  |  | Compliance with the implementing regulations under the Dodd-Frank Act and the oversight of the SEC, the CFPB or other government entities, as applicable, has imposed costs on, created operational constraints for, and placed limits
 on pricing of consumer products with respect to banks such as the sponsor. Because of the complexity of the Dodd-Frank Act, the ultimate impact of the Dodd-Frank Act and its effects on the financial markets and their participants will not be
@@ -872,6 +905,8 @@ payoff in the account. The CFPB entered into consent orders with a large nationa
 products.
 [/TABLE_86]
 10
+
+[PAGE 18 | printed 11]
 [TABLE_87]
  |  | In particular, the CFPB determination that the large national bank engaged in unfair auto loan servicing acts and practices by incorrectly applying consumer payments, charging borrowers incorrect fees, interest or other amounts,
 wrongly repossessing borrowers’ automobiles and failing to ensure consumers received refunds for certain premiums the consumers paid dealers at origination relating to retail installment contracts purchased by such large national bank. In
@@ -893,6 +928,8 @@ receivable, resulting in an increased risk of delinquency, default, repossession
 resulting in increases in delinquencies, defaults and losses on retail installment
 [/TABLE_87]
 11
+
+[PAGE 19 | printed 12]
 [TABLE_88]
  |  | sale contracts and repossessions of the related financed vehicles. Further, changes and instability in the macroeconomic environment may also be accompanied by temporary or prolonged decreased consumer demand for motor vehicles and
 declining used vehicle prices. In addition, decreased consumer demand for motor vehicles and an increase in the inventory of used motor vehicles may depress the price at which repossessed motor vehicles may be sold or delay the timing of those
@@ -918,6 +955,8 @@ repossessed vehicles or a temporary or permanent decline in the market value of 
 extreme weather or a natural disaster were to occur in a geographic region in which a large number of obligors are located, these risks would be exacerbated.
 [/TABLE_88]
 12
+
+[PAGE 20 | printed 13]
 [TABLE_89]
  |  | Changes to laws or regulations enacted to address the potential impacts of climate change (including laws which may adversely impact the auto industry in particular as a result of efforts to mitigate the factors contributing to
 climate change) could have an adverse impact on the servicer, the sponsor, the depositor or the issuing entity and could adversely affect the timing and amount of payments on your notes.
@@ -950,6 +989,8 @@ Receivables |  |
 payments made on the receivables and, in the case of non-payment of receivables,
 [/TABLE_90]
 13
+
+[PAGE 21 | printed 14]
 [TABLE_91]
  |  | the proceeds from the sale of the related vehicles. Each of the trust, the depositor and the indenture trustee derives its indirect perfected security interest in any specified vehicle through one or more assignments, commencing
 with an assignment from Ally Bank to the depositor. In the event of an insolvency of Ally Bank, the indenture trustee may be hindered or delayed in its ability to enforce its rights in the motor vehicles relating to defaulted receivables because the
@@ -974,6 +1015,8 @@ are readily identifiable as either authorized or unauthorized revisions, and (d)
 trustee were to have a perfected security interest in the
 [/TABLE_91]
 14
+
+[PAGE 22 | printed 15]
 [TABLE_92]
  |  | financed vehicles, events could jeopardize the enforceability of that interest, such as:
  |  | (1)   fraud or forgery by the vehicle owner,
@@ -1005,6 +1048,8 @@ Delays in Payment on the |  |
 Notes and the Certificates |  | The servicer receives collections on the receivables into an account of the servicer that contains other funds of the servicer and amounts
 [/TABLE_93]
 15
+
+[PAGE 23 | printed 16]
 [TABLE_94]
  |  | collected by the servicer in respect of other receivables not owned by the issuing entity. Generally, the servicer is not required to transfer those funds to the collection account until two business days following receipt. This
 temporary commingling of funds prior to the deposit of collections on the receivables into the collection account may result in a delay or reduction in the amounts available to make payments on the notes if, in the event of a bankruptcy of the
@@ -1030,6 +1075,8 @@ vehicle, unable to sell repossessed financed vehicles in a timely manner or unab
 related receivables and your notes.
 [/TABLE_94]
 16
+
+[PAGE 24 | printed 17]
 [TABLE_95]
 The Insolvency or Replacement of the
 Servicer May Reduce |  | 
@@ -1044,20 +1091,22 @@ in Payments or Losses on Your Notes |  |
  | Ally Bank is a Utah chartered bank and its deposits are insured by the Federal Deposit Insurance Corporation, or the “ FDIC .” If Ally Bank becomes insolvent, is in an unsound condition, violates its bylaws or
 regulations or engages in similar activity, the FDIC could be appointed as conservator or receiver for Ally Bank. In a receivership or conservatorship of Ally Bank, the FDIC as receiver or conservator would have broad powers to delay or reduce
 payments on your notes, if the FDIC were to be successful in:
- |  |  attempting to recharacterize the securitization of the receivables as a loan or otherwise attempting to recapture the receivables
+ |  | • attempting to recharacterize the securitization of the receivables as a loan or otherwise attempting to recapture the receivables
 that have been conveyed to the issuing entity; or
- |  |  requiring the issuing entity, as assignee of the depositor, to go through an administrative claims procedure to establish its rights
+ |  | • requiring the issuing entity, as assignee of the depositor, to go through an administrative claims procedure to establish its rights
 to payments collected on the receivables; or
- |  |  requesting a stay of proceedings to liquidate claims or otherwise enforce contractual and legal remedies against Ally Bank;
+ |  | • requesting a stay of proceedings to liquidate claims or otherwise enforce contractual and legal remedies against Ally Bank;
 or
- |  |  repudiating without compensation Ally Bank’s ongoing servicing obligations under the servicing agreement, such as its duty to
+ |  | • repudiating without compensation Ally Bank’s ongoing servicing obligations under the servicing agreement, such as its duty to
 collect and remit payments or otherwise service the receivables; or
- |  |  arguing that a statutory injunction automatically prevents the indenture trustee and other transaction parties from exercising their
+ |  | • arguing that a statutory injunction automatically prevents the indenture trustee and other transaction parties from exercising their
 rights, remedies and interests for up to 90 days.
  |  | To limit the FDIC’s potential use of any of these powers, Ally Bank has structured this transaction to take advantage of a special regulation that the FDIC has created, entitled “Treatment of financial assets
 transferred
 [/TABLE_95]
 17
+
+[PAGE 25 | printed 18]
 [TABLE_96]
  |  | in connection with a securitization or participation.” This FDIC regulation, which we refer to as the “ FDIC Rule ,” contains four separate safe harbors for transactions; in this prospectus, we describe the
 safe harbors applicable to securitizations based on whether the securitizations do or do not qualify for sale accounting treatment. The FDIC Rule limits the rights of the FDIC, as conservator or receiver, to delay or prevent payments to noteholders
@@ -1084,6 +1133,8 @@ securities will not be insured or guaranteed by Ally Bank, the servicer, the dep
 and on the reserve account for
 [/TABLE_96]
 18
+
+[PAGE 26 | printed 19]
 [TABLE_97]
  |  | repayment of your securities. In addition, for defaulted receivables, you may have to look to the obligors on those receivables and the proceeds from the repossession and sale of financed vehicles which secure defaulted receivables.
 If these sources are insufficient, you may receive payments late or not receive back your full principal investment or all interest due to you. See “ The Notes—Distributions ,” “ The Transfer Agreements and the
@@ -1108,6 +1159,8 @@ is engaged in a trade or business within the United States. Furthermore, the pre
 unclear. Nothing herein provides any advice or assurance concerning the tax treatment with respect to any person in this regard or otherwise or considers in any way the facts
 [/TABLE_97]
 19
+
+[PAGE 27 | printed 20]
 [TABLE_98]
  |  | unique to any particular person that acquires a note. Therefore, prospective investors are urged to consult their own tax advisors to determine their treatment under these rules in respect of the acquisition of a note and taking
 into account their own particular facts relating to such acquisition.
@@ -1136,6 +1189,8 @@ Following an Event of Default |  |
 Under the Indenture |  | If an event of default occurs under the indenture, the holders of a majority of the aggregate principal balance of the controlling class of the notes may declare the accrued interest and outstanding principal on the notes
 [/TABLE_98]
 20
+
+[PAGE 28 | printed 21]
 [TABLE_99]
  |  | immediately due and payable. In that event, the indenture trustee may be directed to sell the receivables and other assets of the trust and apply the proceeds to repay the notes. The manner of sale will affect the amount of proceeds
 received and available for distribution. The liquidation and distribution of trust assets may result in an early return of principal to noteholders. You may not be able to reinvest the principal repaid to you for a rate of return or maturity date
@@ -1165,6 +1220,8 @@ considers only the likelihood that the trust will pay interest on time and will 
 distribution date. The ratings do not consider
 [/TABLE_99]
 21
+
+[PAGE 29 | printed 22]
 [TABLE_100]
  |  | the prices of the notes or their suitability to a particular investor. The ratings may be revised or withdrawn at any time, and rating agencies not hired to rate the notes may provide an unsolicited rating that is different from or
 lower than the ratings provided by the rating agencies hired to rate the notes. If a rating agency issues a rating lower than the solicited ratings, changes its rating or withdraws its rating, no party has an obligation to provide additional credit
@@ -1174,6 +1231,8 @@ hired to rate the notes, the market value of the notes may be adversely affected
 such rating agency’s ratings, which could have an adverse effect on the market value of your notes.
 [/TABLE_100]
 22
+
+[PAGE 30 | printed 23]
 SUMMARY OF TRANSACTION PARTIES*
 [TABLE_101]
 * | This chart provides only a simplified overview of the relationships among the key parties to the transaction.
@@ -1188,12 +1247,16 @@ retain the right to sell at any time all or a portion of such retained notes and
 one or more private placements or retained initially by the depositor, a majority-owned affiliate of the sponsor or another affiliate of the depositor as described in “ Credit Risk Retention ” in this prospectus.
 [/TABLE_102]
 23
+
+[PAGE 31 | printed 24]
 SUMMARY OF MONTHLY DEPOSITS TO AND WITHDRAWALS FROM ACCOUNTS*
 [TABLE_103]
 * | This chart provides only a simplified overview of the monthly flow of funds. Refer to this prospectus for a
 further description.
 [/TABLE_103]
 24
+
+[PAGE 32 | printed 25]
 THE SPONSOR
 Ally Bank is the sponsor of the transaction set forth in this prospectus.
 Ally Bank was incorporated in 2004 under the laws of the State of Utah relating to industrial loan corporations under the name “GMAC
@@ -1243,6 +1306,8 @@ installment sale contract securitizations over the last five years, see “
 Appendix A—Static Pool Data
 ” in this prospectus.
 25
+
+[PAGE 33 | printed 26]
 ACQUISITION AND UNDERWRITING
 Acquisition and Underwriting
 Ally Bank acquires or originates the receivables in the ordinary course of its business from participating automobile and light truck dealers
@@ -1267,19 +1332,19 @@ checks.
 Once the information is gathered, Ally Bank analyzes the application to determine whether to approve it and offer to purchase the
 receivable. These determinations are made on the basis of all of the information available to Ally Bank, including the following:
 [TABLE_104]
- |  |  | the applicant’s credit tier and Ally score,
+ | • |  | the applicant’s credit tier and Ally score,
 [/TABLE_104]
 [TABLE_105]
- |  |  | the applicant’s experience in managing installment and revolving debt,
+ | • |  | the applicant’s experience in managing installment and revolving debt,
 [/TABLE_105]
 [TABLE_106]
- |  |  | the asset value of the vehicle and the loan-to-value ratio for the receivable,
+ | • |  | the asset value of the vehicle and the loan-to-value ratio for the receivable,
 [/TABLE_106]
 [TABLE_107]
- |  |  | the term of the receivable, and
+ | • |  | the term of the receivable, and
 [/TABLE_107]
 [TABLE_108]
- |  |  | the applicant’s ability to pay.
+ | • |  | the applicant’s ability to pay.
 [/TABLE_108]
 Applications are first evaluated through an automated process. Applications are approved or declined and credit decisions are made either
 entirely through the automated process or through the automated process followed by manual review by a credit underwriter. Ally Bank developed its automated process in order to expedite the review of applications. The automated process uses an
@@ -1287,6 +1352,8 @@ algorithm to approve applications with various combinations of credit factors. A
 limited circumstances, final approval based solely on automated approval, without manual review, is limited to the higher quality credit tiers. However, even in the higher quality credit tiers, a substantial portion of approved applications are
 approved by credit underwriters rather than by the automated process.
 26
+
+[PAGE 34 | printed 27]
 For approved applications, buy rates applicable to the installment sale contracts are
 assigned on the basis of the Ally score in accordance with pricing tiers that are currently managed by Ally Bank.
 Ally Bank may use
@@ -1340,6 +1407,8 @@ Ally Servicing has its principal office
 at Ally Detroit Center, 500 Woodward Avenue, Detroit, Michigan 48226 Tel.
 No. 888-925-2559.
 27
+
+[PAGE 35 | printed 28]
 Since 1999, Ally Servicing has acted as a
 sub-servicer
 for Ally Financial, and has assumed increased servicing responsibilities over time. Currently, Ally Servicing acts as a
@@ -1390,6 +1459,8 @@ servicer may only make certain limited extensions or modifications. The servicer
 occurs after the final scheduled distribution date solely if, (a) in the judgement of the servicer, pursuant to the Established Collection Procedures, it is reasonably foreseeable that the obligor will default (it being understood that the
 servicer may proactively contact any obligor whom the servicer believes may be at a
 28
+
+[PAGE 36 | printed 29]
 higher risk of a payment default under the related receivable) and (b) the servicer believes that such amendment or modification is appropriate or necessary to preserve the value of such
 receivable and to prevent such receivable from going into default (or, where such receivable is already in default, to prevent such receivable from being further impaired) (a “
 Permitted Payment Modification
@@ -1436,6 +1507,8 @@ Mid-stage
 collections are performed by Ally Servicing or are outsourced to third
 parties with which Ally Servicing contracts for the provision
 29
+
+[PAGE 37 | printed 30]
 of collection related services. These third parties act under the direct supervision of Ally Servicing and are required to follow the servicer’s servicing policies.
 Depending on the risk profile, delinquent accounts typically progress from the
 mid-stage
@@ -1476,18 +1549,20 @@ which are not late fees or other similar fees or charges, will be applied to pri
 Collections on
 Administrative Receivables and Warranty Receivables, including Administrative Purchase Payments and Warranty Payments will also be applied to principal and interest on the receivables.
 30
+
+[PAGE 38 | printed 31]
 Servicing Compensation and Payment of Expenses
 On each distribution date, the servicer will receive the following servicing fees:
 [TABLE_109]
- |  |  | a basic servicing fee for the prior month, equal to one-twelfth of the
+ | • |  | a basic servicing fee for the prior month, equal to one-twelfth of the
 Basic Servicing Fee Rate multiplied by the Pool Balance as of the first day of that monthly period (or, with respect to the first distribution date, a basic servicing fee equal to one-sixth of the Basic
 Servicing Fee Rate multiplied by the Pool Balance as of the cutoff date),
 [/TABLE_109]
 [TABLE_110]
- |  |  | any unpaid basic servicing fees from all prior distribution dates, and
+ | • |  | any unpaid basic servicing fees from all prior distribution dates, and
 [/TABLE_110]
 [TABLE_111]
- |  |  | the other servicing fees described in “ Certain Fees and Expenses ” in this prospectus.
+ | • |  | the other servicing fees described in “ Certain Fees and Expenses ” in this prospectus.
 [/TABLE_111]
 Servicing fees will be paid out of funds available for that purpose. The relative priority of basic servicing fees and
 any other servicing fees are set forth in “
@@ -1499,22 +1574,22 @@ prepayment charges or similar fees and charges collected during a monthly period
 The foregoing amounts are intended to compensate the servicer for performing the functions of a third party servicer of automobile receivables
 as an agent for their beneficial owner, including:
 [TABLE_112]
- |  |  | collecting and posting all payments,
+ | • |  | collecting and posting all payments,
 [/TABLE_112]
 [TABLE_113]
- |  |  | responding to inquiries of obligors on the receivables,
+ | • |  | responding to inquiries of obligors on the receivables,
 [/TABLE_113]
 [TABLE_114]
- |  |  | investigating delinquencies,
+ | • |  | investigating delinquencies,
 [/TABLE_114]
 [TABLE_115]
- |  |  | sending payment coupons to obligors,
+ | • |  | sending payment coupons to obligors,
 [/TABLE_115]
 [TABLE_116]
- |  |  | reporting tax information to obligors, and
+ | • |  | reporting tax information to obligors, and
 [/TABLE_116]
 [TABLE_117]
- |  |  | policing the collateral.
+ | • |  | policing the collateral.
 [/TABLE_117]
 These amounts will also compensate the servicer for its services as the administrator, including accounting for collections, furnishing
 monthly and annual statements to the owner trustee and the indenture trustee for distributions and generating federal income tax information for the trust, the certificateholders and the noteholders. These amounts also will reimburse the servicer
@@ -1529,17 +1604,19 @@ closing date
 which is the date the trust will initially issue the notes and certificates.
 The trust will engage in only the following activities:
 [TABLE_118]
- |  |  | acquire, hold and manage the receivables and other assets of the trust,
+ | • |  | acquire, hold and manage the receivables and other assets of the trust,
 [/TABLE_118]
 [TABLE_119]
- |  |  | issue notes and certificates,
+ | • |  | issue notes and certificates,
 [/TABLE_119]
 [TABLE_120]
- |  |  | make payments on the notes and certificates, and
+ | • |  | make payments on the notes and certificates, and
 [/TABLE_120]
 31
+
+[PAGE 39 | printed 32]
 [TABLE_121]
- |  |  | take any action necessary to fulfill the roles of the trust in connection with the notes and the certificates.
+ | • |  | take any action necessary to fulfill the roles of the trust in connection with the notes and the certificates.
 [/TABLE_121]
 The trust’s principal offices are in Wilmington, Delaware, in care of BNY Mellon Trust of Delaware, as owner
 trustee at the address listed in “
@@ -1547,25 +1624,25 @@ The Owner Trustee
 ” below.
 The property of the trust will include:
 [TABLE_122]
- |  |  | a pool of retail installment sale contracts for new and used cars and light trucks and all payments received
+ | • |  | a pool of retail installment sale contracts for new and used cars and light trucks and all payments received
 thereunder on and after the cutoff date exclusive of any amount allocable to the premium for physical damage collateral protection insurance required by the servicer or the seller,
 [/TABLE_122]
 [TABLE_123]
- |  |  | amounts and investments of those amounts as from time to time may be held in the Designated Accounts and the
+ | • |  | amounts and investments of those amounts as from time to time may be held in the Designated Accounts and the
 proceeds of those accounts, except for the Certificate Distribution Account,
 [/TABLE_123]
 [TABLE_124]
- |  |  | security interests in the financed vehicles and, to the extent permitted by law, any accessions thereto,
+ | • |  | security interests in the financed vehicles and, to the extent permitted by law, any accessions thereto,
 [/TABLE_124]
 [TABLE_125]
- |  |  | any recourse against dealers on the receivables,
+ | • |  | any recourse against dealers on the receivables,
 [/TABLE_125]
 [TABLE_126]
- |  |  | the right to proceeds of credit life, credit disability, physical damage or other insurance policies covering the
+ | • |  | the right to proceeds of credit life, credit disability, physical damage or other insurance policies covering the
 financed vehicles, and
 [/TABLE_126]
 [TABLE_127]
- |  |  | the rights of the depositor under the pooling agreement and the servicing agreement.
+ | • |  | the rights of the depositor under the pooling agreement and the servicing agreement.
 [/TABLE_127]
 The reserve account will be held by the account bank for the benefit of the holders of the trust’s securities. The reserve account
 will be included in the property of the trust.
@@ -1602,6 +1679,8 @@ Total |  |  | $ 1,121,998,836 |
 the Class A-3 Notes will be $702,620,000 as reflected above. The initial principal balance of each of the Class A-2 Notes and the Class A-3 Notes may change but will be determined on or prior to the day of pricing of
 [/TABLE_129]
 32
+
+[PAGE 40 | printed 33]
 [TABLE_130]
  | those classes of notes. However, the respective initial principal balances of the Class A-2 Notes and the Class A-3 Notes are expected to be within the applicable ranges set forth in footnote (3) to the table on the cover page of this prospectus.
 [/TABLE_130]
@@ -1639,45 +1718,47 @@ contracts and receivables acquired as tangible contracts and converted to electr
 contract unalterable except in certain limited circumstances; (iii) identify Ally Bank or Ally Financial as the owner of record of the authoritative copy; and (iv) provide a means for transferring record ownership of, and the exclusive
 right of access to, the authoritative copy from the current owner of record to a successor owner of record.
 33
+
+[PAGE 41 | printed 34]
 Criteria Applicable to the Selection of Receivables
 The pool of receivables to be sold to the trust was selected from Ally Bank’s portfolio based on several criteria, including that each
 receivable:
 [TABLE_131]
- |  |  | is secured by a new or used car or light truck,
+ | • |  | is secured by a new or used car or light truck,
 [/TABLE_131]
 [TABLE_132]
- |  |  | is a simple interest receivable,
+ | • |  | is a simple interest receivable,
 [/TABLE_132]
 [TABLE_133]
- |  |  | was originated in the United States,
+ | • |  | was originated in the United States,
 [/TABLE_133]
 [TABLE_134]
- |  |  | provides for level monthly payments that may vary from one another by no more than $5,
+ | • |  | provides for level monthly payments that may vary from one another by no more than $5,
 [/TABLE_134]
 [TABLE_135]
- |  |  | will amortize the original amount financed over its original term to maturity,
+ | • |  | will amortize the original amount financed over its original term to maturity,
 [/TABLE_135]
 [TABLE_136]
- |  |  | was originated or acquired by Ally Bank or its subsidiaries in the ordinary course of business,
+ | • |  | was originated or acquired by Ally Bank or its subsidiaries in the ordinary course of business,
 [/TABLE_136]
 [TABLE_137]
- |  |  | has a first payment due date on or after December 26, 2017,
+ | • |  | has a first payment due date on or after December 26, 2017,
 [/TABLE_137]
 [TABLE_138]
- |  |  | was originated on or after November 11, 2017,
+ | • |  | was originated on or after November 11, 2017,
 [/TABLE_138]
 [TABLE_139]
- |  |  | has an original term of 12 to 84 monthly payments,
+ | • |  | has an original term of 12 to 84 monthly payments,
 [/TABLE_139]
 [TABLE_140]
- |  |  | has a remaining term of not less than 3 monthly payments,
+ | • |  | has a remaining term of not less than 3 monthly payments,
 [/TABLE_140]
 [TABLE_141]
- |  |  | as of the cutoff date, was not considered past due; that is, the payments due on that receivable in excess of $25
+ | • |  | as of the cutoff date, was not considered past due; that is, the payments due on that receivable in excess of $25
 have been received within 30 days of the due date, and
 [/TABLE_141]
 [TABLE_142]
- |  |  | has an APR of not greater than 25.00%.
+ | • |  | has an APR of not greater than 25.00%.
 [/TABLE_142]
 The receivables in the pool of receivables on the closing date will be the same receivables that comprised the pool of receivables on the
 cutoff date.
@@ -1708,6 +1789,8 @@ Weighted Average FICO Score
 receivable as of the cutoff date and excludes receivables with respect to which the obligor is a business account and receivables for which no FICO score is available. Of the 7,902 FICO scores excluded from the Weighted Average FICO Score, 5,361 or
 67.84%, are business accounts and the remaining 2,541, or 32.16%, are
 34
+
+[PAGE 42 | printed 35]
 accounts for which FICO scores are unavailable. In the table “
 Distribution of the Receivables Pool by FICO Score,
 ” those excluded accounts make up the “
@@ -1715,6 +1798,8 @@ Business
 Accounts and Unavailable
 ” category. Percentages may not equal 100.00% due to rounding.
 35
+
+[PAGE 43 | printed 36]
 Composition of the Receivables Pool—(Total: New and Used)
 [TABLE_143]
 Aggregate Amount Financed |  | $ | 1,121,998,836.17 | 
@@ -1754,6 +1839,8 @@ Weighted Average Original Maturity (in months) |  |  | 69.27 Months |
 Weighted Average Remaining Maturity (in months) (Range) |  |  | 51.75 Months (3 to 74 Months | )
 [/TABLE_145]
 36
+
+[PAGE 44 | printed 37]
 Distribution of the Receivables Pool by Annual Percentage Rate—Aggregate
 [TABLE_146]
 Annual Percentage Rate Range |  | Number of Contracts |  |  | Aggregate Amount Financed |  |  | Percentage of Aggregate Amount Financed | 
@@ -1799,6 +1886,8 @@ North Carolina |  |  | 4.94 | %
 New Jersey |  |  | 4.16 | %
 [/TABLE_147]
 37
+
+[PAGE 45 | printed 38]
 Distribution of the Receivables Pool by
 Loan-to-Value
 Ratio
@@ -1837,6 +1926,8 @@ Original Term (Months) |  | Number of Contracts |  |  | Aggregate Amount Finance
 Total |  |  | 58,335 |  |  | $ | 1,121,998,836.17 |  |  |  | 100.00 | %
 [/TABLE_150]
 38
+
+[PAGE 46 | printed 39]
 Distribution of the Receivables Pool by Vehicle Make
 [TABLE_151]
 Vehicle Make |  | Percentage of Aggregate Amount Financed | 
@@ -1883,19 +1974,21 @@ For the process review, the depositor monitored internal reports
 and developments with respect to processes and procedures that are designed to maintain and enhance the quality of decision-making, the quality of originated assets and the accuracy, efficiency and reliability of receivables systems and operations.
 Ally Financial and Ally Bank have internal functions that carry out these processes and procedures, such as:
 [TABLE_153]
- |  |  | Quality assurance, which tests previously originated receivables to check for compliance with applicable
+ | • |  | Quality assurance, which tests previously originated receivables to check for compliance with applicable
 underwriting criteria and documentation requirements and accurate entry of data into the principal databases and other management information systems of the sponsor and the servicer (the “ information databases ”),
 [/TABLE_153]
 39
+
+[PAGE 47 | printed 40]
 [TABLE_154]
- |  |  | Contract review, which tests, among other things, the quality of originated portfolios and the adherence of
+ | • |  | Contract review, which tests, among other things, the quality of originated portfolios and the adherence of
 originations to established policies,
 [/TABLE_154]
 [TABLE_155]
- |  |  | Risk reporting, which monitors losses, delinquencies, credit quality and exceptions to servicing policies, and
+ | • |  | Risk reporting, which monitors losses, delinquencies, credit quality and exceptions to servicing policies, and
 [/TABLE_155]
 [TABLE_156]
- |  |  | Internal audit, which independently performs periodic internal control reviews of various processes including the
+ | • |  | Internal audit, which independently performs periodic internal control reviews of various processes including the
 auto contract origination and reporting system processes.
 [/TABLE_156]
 The first part of the data and disclosure review tested the
@@ -1965,22 +2058,24 @@ Legal Aspects of the Receivables.
 terms and legal and regulatory considerations, and the other information with respect to the pool of receivables, contained in those sections is accurate. The depositor also reviewed internal management reports periodically generated by these
 personnel that bear on the matters discussed in those sections of this prospectus.
 40
+
+[PAGE 48 | printed 41]
 The depositor has concluded that the findings of the pool review provide it with reasonable
 assurance that:
 [TABLE_157]
- |  |  | the errors identified in the first aspect of the data and disclosure review are not indicative of any systemic
+ | • |  | the errors identified in the first aspect of the data and disclosure review are not indicative of any systemic
 problems with the processes of the sponsor and the servicer that generate information regarding the receivables for use in this prospectus;
 [/TABLE_157]
 [TABLE_158]
- |  |  | the pool composition and stratification tables contained in this prospectus are accurate in all material
+ | • |  | the pool composition and stratification tables contained in this prospectus are accurate in all material
 respects;
 [/TABLE_158]
 [TABLE_159]
- |  |  | the pool of receivables satisfies the selection criteria and the representations and warranties in all material
+ | • |  | the pool of receivables satisfies the selection criteria and the representations and warranties in all material
 respects; and
 [/TABLE_159]
 [TABLE_160]
- |  |  | the disclosure regarding the pool of receivables contained in this prospectus is accurate in all material
+ | • |  | the disclosure regarding the pool of receivables contained in this prospectus is accurate in all material
 respects.
 [/TABLE_160]
 Exceptions to Underwriting Guidelines
@@ -2017,6 +2112,8 @@ factors related to the creditworthiness of the obligor (“
 Other Factors Related to the Creditworthiness of the Obligor
 ”).
 41
+
+[PAGE 49 | printed 42]
 As shown in the table below, 2,349 of the receivables, having an aggregate balance of $34,852,067.87
 constituted exceptions to Ally’s underwriting criteria.
 [TABLE_161]
@@ -2032,17 +2129,17 @@ Asset Representations Review
 The asset representations reviewer will conduct a review of 60 day or more delinquent receivables for their compliance with asset level
 representations and warranties provided by the sponsor and the depositor upon the satisfaction of each of the following conditions:
 [TABLE_162]
- |  |  | the delinquency trigger (as defined below) is met or exceeded, and
+ | • |  | the delinquency trigger (as defined below) is met or exceeded, and
 [/TABLE_162]
 [TABLE_163]
- |  |  | the noteholders (including beneficial owners of the notes) vote to cause a review of delinquent receivables by:
+ | • |  | the noteholders (including beneficial owners of the notes) vote to cause a review of delinquent receivables by:
 [/TABLE_163]
 [TABLE_164]
- |  |  | at least 5% of the noteholders, measured by the outstanding principal balance of their respective notes,
+ | • |  | at least 5% of the noteholders, measured by the outstanding principal balance of their respective notes,
 demanding a vote of the noteholders to determine if a review should be performed, and
 [/TABLE_164]
 [TABLE_165]
- |  |  | at least a majority of the noteholders, measured by the outstanding principal balance of the notes of the
+ | • |  | at least a majority of the noteholders, measured by the outstanding principal balance of the notes of the
 noteholders voting, choosing to initiate an asset representations review, and at least 5% of the noteholders by aggregate principal balance of the notes outstanding cast a vote.
 [/TABLE_165]
 For more information regarding the asset representations reviewer, see “
@@ -2069,6 +2166,8 @@ Monthly Period |  | Delinquency Trigger |
 49 and after |  |  | 4.90 | %
 [/TABLE_166]
 42
+
+[PAGE 50 | printed 43]
 The sponsor believes that the delinquency trigger is
 appropriate based on an analysis
 of the historical 61 day or more delinquency rate over the life of the sponsor’s other transactions. For each of the 45 registered and selected private offerings of notes backed by retail installment sale contracts completed by the sponsor
@@ -2094,6 +2193,8 @@ Within 90 days of publication that the delinquency trigger has been met or excee
 the noteholders may determine whether to initiate a vote to determine whether a review of 60 day or more delinquent receivables should be performed by the asset representations reviewer. Noteholders may
 exercise this right by contacting the indenture trustee. For the purpose of the vote, notes held by the
 43
+
+[PAGE 51 | printed 44]
 sponsor or any affiliates thereof are not included in the calculation of determining whether the noteholders have elected to initiate a vote.
 If the requesting noteholder is the record holder of any notes, no verification procedures will be required. If the requesting noteholder
 is not the record holder of any notes and is instead a beneficial owner of notes, the indenture trustee may require no more verification than (1) a written certification from the noteholder that it is a beneficial owner of a specified principal
@@ -2133,13 +2234,13 @@ and Assignment of Receivables
 ” in this prospectus. A copy of the final asset representations review agreement will be filed no later than the date of the filing of the final prospectus for the notes.
 The asset representations reviewer will only determine whether:
 [TABLE_167]
- |  |  | a receivable sold on the closing date satisfied the asset level representations and warranties,
+ | • |  | a receivable sold on the closing date satisfied the asset level representations and warranties,
 [/TABLE_167]
 [TABLE_168]
- |  |  | a receivable failed to satisfy such representations or warranties, or
+ | • |  | a receivable failed to satisfy such representations or warranties, or
 [/TABLE_168]
 [TABLE_169]
- |  |  | there is missing or insufficient documentation with respect to whether a representation or warranty was
+ | • |  | there is missing or insufficient documentation with respect to whether a representation or warranty was
 satisfied.
 [/TABLE_169]
 The asset representations reviewer will not determine whether any failures to meet the representations and
@@ -2151,6 +2252,8 @@ The fees and expenses of the asset representations review will be paid by the is
 The Notes—Distributions
 .” The review fee will be $200 per receivable.
 44
+
+[PAGE 52 | printed 45]
 The asset representations reviewer will be required to complete its review within 60 days of
 receiving the documents necessary to start its review. The review period may be extended by up to an additional 30 days if the asset representations reviewer requests missing review materials that are subsequently provided within the
 60-day
@@ -2189,6 +2292,8 @@ satisfied or repurchased, no demands to repurchase are permitted, and there is n
 the receivables or to any credit losses that may occur as a result of a default by the related obligor on the receivable. Furthermore, the dispute resolution procedures described below apply only to the specific receivables that are related to the
 dispute. In order for a receivable to be subject to repurchase, there must be a breach of a representation or warranty related to such receivable which materially and adversely affects the requesting party. In
 45
+
+[PAGE 53 | printed 46]
 the event that the asset representations reviewer determines that the representations and warranties related to a receivable have not failed, any repurchase request related to that receivable
 will be deemed to be resolved.
 The requesting party may choose either mediation (including
@@ -2236,6 +2341,8 @@ Reports to Securityholders
 ” below, in connection with a judicial challenge to or enforcement of an award,
 or as otherwise required by law.
 46
+
+[PAGE 54 | printed 47]
 REPURCHASE HISTORY
 The transaction documents contain covenants requiring the depositor and Ally Bank to repurchase a receivable for the breach of representation
 or warranty in certain circumstances. In the prior three years, none of Ally Bank, Ally Financial, the depositor, the indenture trustee or the owner trustee received a demand to repurchase any retail auto installment sale contract securitized by
@@ -2258,46 +2365,48 @@ is incorporated by reference into this prospectus. The asset-level data includes
 the receivables, charge offs, repossessions and modifications of the receivables. Asset-level data will be provided each month as an exhibit to the monthly distribution reports filed on Form
 10-D.
 47
+
+[PAGE 55 | printed 48]
 THE SPONSOR’S PORTFOLIO DATA
 Delinquencies, Repossessions, Bankruptcies and Net Losses
 For Ally Bank’s U.S. consumer automotive portfolio of new and used retail car and light truck receivables, the table on the following
 page shows Ally Bank’s experience for both new and used retail car and light truck receivables on a combined basis for:
 [TABLE_170]
- |  |  | delinquencies,
+ | • |  | delinquencies,
 [/TABLE_170]
 [TABLE_171]
- |  |  | repossessions,
+ | • |  | repossessions,
 [/TABLE_171]
 [TABLE_172]
- |  |  | bankruptcies, and
+ | • |  | bankruptcies, and
 [/TABLE_172]
 [TABLE_173]
- |  |  | net losses.
+ | • |  | net losses.
 [/TABLE_173]
 In addition, for Ally Bank’s U.S. consumer automotive portfolio of new and used retail car and light truck receivables with an original
 term to maturity of 76 to 84 months, the table on the second following page shows Ally Bank’s experience for both new and used retail car and light truck receivables on a combined basis for:
 [TABLE_174]
- |  |  | delinquencies,
+ | • |  | delinquencies,
 [/TABLE_174]
 [TABLE_175]
- |  |  | repossessions, and
+ | • |  | repossessions, and
 [/TABLE_175]
 [TABLE_176]
- |  |  | net losses.
+ | • |  | net losses.
 [/TABLE_176]
 Fluctuations in delinquencies, repossessions, bankruptcies and net losses generally follow trends in the overall economic environment and may
 be affected by such factors as:
 [TABLE_177]
- |  |  | competition for obligors,
+ | • |  | competition for obligors,
 [/TABLE_177]
 [TABLE_178]
- |  |  | the supply and demand for both new and used cars and light trucks,
+ | • |  | the supply and demand for both new and used cars and light trucks,
 [/TABLE_178]
 [TABLE_179]
- |  |  | consumer debt burden per household, and
+ | • |  | consumer debt burden per household, and
 [/TABLE_179]
 [TABLE_180]
- |  |  | personal bankruptcies.
+ | • |  | personal bankruptcies.
 [/TABLE_180]
 Ally Bank’s historical trends have been in line with expectations. Credit strategy adjustments in recent years have shifted the
 portfolio to a higher credit quality mix, however the evolving macroeconomic environment continues to pressure portfolio trends.
@@ -2313,6 +2422,8 @@ COVID-19
 pandemic impacted obligors nationwide and had a materially more significant impact on Ally Bank’s consumer automotive portfolio of new and used retail car and light
 truck receivables than even the most severe historical natural disasters, as reflected in the tables below.
 48
+
+[PAGE 56 | printed 49]
 [TABLE_181]
 New and Used Car and Light Truck Contracts |  | Six Months Ended June 30 (1) , |  |  | Year Ended December 31, | 
  |  | 2025 |  |  | 2024 |  |  | 2024 |  |  | 2023 |  |  | 2022 |  |  | 2021 |  |  | 2020 | 
@@ -2357,6 +2468,8 @@ Average Bankruptcies |  |  | 41,012 |  |  |  | 37,631 |  |  |  | 38,511 |  |  | 
 Average Retail Contracts (including bankruptcies) |  |  | 3,390,013 |  |  |  | 3,455,481 |  |  |  | 3,437,192 |  |  |  | 3,490,791 |  |  |  | 3,594,987 |  |  |  | 3,721,030 |  |  |  | 3,661,332 | 
 [/TABLE_185]
 49
+
+[PAGE 57 | printed 50]
 [TABLE_186]
 New and Used Car and Light Truck Contracts |  | Six Months Ended June 30 (1) , |  |  | Year Ended December 31, | 
  |  | 2025 |  |  | 2024 |  |  | 2024 |  |  | 2023 |  |  | 2022 |  |  | 2021 |  |  | 2020 | 
@@ -2403,10 +2516,14 @@ the second table above is calculated by averaging the
 month-end
 retail contracts outstanding (including bankruptcies) for each month in the indicated period.
 50
+
+[PAGE 58 | printed 51]
 STATIC POOL INFORMATION
 Information regarding publicly offered retail securitized pools acquired by Ally Bank within the preceding five years is included in Appendix
 A of this prospectus. This static pool information is incorporated by reference into this prospectus.
 51
+
+[PAGE 59 | printed 52]
 WEIGHTED AVERAGE LIFE OF THE OFFERED NOTES
 The weighted average life of the notes will generally be influenced by the rate at which the principal balances of the receivables are paid,
 which payment may be in the form of scheduled amortization or prepayments. For this purpose, the term “prepayment” includes charge-offs, liquidations due to defaults and repurchases by the depositor or the seller or purchases by the
@@ -2455,6 +2572,8 @@ Hypothetical Pool |  | Aggregate Principal Balance |  |  | Weighted Average Annu
 17 |  | $ | 84,815.94 |  |  |  | 2.990 | % |  | 27 |  | 9
 [/TABLE_189]
 52
+
+[PAGE 60 | printed 53]
 [TABLE_190]
 Hypothetical Pool |  | Aggregate Principal Balance |  |  | Weighted Average Annual Percentage Rate |  |  | Weighted Average Remaining Term to Maturity (in Months) |  | Weighted Average Age (in Months)
 18 |  | $ | 141,944.57 |  |  |  | 2.874 | % |  | 46 |  | 12
@@ -2511,6 +2630,8 @@ the Class A-3 Notes of 4.13%, (y) the tables relating to the Class A-2 maximum p
 (z) the tables relating to the Class A-2 base case principal balance and the Class A-3 base case
 [/TABLE_194]
 53
+
+[PAGE 61 | printed 54]
 [TABLE_195]
  | principal balance, interest accrues on the notes at a per annum fixed rate for the Class A-2 Notes of 4.28% and for the Class A-3 Notes of 4.13%, and none of the notes accrue interest at a floating rate,
 [/TABLE_195]
@@ -2571,6 +2692,8 @@ Notes, separate tables are presented for a minimum principal balance of $276,310
 Class A-3
 Notes, separate tables are presented for a minimum principal balance of $326,310,000, a
 54
+
+[PAGE 62 | printed 55]
 maximum principal balance of $426,310,000 and a base case principal balance of $376,310,000. The tables for the
 Class A-1
 Notes and the
@@ -2581,6 +2704,8 @@ Notes and the
 Class A-3
 Notes.
 55
+
+[PAGE 63 | printed 56]
 Percent of the Initial Note Principal Balance
 Outstanding—Class A-1
 Notes
@@ -2602,6 +2727,8 @@ Weighted Average Life (Years) to Call |  |  | 0.44 |  |  |  | 0.35 |  |  |  | 0.
 Weighted Average Life (Years) to Maturity |  |  | 0.44 |  |  |  | 0.35 |  |  |  | 0.29 |  |  |  | 0.26 |  |  |  | 0.23 |  |  |  | 0.20 |  |  |  | 0.14 | 
 [/TABLE_202]
 56
+
+[PAGE 64 | printed 57]
 Percent of the Initial Note Principal Balance
 Outstanding—Class A-2
 Notes
@@ -2644,6 +2771,8 @@ but will be determined on or prior to the day of pricing of such notes. The info
 the actual initial principal balance of the Class A-2 Notes may be greater than the minimum shown, in which case the Weighted Average Lives may be different than those shown above.
 [/TABLE_204]
 57
+
+[PAGE 65 | printed 58]
 Percent of the Initial Note Principal Balance
 Outstanding—Class A-2
 Notes
@@ -2691,6 +2820,8 @@ but will be determined on or prior to the day of pricing of such notes. The info
 the actual initial principal balance of the Class A-2 Notes may be less than the maximum shown, in which case the Weighted Average Lives may be different than those shown above.
 [/TABLE_206]
 58
+
+[PAGE 66 | printed 59]
 Percent of the Initial Note Principal Balance
 Outstanding—Class A-2
 Notes
@@ -2735,6 +2866,8 @@ but will be determined on or prior to the day of pricing of such notes. The info
 initial principal balance of the Class A-2 Notes may be greater or less than the base case shown, in which case the Weighted Average Lives may be different than those shown above.
 [/TABLE_208]
 59
+
+[PAGE 67 | printed 60]
 Percent of the Initial Note Principal Balance
 Outstanding—Class A-3
 Notes
@@ -2797,12 +2930,16 @@ Weighted Average Life (Years) to Call |  |  | 3.29 |  |  |  | 2.93 |  |  |  | 2.
 Weighted Average Life (Years) to Maturity |  |  | 3.29 |  |  |  | 2.93 |  |  |  | 2.59 |  |  |  | 2.41 |  |  |  | 2.22 |  |  |  | 2.02 |  |  |  | 1.73 | 
 [/TABLE_209]
 60
+
+[PAGE 68 | printed 61]
 [TABLE_210]
 (1) | The initial principal balance of the Class A-3 Notes may change
 but will be determined on or prior to the day of pricing of such notes. The information provided above is based on the expected minimum initial principal balance of the Class A-3 Notes. However,
 the actual initial principal balance of the Class A-3 Notes may be greater than the minimum shown, in which case the Weighted Average Lives may be different than those shown above.
 [/TABLE_210]
 61
+
+[PAGE 69 | printed 62]
 Percent of the Initial Note Principal Balance
 Outstanding—Class A-3
 Notes
@@ -2870,11 +3007,15 @@ but will be determined on or prior to the day of pricing of such notes. The info
 the actual initial
 [/TABLE_212]
 62
+
+[PAGE 70 | printed 63]
 [TABLE_213]
  | principal balance of the Class A-3 Notes may be less than the maximum shown, in which case the Weighted Average Lives may be different than those
 shown above.
 [/TABLE_213]
 63
+
+[PAGE 71 | printed 64]
 Percent of the Initial Note Principal Balance
 Outstanding—Class A-3
 Notes
@@ -2937,12 +3078,16 @@ Weighted Average Life (Years) to Call |  |  | 3.17 |  |  |  | 2.81 |  |  |  | 2.
 Weighted Average Life (Years) to Maturity |  |  | 3.17 |  |  |  | 2.81 |  |  |  | 2.48 |  |  |  | 2.30 |  |  |  | 2.12 |  |  |  | 1.93 |  |  |  | 1.65 | 
 [/TABLE_214]
 64
+
+[PAGE 72 | printed 65]
 [TABLE_215]
 (1) | The initial principal balance of the Class A-3 Notes may change
 but will be determined on or prior to the day of pricing of such notes. The information provided above is based on the base case principal balance of the Class A-3 Notes. However, the actual
 initial principal balance of the Class A-3 Notes may be greater or less than the base case shown, in which case the Weighted Average Lives may be different than those shown above.
 [/TABLE_215]
 65
+
+[PAGE 73 | printed 66]
 Percent of the Initial Note Principal Balance
 Outstanding—Class A-4
 Notes
@@ -3009,6 +3154,8 @@ Closing Date |  |  | 100.00 | % |  |  | 100.00 | % |  |  | 100.00 | % |  |  | 10
 08/15/30 |  |  | 16.67 | % |  |  | 0.00 | % |  |  | 0.00 | % |  |  | 0.00 | % |  |  | 0.00 | % |  |  | 0.00 | % |  |  | 0.00 | %
 [/TABLE_216]
 66
+
+[PAGE 74 | printed 67]
 [TABLE_217]
 Distribution Date |  | 0.00% |  |  | 0.50% |  |  | 0.90% |  |  | 1.10% |  |  | 1.30% |  |  | 1.50% |  |  | 1.80% | 
 09/15/30 |  |  | 7.68 | % |  |  | 0.00 | % |  |  | 0.00 | % |  |  | 0.00 | % |  |  | 0.00 | % |  |  | 0.00 | % |  |  | 0.00 | %
@@ -3017,6 +3164,8 @@ Weighted Average Life (Years) to Call |  |  | 4.51 |  |  |  | 4.18 |  |  |  | 3.
 Weighted Average Life (Years) to Maturity |  |  | 4.58 |  |  |  | 4.25 |  |  |  | 3.89 |  |  |  | 3.68 |  |  |  | 3.43 |  |  |  | 3.15 |  |  |  | 2.72 | 
 [/TABLE_217]
 67
+
+[PAGE 75 | printed 68]
 THE NOTES
 The notes will be issued pursuant to the terms of the indenture, which may be amended and supplemented from time to time, to be dated as of
 the closing date between the trust and the indenture trustee. A form of indenture was filed as an exhibit to the registration statement of which this prospectus forms a part, but the form of indenture does not describe the specific terms of the
@@ -3057,37 +3206,39 @@ modifications to the receivables, see “
 Servicing Procedures
 ” in this prospectus.
 68
+
+[PAGE 76 | printed 69]
 Monthly Withdrawals and Deposits
 . On or before the tenth day of each calendar month,
 or if that day is not a business day, the next business day, the servicer will calculate the following amounts, among others:
 Based on
 activity during the prior monthly period:
 [TABLE_219]
- |  |  | the Available Interest,
+ | • |  | the Available Interest,
 [/TABLE_219]
 [TABLE_220]
- |  |  | the Available Principal, and
+ | • |  | the Available Principal, and
 [/TABLE_220]
 [TABLE_221]
- |  |  | the Specified Reserve Account Balance.
+ | • |  | the Specified Reserve Account Balance.
 [/TABLE_221]
 Amounts distributable on the upcoming distribution date:
 [TABLE_222]
- |  |  | the basic servicing fee,
+ | • |  | the basic servicing fee,
 [/TABLE_222]
 [TABLE_223]
- |  |  | the Aggregate Noteholders’ Interest Distributable Amount, including the Aggregate Class A Interest
+ | • |  | the Aggregate Noteholders’ Interest Distributable Amount, including the Aggregate Class A Interest
 Distributable Amount, the Aggregate Class B Interest Distributable Amount, the Aggregate Class C Interest Distributable Amount and the Aggregate Class D Interest Distributable Amount,
 [/TABLE_223]
 [TABLE_224]
- |  |  | the Aggregate Noteholders’ Priority Principal Distributable Amount, including the First Priority Principal
+ | • |  | the Aggregate Noteholders’ Priority Principal Distributable Amount, including the First Priority Principal
 Distributable Amount, the Second Priority Principal Distributable Amount, the Third Priority Principal Distributable Amount and the Fourth Priority Principal Distributable Amount,
 [/TABLE_224]
 [TABLE_225]
- |  |  | deposits into the reserve account, and
+ | • |  | deposits into the reserve account, and
 [/TABLE_225]
 [TABLE_226]
- |  |  | the Noteholders’ Regular Principal Distributable Amount.
+ | • |  | the Noteholders’ Regular Principal Distributable Amount.
 [/TABLE_226]
 Based on those calculations, the servicer will deliver to the indenture trustee a certificate specifying those amounts and instructing the
 indenture trustee to make withdrawals, deposits and payments on that distribution date of the amounts specified below under “—
@@ -3109,6 +3260,8 @@ First Priority Principal Distributable Amount,
 (5) to the Note Distribution Account for payment to the Class B
 noteholders, the Aggregate Class B Interest Distributable Amount,
 69
+
+[PAGE 77 | printed 70]
 (6) to the Note Distribution Account for payment to the noteholders,
 the Second Priority Principal Distributable Amount,
 (7) to the Note Distribution Account for payment to the
@@ -3154,6 +3307,8 @@ Notes will be calculated on the basis of actual days elapsed during the period f
 360-day
 year.
 70
+
+[PAGE 78 | printed 71]
 Interest payments on the
 Class A-1
 Notes, the
@@ -3208,26 +3363,28 @@ On each distribution date, the Aggregate Noteholders’ Principal Distributable 
 notes. Principal payments will be applied to the notes in sequential priority so that no principal payments will be made on any class of notes until all notes with a lower numerical and alphabetical designation have been paid in full. Thus, on each
 distribution date, the Aggregate Noteholders’ Principal Distributable Amount will be applied as follows:
 [TABLE_227]
- |  |  | First, to the Class A-1 Notes, until the Class A-1 Notes are paid in full,
+ | • |  | First, to the Class A-1 Notes, until the Class A-1 Notes are paid in full,
 [/TABLE_227]
 [TABLE_228]
- |  |  | Second, to the Class A-2 Notes, until the Class A-2 Notes are paid in full,
+ | • |  | Second, to the Class A-2 Notes, until the Class A-2 Notes are paid in full,
 [/TABLE_228]
 [TABLE_229]
- |  |  | Third, to the Class A-3 Notes, until the Class A-3 Notes are paid in full,
+ | • |  | Third, to the Class A-3 Notes, until the Class A-3 Notes are paid in full,
 [/TABLE_229]
 [TABLE_230]
- |  |  | Fourth, to the Class A-4 Notes, until the Class A-4 Notes are paid in full,
+ | • |  | Fourth, to the Class A-4 Notes, until the Class A-4 Notes are paid in full,
 [/TABLE_230]
 [TABLE_231]
- |  |  | Fifth, to the Class B Notes, until the Class B Notes are paid in full,
+ | • |  | Fifth, to the Class B Notes, until the Class B Notes are paid in full,
 [/TABLE_231]
 71
+
+[PAGE 79 | printed 72]
 [TABLE_232]
- |  |  | Sixth, to the Class C Notes, until the Class C Notes are paid in full, and
+ | • |  | Sixth, to the Class C Notes, until the Class C Notes are paid in full, and
 [/TABLE_232]
 [TABLE_233]
- |  |  | Seventh, to the Class D Notes, until the Class D Notes are paid in full.
+ | • |  | Seventh, to the Class D Notes, until the Class D Notes are paid in full.
 [/TABLE_233]
 At any time that the principal balances of the notes have been declared due and payable following the occurrence of an Event of Default, until
 the time when all events of default have been cured or waived as provided in the indenture, principal payments payable on the notes will be made sequentially by class, first on the Class A Notes, starting with the
@@ -3273,6 +3430,8 @@ or beneficially owned by the depositor or its affiliates will be entitled to equ
 any certificateholder or any affiliate of any of the foregoing persons will be deemed not to be outstanding in accordance with the Trust Indenture Act, for the purpose of determining whether the requisite percentage of noteholders have given any
 request, demand, authorization, direction, notice, consent or other action under the Related Documents.
 72
+
+[PAGE 80 | printed 73]
 Modification of Indenture Without Noteholder Consent.
 The trust and the indenture
 trustee, when authorized by an issuing entity order, may, with prior notice to the rating agencies hired to rate the notes, but without consent of the noteholders, enter into one or more supplemental indentures for any of the following purposes:
@@ -3304,6 +3463,8 @@ interest thereon is payable or modify any of the provisions of the indenture in 
 (2) impair the right to institute suit for the enforcement of specified provisions of the indenture regarding payment of
 principal or interest on any note,
 73
+
+[PAGE 81 | printed 74]
 (3) reduce the percentage of the aggregate principal amount of the
 Controlling Class, the consent of the holders of which is required for any supplemental indenture or the consent of the holders of which is required for any waiver of compliance with specified provisions of the indenture or of specified defaults
 thereunder and their consequences as provided for in the indenture,
@@ -3337,6 +3498,8 @@ failure to pay the unpaid principal balance of any class of notes on or prior to
 FDIC Rule Covenant, which failure materially and adversely affects the rights of noteholders, and which failure continues unremedied for 30 days after the giving of written notice of the failure (X) to the trust and the depositor (or the
 servicer, as applicable), by the indenture trustee or (Y) to the trust, the depositor (or the servicer, as applicable) and the indenture trustee by the holders of not less than 25% of the aggregate principal amount of the Controlling Class, and
 74
+
+[PAGE 82 | printed 75]
 (5) events of bankruptcy, insolvency or receivership for the trust
 indicating its insolvency, reorganization pursuant to bankruptcy proceedings or inability to pay its obligations.
 However, the amount of
@@ -3369,6 +3532,8 @@ notes,
 (ii) the indenture trustee determines that the receivables will not continue to provide sufficient funds on an
 ongoing basis to make all payments on the notes as the payments would have become due if the obligations had not been declared due and payable, and
 75
+
+[PAGE 83 | printed 76]
 (iii) the indenture trustee obtains the consent of the holders of 66
 2
 /
@@ -3413,6 +3578,8 @@ one day after the termination of the trust agreement, institute against the trus
 Neither the indenture trustee nor the owner trustee in its individual capacity, nor any holder of a certificate including, without limitation,
 the depositor, nor any of their respective owners, beneficiaries, agents, officers,
 76
+
+[PAGE 84 | printed 77]
 directors, employees, affiliates, or any successors or assigns of the indenture trustee or the owner trustee will, in the absence of an express agreement to the contrary, be personally liable for
 the payment of the principal of or interest on the notes or for the agreements of the trust contained in the indenture.
 Material
@@ -3452,6 +3619,8 @@ Covenant, which requires, among other things, that:
 (1) payment of principal and interest on the securitization
 obligations must be primarily based on the performance of the financial assets transferred to the issuing entity;
 77
+
+[PAGE 85 | printed 78]
 (2) information describing the financial assets, obligations, capital
 structure, compensation of the relevant parties and historical performance data must be made available to the investors, including (i) information about the obligations and securitized financial assets in compliance with Regulation AB,
 (ii) information about the transaction structure, performance of the obligations, priority of payments, subordination features, representations and warranties regarding the financial assets, remedies, liquidity facilities, credit enhancement,
@@ -3486,6 +3655,8 @@ The indenture for the
 trust will be discharged upon the delivery to the indenture trustee for cancellation of all of the notes or, subject to limitations, upon deposit with the indenture trustee of funds sufficient for the payment in full of all notes. The indenture
 trustee will continue to act as indenture trustee under the indenture and the servicing agreement for the benefit of certificateholders until all payments in respect of the certificates have been paid in full.
 78
+
+[PAGE 86 | printed 79]
 CREDIT RISK RETENTION
 Ally Bank, as sponsor, or one of its majority-owned affiliates is required to retain an economic interest in the credit risk of the
 receivables sold to the depositor on the closing date under the risk retention regulations in 17 C.F.R. § 246.1, et seq. (“
@@ -3528,6 +3699,8 @@ Because DTC can only act on behalf of DTC participants, who in turn act
 on behalf of indirect DTC participants and certain banks, the ability of noteholders to pledge notes to persons or entities that do not participate in the DTC system or to otherwise act with respect to the notes may be limited due to the lack of a
 physical certificate for the notes.
 79
+
+[PAGE 87 | printed 80]
 DTC has advised the depositor that it will take any action permitted to be taken by a
 noteholder under the indenture only at the direction of one or more DTC participants to whose accounts with DTC the notes are credited. DTC may take conflicting actions relating to other undivided interests to the extent that these actions are taken
 on behalf of DTC participants whose holdings include these undivided interests.
@@ -3563,6 +3736,8 @@ in writing that DTC is no longer willing or able to discharge properly its respo
 aggregate principal amount of the Controlling Class advise the appropriate trustee through DTC in writing that the continuation of a book-entry system through DTC, or a successor thereto, is no longer in the best interest of the holders of
 these notes.
 80
+
+[PAGE 88 | printed 81]
 Upon the occurrence of any event described in the immediately preceding paragraph, the
 indenture trustee will be required to notify DTC of the availability of definitive notes. DTC will notify all the note owners of the availability of definitive notes. Upon surrender by DTC of the definitive certificates representing the notes and
 receipt of instructions for
@@ -3598,6 +3773,8 @@ or paid, including any fees or expenses paid to the owner trustee, the indenture
 (11) the balance of the reserve account, if any, on that date, after giving effect to changes in that reserve account on
 that date,
 81
+
+[PAGE 89 | printed 82]
 (12) the amount, if any, of excess cash distributed from the reserve account
 to the depositor or the certificateholders,
 (13) cash flows received during the related monthly period and their sources,
@@ -3637,6 +3814,8 @@ participants rather than from the trustees. See “
 Material Federal Income Tax Consequences
 ” in this prospectus.
 82
+
+[PAGE 90 | printed 83]
 Investor Communications
 The servicing agreement will provide that any noteholder (including a beneficial owner of the notes) may require that the servicer cause the
 issuing entity to include in its Form
@@ -3648,20 +3827,20 @@ The servicer will cause the following information to be included in the Form
 related to the
 reporting period in which the noteholder request was received:
 [TABLE_234]
- |  |  | a statement that the servicer has received a communication request from a noteholder,
+ | • |  | a statement that the servicer has received a communication request from a noteholder,
 [/TABLE_234]
 [TABLE_235]
- |  |  | the name of the noteholder making the request,
+ | • |  | the name of the noteholder making the request,
 [/TABLE_235]
 [TABLE_236]
- |  |  | the date the request was received,
+ | • |  | the date the request was received,
 [/TABLE_236]
 [TABLE_237]
- |  |  | a statement that such noteholder is interested in communicating with other noteholders about the possible
+ | • |  | a statement that such noteholder is interested in communicating with other noteholders about the possible
 exercise of rights under the transaction documents, and
 [/TABLE_237]
 [TABLE_238]
- |  |  | a description of the method other noteholders may use to contact the requesting noteholder.
+ | • |  | a description of the method other noteholders may use to contact the requesting noteholder.
 [/TABLE_238]
 The servicer will bear any costs associated with including the above information in the Form
 10-D.
@@ -3685,6 +3864,8 @@ registration statement of which this prospectus forms a part. Five percent (5%) 
 more private placements or retained initially by the depositor or an affiliate of the depositor. The depositor or such affiliate will retain the right to sell all or a portion of such retained certificates at any time (other than the EVI). The
 following summary describes the material terms of the certificates and the trust
 83
+
+[PAGE 91 | printed 84]
 agreement. Where particular provisions or terms used in the trust agreement are referred to, the actual provisions, including definitions of terms, are incorporated by reference as part of this
 summary.
 Certificates owned by the depositor or its affiliates will be entitled to equal and proportionate benefits under the trust
@@ -3722,26 +3903,28 @@ depositor will sell the notes offered by this prospectus to the respective under
 Plan of Distribution
 ” in this prospectus.
 84
+
+[PAGE 92 | printed 85]
 In the pooling agreement, Ally Bank will represent and warrant to the depositor, among other
 things, that:
 [TABLE_239]
- |  |  | the information provided in the schedule of receivables exhibit to the pooling agreement is correct in all
+ | • |  | the information provided in the schedule of receivables exhibit to the pooling agreement is correct in all
 material respects,
 [/TABLE_239]
 [TABLE_240]
- |  |  | the obligor on each receivable is required to maintain physical damage insurance covering the financed vehicle in
+ | • |  | the obligor on each receivable is required to maintain physical damage insurance covering the financed vehicle in
 accordance with Ally Bank’s normal requirements,
 [/TABLE_240]
 [TABLE_241]
- |  |  | as of the sale date, to the best of its knowledge, the receivables are free and clear of all filed security
+ | • |  | as of the sale date, to the best of its knowledge, the receivables are free and clear of all filed security
 interests, liens, charges and encumbrances on account of work, labor or materials other than tax liens and other liens that arise by operation of law and no offsets, defenses or counterclaims have been asserted or threatened,
 [/TABLE_241]
 [TABLE_242]
- |  |  | as of the sale date, each receivable is or will be secured by a first perfected security interest in favor of
+ | • |  | as of the sale date, each receivable is or will be secured by a first perfected security interest in favor of
 Ally Bank in the financed vehicle, and
 [/TABLE_242]
 [TABLE_243]
- |  |  | each receivable, at the time it was originated complied, and as of the sale date complies, in all material
+ | • |  | each receivable, at the time it was originated complied, and as of the sale date complies, in all material
 respects with applicable federal and state laws, including, without limitation, consumer credit, truth-in-lending, equal credit opportunity and disclosure laws.
 [/TABLE_243]
 Additionally, Ally Bank will represent and warrant to the selection criteria set forth in “
@@ -3759,11 +3942,11 @@ The depositor or Ally Bank, as applicable, will be entitled to receive any amoun
 servicer for that Warranty Receivable. These repurchase obligations constitute the sole remedies available to the trust, the noteholders, the indenture trustee, the certificateholders and the owner trustee for any uncured breaches.
 In the servicing agreement, the servicer will covenant that:
 [TABLE_244]
- |  |  | except as contemplated in that agreement, the pooling agreement, the trust sale agreement, the indenture and the
+ | • |  | except as contemplated in that agreement, the pooling agreement, the trust sale agreement, the indenture and the
 trust agreement, the servicer will not release any financed vehicle from the security interest securing the receivable, and
 [/TABLE_244]
 [TABLE_245]
- |  |  | the servicer will do nothing to impair the rights of the indenture trustee, the owner trustee, the trust, the
+ | • |  | the servicer will do nothing to impair the rights of the indenture trustee, the owner trustee, the trust, the
 noteholders or the certificateholders in the receivables.
 [/TABLE_245]
 As of the last day of the second, or, if the servicer so
@@ -3772,6 +3955,8 @@ the servicer will make an Administrative Purchase Payment for the Administrative
 indenture trustee of a Permitted Payment Modification that materially and adversely affects any receivable, the servicer may elect to make an Administrative Purchase Payment for the Administrative Receivable. The servicer will be entitled to receive
 any amounts held by the
 85
+
+[PAGE 93 | printed 86]
 servicer for an Administrative Receivable. This repurchase election or obligation constitutes the sole remedy available to the trust, the indenture trustee, the owner trustee, the noteholders and
 the certificateholders for any uncured breaches.
 Pursuant to the servicing agreement, the trust will agree to Ally Bank acting as
@@ -3792,15 +3977,15 @@ the account bank (the “
 account bank
 ”):
 [TABLE_246]
- |  |  | a Collection Account, in the name of the indenture trustee on behalf of the noteholders and the
+ | • |  | a Collection Account, in the name of the indenture trustee on behalf of the noteholders and the
 certificateholders, into which all payments made on or for the receivables will be deposited,
 [/TABLE_246]
 [TABLE_247]
- |  |  | a Note Distribution Account, in the name of the indenture trustee on behalf of the noteholders, in which amounts
+ | • |  | a Note Distribution Account, in the name of the indenture trustee on behalf of the noteholders, in which amounts
 released from the Collection Account and the reserve account for payment to the noteholders will be deposited and from which all distributions to the noteholders will be made, and
 [/TABLE_247]
 [TABLE_248]
- |  |  | a reserve account, which will be a segregated account held by the account bank, in the name of indenture trustee
+ | • |  | a reserve account, which will be a segregated account held by the account bank, in the name of indenture trustee
 on behalf of the noteholders, in which funds will be deposited from the initial sale of the notes and from which payments to the noteholders, the certificateholders, the servicer and, in some cases, the depositor, will be made.
 [/TABLE_248]
 If the certificates are sold by the depositor, the servicer, for the benefit of the certificateholders, will establish
@@ -3815,6 +4000,8 @@ amount set forth under “
 ” and on each distribution date thereafter up to the Specified Reserve Account Balance. On each distribution date, the servicer will deposit into the reserve
 account the amount of collections on the receivables remaining on each distribution date after the payment of the total servicing fee and the distributions and allocations to the noteholders and the certificateholders required on that date.
 86
+
+[PAGE 94 | printed 87]
 Funds in the Designated Accounts will be invested as specified in the servicing agreement in
 Eligible Investments. Eligible Investments generally are limited to obligations or securities that mature no later than the business day preceding the next distribution date. If the amount required to be withdrawn from the reserve account to cover
 shortfalls in collections on the receivables exceeds the amount of cash in the reserve account, a temporary shortfall in the amounts distributed to the noteholders or certificateholders could result, which could, in turn, increase the average life
@@ -3849,6 +4036,8 @@ in which the closing date occurs, or, if there has been a default in any materia
 Exchange Act of 1934 or any other law, the certificate may be furnished to the owner trustee and the indenture trustee on or before April 30 of each year. The certificate may be provided as a single certificate making the required statements as
 to more than one servicing agreement.
 87
+
+[PAGE 95 | printed 88]
 Copies of the statements and certificates may be obtained by noteholders by a request in
 writing addressed to the indenture trustee.
 In the servicing agreement, the servicer will agree to give the indenture trustee and the
@@ -3877,6 +4066,8 @@ successor of the servicer under the servicing agreement. So long as Ally Bank ac
 are owned, directly or indirectly, by General Motors or by Ally Financial or to any entity that agrees to conduct these duties in accordance with the servicer’s servicing guidelines and the servicing agreement. The servicer may at any time
 perform specific duties as servicer through subcontractors who are in the business of servicing receivables similar to the receivables, provided that no delegation will relieve the servicer of its responsibility for these duties.
 88
+
+[PAGE 96 | printed 89]
 Servicer Default
 Servicer Defaults under the servicing agreement will consist of:
 (1) any failure by the servicer to make any required distribution, payment, transfer or deposit or to direct the indenture
@@ -3907,29 +4098,31 @@ Waiver of Past Defaults
 The holders of at least a majority in principal amount of the Controlling Class may, on behalf of all the noteholders and
 certificateholders, waive any default by the servicer in the performance of its obligations under the servicing agreement and its consequences. The holders, however, cannot waive a Servicer Default in making any
 89
+
+[PAGE 97 | printed 90]
 required deposits to or payments from any of the Designated Accounts or the Certificate Distribution Account in accordance with the servicing agreement. No waiver will impair the
 noteholders’ or certificateholders’ rights regarding subsequent defaults.
 Amendment
 Each of the Transfer Agreements and Servicing Agreements may be amended by the parties thereto without the consent of the noteholders or
 certificateholders:
 [TABLE_249]
- |  |  | to cure any ambiguity,
+ | • |  | to cure any ambiguity,
 [/TABLE_249]
 [TABLE_250]
- |  |  | to correct or supplement any provision of those agreements that may be defective or inconsistent with any other
+ | • |  | to correct or supplement any provision of those agreements that may be defective or inconsistent with any other
 provision of those agreements or in any other Related Document,
 [/TABLE_250]
 [TABLE_251]
- |  |  | to add or supplement any credit, liquidity or other enhancement arrangement for the benefit of noteholders or
+ | • |  | to add or supplement any credit, liquidity or other enhancement arrangement for the benefit of noteholders or
 certificateholders, provided that, if any addition affects any class of noteholders or certificateholders differently from any other class of noteholders or certificateholders, then the addition will not, as evidenced by an opinion of counsel,
 adversely affect in any material respect the interests of any class of noteholders or certificateholders, provided that the consent of the certificateholders will be required,
 [/TABLE_251]
 [TABLE_252]
- |  |  | to add to the covenants, restrictions or obligations of the depositor, the servicer, the owner trustee or the
+ | • |  | to add to the covenants, restrictions or obligations of the depositor, the servicer, the owner trustee or the
 indenture trustee, or
 [/TABLE_252]
 [TABLE_253]
- |  |  | to add, change or eliminate any other provisions of those agreements in any manner that will not, as evidenced by
+ | • |  | to add, change or eliminate any other provisions of those agreements in any manner that will not, as evidenced by
 an opinion of counsel, adversely affect in any material respect the interests of the noteholders or the certificateholders.
 [/TABLE_253]
 Each of the Transfer Agreements and Servicing Agreements may also be amended by the parties thereto with the consent of the holders of at
@@ -3949,6 +4142,8 @@ Following Payment in Full of the Notes
 Following payment in full of the notes and payment of liabilities of the trust in accordance
 with applicable law, any remaining assets in the trust and any remaining amount in the reserve account will be distributed to the holders of the certificates.
 90
+
+[PAGE 98 | printed 91]
 Insolvency Event
 The trust agreement provides that the owner trustee does not have the power to commence a voluntary proceeding in bankruptcy relating to the
 trust without the prior approval of a majority of the certificateholders. Under no circumstance, however, will the owner trustee commence any proceeding prior to the date that is one year and one day after the termination of the trust. In the
@@ -3979,6 +4174,8 @@ related distribution date. Any outstanding notes will be redeemed concurrently t
 retirement of the certificates. The indenture trustee will give written notice of redemption to each noteholder of record and the owner trustee will give written notice of dissolution of the trust to each certificateholder of record. The final
 distribution to any noteholder or certificateholder will be
 91
+
+[PAGE 99 | printed 92]
 made only upon surrender and cancellation of that noteholder’s note at an office or agency of the indenture trustee specified in the notice of redemption or that certificateholder’s
 certificate at an office or agency of the owner trustee specified in the notice of dissolution.
 Administration Agreement
@@ -4027,6 +4224,8 @@ The presence of a reserve account is intended to enhance the likelihood of
 receipt by the noteholders of the full amount of principal and interest due thereon and to decrease the likelihood that the noteholders will experience losses. The overcollateralization, reserve account and subordination of interests will not
 provide protection against all
 92
+
+[PAGE 100 | printed 93]
 risks of loss and will not guarantee repayment of the entire principal balance of the notes and interest thereon. If shortfalls in available funds occur and exceed the amount covered by
 overcollateralization, reserve account and subordination of interests, securityholders will bear their allocable share of those deficiencies.
 Investment of Funds
@@ -4066,6 +4265,8 @@ Asset Representations Reviewer Receivable Review Fee |  | $200 per receivable
 The basic servicing fee will be paid out of collections from the receivables on each distribution date to the
 extent of available funds. In addition, the servicer also will be entitled to a supplemental servicing fee, which will not be paid out of collections, and will include late fees, prepayment charges and other administrative fees and expenses
 93
+
+[PAGE 101 | printed 94]
 collected during the month and investment earnings on the trust accounts. The servicer is entitled to be reimbursed out of the receivables cash flows for liquidation expenses and other
 out-of-pocket
 costs related to liquidation, not to exceed $550 per receivable or such greater amount as the servicer determines necessary in accordance with its customary
@@ -4110,6 +4311,8 @@ possession (or, in the case of electronic chattel paper, control) of the signed 
 An assignment of the nature of the assignment contained in each of the pooling agreement and the trust sale agreement is an effective
 conveyance of a security interest without amendment of any lien noted on a vehicle’s certificate of title, and the assignee succeeds by the assignment to the assignor’s rights as secured party. In the absence
 94
+
+[PAGE 102 | printed 95]
 of fraud or forgery by the vehicle owner or Ally Bank or administrative error by state or local agencies, in most states the notation of the secured party’s lien on the certificates of
 title will be sufficient to protect the trust against the rights of subsequent purchasers of a financed vehicle from an obligor or subsequent lenders to an obligor who take a security interest in a financed vehicle. If there are any financed
 vehicles as to which Ally Bank failed to obtain a perfected security interest, its security interest would be subordinate to, among others, subsequent purchasers of the financed vehicles and holders of perfected security interests. This failure,
@@ -4149,6 +4352,8 @@ confiscated motor vehicle. Under the pooling agreement, Ally Bank will have repr
 vehicle. The depositor will have assigned the representation, among others, to the trust pursuant to the trust sale agreement. However, liens for repairs or taxes, or the confiscation of a financed vehicle, could arise at any time during the term of
 a receivable. No notice will be given to the owner trustee, the indenture trustee, the trust, the noteholders or the certificateholders if a lien or confiscation arises.
 95
+
+[PAGE 103 | printed 96]
 Repossession
 In the event of default by vehicle purchasers, the holder of the retail installment sale contract has all the remedies of a secured party under
 the Uniform Commercial Code, except where specifically limited by other state laws. Among the Uniform Commercial Code remedies, the servicer, as agent on behalf of the secured party, has the right to perform self-help repossession unless the act
@@ -4183,6 +4388,8 @@ those required under federal law. These requirements impose specific statutory l
 contracts, including the receivables. If a seller of receivables is not liable for indemnifying the trust as assignee of the receivables from the seller, failure to comply could impose liability on an assignee in excess of the amount of the
 receivable.
 96
+
+[PAGE 104 | printed 97]
 The
 so-called
 “holder-in-due-course
@@ -4237,6 +4444,8 @@ trust for violation of any law and that claim materially and adversely affects t
 The Transfer Agreements and the Servicing Agreements—Sale and Assignment of the Receivables
 ” in this prospectus.
 97
+
+[PAGE 105 | printed 98]
 Other Limitations
 In addition to the laws limiting or prohibiting deficiency judgments, numerous other statutory provisions, including federal bankruptcy laws
 and state laws, may interfere with or affect the ability of a secured party to realize upon collateral or to enforce a deficiency judgment. For example, in a Chapter 13 proceeding under the federal bankruptcy law, a court may prevent a creditor from
@@ -4251,23 +4460,25 @@ Potentially Applicable Insolvency Regimes
 Three different legal regimes for the resolution or reorganization of insolvent companies could be applicable to the entities involved in an
 offering of notes:
 [TABLE_255]
- |  |  | The Federal Deposit Insurance Act, or “FDIA,” provides that the Federal Deposit Insurance
+ | • |  | The Federal Deposit Insurance Act, or “FDIA,” provides that the Federal Deposit Insurance
 Corporation, or “FDIC,” can be appointed as the receiver or conservator for an insured depository institution that becomes insolvent, is in an unsound condition, violates its bylaws or regulations or engages in similar activity.
 Thus, if these circumstances occur to Ally Bank, the FDIC could be appointed as receiver (which term, as used herein with respect to the FDIA, should be understood also to encompass the role of conservator).
 [/TABLE_255]
 [TABLE_256]
- |  |  | The federal Bankruptcy Code is available for any “person” that is eligible to be a
+ | • |  | The federal Bankruptcy Code is available for any “person” that is eligible to be a
 “debtor” pursuant to Section 109 of the Bankruptcy Code. Ally Bank would not be eligible to be a debtor under the Bankruptcy Code, but the depositor would be an eligible debtor. There is some question as to whether the trust would
 qualify as a “person” under the Bankruptcy Code, as the only trusts that have been permitted to seek protection under the Bankruptcy Code are “business trusts.”
 [/TABLE_256]
 [TABLE_257]
- |  |  | The Dodd-Frank Act established the Orderly Liquidation Authority, or “ OLA ,” under which the
+ | • |  | The Dodd-Frank Act established the Orderly Liquidation Authority, or “ OLA ,” under which the
 FDIC is authorized to act as receiver of a “covered financial company” and, under certain circumstances, its subsidiaries, except that insolvencies of insured depository institutions will continue to be governed by the FDIA. For a
 company to be classified as a covered financial company, the Secretary of the Treasury must make several determinations, including that the company is in default or in danger of default and that the failure of the company and its resolution under
 the Bankruptcy Code would have serious adverse effects on financial stability in the United States. We cannot predict whether, if Ally Financial were in default or in danger of default, it would be classified as a covered financial company. If Ally
 Financial were so classified, then the depositor or an issuing entity could, under the circumstances specified in the Dodd-Frank Act, also be subject to FDIC receivership under OLA as a covered subsidiary.
 [/TABLE_257]
 98
+
+[PAGE 106 | printed 99]
 Consequences of Insolvency Regimes for Payments on the Notes
 The FDIC, as receiver under the FDIA or OLA, and a bankruptcy trustee or a
 debtor-in-possession
@@ -4281,23 +4492,23 @@ and liabilities of the depositor and, in turn, the trust with the assets and lia
 Independently or in conjunction
 with the assertion of either of these positions, the FDIC as receiver could seek to:
 [TABLE_258]
- |  |  | repudiate the obligations of Ally Bank under the transaction documents, including ongoing servicing obligations
+ | • |  | repudiate the obligations of Ally Bank under the transaction documents, including ongoing servicing obligations
 under the servicing agreement, such as Ally Bank’s duty to collect and remit payments or otherwise service the receivables;
 [/TABLE_258]
 [TABLE_259]
- |  |  | prior to any repudiation of the servicing agreement, prevent the indenture trustee or the securityholders from
+ | • |  | prior to any repudiation of the servicing agreement, prevent the indenture trustee or the securityholders from
 appointing a successor servicer;
 [/TABLE_259]
 [TABLE_260]
- |  |  | require the trust, as assignee of the depositor, to go through an administrative claims procedure to establish
+ | • |  | require the trust, as assignee of the depositor, to go through an administrative claims procedure to establish
 its rights to payments collected on the receivables;
 [/TABLE_260]
 [TABLE_261]
- |  |  | request a stay of proceedings to liquidate claims or otherwise enforce contractual and legal remedies against
+ | • |  | request a stay of proceedings to liquidate claims or otherwise enforce contractual and legal remedies against
 Ally Bank; or
 [/TABLE_261]
 [TABLE_262]
- |  |  | impose a statutory injunction that would automatically prevent the indenture trustee and other transaction
+ | • |  | impose a statutory injunction that would automatically prevent the indenture trustee and other transaction
 parties from exercising their rights, remedies and interests under the transaction documents (including the servicing agreement) for up to 90 days.
 [/TABLE_262]
 In addition to an FDIA receivership of Ally Bank, it is possible that the depositor or the trust (each, a “
@@ -4307,25 +4518,27 @@ entity
 debtor-in-possession
 in such a bankruptcy case or, in certain cases, the FDIC as receiver under OLA could seek to:
 [TABLE_263]
- |  |  | in a bankruptcy case, reject the executory obligations of the debtor under the transaction documents;
+ | • |  | in a bankruptcy case, reject the executory obligations of the debtor under the transaction documents;
 [/TABLE_263]
 [TABLE_264]
- |  |  | under OLA, repudiate the obligations of the special purpose entity under the transaction documents;
+ | • |  | under OLA, repudiate the obligations of the special purpose entity under the transaction documents;
 [/TABLE_264]
 [TABLE_265]
- |  |  | enforce the “automatic stay” to prevent creditors from exercising remedies against a debtor;
+ | • |  | enforce the “automatic stay” to prevent creditors from exercising remedies against a debtor;
 [/TABLE_265]
 [TABLE_266]
- |  |  | effect a substitution of collateral in certain circumstances; or
+ | • |  | effect a substitution of collateral in certain circumstances; or
 [/TABLE_266]
 [TABLE_267]
- |  |  | assert that the trust does not have a perfected security interest in (a) the receivables, (b) one or
+ | • |  | assert that the trust does not have a perfected security interest in (a) the receivables, (b) one or
 more of the vehicles securing the receivables or (c) any cash collections held by the servicer at the time the servicer becomes the subject of a bankruptcy proceeding.
 [/TABLE_267]
 Despite the broad similarity of OLA to the Bankruptcy Code, OLA differs on its face from the Bankruptcy Code in many respects. To address some
 of these differences, the FDIC in July 2011 adopted a regulation confirming that the treatment under OLA of preferential transfers is intended to be consistent with similar provisions in and doctrines developed under the Bankruptcy Code. In January
 2011 the Acting General Counsel of the FDIC issued an advisory opinion to the same effect with respect to the treatment of standard contractual provisions meant to foster the
 99
+
+[PAGE 107 | printed 100]
 bankruptcy-remote treatment of special purpose entities such as the depositor and the issuing entity. The advisory opinion does not bind the FDIC or its Board of Directors and could be withdrawn
 or modified in the future. There can be no assurance that future regulations or, with respect to the matters covered by the advisory opinion, subsequent FDIC actions in an OLA proceeding involving Ally Financial or either
 special purpose
@@ -4360,6 +4573,8 @@ The transaction documents contain provisions, and each special purpose entity ha
 this prospectus, that are intended to make it unlikely in the case of either (a) a receivership of Ally Bank under the FDIA or (b) a voluntary or involuntary case in which a special purpose entity was the debtor under the Bankruptcy Code
 or similar applicable state laws, that a court would approve consolidation of
 100
+
+[PAGE 108 | printed 101]
 the assets and liabilities of a special purpose entity with those of Ally Bank. These steps include the creation of each special purpose entity under its respective formation documents as a
 limited-purpose entity that is subject to various limitations. These limitations include restrictions on the nature of the business of each special purpose entity and a restriction on the ability of each special purpose entity to commence a
 voluntary case or proceeding under the Bankruptcy Code or similar proceeding under applicable state laws without, in the case of the depositor, the unanimous affirmative vote of all of its directors or, in the case of the trust, the approval of the
@@ -4399,6 +4614,8 @@ by the FDIC Rule, there are several possible series of events that could occur. 
 sell all or nearly all of the certificates, then the transfer would be recorded as a sale under generally accepted accounting principles. If the transaction satisfies the conditions for sale accounting treatment, then the FDIC could disaffirm or
 repudiate the ongoing contractual obligations of Ally Bank (including its
 101
+
+[PAGE 109 | printed 102]
 obligations under the servicing agreement). However, the FDIC could not seek to reclaim, recharacterize or recover the receivables or other financial assets transferred to the trust.
 Additionally, the FDIC could challenge the sale accounting treatment of Ally Bank or the compliance by Ally Bank with the FDIC Rule.
 If
@@ -4432,6 +4649,8 @@ in this prospectus will satisfy the FDIC Rule’s risk retention
 requirement. The sponsor must also give notice to the noteholders within a reasonable time after the sponsor changes the amount or the terms under which credit risk is retained, and the parties to the indenture are entitled to amend the FDIC Rule
 Covenant to comply with the regulation’s minimum requirements without noteholder consent.
 102
+
+[PAGE 110 | printed 103]
 THE DEPOSITOR
 Ally Auto Assets LLC, a wholly owned subsidiary of Ally Bank, was organized in the State of Delaware on August 18, 2009. The depositor, a
 limited liability company, is organized for the limited purposes of purchasing retail installment sale contracts, loans, leases and other sale contracts and installment obligations related to motor vehicles, monies due thereunder, security interests
@@ -4476,6 +4695,8 @@ U.S. Bank
 ”). Upon U.S. Bank Trust Co.’s succession to the business of U.S. Bank N.A., it became a wholly owned subsidiary of U.S. Bank N.A. The indenture trustee will maintain the accounts
 of the issuing entity in the name of the indenture trustee at U.S. Bank N.A.
 103
+
+[PAGE 111 | printed 104]
 U.S. Bancorp, with total assets exceeding $686 billion as of June 30, 2025, is the
 parent company of U.S. Bank N.A., the fifth largest commercial bank in the United States. As of June 30, 2025, U.S. Bancorp operated over 2,000 branch offices in 26 states. A network of specialized U.S. Bancorp offices across the nation
 provides a comprehensive line of banking, brokerage, insurance, investment, mortgage, trust and payment services products to consumers, businesses, and institutions.
@@ -4516,6 +4737,8 @@ of the operative complaint in its entirety with prejudice pursuant to Chancery C
 November 7, 2018, the Court ruled that the case should be stayed in its entirety pending resolution of the first-filed cases. On January 21, 2020, the Court entered an order consolidating for pretrial purposes the NCMSLT Action and three
 other lawsuits pending in the Delaware Court of Chancery concerning the DSTs and the Student Loans, which remains pending.
 104
+
+[PAGE 112 | printed 105]
 U.S. Bank N.A. denies liability in the NCMSLT Action and believes it has performed its
 obligations as indenture trustee and special servicer in good faith and in compliance in all material respects with the terms of the agreements governing the DSTs and that it has meritorious defenses. It has contested and intends to continue
 contesting the plaintiffs’ claims vigorously.
@@ -4549,6 +4772,8 @@ The indenture trustee may give notice of its intent to resign at any time, in wh
 appoint a successor indenture trustee. The trust may also remove the indenture trustee if the indenture trustee ceases to be eligible to continue as indenture trustee under the indenture or if the indenture trustee becomes insolvent or otherwise
 becomes incapable of acting. In these circumstances, the trust will be obligated to appoint a
 105
+
+[PAGE 113 | printed 106]
 successor indenture trustee. The holders of a majority in outstanding amount of the Controlling Class also have the right to remove the indenture trustee and appoint a successor. Any
 resignation or removal of the indenture trustee and appointment of a successor indenture trustee does not become effective until acceptance of the appointment by the successor indenture trustee.
 THE OWNER TRUSTEE
@@ -4581,6 +4806,8 @@ appoint a successor owner trustee. Any resignation or removal of an owner truste
 termination of the owner trustee and the appointment of a successor will be borne by the servicer. In the event that the owner trustee is not entitled to be indemnified from the cash flow that would otherwise be used to pay the securities, if an
 Event of Default occurs and the servicer fails to satisfy its indemnification obligations under the trust agreement, the owner trustee may be entitled to be indemnified from the trust estate.
 106
+
+[PAGE 114 | printed 107]
 Unless the depositor is the sole certificateholder, on each distribution date, the owner
 trustee or other paying agent under the trust agreement will be required to distribute to the certificateholders amounts equal to the amounts deposited in the Certificate Distribution Account pursuant to the servicing agreement on or prior to such
 distribution date. The owner trustee or other paying agent will also be required to send each certificateholder the statement provided to the owner trustee by the servicer pursuant to the servicing agreement on such distribution date; provided that
@@ -4615,6 +4842,8 @@ The asset representations reviewer will not be liable for the default or failure
 owner trustee or the indenture trustee to carry out their respective obligations under any of the transaction documents, nor will the asset representations reviewer be liable under any transaction document under any circumstances, except for its own
 willful misconduct, bad faith or negligence. To the extent not paid by the sponsor, the trust will indemnify the asset representations reviewer for all losses resulting from the asset representations
 107
+
+[PAGE 115 | printed 108]
 reviewer’s performance under the asset representations review agreement, except for any losses arising from the asset representations reviewer’s own willful misconduct, bad faith or
 negligence, or breach of any representations or warranties made in the asset representations review agreement.
 The asset representations
@@ -4677,6 +4906,8 @@ Investor
 Requirements
 ” (and references in this prospectus to “the applicable Investor Requirements” shall mean such Investor
 108
+
+[PAGE 116 | printed 109]
 Requirements to which a particular Affected Investor is subject)) by “institutional investors”, defined by the SR 2024 to include (a) an insurance undertaking as defined in
 section 417(1) of the FSMA; (b) a reinsurance undertaking as defined in section 417(1) of the FSMA; (c) the trustees or managers of an occupational pension scheme as defined in section 1(1) of the Pension Schemes Act 1993 that has its main
 administration in the United Kingdom, or a fund manager of such a scheme appointed under section 34(2) of the Pensions Act 1995 (as amended) that, in respect of activity undertaken pursuant to that appointment, is authorized for the purposes of
@@ -4717,6 +4948,8 @@ sponsor, the servicer or the depositor that, if determined adversely to such par
 Each of the owner trustee and the indenture trustee has represented to the trust that it is not a party to any current legal proceedings that
 are not already described in this prospectus, nor is its management aware of any legal proceedings threatened against it that, if determined adversely to such party, would be expected to be material to investors.
 109
+
+[PAGE 117 | printed 110]
 AFFILIATIONS AND RELATIONSHIPS AMONG TRANSACTION PARTIES
 The owner trustee is not an affiliate of any of the depositor, the sponsor, the servicer, the issuing entity or the indenture
 trustee. The owner trustee and one or more of its affiliates, however, may, from time to time, engage in
@@ -4757,6 +4990,8 @@ and entities deemed to hold plan assets of any of the foregoing—we refer to ea
 “disqualified persons” under the Internal Revenue Code with respect to that benefit plan. A violation of these “prohibited transaction” rules may result in an excise tax or other penalties and liabilities under ERISA and the
 Internal Revenue Code for these persons or fiduciaries of such benefit plan. In addition, Title I of ERISA requires
 110
+
+[PAGE 118 | printed 111]
 fiduciaries of a benefit plan subject to ERISA to make investments that are prudent, diversified and in accordance with the governing plan documents. The prudence of a particular investment must
 be determined by the responsible fiduciary of a benefit plan by taking into account the particular circumstances of the benefit plan and all of the facts and circumstances of the investment, including, but not limited to, the matters discussed in
 this prospectus and the fact that in the future, there may be no market to sell or otherwise dispose of the offered notes. Governmental plans (as defined in Section 3(32) of ERISA) and specified church plans (as defined in Section 3(33) of
@@ -4801,6 +5036,8 @@ regulation could change if the trust incurs losses. The more subordinated a clas
 the rating of a class of offered notes or a characterization of a class of offered notes as other than indebtedness under applicable local law, the subsequent acquisition of such class of offered notes or interest therein by a benefit plan or plan
 subject to Similar Law is prohibited.
 111
+
+[PAGE 119 | printed 112]
 By acquiring an offered note (or interest therein), each purchaser and transferee (and if
 the purchaser or transferee is a benefit plan or other plan, its fiduciary) will be deemed to (a) represent and warrant that either (i) it is not acquiring the offered notes with the assets of a benefit plan or other plan that is subject
 to any law that is substantially similar to Title I of ERISA or Section 4975 of the Internal Revenue Code (“
@@ -4847,6 +5084,8 @@ offered notes. As a result, there can be no assurance that the Internal Revenue 
 discussed below. Furthermore, legislative, judicial or administrative changes may occur, perhaps with retroactive effect, which could affect the accuracy of the statements and conclusions set forth in this prospectus as well as the tax consequences
 to noteholders.
 112
+
+[PAGE 120 | printed 113]
 The following discussion does not purport to deal with all aspects of federal income
 taxation that may be relevant to the noteholders in light of their personal investment circumstances nor, except for limited discussions of particular topics, to holders subject to special treatment under the federal income tax laws, e.g., financial
 institutions, broker-dealers, life insurance companies, regulated investment companies,
@@ -4888,6 +5127,8 @@ de minimis
 amount
 will be subject to the “market discount” rules of the Internal Revenue Code, and a holder who purchases a note at a premium will be subject to the bond premium amortization rules of the Internal Revenue Code.
 113
+
+[PAGE 121 | printed 114]
 Market Discount.
 The offered notes, whether or not issued with OID, will be subject
 to the “market discount rules” of Section 1276 of the Internal Revenue Code. In general, these rules provide that if a noteholder acquires a note at a market discount (that is, a discount from its stated redemption price at maturity
@@ -4932,6 +5173,8 @@ de minimis
 market discount). United States holders
 should consult their own tax advisors regarding the possible implications of this legislation to interest, OID, market discount and premium matters concerning their notes.
 114
+
+[PAGE 122 | printed 115]
 Net Investment Income
 . A tax of 3.8% is imposed on the “net investment
 income” of certain individuals, trusts and estates. Among other items, net investment income generally includes gross income from interest and net gain attributable to the disposition of certain property, less certain deductions. United States
@@ -4970,6 +5213,8 @@ If the interest, gain or income on a note held by a Foreign Person is effectivel
 business in the United States by the Foreign Person, the holder, although exempt from the withholding tax previously discussed if an appropriate statement is furnished, generally will be subject to United States federal income tax on the interest,
 gain or income at regular federal income tax rates. In addition, if the Foreign Person is a foreign corporation, it may be subject to a branch profits tax equal to 30% of the Foreign Person’s “effectively
 115
+
+[PAGE 123 | printed 116]
 connected earnings and profits” within the meaning of the Internal Revenue Code for the taxable year, as adjusted for specified items, unless the Foreign Person qualifies for a lower rate
 under an applicable tax treaty.
 Foreign Account Tax Compliance.
@@ -5010,6 +5255,8 @@ STATE AND LOCAL TAX CONSEQUENCES
 The above discussion does not address the tax treatment of the trust, the offered notes or the noteholders under any state or local tax laws.
 The activities to be undertaken by the servicer in servicing and collecting the receivables will take place throughout the United States and, therefore, many different tax regimes potentially apply
 116
+
+[PAGE 124 | printed 117]
 to different portions of these transactions. Additionally, it is possible a state or local jurisdiction may assert its right to impose tax on the trust with respect to its income related to
 receivables collected from obligors located in such jurisdiction. It is also possible that a state may require that a certificateholder or a holder treated as an equity owner (including
 non-resident
@@ -5054,6 +5301,8 @@ Notes (with the exception of those notes to be retained by the depositor or anot
 on the cover page of this prospectus, and to dealers at those prices less a selling concession not in excess of the percentage set forth below for each class of offered notes. The underwriters may allow, and those dealers may reallow to other
 dealers, a subsequent concession not in excess of the percentage set forth below for each class of offered notes. After the initial public offering, the public offering price and these concessions may be changed.
 117
+
+[PAGE 125 | printed 118]
 [TABLE_271]
  |  | Selling Concession (1) |  |  | Reallowance | 
 Class A-1 Notes |  |  |  |  |  |  |  | 
@@ -5097,6 +5346,8 @@ Investor
 ” means a person who is one (or more) of: (i) a retail client as defined in point (11) of Article 4(1) of MiFID II; or (ii) a customer within the meaning of the Insurance Distribution Directive, where that customer
 would not qualify as a professional client as defined in point (10) of Article 4(1) of MiFID II; or (iii) not a qualified investor as defined in the EU Prospectus Regulation; and
 118
+
+[PAGE 126 | printed 119]
 (b) an “
 offer
 ” includes the communication in any form and by any means of
@@ -5138,6 +5389,8 @@ Richard V. Kent, Esq., General Counsel to the depositor and Deputy General Couns
 be passed upon for Ally Bank, the trust and the depositor by Mayer Brown LLP. Mr. Kent may from time to time own common stock of Ally Financial. Specified matters relating to the offered notes will be passed upon for the underwriters by Orrick,
 Herrington & Sutcliffe LLP, which has from time to time represented Ally Bank and its affiliates.
 119
+
+[PAGE 127 | printed 120]
 WHERE YOU CAN FIND MORE INFORMATION
 We filed a registration statement relating to the notes with the SEC under the Securities Act. This prospectus is part of the registration
 statement, but the registration statement includes additional information.
@@ -5178,6 +5431,8 @@ As a recipient of this prospectus, you may request a copy of any document we inc
 specifically incorporated by reference, at no cost, by writing us at: Ally Bank, 200 West Civic Center Drive, Sandy, Utah, 84070, or by calling us at:
 (801) 790-5000.
 120
+
+[PAGE 128 | printed 121]
 GLOSSARY OF TERMS TO THIS PROSPECTUS
 The following are definitions of terms used in this prospectus. References to the singular form of defined terms in this prospectus include
 references to the plural and vice versa.
@@ -5234,6 +5489,8 @@ Amount as of such distribution date, and (4) the Aggregate Class D Interest Dist
 means, for any distribution date, the sum of (1) the
 Noteholders’ Regular Principal Distributable Amount as of such distribution date and (2) the Aggregate Noteholders’ Priority Principal Distributable Amount as of such distribution date.
 121
+
+[PAGE 129 | printed 122]
 “Aggregate Noteholders’ Priority Principal Distributable Amount”
 means, with respect to any distribution date, the sum of (1) the First Priority Principal Distributable Amount, (2) the Second Priority Principal Distributable Amount, (3) the Third Priority Principal Distributable Amount, and
 (4) the Fourth Priority Principal Distributable Amount, each as of such distribution date.
@@ -5282,6 +5539,8 @@ principal,
 (3) to the extent allocable to principal, the Warranty Payment or the Administrative Purchase Payment for each receivable that
 the depositor repurchased or the servicer purchased during that monthly period,
 122
+
+[PAGE 130 | printed 123]
 except
 , that liquidation expenses as specified in the servicing agreement as an
 allowance for amounts charged to the account of the obligor, in keeping with the servicer’s customary servicing procedures, for the refurbishing and disposition of the financed vehicle and other
@@ -5380,6 +5639,8 @@ has the meaning set forth in “
 The Notes—Controlling Class.
 ”
 123
+
+[PAGE 131 | printed 124]
 “cutoff date”
 means September 1, 2025.
 “data and disclosure review”
@@ -5465,6 +5726,8 @@ has the meaning set forth in “
 Insolvency Aspects of the Offerings—FDIC Rule.
 ”
 124
+
+[PAGE 132 | printed 125]
 “Final Scheduled Distribution Date”
 means the final scheduled
 distribution date for (1) the
@@ -5539,6 +5802,8 @@ means a receivable:
 eventual payment of amounts owing on that receivable is unlikely, or (2) repossessed and disposed of the financed vehicle, and
 (B) that the servicer has charged off in full.
 125
+
+[PAGE 133 | printed 126]
 “
 Liquidation Proceeds
 ” means, for a Liquidating Receivable, all amounts
@@ -5611,6 +5876,8 @@ has the meaning set forth in “
 Servicing Procedures
 .”
 126
+
+[PAGE 134 | printed 127]
 “plan assets regulation”
 has the meaning set forth in
 “
@@ -5682,6 +5949,8 @@ Related Documents
 ” means the indenture, the Transfer Agreements and Servicing Agreements and other similar and associated
 documents for the trust.
 127
+
+[PAGE 135 | printed 128]
 “remaining payments”
 has the meaning set forth in
 “
@@ -5753,6 +6022,8 @@ has the meaning set forth in “
 Summary—The Parties.
 ”
 128
+
+[PAGE 136 | printed 129]
 “Trust Indenture Act”
 means the Trust Indenture Act of 1939, as amended.
 “trust sale agreement
@@ -5826,6 +6097,8 @@ meaning set forth in “
 The Receivables Pool.
 ”
 129
+
+[PAGE 137]
 APPENDIX A: STATIC POOL DATA
 The following information represents static pool data from the sponsor’s public securitizations in 2019, 2022, 2023 and 2024. This information is
 incorporated by reference into the prospectus. In cases of omitted information from the following tables, such omitted information is either unavailable or would only be available with unreasonable effort or expense.
@@ -5896,11 +6169,15 @@ Weighted Average
 Loan-to-Value
 Ratio
 ” is based on a weighting by original undiscounted
+
+[PAGE 138 | printed A-2]
 principal balance of each receivable as of its date of origination. A FICO score is a measurement designed by Fair, Isaac & Company and calculated by the major credit bureaus using
 collected information to assess credit risk.
 The initial receivables pool statistics for the 2019, 2022, 2023 and 2024 public securitizations are
 presented as of the applicable cutoff dates.
 A-2
+
+[PAGE 139 | printed A-3]
 ALLY AUTO RECEIVABLES TRUST
 2019-1
 Initial Aggregate Amount Financed $1,119,999,920.35
@@ -5957,6 +6234,8 @@ Oct-22 |  | 0.90 |  |  | 107,933.22 |  |  |  | 0.009637 | % |  |  | 8,506,931.56
 Nov-22 |  | Clean Up Call Exercised |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
 [/TABLE_274]
 A-3
+
+[PAGE 140 | printed A-4]
 AART
 2019-1:
 Delinquency Data
@@ -6011,6 +6290,8 @@ Sep-22 |  |  | 303 |  |  |  | 79 |  |  |  | 18 |  |  |  | — |  |  |  | 2,769,3
 Oct-22 |  |  | 265 |  |  |  | 95 |  |  |  | 21 |  |  |  | — |  |  |  | 2,389,704.71 |  |  |  | 886,642.36 |  |  |  | 181,591.02 |  |  |  | — |  |  |  | 1.035064 | %
 [/TABLE_275]
 A-4
+
+[PAGE 141 | printed A-5]
 Initial Receivables Pool Characteristics
 [TABLE_276]
  |  | AART 2019-1 |  |  | AART 2025-1 | 
@@ -6058,6 +6339,8 @@ Annual Percentage Rate Range |  | AART 2019-1 |  |  | AART 2025-1 |
 Total |  |  | 66,201 |  |  | $ | 1,119,999,920.35 |  |  |  | 100.00 | % |  |  | 58,335 |  |  | $ | 1,121,998,836.17 |  |  |  | 100.00 | %
 [/TABLE_277]
 A-5
+
+[PAGE 142 | printed A-6]
 Distribution of the Initial Receivables Pool by State
 The following table sets forth the percentage of the Aggregate Amount Financed in the states with the largest concentration of receivables for
 each of these pools. The following breakdown by state is based on the billing addresses of the obligors on the initial receivables:
@@ -6130,6 +6413,8 @@ No other make accounts for more than 3.06% of the Aggregate Amount Financed in t
 2025-1
 pool of receivables.
 A-6
+
+[PAGE 143 | printed A-7]
 Distribution of the Initial Receivables Pool by Vehicle Model
 [TABLE_282]
 AART 2019-1 | 
@@ -6166,6 +6451,8 @@ No other model accounts for more than 1.48% of the Aggregate Amount Financed in 
 2025-1
 pool of receivables.
 A-7
+
+[PAGE 144 | printed A-8]
 ALLY AUTO RECEIVABLES TRUST
 2019-2
 Initial Aggregate Amount Financed $1,120,998,037.60
@@ -6223,6 +6510,8 @@ Mar-23 |  | 1.01 |  |  | 16,309.44 |  |  |  | 0.001455 | % |  |  | 8,414,276.37 
 Apr-23 |  | Clean Up Call Exercised |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
 [/TABLE_284]
 A-8
+
+[PAGE 145 | printed A-9]
 AART
 2019-2:
 Delinquency Data
@@ -6278,6 +6567,8 @@ Feb-23 |  |  | 307 |  |  |  | 78 |  |  |  | 15 |  |  |  | 1 |  |  |  | 2,700,151
 Mar-23 |  |  | 279 |  |  |  | 88 |  |  |  | 19 |  |  |  | 1 |  |  |  | 2,466,089.55 |  |  |  | 874,000.78 |  |  |  | 118,971.16 |  |  |  | 42.59 |  |  |  | 1.036781 | %
 [/TABLE_285]
 A-9
+
+[PAGE 146 | printed A-10]
 Initial Receivables Pool Characteristics
 [TABLE_286]
  |  | AART 2019-2 |  |  | AART 2025-1 | 
@@ -6325,6 +6616,8 @@ Annual Percentage Rate Range |  | AART 2019-2 |  |  | AART 2025-1 |
 Total |  |  | 66,351 |  |  | $ | 1,120,998,037.60 |  |  |  | 100.00 | % |  |  | 58,335 |  |  | $ | 1,121,998,836.17 |  |  |  | 100.00 | %
 [/TABLE_287]
 A-10
+
+[PAGE 147 | printed A-11]
 Distribution of the Initial Receivables Pool by State
 The following table sets forth the percentage of the Aggregate Amount Financed in the states with the largest concentration of receivables for
 each of these pools. The following breakdown by state is based on the billing addresses of the obligors on the initial receivables:
@@ -6391,6 +6684,8 @@ No other make accounts for more than 3.06% of the Aggregate Amount Financed in t
 2025-1
 pool of receivables.
 A-11
+
+[PAGE 148 | printed A-12]
 Distribution of the Initial Receivables Pool by Vehicle Model
 [TABLE_292]
 AART 2019-2 | 
@@ -6426,6 +6721,8 @@ No other model accounts for more than 1.48% of the Aggregate Amount Financed in 
 2025-1
 pool of receivables.
 A-12
+
+[PAGE 149 | printed A-13]
 ALLY AUTO RECEIVABLES TRUST
 2019-3
 Initial Aggregate Amount Financed $1,120,998,466.76
@@ -6483,6 +6780,8 @@ Jun-23 |  | 0.92 |  |  | 23,651.09 |  |  |  | 0.002110 | % |  |  | 7,344,235.86 
 Jul-23 |  | Clean-up Call Exercised |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
 [/TABLE_294]
 A-13
+
+[PAGE 150 | printed A-14]
 AART
 2019-3:
 Delinquency Data
@@ -6538,6 +6837,8 @@ May-23 |  |  | 249 |  |  |  | 76 |  |  |  | 18 |  |  |  | 4 |  |  |  | 2,258,426
 Jun-23 |  |  | 252 |  |  |  | 68 |  |  |  | 25 |  |  |  | 4 |  |  |  | 2,156,650.19 |  |  |  | 591,365.72 |  |  |  | 186,305.49 |  |  |  | 17,112.26 |  |  |  | 0.827322 | %
 [/TABLE_295]
 A-14
+
+[PAGE 151 | printed A-15]
 Initial Receivables Pool Characteristics
 [TABLE_296]
  |  | AART 2019-3 |  |  | AART 2025-1 | 
@@ -6585,6 +6886,8 @@ Annual Percentage Rate Range |  | AART 2019-3 |  |  | AART 2025-1 |
 Total |  |  | 67,198 |  |  | $ | 1,120,998,466.76 |  |  |  | 100.00 | % |  |  | 58,335 |  |  | $ | 1,121,998,836.17 |  |  |  | 100.00 | %
 [/TABLE_297]
 A-15
+
+[PAGE 152 | printed A-16]
 Distribution of the Initial Receivables Pool by State
 The following table sets forth the percentage of the Aggregate Amount Financed in the states with the largest concentration of receivables for
 each of these pools. The following breakdown by state is based on the billing addresses of the obligors on the initial receivables:
@@ -6657,6 +6960,8 @@ No other make accounts for more than 3.06% of the Aggregate Amount Financed in t
 2025-1
 pool of receivables.
 A-16
+
+[PAGE 153 | printed A-17]
 Distribution of the Initial Receivables Pool by Vehicle Model
 [TABLE_302]
 AART 2019-3 | 
@@ -6693,6 +6998,8 @@ No other model accounts for more than 1.48% of the Aggregate Amount Financed in 
 2025-1
 pool of receivables.
 A-17
+
+[PAGE 154 | printed A-18]
 ALLY AUTO RECEIVABLES TRUST
 2019-4
 Initial Aggregate Amount Financed $1,050,522,784.44
@@ -6747,6 +7054,8 @@ Jun-23 |  | 0.99 |  |  | 53,484.29 |  |  |  | 0.005091 | % |  |  | 5,090,096.89 
 Jul-23 |  | Clean-up Call Exercised |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
 [/TABLE_304]
 A-18
+
+[PAGE 155 | printed A-19]
 AART
 2019-4:
 Delinquency Data
@@ -6799,6 +7108,8 @@ May-23 |  |  | 197 |  |  |  | 65 |  |  |  | 22 |  |  |  | 1 |  |  |  | 1,990,859
 Jun-23 |  |  | 187 |  |  |  | 51 |  |  |  | 17 |  |  |  | 2 |  |  |  | 1,506,473.57 |  |  |  | 631,226.55 |  |  |  | 108,808.97 |  |  |  | 3,966.45 |  |  |  | 0.779547 | %
 [/TABLE_305]
 A-19
+
+[PAGE 156 | printed A-20]
 Initial Receivables Pool Characteristics
 [TABLE_306]
  |  | AART 2019-4 |  |  | AART 2025-1 | 
@@ -6846,6 +7157,8 @@ Annual Percentage Rate Range |  | AART 2019-4 |  |  | AART 2025-1 |
 Total |  |  | 66,361 |  |  | $ | 1,050,522,784.44 |  |  |  | 100.00 | % |  |  | 58,335 |  |  | $ | 1,121,998,836.17 |  |  |  | 100.00 | %
 [/TABLE_307]
 A-20
+
+[PAGE 157 | printed A-21]
 Distribution of the Initial Receivables Pool by State
 The following table sets forth the percentage of the Aggregate Amount Financed in the states with the largest concentration of receivables for
 each of these pools. The following breakdown by state is based on the billing addresses of the obligors on the initial receivables:
@@ -6918,6 +7231,8 @@ No other make accounts for more than 3.06% of the Aggregate Amount Financed in t
 2025-1
 pool of receivables.
 A-21
+
+[PAGE 158 | printed A-22]
 Distribution of the Initial Receivables Pool by Vehicle Model
 [TABLE_312]
 AART 2019-4 | 
@@ -6954,6 +7269,8 @@ No other model accounts for more than 1.48% of the Aggregate Amount Financed in 
 2025-1
 pool of receivables.
 A-22
+
+[PAGE 159 | printed A-23]
 ALLY AUTO RECEIVABLES TRUST
 2022-1
 Initial Aggregate Amount Financed $1,084,569,770.68
@@ -7004,6 +7321,8 @@ Jul-25 |  | 1.13 |  |  | 126,617.38 |  |  |  | 0.011674 | % |  |  | 7,509,999.66
 Aug-25 |  | 1.03 |  |  | 99,489.33 |  |  |  | 0.009173 | % |  |  | 7,609,488.99 |  |  |  | 0.701614 | %
 [/TABLE_314]
 A-23
+
+[PAGE 160 | printed A-24]
 AART
 2022-1:
 Delinquency Data
@@ -7053,6 +7372,8 @@ Jul-25 |  |  | 345 |  |  |  | 108 |  |  |  | 27 |  |  |  | 2 |  |  |  | 3,972,79
 Aug-25 |  |  | 328 |  |  |  | 111 |  |  |  | 31 |  |  |  | 1 |  |  |  | 3,608,890.42 |  |  |  | 1,261,101.15 |  |  |  | 273,293.02 |  |  |  | 7,028.27 |  |  |  | 1.056199 | %
 [/TABLE_315]
 A-24
+
+[PAGE 161 | printed A-25]
 Initial Receivables Pool Characteristics
 [TABLE_316]
  |  | AART 2022-1 |  |  | AART 2025-1 | 
@@ -7100,6 +7421,8 @@ Annual Percentage Rate Range |  | AART 2022-1 |  |  | AART 2025-1 |
 Total |  |  | 59,861 |  |  | $ | 1,084,569,770.68 |  |  |  | 100.00 | % |  |  | 58,335 |  |  | $ | 1,121,998,836.17 |  |  |  | 100.00 | %
 [/TABLE_317]
 A-25
+
+[PAGE 162 | printed A-26]
 Distribution of the Initial Receivables Pool by State
 The following table sets forth the percentage of the Aggregate Amount Financed in the states with the largest concentration of receivables for
 each of these pools. The following breakdown by state is based on the billing addresses of the obligors on the initial receivables:
@@ -7172,6 +7495,8 @@ No other make accounts for more than 3.06% of the Aggregate Amount Financed in t
 2025-1
 pool of receivables.
 A-26
+
+[PAGE 163 | printed A-27]
 Distribution of the Initial Receivables Pool by Vehicle Model
 [TABLE_322]
 AART 2022-1 | 
@@ -7208,6 +7533,8 @@ No other model accounts for more than 1.48% of the Aggregate Amount Financed in 
 2025-1
 pool of receivables.
 A-27
+
+[PAGE 164 | printed A-28]
 ALLY AUTO RECEIVABLES TRUST
 2022-2
 Initial Aggregate Amount Financed $1,112,887,614.32
@@ -7253,6 +7580,8 @@ Jul-25 |  | 1.16 |  |  | 47,387.12 |  |  |  | 0.004258 | % |  |  | 9,019,618.05 
 Aug-25 |  | 1.10 |  |  | 204,799.99 |  |  |  | 0.018403 | % |  |  | 9,224,418.04 |  |  |  | 0.828872 | %
 [/TABLE_324]
 A-28
+
+[PAGE 165 | printed A-29]
 AART
 2022-2:
 Delinquency Data
@@ -7297,6 +7626,8 @@ Jul-25 |  |  | 409 |  |  |  | 155 |  |  |  | 40 |  |  |  | 2 |  |  |  | 5,332,30
 Aug-25 |  |  | 376 |  |  |  | 145 |  |  |  | 47 |  |  |  | 2 |  |  |  | 4,758,491.77 |  |  |  | 1,977,639.66 |  |  |  | 676,003.47 |  |  |  | 21,321.33 |  |  |  | 1.228006 | %
 [/TABLE_325]
 A-29
+
+[PAGE 166 | printed A-30]
 Initial Receivables Pool Characteristics
 [TABLE_326]
  |  | AART 2022-2 |  |  | AART 2025-1 | 
@@ -7344,6 +7675,8 @@ Annual Percentage Rate Range |  | AART 2022-2 |  |  | AART 2025-1 |
 Total |  |  | 59,250 |  |  | $ | 1,112,887,614.32 |  |  |  | 100.00 | % |  |  | 58,335 |  |  | $ | 1,121,998,836.17 |  |  |  | 100.00 | %
 [/TABLE_327]
 A-30
+
+[PAGE 167 | printed A-31]
 Distribution of the Initial Receivables Pool by State
 The following table sets forth the percentage of the Aggregate Amount Financed in the states with the largest concentration of receivables for
 each of these pools. The following breakdown by state is based on the billing addresses of the obligors on the initial receivables:
@@ -7416,6 +7749,8 @@ No other make accounts for more than 3.06% of the Aggregate Amount Financed in t
 2025-1
 pool of receivables.
 A-31
+
+[PAGE 168 | printed A-32]
 Distribution of the Initial Receivables Pool by Vehicle Model
 [TABLE_332]
 AART 2022-2 | 
@@ -7452,6 +7787,8 @@ No other model accounts for more than 1.48% of the Aggregate Amount Financed in 
 2025-1
 pool of receivables.
 A-32
+
+[PAGE 169 | printed A-33]
 ALLY AUTO RECEIVABLES TRUST
 2022-3
 Initial Aggregate Amount Financed $1,028,968,867.29
@@ -7495,6 +7832,8 @@ Jul-25 |  | 1.13 |  |  | 50,532.85 |  |  |  | 0.004911 | % |  |  | 7,551,529.55 
 Aug-25 |  | 1.07 |  |  | 270,205.92 |  |  |  | 0.026260 | % |  |  | 7,821,735.47 |  |  |  | 0.760153 | %
 [/TABLE_334]
 A-33
+
+[PAGE 170 | printed A-34]
 AART
 2022-3:
 Delinquency Data
@@ -7537,6 +7876,8 @@ Jul-25 |  |  | 386 |  |  |  | 152 |  |  |  | 44 |  |  |  | 4 |  |  |  | 4,587,84
 Aug-25 |  |  | 347 |  |  |  | 153 |  |  |  | 37 |  |  |  | 3 |  |  |  | 4,189,361.10 |  |  |  | 1,820,695.15 |  |  |  | 473,479.86 |  |  |  | 7,078.00 |  |  |  | 1.179790 | %
 [/TABLE_335]
 A-34
+
+[PAGE 171 | printed A-35]
 Initial Receivables Pool Characteristics
 [TABLE_336]
  |  | AART 2022-3 |  |  | AART 2025-1 | 
@@ -7584,6 +7925,8 @@ Annual Percentage Rate Range |  | AART 2022-3 |  |  | AART 2025-1 |
 Total |  |  | 61,982 |  |  | $ | 1,028,968,867.29 |  |  |  | 100.00 | % |  |  | 58,335 |  |  | $ | 1,121,998,836.17 |  |  |  | 100.00 | %
 [/TABLE_337]
 A-35
+
+[PAGE 172 | printed A-36]
 Distribution of the Initial Receivables Pool by State
 The following table sets forth the percentage of the Aggregate Amount Financed in the states with the largest concentration of receivables for
 each of these pools. The following breakdown by state is based on the billing addresses of the obligors on the initial receivables:
@@ -7656,6 +7999,8 @@ No other make accounts for more than 3.06% of the Aggregate Amount Financed in t
 2025-1
 pool of receivables.
 A-36
+
+[PAGE 173 | printed A-37]
 Distribution of the Initial Receivables Pool by Vehicle Model
 [TABLE_342]
 AART 2022-3 | 
@@ -7692,6 +8037,8 @@ No other model accounts for more than 1.48% of the Aggregate Amount Financed in 
 2025-1
 pool of receivables.
 A-37
+
+[PAGE 174 | printed A-38]
 ALLY AUTO RECEIVABLES TRUST
 2023-1
 Initial Aggregate Amount Financed $1,121,998,940.08
@@ -7728,6 +8075,8 @@ Jul-25 |  | 1.26 |  |  | 404,743.95 |  |  |  | 0.036073 | % |  |  | 10,350,712.3
 Aug-25 |  | 1.30 |  |  | 471,616.57 |  |  |  | 0.042034 | % |  |  | 10,822,328.87 |  |  |  | 0.964558 | %
 [/TABLE_344]
 A-38
+
+[PAGE 175 | printed A-39]
 AART
 2023-1:
 Delinquency Data
@@ -7763,6 +8112,8 @@ Jul-25 |  |  | 476 |  |  |  | 177 |  |  |  | 62 |  |  |  | 3 |  |  |  | 8,695,11
 Aug-25 |  |  | 448 |  |  |  | 175 |  |  |  | 59 |  |  |  | 3 |  |  |  | 8,471,630.50 |  |  |  | 3,103,570.52 |  |  |  | 1,114,510.61 |  |  |  | 55,163.87 |  |  |  | 1.067292 | %
 [/TABLE_345]
 A-39
+
+[PAGE 176 | printed A-40]
 Initial Receivables Pool Characteristics
 [TABLE_346]
  |  | AART 2023-1 |  |  | AART 2025-1 | 
@@ -7810,6 +8161,8 @@ Annual Percentage Rate Range |  | AART 2023-1 |  |  | AART 2025-1 |
 Total |  |  | 50,424 |  |  | $ | 1,121,998,940.08 |  |  |  | 100.00 | % |  |  | 58,335 |  |  | $ | 1,121,998,836.17 |  |  |  | 100.00 | %
 [/TABLE_347]
 A-40
+
+[PAGE 177 | printed A-41]
 Distribution of the Initial Receivables Pool by State
 The following table sets forth the percentage of the Aggregate Amount Financed in the states with the largest concentration of receivables for
 each of these pools. The following breakdown by state is based on the billing addresses of the obligors on the initial receivables:
@@ -7884,6 +8237,8 @@ No other make accounts for more than 3.06% of the Aggregate Amount Financed in t
 2025-1
 pool of receivables.
 A-41
+
+[PAGE 178 | printed A-42]
 Distribution of the Initial Receivables Pool by Vehicle Model
 [TABLE_353]
 AART 2023-1 | 
@@ -7920,6 +8275,8 @@ No other model accounts for more than 1.48% of the Aggregate Amount Financed in 
 2025-1
 pool of receivables.
 A-42
+
+[PAGE 179 | printed A-43]
 ALLY AUTO RECEIVABLES TRUST
 2024-1
 Initial Aggregate Amount Financed $1,121,999,935.31
@@ -7948,6 +8305,8 @@ Jul-25 |  | 1.37 |  |  | 379,812.21 |  |  |  | 0.033851 | % |  |  | 7,533,540.14
 Aug-25 |  | 1.27 |  |  | 439,838.34 |  |  |  | 0.039201 | % |  |  | 7,973,378.48 |  |  |  | 0.710640 | %
 [/TABLE_355]
 A-43
+
+[PAGE 180 | printed A-44]
 AART
 2024-1:
 Delinquency Data
@@ -7975,6 +8334,8 @@ Jul-25 |  |  | 545 |  |  |  | 177 |  |  |  | 70 |  |  |  | 2 |  |  |  | 9,521,81
 Aug-25 |  |  | 493 |  |  |  | 197 |  |  |  | 59 |  |  |  | 4 |  |  |  | 8,497,811.01 |  |  |  | 3,515,724.45 |  |  |  | 902,302.08 |  |  |  | 39,621.20 |  |  |  | 0.916285 | %
 [/TABLE_356]
 A-44
+
+[PAGE 181 | printed A-45]
 Initial Receivables Pool Characteristics
 [TABLE_357]
  |  | AART 2024-1 |  |  | AART 2025-1 | 
@@ -8022,6 +8383,8 @@ Annual Percentage Rate Range |  | AART 2024-1 |  |  | AART 2025-1 |
 Total |  |  | 59,162 |  |  | $ | 1,121,999,935.31 |  |  |  | 100.00 | % |  |  | 58,335 |  |  | $ | 1,121,998,836.17 |  |  |  | 100.00 | %
 [/TABLE_358]
 A-45
+
+[PAGE 182 | printed A-46]
 Distribution of the Initial Receivables Pool by State
 The following table sets forth the percentage of the Aggregate Amount Financed in the states with the largest concentration of receivables for
 each of these pools. The following breakdown by state is based on the billing addresses of the obligors on the initial receivables:
@@ -8094,6 +8457,8 @@ No other make accounts for more than 3.06% of the Aggregate Amount Financed in t
 2025-1
 pool of receivables.
 A-46
+
+[PAGE 183 | printed A-47]
 Distribution of the Initial Receivables Pool by Vehicle Model
 [TABLE_363]
 AART 2024-1 | 
@@ -8130,6 +8495,8 @@ No other model accounts for more than 1.48% of the Aggregate Amount Financed in 
 2025-1
 pool of receivables.
 A-47
+
+[PAGE 184 | printed A-48]
 ALLY AUTO RECEIVABLES TRUST
 2024-2
 Initial Aggregate Amount Financed $1,114,879,158.52
@@ -8152,6 +8519,8 @@ Jul-25 |  | 1.48 |  |  | 287,732.15 |  |  |  | 0.025808 | % |  |  | 3,454,257.73
 Aug-25 |  | 1.39 |  |  | 436,913.35 |  |  |  | 0.039189 | % |  |  | 3,891,171.08 |  |  |  | 0.349022 | %
 [/TABLE_365]
 A-48
+
+[PAGE 185 | printed A-49]
 AART
 2024-2:
 Delinquency Data
@@ -8173,6 +8542,8 @@ Jul-25 |  |  | 533 |  |  |  | 162 |  |  |  | 59 |  |  |  | 1 |  |  |  | 8,910,60
 Aug-25 |  |  | 516 |  |  |  | 173 |  |  |  | 55 |  |  |  | 2 |  |  |  | 8,307,696.09 |  |  |  | 2,959,240.35 |  |  |  | 741,878.23 |  |  |  | 27,150.78 |  |  |  | 0.598162 | %
 [/TABLE_366]
 A-49
+
+[PAGE 186 | printed A-50]
 Initial Receivables Pool Characteristics
 [TABLE_367]
  |  | AART 2024-2 |  |  | AART 2025-1 | 
@@ -8220,6 +8591,8 @@ Annual Percentage Rate Range |  | AART 2024-2 |  |  | AART 2025-1 |
 Total |  |  | 61,802 |  |  | $ | 1,114,879,158.52 |  |  |  | 100.00 | % |  |  | 58,335 |  |  | $ | 1,121,998,836.17 |  |  |  | 100.00 | %
 [/TABLE_368]
 A-50
+
+[PAGE 187 | printed A-51]
 Distribution of the Initial Receivables Pool by State
 The following table sets forth the percentage of the Aggregate Amount Financed in the states with the largest concentration of receivables for
 each of these pools. The following breakdown by state is based on the billing addresses of the obligors on the initial receivables:
@@ -8292,6 +8665,8 @@ No other make accounts for more than 3.06% of the Aggregate Amount Financed in t
 2025-1
 pool of receivables.
 A-51
+
+[PAGE 188 | printed A-52]
 Distribution of the Initial Receivables Pool by Vehicle Model
 [TABLE_373]
 AART 2024-2 | 
@@ -8328,24 +8703,32 @@ No other model accounts for more than 1.48% of the Aggregate Amount Financed in 
 2025-1
 pool of receivables.
 A-52
+
+[PAGE 189 | printed A-53]
 Prepayment Speeds, 2019-2024 Public Securitizations
 The chart below shows Prepayment Speed for each of the sponsor’s public securitizations in 2019, 2022, 2023 and 2024. The calculation of Prepayment
 Speed is described on page
 A-1
 of this Appendix A.
 A-53
+
+[PAGE 190 | printed A-54]
 Cumulative Net Loss, 2019-2024 Public Securitizations
 The chart below shows cumulative net loss for each of the sponsor’s public securitizations in 2019, 2022, 2023 and 2024. The calculation of net loss is
 described on page
 A-1
 of this Appendix A.
 A-54
+
+[PAGE 191 | printed A-55]
 61+ Day Delinquency Percentage, 2019-2024 Public Securitizations
 The chart below shows the 61+ day delinquency percentage for each of the sponsor’s public securitizations in 2019, 2022, 2023 and 2024. The calculation
 of the 61+ day delinquency percentage is described on
 page A-1
 of this Appendix A.
 A-55
+
+[PAGE 192]
 No dealer, salesman or other person has been authorized to give any information or to make any
 representations not contained in this prospectus and, if given or made, such information or representations must not be relied upon as having been authorized by the depositor, the servicer or the underwriters. This prospectus does not constitute an
 offer to sell, or a solicitation of an offer to buy, the notes offered hereby to anyone in any jurisdiction in which the person making such offer or solicitation is not qualified to do so or to anyone to whom it is unlawful to make any such offer or

@@ -1,3 +1,4 @@
+[PAGE 1]
 Filed Pursuant to Rule 424(h)
 Registration Statement Nos. 333-283544-03 and 333-283544
 The information in this prospectus is not complete and
@@ -101,6 +102,8 @@ BNY Capital Markets | ING | MUFG | US
 The date of this prospectus is
 ·
 , 2025.
+
+[PAGE 2]
 Table
 of Contents
 Page
@@ -138,6 +141,8 @@ THE DELAWARE TRUSTEE | 59
 THE INDENTURE TRUSTEE | 60
 LIMITATION OF LIABILITY AND RESIGNATION OF THE TRUSTEES | 62
 [/TABLE_7]
+
+[PAGE 3]
 -
 i
 -
@@ -178,6 +183,8 @@ Excess Interest | 125
 CERTAIN INFORMATION REGARDING THE SECURITIES | 126
 Fixed Rate Securities | 126
 [/TABLE_8]
+
+[PAGE 4]
 -
 ii
 -
@@ -222,6 +229,8 @@ Repossession | 155
 Notice of Sale; Redemption Rights | 155
 Deficiency Judgments and Excess Proceeds | 156
 [/TABLE_9]
+
+[PAGE 5]
 -
 iii
 -
@@ -250,6 +259,8 @@ LEGAL OPINIONS | 178
 GLOSSARY | 179
 ANNEX A GLOBAL CLEARANCE, SETTLEMENT AND TAX DOCUMENTATION PROCEDURES | A-1
 [/TABLE_10]
+
+[PAGE 6]
 -
 iv
 -
@@ -304,6 +315,8 @@ The depositor has filed with the SEC a Registration
 Statement on Form SF-3 that includes this prospectus and certain amendments and exhibits under the Securities Act of 1933, as amended,
 relating to the offering of the notes described herein. This prospectus does not contain all of the information in the Registration Statement.
 Copies of the Registration Statement will be provided free of charge upon written
+
+[PAGE 7]
 1
 request to American Honda Finance Corporation, 1919 Torrance Boulevard,
 Torrance, California 90501. The Registration Statement is available for inspection without charge at the public reference facilities
@@ -340,6 +353,8 @@ offering or selling the Notes or otherwise making them available to any UK retai
 Regulation.
 THIS PROSPECTUS IS NOT A
 PROSPECTUS FOR THE PURPOSES OF THE UK PROSPECTUS REGULATION.
+
+[PAGE 8]
 2
 THIS PROSPECTUS MAY ONLY
 BE COMMUNICATED OR CAUSED TO BE COMMUNICATED IN THE UK TO PERSONS WHO (1) HAVE PROFESSIONAL EXPERIENCE IN MATTERS RELATING TO INVESTMENTS
@@ -369,6 +384,8 @@ OR SELLING THE NOTES OR OTHERWISE MAKING THEM AVAILABLE TO EU RETAIL INVESTORS I
 SELLING THE NOTES OR OTHERWISE MAKING THEM AVAILABLE TO ANY EU RETAIL INVESTOR IN THE EEA MAY BE UNLAWFUL UNDER THE EU PRIIPS REGULATION.
 THIS PROSPECTUS IS NOT A PROSPECTUS FOR THE PURPOSES
 OF THE EU PROSPECTUS REGULATION.
+
+[PAGE 9]
 3
 SUMMARY
 OF PARTIES TO THE TRANSACTION
@@ -381,6 +398,8 @@ OF PARTIES TO THE TRANSACTION
  | 3 | AHFC will retain at least 5% (by initial principal amount) of
                                             each class of notes and may retain all or an additional portion of the class A-1 notes.
 [/TABLE_11]
+
+[PAGE 10]
 4
 SUMMARY
 OF MONTHLY DEPOSITS TO AND
@@ -389,9 +408,13 @@ WITHDRAWALS FROM ACCOUNTS*
  | * | This chart provides only a simplified overview of the monthly flow of funds.
                                             Refer to this prospectus for a further description.
 [/TABLE_12]
+
+[PAGE 11]
 5
 SUMMARY
 OF MONTHLY DISTRIBUTIONS OF AVAILABLE AMOUNTS
+
+[PAGE 12]
 6
 SUMMARY
 OF TERMS
@@ -412,6 +435,8 @@ RELEVANT AGREEMENTS |  |
 Indenture |  | The indenture is between the trust and the indenture trustee and acknowledged by AHFC. The indenture provides for the terms relating to the notes.
 Trust Agreement |  | The trust agreement is among the depositor, the Delaware trustee and the owner trustee.  The trust agreement governs the creation of the trust and provides for the terms relating to the certificates.
 [/TABLE_13]
+
+[PAGE 13]
 7
 [TABLE_14]
 Sale and Servicing Agreement |  | The sale and servicing agreement is among the trust, the servicer and the depositor, and is acknowledged and accepted by the indenture trustee.  The sale and servicing agreement governs the transfer of the receivables by the depositor to the trust and the servicing of the receivables by the servicer.
@@ -427,6 +452,8 @@ Final Scheduled Payment Dates |  | The final principal payment for each class of
 Expected Final Payment Dates |  | The final principal payment for each class of notes is expected to be made on the applicable expected final payment date specified on the front cover of this prospectus.  However, due to a variety of factors described herein, there can be no assurance that your class of notes will not be paid in full on an earlier or on a later payment date.
  |  | We refer you to “Risk Factors” in this prospectus for discussions of certain of these factors.
 [/TABLE_14]
+
+[PAGE 14]
 8
 DESCRIPTION
 OF THE RECEIVABLES; ISSUING ENTITY PROPERTY
@@ -463,6 +490,8 @@ Weighted average remaining term to maturity (1) |  | 49.47 months
 Range of remaining terms to maturity |  | 7 months to 70 months
 Percentage of aggregate principal balance of receivables for new/used vehicles |  | 85.96%/14.04%
 [/TABLE_16]
+
+[PAGE 15]
 9
 [TABLE_17]
 Range of FICO scores (2)(3) |  | 427 to 900
@@ -509,6 +538,8 @@ Florida |  | 6.41%
 Illinois |  | 5.55%
 Ohio |  | 5.04%
 [/TABLE_22]
+
+[PAGE 16]
 10
 [TABLE_23]
  | (1) | Weighted
@@ -559,6 +590,8 @@ all material respects with all requirements of law in effect at the time and app
  |  | · | pursuant to each receivable, the related obligor is required
 to maintain physical damage insurance covering the related financed vehicle;
 [/TABLE_28]
+
+[PAGE 17]
 11
 [TABLE_29]
  |  | · | as of the closing date, each of the related receivables is
@@ -587,11 +620,15 @@ subordinated; and
 Receivable Representations and Warranties |  | AHFC will make certain representations and warranties regarding the characteristics of the receivables as of the cutoff date.  A breach of these representations or warranties may, subject to certain conditions, result in AHFC being obligated to repurchase the related receivable.  See “ Description of the Transfer and Servicing Agreements—Sale and Assignment of Receivables; Representations and Warranties .”  This repurchase obligation will constitute the sole remedy available to the noteholders or the trust for any uncured breach by AHFC of those representations and warranties.
  |  | If any investor requests that the sponsor repurchase any receivable due to a breach of representation or warranty as described above, and the repurchase request has not been fulfilled or otherwise resolved to the reasonable satisfaction of the requesting party within 180 days of the receipt of notice of the request by the sponsor, the requesting party will have the right to refer the matter, at its discretion, to either mediation,
 [/TABLE_30]
+
+[PAGE 18]
 12
 [TABLE_31]
  |  | non-binding arbitration or binding arbitration.  The terms of the mediation or arbitration, as applicable, are described under “ Description of the Transfer and Servicing Agreements—Sale and Assignment of Receivables; Representations and Warranties” and “ —Dispute Resolution. ”
 Review of Asset Representations |  | As more fully described in “ Description of the Transfer and Servicing Agreements—Asset Representations Review ”, if the aggregate amount of delinquent receivables exceeds certain thresholds then, subject to certain conditions, investors in the aggregate representing at least a majority of the outstanding principal amount of the notes of the voting investors, may direct the asset representations reviewer to perform a review of the delinquent receivables for compliance with the representations and warranties made by AHFC.  See “ Description of the Transfer and Servicing Agreements—Asset Representations Review. ”
 [/TABLE_31]
+
+[PAGE 19]
 13
 DESCRIPTION
 OF THE SECURITIES
@@ -619,6 +656,8 @@ the trust will also issue $43,190,718.92 initial principal amount of certificate
 is $2,105,280,000, the trust will also issue $53,983,999.93 initial principal amount of certificates. If the aggregate initial principal
 amount of notes is $2,421,070,000, the trust will also issue $62,080,001.52 initial principal amount of certificates.
 [/TABLE_32]
+
+[PAGE 20]
 14
 [TABLE_33]
  |  | The certificates will represent fractional undivided interests in the issuing entity. Payments of interest on and principal of the certificates are subordinated to the payments of interest on and principal of the notes as described herein. The certificates are not being offered by this prospectus and initially will be retained by the depositor. Any information in this prospectus regarding the certificates is intended only to give you a better understanding of the notes.
@@ -641,6 +680,8 @@ period will be deemed to be 0.00%. See “ The Notes—Payments of Interest ” 
 class A-4 notes will accrue interest on a 30/360 basis from (and including) the 15 th day of each calendar month to (but excluding)
 the 15 th day of the
 [/TABLE_33]
+
+[PAGE 21]
 15
 [TABLE_34]
  |  | succeeding calendar month, except that the first interest accrual period will be from (and including) the closing
@@ -659,6 +700,8 @@ days from (and including) the closing date to (but excluding) the 15 th day of t
  |  | 4.             the principal balance of receivables that became defaulted receivables during the prior calendar month.
  |  | The noteholders’ percentage of the principal distributable amount, plus any unpaid amounts from prior payment dates, is referred to as the noteholders’ principal distributable amount .  The certificateholders’ percentage of the principal distributable amount, plus any unpaid amounts from prior payments dates, is referred to as the certificateholders’ principal distributable amount .  The sum of the noteholders’ principal distributable amount and the certificateholders’ principal distributable amount shall equal the principal distributable amount.
 [/TABLE_34]
+
+[PAGE 22]
 16
 [TABLE_35]
  |  | Principal payments on the notes as described above will be made from all available amounts after the servicing fee, outstanding advances, and other trust and asset representations reviewer fees, expenses and indemnities to the extent not previously paid by AHFC (which, with respect to (i) trust fees, expenses and indemnities, shall not exceed $100,000 per annum and (ii) asset representations reviewer fees, expenses and indemnities, shall not exceed $150,000 per annum, in each case, as long as any of the notes are outstanding and no event of default has occurred) have been paid and after payment of interest on the notes.
@@ -673,6 +716,8 @@ days from (and including) the closing date to (but excluding) the 15 th day of t
  |  |  | · | a default for five business days or more in the payment of
 any interest on any of the notes when the same becomes due and payable;
 [/TABLE_35]
+
+[PAGE 23]
 17
 [TABLE_36]
  |  |  | · | a default in the payment of the principal of or any installment of the principal of any of the notes when the same becomes due and payable on the maturity date thereof;
@@ -688,6 +733,8 @@ would be sufficient to repay all noteholders and certificateholders in full; or
  |  | · | holders of 100% of the aggregate outstanding amount of notes
 consent to such sale or liquidation; or
 [/TABLE_36]
+
+[PAGE 24]
 18
 [TABLE_37]
  |  | · | the indenture trustee has determined that the assets of the
@@ -711,6 +758,8 @@ Credit and Cash Flow Enhancement |  | Credit enhancement is intended to protect 
  |  | · | the reserve fund; and
  |  | · | the yield supplement account.
 [/TABLE_38]
+
+[PAGE 25]
 19
 [TABLE_39]
  |  | Excess Interest:
@@ -724,6 +773,8 @@ Credit and Cash Flow Enhancement |  | Credit enhancement is intended to protect 
  |  | On each payment date, the trust will use funds in the reserve fund to cover shortfalls in payments of interest and principal required to be paid on the notes and the certificates.
  |  | On the closing date, if the aggregate initial principal amount of the notes is $1,684,220,000, the depositor will cause to be deposited into the reserve fund $4,318,526.80, which represents
 [/TABLE_40]
+
+[PAGE 26]
 20
 [TABLE_41]
  |  | approximately 0.25% of the initial pool balance.  On the closing date, if the aggregate initial principal amount of the notes is $2,105,280,000, the depositor will cause to be deposited into the reserve fund $5,398,160.00, which represents approximately 0.25% of the initial pool balance.  On the closing date, if the aggregate initial principal amount of the notes is $2,421,070,000, the depositor will cause to be deposited into the reserve fund $6,207,875.00, which represents approximately 0.25% of the initial pool balance.  On each payment date, after making required payments to the servicer, to the trustees, to the asset representations reviewer, to the noteholders and to the certificateholders, the trust will make a deposit into the reserve fund to the extent necessary to maintain the amount on deposit in the reserve fund at a specified balance.
@@ -743,6 +794,8 @@ Servicing Fee |  | As compensation for its roles as servicer and administrator, 
     in the trust accounts, and other fees, expenses and charges received from obligors on the receivables. The servicing fee will be payable
     on each payment date prior to any other distributions.
 [/TABLE_42]
+
+[PAGE 27]
 21
 [TABLE_43]
  |  | For more detailed information about additional servicing compensation,
@@ -760,6 +813,8 @@ an annual fee of $5,000.
 Asset Representations Reviewer Fees and Expenses |  | The asset representations reviewer will be entitled to an annual fee equal to $5,000 and will be entitled to be reimbursed for all costs and expenses incurred in connection with the performance of an asset representation review.
  |  | Such asset representations reviewer fees, costs and expenses will be paid directly by the sponsor.  To the extent not paid by the sponsor, such fees, costs and expenses are payable by the trust on the first payment date after the servicing fees and trustee fees and expenses are paid on that date and prior to any distributions to noteholders; provided that, such asset representations reviewer fees, costs and
 [/TABLE_44]
+
+[PAGE 28]
 22
 [TABLE_45]
  |  | expenses so paid shall not exceed an aggregate amount per annum equal to $150,000 while any notes remain outstanding, so long as an event of default has not occurred.  Any additional amounts owed to the asset representations reviewer will be payable only after all amounts owed to noteholders and the trustees have been distributed on the related payment date.
@@ -773,6 +828,8 @@ Tax Status |  | On the closing date, Mayer Brown LLP, special tax counsel to the
 Certain ERISA Considerations |  | The notes may be purchased by certain employee benefit plans and similar arrangements unrelated to the depositor, subject to those considerations discussed under “ Certain Considerations for ERISA and other U.S. Benefit Plans. ”
  |  | If you are a benefit plan fiduciary considering the acquisition of the notes you should, among other things, consult with your counsel before investing.
 [/TABLE_45]
+
+[PAGE 29]
 23
 [TABLE_46]
 Eligibility for Purchase by Money Market Funds |  | The class A-1 notes will be eligible for purchase by money market funds under Rule 2a-7 under the Investment Company Act of 1940, as amended (the “Investment Company Act”). Rule 2a-7 includes additional criteria for investments by money market funds, including additional requirements relating to portfolio maturity, liquidity and risk diversification.  A money market fund should consult its legal advisers regarding the eligibility of such notes under Rule 2a-7 and any other applicable legal requirement and whether an investment in such notes satisfies such fund’s rating requirements, investment policies and objectives.
@@ -793,6 +850,8 @@ by the issuing entity on the closing date. Either of AHFC or the depositor, as a
 vertical interest” and may not transfer (except to AHFC or another majority-owned affiliate of AHFC) or hedge such interest except
 as permitted by applicable law.
 [/TABLE_46]
+
+[PAGE 30]
 24
 [TABLE_47]
  |  | AHFC may retain more than 5% of the initial principal amount of one
@@ -822,6 +881,8 @@ EU Securitization Regulation and UK Securitization Framework |  | For defined te
     in securitization transactions. Consequently, the notes may not be a suitable investment for any
 investor required to comply with the EU Securitization Regulation, the UK Securitization Framework or any equivalent or similar
 [/TABLE_48]
+
+[PAGE 31]
 25
 [TABLE_49]
  |  | requirement in
@@ -834,6 +895,8 @@ measures being imposed or taken by such investor’s competent authority or rele
  |  | Prospective investors are responsible for analyzing their own legal and regulatory position and should consult with their own investment and legal advisors regarding the scope and application of and compliance with any EU Due Diligence Requirements, UK Due Diligence Requirements or other applicable regulations and the suitability of the notes for investment.
 Registration Under the Securities Act |  | The depositor has filed a registration statement relating to the notes with the SEC on Form SF-3.  The depositor has met the requirements for registration on Form SF-3 contained in General Instruction I.A.1 to Form SF-3.
 [/TABLE_49]
+
+[PAGE 32]
 26
 SUMMARY OF RISK FACTORS
 The notes are subject to certain risks that
@@ -897,6 +960,8 @@ Risks relating to the characteristics, servicing and performance of the receivab
  | · | If the servicer does not fulfill its contractual obligation to maintain possession or control of the contracts, the issuing entity could face competing interests in the receivables.
  | · | Interests of other persons in the receivables and financed vehicles could be superior to the issuing entity’s interest.
 [/TABLE_63]
+
+[PAGE 33]
 27
 [TABLE_64]
  | · | Paid-ahead contracts may affect the weighted average life of the notes.
@@ -930,6 +995,8 @@ Risks relating to macroeconomic, regulatory and other external factors |  | The 
  | · | The return on your notes could be reduced by shortfalls due to military action, terrorism or similar national concerns and the Servicemembers Civil Relief Act.
  | · | Climate related events and climate change risks may cause losses on your notes.
 [/TABLE_68]
+
+[PAGE 34]
 28
 [TABLE_69]
 Risks relating to the issuance of a floating rate class of notes and the uncertainty regarding the SOFR rate |  | The notes are subject to risks relating
@@ -966,6 +1033,8 @@ to or elimination of SOFR or the determinations made by the administrator may ad
  | · | The
 occurrence of a benchmark transition event may result in a deemed taxable exchange for noteholders for U.S. federal income tax purposes.
 [/TABLE_76]
+
+[PAGE 35]
 29
 RISK
 FACTORS
@@ -1009,6 +1078,8 @@ payment date will involve the prepayment risks described under “
 resulting from prepayments, repurchases or early termination of the receivables of the issuing entity. Repurchase obligations are limited,
 and do not protect the issuing entity from all risks that could impact the performance of the receivables.
 ”
+
+[PAGE 36]
 [TABLE_77]
  | 30 | 
 [/TABLE_77]
@@ -1053,6 +1124,8 @@ The final payment of each class of notes is expected
 to occur prior to its final scheduled payment date because of the prepayment and purchase considerations described above. If sufficient
 funds are not available to pay any class of notes in full on its final scheduled payment date, an event of default will occur and final
 payment of that class of notes may occur later than that date.
+
+[PAGE 37]
 [TABLE_79]
  | 31 | 
 [/TABLE_79]
@@ -1103,6 +1176,8 @@ notes may not exceed 50% of the aggregate principal balance of the class A-2 not
 allocated entirely to the class A-2a notes, with no principal balance allocated to the class A-2b notes, in which case no class A-2b notes
 would be issued. Therefore, investors should not expect further disclosure of these matters prior to their entering into commitments to
 purchase these classes of notes.
+
+[PAGE 38]
 [TABLE_80]
  | 32 | 
 [/TABLE_80]
@@ -1162,6 +1237,8 @@ NRSRO has assigned ratings on the notes. However, under the SEC rules, informati
 assigning or monitoring the ratings on the notes is required to be made available to each qualified NRSRO to make it possible for such
 non-hired NRSROs to assign unsolicited ratings. An unsolicited rating could be assigned at any time, including prior to the closing date,
 and none of the depositor, sponsor,
+
+[PAGE 39]
 [TABLE_81]
  | 33 | 
 [/TABLE_81]
@@ -1211,6 +1288,8 @@ adversely impacted by the unknown aggregate initial principal amount of the note
 It is not expected to be known until the day of
 pricing whether the trust will issue notes with an aggregate initial principal amount of either $1,684,220,000, $2,105,280,000 or $2,421,070,000.
 The sponsor
+
+[PAGE 40]
 [TABLE_82]
  | 34 | 
 [/TABLE_82]
@@ -1256,6 +1335,8 @@ which weakens collateral coverage and increases the amount of a loss in the even
 impacted based on the economic condition in any state or region. Significant increases in the inventory of used automobiles during periods
 of economic slowdown or recession may also depress the prices at which repossessed automobiles may be sold or delay the timing of these
 sales. An improvement in economic conditions could result in prepayments by the obligors on their payment obligations under the receivables.
+
+[PAGE 41]
 [TABLE_83]
  | 35 | 
 [/TABLE_83]
@@ -1309,6 +1390,8 @@ negligence or error and as a result the issuing entity may not have a perfected 
 The possibility that the issuing entity may not
 have a perfected security interest in the financed vehicles may affect the issuing entity’s ability to repossess and sell the financed
 vehicles or may limit the
+
+[PAGE 42]
 [TABLE_87]
  | 36 | 
 [/TABLE_87]
@@ -1358,6 +1441,8 @@ the contract ahead of schedule (for example, because the obligor intends to go o
 be affected. This is because the additional scheduled payments will be treated as a principal prepayment and applied to reduce the principal
 balance of the related receivable and the obligor will generally not be required to make any scheduled payments during the period for
 which it was paid-ahead. During this paid-ahead period, interest will continue
+
+[PAGE 43]
 [TABLE_88]
  | 37 | 
 [/TABLE_88]
@@ -1406,6 +1491,8 @@ LLC, as depositor, will in turn transfer the receivables to the issuing entity. 
 LLC becomes subject to a bankruptcy proceeding, the court in the bankruptcy proceeding could conclude that AHFC or American Honda Receivables
 LLC, as applicable, still owns the receivables by concluding that the sale to the depositor and/or to the issuing entity was not a “true
 sale” or, in the case of a bankruptcy of the originator, that the depositor should be consolidated with the
+
+[PAGE 44]
 [TABLE_89]
  | 38 | 
 [/TABLE_89]
@@ -1455,6 +1542,8 @@ charged by the successor. In addition, the noteholders have the ability, with so
 Furthermore, the indenture trustee or the noteholders
 may experience difficulties in appointing a successor servicer and during any transition phase it is possible that normal servicing activities
 could be disrupted, resulting in increased delinquencies and/or defaults on the receivables.
+
+[PAGE 45]
 [TABLE_93]
  | 39 | 
 [/TABLE_93]
@@ -1510,6 +1599,8 @@ Act impacts the offering, marketing, and regulation of consumer financial produc
 with the implementing regulations under the Dodd-Frank Act or the oversight of the SEC or CFPB may impose costs on, create operational
 constraints for, or place limits on pricing with respect to, finance companies such as AHFC. Many provisions of the Dodd-Frank Act are
 required to be implemented
+
+[PAGE 46]
 [TABLE_98]
  | 40 | 
 [/TABLE_98]
@@ -1560,6 +1651,8 @@ district court, would have required the trusts to pay $2.25 million in redress t
 would have required the trusts to take steps to end certain pending debt collection lawsuits. However, the proposed order was not entered
 by the district court and on April 25, 2025, the CFPB agreed to voluntarily dismiss the case with prejudice. The district court dismissed
 the case with prejudice on April 28, 2025.
+
+[PAGE 47]
 [TABLE_99]
  | 41 | 
 [/TABLE_99]
@@ -1617,6 +1710,8 @@ such as the issuing entity, and servicers in the future.
 Because of the complexity of the Dodd-Frank Act,
 the ultimate impact of the Dodd-Frank Act and its effects on the financial markets and their participants will not be fully known for
 an extended period of time. Therefore, requirements imposed by the Dodd-Frank Act may have a significant future impact on the servicing
+
+[PAGE 48]
 [TABLE_100]
  | 42 | 
 [/TABLE_100]
@@ -1673,6 +1768,8 @@ and market value of your notes.
 A deterioration in economic conditions and certain
 economic factors, such as reduced business activity, high unemployment, fluctuating interest rates, tariffs, prolonged government shutdowns,
 housing
+
+[PAGE 49]
 [TABLE_101]
  | 43 | 
 [/TABLE_101]
@@ -1725,6 +1822,8 @@ their suppliers may discover a component in a vehicle, which might possibly affe
 cases, the manufacturer in consultation with the National Highway Traffic Safety Administration may recall the affected vehicles for repair
 or other necessary service. In addition, recalls or other service campaigns could cause a temporary suspension of sales of the affected
 vehicles, which may cause a delay of the timing of the sales in the used car
+
+[PAGE 50]
 [TABLE_102]
  | 44 | 
 [/TABLE_102]
@@ -1770,6 +1869,8 @@ military service. As a result, there may be delays in payment and increased loss
 will be borne primarily by the certificates, but if such losses are greater than anticipated, you may suffer a loss.
 We do not know how many receivables have been or
 may be affected by the application of the Relief Act.
+
+[PAGE 51]
 [TABLE_103]
  | 45 | 
 [/TABLE_103]
@@ -1823,6 +1924,8 @@ altered in a manner that is materially adverse to the interests of holders in th
 on any historical changes or trends in SOFR as an indicator of future changes or trends in SOFR. If the manner in which SOFR is calculated
 is changed or if SOFR is discontinued, that change or discontinuance may result in a reduction of the amount of interest payable on and
 the trading prices of the class A-2b notes.
+
+[PAGE 52]
 [TABLE_104]
  | 46 | 
 [/TABLE_104]
@@ -1873,6 +1976,8 @@ class A-2b notes may not have an established trading market when issued, and an 
 provide significant liquidity. Market terms for the class A-2b notes, such as the spread over the rate reflected in interest rate provisions,
 may evolve over time, and trading prices of the class A-2b notes may be lower than those of later-issued notes with interest rates based
 on SOFR as a result. Relatively limited market precedent exists for
+
+[PAGE 53]
 [TABLE_105]
  | 47 | 
 [/TABLE_105]
@@ -1918,6 +2023,8 @@ Risks related to compounded SOFR.
 The FRBNY began to publish, in March 2020,
 compounded averages of SOFR, which are used to determine compounded SOFR. It is possible that there will be limited interest in securities
 products based on compounded SOFR, or in the implementations of compounded SOFR with respect to the class A-2b notes. As
+
+[PAGE 54]
 [TABLE_106]
  | 48 | 
 [/TABLE_106]
@@ -1965,6 +2072,8 @@ next-available benchmark replacement or related benchmark replacement adjustment
 The determination of a benchmark replacement, the
 calculation of the interest rate on the class A-2b notes by reference to a benchmark replacement (including the application of a benchmark
 replacement adjustment), any implementation of benchmark replacement conforming changes and any other
+
+[PAGE 55]
 [TABLE_107]
  | 49 | 
 [/TABLE_107]
@@ -2001,6 +2110,8 @@ at a floating rate may be subject to change after a benchmark replacement. If an
 SOFR for the class A-2b notes, the U.S. federal income tax consequences of such a benchmark replacement are uncertain. If such a replacement
 constituted a “significant modification” of the class A-2b notes under Treasury Regulation section 1.1001-3, the replacement
 may result in a taxable deemed exchange of the class A-2b notes and the realization of gain or loss, as well as other corollary tax consequences.
+
+[PAGE 56]
 [TABLE_108]
  | 50 | 
 [/TABLE_108]
@@ -2075,6 +2186,8 @@ AHFC will sell the Receivables comprising the initial pool to the depositor, and
 pursuant to the sale and servicing agreement among the depositor, AHFC, in its capacity as servicer of the Receivables, and the trust.
 On the Closing Date, the trust will be capitalized with an amount equal to the certificate balance as of the Closing Date, which will
 equal either (i) $43,190,718.92, if the aggregate initial principal amount of the notes
+
+[PAGE 57]
 [TABLE_116]
  | 51 | 
 [/TABLE_116]
@@ -2158,6 +2271,8 @@ to receive future net liquidation proceeds) that secured a Receivable; and
 [TABLE_123]
  | · | all proceeds of the foregoing.
 [/TABLE_123]
+
+[PAGE 58]
 [TABLE_124]
  | 52 | 
 [/TABLE_124]
@@ -2206,6 +2321,8 @@ Total |  | $ | 2,263,307,889.59 |
 This amount may be adjusted. The amount shown above
 is based on an assumed interest rate of the notes. The final amount will be calculated using, in part, the interest rates of the notes
 at the time of pricing and structured to achieve approximately 2.25% estimated excess spread per annum as of the Closing Date.
+
+[PAGE 59]
 [TABLE_128]
  | 53 | 
 [/TABLE_128]
@@ -2261,6 +2378,8 @@ similar to the securities and engaging in related transactions. The depositor’
 of the depositor to the foregoing purposes and to any activities incidental to and necessary for those purposes. Other than the obligation
 to obtain the consent of the depositor with respect to amendments to the trust agreement or other consent rights given to the holder of
 the residual interest in the issuing entity, the depositor will have no ongoing duties with respect to the issuing entity.
+
+[PAGE 60]
 [TABLE_132]
  | 54 | 
 [/TABLE_132]
@@ -2311,6 +2430,8 @@ Static Pools.
  |  | 2026 |  |  | 2025 |  |  | 2024 |  |  | 2023 |  |  | 2022 |  |  | 2021 | 
 Original Principal Balance |  | $ | 4,966 |  |  | $ | 8,907 |  |  | $ | 7,557 |  |  | $ | 2,699 |  |  | $ | 6,478 |  |  | $ | 5,128 | 
 [/TABLE_133]
+
+[PAGE 61]
 [TABLE_134]
  | 55 | 
 [/TABLE_134]
@@ -2366,6 +2487,8 @@ B
 are those that are relatively low credit risks. Based on their application and credit bureau report, they have the ability to pay and
 have shown a willingness to pay. Generally, B credit borrowers may have one or more condition, such as, among other reasons, a shorter
 credit history or a minor credit weakness, that could reduce the internal credit score.
+
+[PAGE 62]
 [TABLE_135]
  | 56 | 
 [/TABLE_135]
@@ -2419,6 +2542,8 @@ repossession). The servicer’s Remarketing Center handles automobile sales for 
 The servicer consigns the repossessed automobiles to a local auction or to an independent transport company for transport to another auction
 location. Each auction site is expected to sell the automobile within 90 days of taking the automobile into inventory. Any deficiencies
 remaining after
+
+[PAGE 63]
 [TABLE_136]
  | 57 | 
 [/TABLE_136]
@@ -2474,6 +2599,8 @@ REQUESTS
 The transaction documents for prior pools of retail
 installment sale contracts that were securitized by AHFC contain covenants requiring the repurchase of an underlying receivable for the
 breach of a related representation or warranty that materially and adversely affects the interests of the noteholders and is not
+
+[PAGE 64]
 [TABLE_137]
  | 58 | 
 [/TABLE_137]
@@ -2535,6 +2662,8 @@ BNY
 Mellon
 ”) are named as a defendant in legal actions. In connection with its role as trustee of certain RMBS transactions, BNY
 Mellon
+
+[PAGE 65]
 [TABLE_138]
  | 59 | 
 [/TABLE_138]
@@ -2590,6 +2719,8 @@ caused losses to investors as a result of alleged failures by the sponsors, mort
 agreements for these RMBS trusts. Plaintiffs generally assert causes of action based upon the trustees’ purported failures to enforce
 repurchase obligations of mortgage loan sellers for alleged breaches of representations and warranties, notify securityholders of purported
 events of default
+
+[PAGE 66]
 [TABLE_139]
  | 60 | 
 [/TABLE_139]
@@ -2649,6 +2780,8 @@ will determine an alternative Benchmark in accordance with the Benchmark Replace
 The Notes–Payments
 of Interest—Effect of Benchmark Transition Event
 .”
+
+[PAGE 67]
 [TABLE_140]
  | 61 | 
 [/TABLE_140]
@@ -2703,6 +2836,8 @@ auto and equipment loan, lease and dealer floorplan and credit card securitizati
 The asset representations reviewer is a wholly-owned
 subsidiary of Covius Services, LLC, and with its affiliates has provided independent due diligence loan review and servicer oversight
 services since 1989.  The asset representations reviewer and its affiliates are providers of targeted due diligence reviews of
+
+[PAGE 68]
 [TABLE_141]
  | 62 | 
 [/TABLE_141]
@@ -2757,6 +2892,8 @@ are unpaid for at least 60 days, they will be payable out of Available Amounts a
 Payments on the Notes—Payment
 of Distributable Amounts.
 ”
+
+[PAGE 69]
 [TABLE_142]
  | 63 | 
 [/TABLE_142]
@@ -2824,6 +2961,8 @@ interest method
 to unpaid principal. Accordingly, if an Obligor pays an installment before its due date, the portion of the payment allocable to interest
 for the payment period will be less than if the payment had been made on the due date, the portion of the payment applied to reduce the
 Principal Balance will be correspondingly greater, and the Principal Balance will be amortized more rapidly than scheduled.
+
+[PAGE 70]
 [TABLE_151]
  | 64 | 
 [/TABLE_151]
@@ -2856,6 +2995,8 @@ portfolio of automobile and/or light-duty truck retail installment sales contrac
 Any Receivable
 for which AHFC’s records as of the Cutoff Date indicate that the related obligor is currently in an extension period has been excluded
 from the receivables pool.
+
+[PAGE 71]
 [TABLE_152]
  | 65 | 
 [/TABLE_152]
@@ -2895,6 +3036,8 @@ score.
  | (3) | FICO scores are shown for portfolio comparative purposes only. The FICO score may not have been used in the original credit decision
 process.
 [/TABLE_154]
+
+[PAGE 72]
 66
 If the aggregate initial principal amount of the
 notes is $2,105,280,000, the receivables will possess the following characteristics as of the Cutoff Date:
@@ -2929,6 +3072,8 @@ score.
  | (3) | FICO scores are shown for portfolio comparative purposes only. The FICO score may not have been used in the original credit decision
 process.
 [/TABLE_156]
+
+[PAGE 73]
 67
 If the aggregate initial principal amount of the
 notes is $2,421,070,000, the receivables will possess the following characteristics as of the Cutoff Date:
@@ -2963,6 +3108,8 @@ score.
  | (3) | FICO scores are shown for portfolio comparative purposes only. The FICO score may not have been used in the original credit decision
 process.
 [/TABLE_158]
+
+[PAGE 74]
 68
 Distribution of the Receivables by APR as of
 the Cutoff Date
@@ -3005,6 +3152,8 @@ we do not have a FICO score.
 process.
  | (3) | Less than 0.005% but greater than zero.
 [/TABLE_160]
+
+[PAGE 75]
 69
 If the aggregate initial principal amount of the
 notes is $2,105,280,000, the distribution of the receivables by APR as of the Cutoff Date will be as follows:
@@ -3044,6 +3193,8 @@ we do not have a FICO score.
 process.
  | (3) | Less than 0.005% but greater than zero.
 [/TABLE_162]
+
+[PAGE 76]
 70
 If the aggregate initial principal amount of the
 notes is $2,421,070,000, the distribution of the receivables by APR as of the Cutoff Date will be as follows:
@@ -3083,6 +3234,8 @@ we do not have a FICO score.
 process.
  | (3) | Less than 0.005% but greater than zero.
 [/TABLE_164]
+
+[PAGE 77]
 71
 Distribution of the Receivables by Top 25 States
 as of the Cutoff Date
@@ -3128,6 +3281,8 @@ we do not have a FICO score.
  | (4) | FICO scores are shown for portfolio comparative purposes only. The FICO score may not have been used in the original credit decision
 process.
 [/TABLE_166]
+
+[PAGE 78]
 72
 If the aggregate initial principal amount of the
 notes is $2,105,280,000, the distribution of the receivables by state as of the Cutoff Date will be as follows:
@@ -3169,6 +3324,8 @@ we do not have a FICO score.
  | (4) | FICO scores are shown for portfolio comparative purposes only. The FICO score may not have been used in the original credit decision
 process.
 [/TABLE_168]
+
+[PAGE 79]
 73
 If the aggregate initial principal amount of the
 notes is $2,421,070,000, the distribution of the receivables by state as of the Cutoff Date will be as follows:
@@ -3210,6 +3367,8 @@ we do not have a FICO score.
  | (4) | FICO scores are shown for portfolio comparative purposes only. The FICO score may not have been used in the original credit decision
 process.
 [/TABLE_170]
+
+[PAGE 80]
 74
 Distribution of the Receivables by Principal
 Balance as of the Cutoff Date
@@ -3245,6 +3404,8 @@ we do not have a FICO score.
 process.
  | (4) | Less than 0.005% but greater than zero.
 [/TABLE_172]
+
+[PAGE 81]
 75
 If the aggregate initial principal amount of the
 notes is $2,105,280,000, the distribution of the receivables by principal balance as of the Cutoff Date will be as follows:
@@ -3277,6 +3438,8 @@ we do not have a FICO score.
 process.
  | (4) | Less than 0.005% but greater than zero.
 [/TABLE_174]
+
+[PAGE 82]
 76
 If the aggregate initial principal amount of the
 notes is $2,421,070,000, the distribution of the receivables by principal balance as of the Cutoff Date will be as follows:
@@ -3309,6 +3472,8 @@ we do not have a FICO score.
 process.
  | (4) | Less than 0.005% but greater than zero.
 [/TABLE_176]
+
+[PAGE 83]
 77
 Distribution of the Receivables by Original
 Amount Financed as of the Cutoff Date
@@ -3347,6 +3512,8 @@ we do not have a FICO score.
 process.
  | (4) | Less than 0.005% but greater than zero.
 [/TABLE_178]
+
+[PAGE 84]
 78
 If the aggregate initial principal amount of the
 notes is $2,105,280,000, the distribution of the receivables by original amount financed as of the Cutoff Date will be as follows:
@@ -3380,6 +3547,8 @@ we do not have a FICO score.
 process.
  | (4) | Less than 0.005% but greater than zero.
 [/TABLE_180]
+
+[PAGE 85]
 79
 If the aggregate initial principal amount of the
 notes is $2,421,070,000, the distribution of the receivables by original amount financed as of the Cutoff Date will be as follows:
@@ -3413,6 +3582,8 @@ we do not have a FICO score.
 process.
  | (4) | Less than 0.005% but greater than zero.
 [/TABLE_182]
+
+[PAGE 86]
 80
 Distribution of the Receivables by Original
 Term to Maturity as of the Cutoff Date
@@ -3455,6 +3626,8 @@ we do not have a FICO score.
  | (3) | FICO scores are shown for portfolio comparative purposes only. The FICO score may not have been used in the original credit decision
 process.
 [/TABLE_186]
+
+[PAGE 87]
 81
 If the aggregate initial principal amount of the
 notes is $2,421,070,000, the distribution of the receivables by original term to maturity as of the Cutoff Date will be as follows:
@@ -3498,6 +3671,8 @@ we do not have a FICO score.
  | (3) | FICO scores are shown for portfolio comparative purposes only. The FICO score may not have been used in the original credit decision
 process.
 [/TABLE_190]
+
+[PAGE 88]
 82
 If the aggregate initial principal amount of the
 notes is $2,105,280,000, the distribution of the receivables by remaining term to maturity as of the Cutoff Date will be as follows:
@@ -3537,6 +3712,8 @@ we do not have a FICO score.
  | (3) | FICO scores are shown for portfolio comparative purposes only. The FICO score may not have been used in the original credit decision
 process.
 [/TABLE_194]
+
+[PAGE 89]
 83
 Distribution of the Receivables by Credit Grade
 at Time of Origination as of the Cutoff Date
@@ -3585,6 +3762,8 @@ score.
  | (4) | FICO scores are shown for portfolio comparative purposes only. The FICO score may not have been used in the original credit decision
 process.
 [/TABLE_198]
+
+[PAGE 90]
 84
 If the aggregate initial principal amount of the
 notes is $2,421,070,000, the distribution of the receivables by credit grade at the time of origination as of the Cutoff Date will be
@@ -3638,6 +3817,8 @@ we do not have a FICO score.
 process.
  | (4) | Individual models in this category make up less than 1.00% of the Pool Balance as of the Cutoff Date.
 [/TABLE_202]
+
+[PAGE 91]
 85
 If the aggregate initial principal amount of the
 notes is $2,105,280,000, the distribution of the receivables by model as of the Cutoff Date will be as follows:
@@ -3703,6 +3884,8 @@ process.
 [TABLE_212]
  | (4) | Individual models in this category make up less than 1.00% of the Pool Balance as of the Cutoff Date.
 [/TABLE_212]
+
+[PAGE 92]
 86
 Third-Party Collections and Repossessions
 AHFC conducts repossessions of automobiles between
@@ -3732,6 +3915,8 @@ also used to monitor effectiveness of the agency. Operational issues or importan
 RB Center management. Annual site audits are conducted to ensure compliance of the contract and service levels. If the primary agency
 is not successful with the recovery in 180 days of placement, responsibility for the account is transferred to a secondary collection
 agency. Tertiary and quaternary agencies may also be used.
+
+[PAGE 93]
 87
 DELINQUENCIES,
 REPOSSESSIONS AND LOAN LOSS INFORMATION
@@ -3756,6 +3941,8 @@ of the receivables in specific areas may increase the risk of loss on your inves
 .” Accordingly, the delinquency, repossession
 and net loss percentages would be expected to be higher than those shown if a group of receivables were isolated at a period in time and
 the delinquency, repossession and net loss data showed the activity only for that isolated group over the periods indicated.
+
+[PAGE 94]
 88
 Delinquency Experience
 (1)(5)
@@ -3804,6 +3991,8 @@ not yet liquidated.
 [TABLE_219]
  | (5) | Totals may not add exactly due to rounding.
 [/TABLE_219]
+
+[PAGE 95]
 89
 Net Credit Loss and Repossession Experience
 (1)(4)(6)
@@ -3845,6 +4034,8 @@ of the related automobile, plus earned but not yet received finance charges, net
 [TABLE_227]
  | (6) | Totals may not add exactly due to rounding.
 [/TABLE_227]
+
+[PAGE 96]
 90
 STATIC
 POOLS
@@ -3902,6 +4093,8 @@ from the initial data tape. For each selected receivable file, 14 different data
 such receivable files conform to the applicable information on the aggregate initial data tape of 114,853 records. In addition, 10 different
 data points from the asset data file were reviewed. Of those 10 data points, 6 were compared to the receivable files, 2 were checked against
 AHFC’s system and 2 were recomputed to confirm their accuracy. If
+
+[PAGE 97]
 91
 the aggregate initial principal amount of the notes is $1,684,220,000,
 the final pool aggregate data tape containing 73,005 records included 281 of the sampled receivables files. If the aggregate initial principal
@@ -3951,6 +4144,8 @@ of the notes to purchase the Receivables from the depositor. The depositor will 
 the Receivables from AHFC pursuant to the receivables purchase agreement, and to fund the reserve fund and the yield supplement account.
 There are no other expenses incurred in connection with the selection and acquisition of the pool assets that will be payable from offering
 proceeds, nor are there any such material expenses that would be paid by a transaction party.
+
+[PAGE 98]
 92
 MATURITY
 AND PREPAYMENT CONSIDERATIONS
@@ -4006,6 +4201,8 @@ weighted average life”
 means the average amount of time during which each dollar of principal of a Receivable is outstanding. The weighted average life of the
 notes will generally be influenced by the rate at which the Principal Balances of the Receivables are paid, which payment may be in the
 form of scheduled amortization or prepayments.
+
+[PAGE 99]
 93
 Prepayments on automobile receivables can be measured
 relative to a payment standard or model. The model used in this prospectus, the Absolute Prepayment Model (“
@@ -4064,6 +4261,8 @@ have been aggregated into hypothetical pools with all of the receivables within 
 that the level scheduled monthly payment for each of the pools (which is based on the aggregate principal balance, APR, original term
 to maturity and remaining term to maturity as of the assumed cutoff date) will be such that each pool will be fully amortized by the end
 of its remaining term to maturity.
+
+[PAGE 100]
 94
 If the aggregate initial principal amount of the
 notes is $1,684,220,000:
@@ -4107,6 +4306,8 @@ provided only to give a general sense of how the principal cash flows might beha
 is very unlikely that the Receivables will prepay at a constant level of ABS until maturity or that all of the Receivables will prepay
 at the same level of ABS. Moreover, the diverse terms of receivables within each of the hypothetical pools could produce slower or faster
 principal distributions than indicated in the ABS
+
+[PAGE 101]
 95
 Table at the various constant percentages of ABS specified, even if
 the original and remaining terms to maturity of the Receivables are as assumed. Any difference between such assumptions and the actual
@@ -4176,6 +4377,8 @@ by the original principal amount of the note.
 This table has been prepared based on the assumptions herein (including
 the assumptions regarding the characteristics and performance of the Receivables, which will differ from the actual characteristics and
 performance thereof) and should be read in conjunction therewith.
+
+[PAGE 102]
 96
 Percentage of Initial Class A-1 Note Principal
 at Various ABS Percentages
@@ -4209,6 +4412,8 @@ by the original principal amount of the note.
 This table has been prepared based on the assumptions herein (including
 the assumptions regarding the characteristics and performance of the Receivables, which will differ from the actual characteristics and
 performance thereof) and should be read in conjunction therewith.
+
+[PAGE 103]
 97
 Percentage of Initial Class A-2a Note Principal
 at Various ABS Percentages
@@ -4257,6 +4462,8 @@ by the original principal amount of the note.
 This table has been prepared based on the assumptions herein (including
 the assumptions regarding the characteristics and performance of the Receivables, which will differ from the actual characteristics and
 performance thereof) and should be read in conjunction therewith.
+
+[PAGE 104]
 98
 Percentage of Initial Class A-2a Note Principal
 at Various ABS Percentages
@@ -4305,6 +4512,8 @@ by the original principal amount of the note.
 This table has been prepared based on the assumptions herein (including
 the assumptions regarding the characteristics and performance of the Receivables, which will differ from the actual characteristics and
 performance thereof) and should be read in conjunction therewith.
+
+[PAGE 105]
 99
 Percentage of Initial Class A-2a Note Principal
 at Various ABS Percentages
@@ -4353,6 +4562,8 @@ by the original principal amount of the note.
 This table has been prepared based on the assumptions herein (including
 the assumptions regarding the characteristics and performance of the Receivables, which will differ from the actual characteristics and
 performance thereof) and should be read in conjunction therewith.
+
+[PAGE 106]
 100
 Percentage of Initial Class A-2b Note Principal
 at Various ABS Percentages
@@ -4401,6 +4612,8 @@ by the original principal amount of the note.
 This table has been prepared based on the assumptions herein (including
 the assumptions regarding the characteristics and performance of the Receivables, which will differ from the actual characteristics and
 performance thereof) and should be read in conjunction therewith.
+
+[PAGE 107]
 101
 Percentage of Initial Class A-2b Note Principal
 at Various ABS Percentages
@@ -4449,6 +4662,8 @@ by the original principal amount of the note.
 This table has been prepared based on the assumptions herein (including
 the assumptions regarding the characteristics and performance of the Receivables, which will differ from the actual characteristics and
 performance thereof) and should be read in conjunction therewith.
+
+[PAGE 108]
 102
 Percentage of Initial Class A-2b Note Principal
 at Various ABS Percentages
@@ -4497,6 +4712,8 @@ by the original principal amount of the note.
 This table has been prepared based on the assumptions herein (including
 the assumptions regarding the characteristics and performance of the Receivables, which will differ from the actual characteristics and
 performance thereof) and should be read in conjunction therewith.
+
+[PAGE 109]
 103
 Percentage of Initial Class A-3 Note Principal
 at Various ABS Percentages
@@ -4569,6 +4786,8 @@ by the original principal amount of the note.
 This table has been prepared based on the assumptions herein (including
 the assumptions regarding the characteristics and performance of the Receivables, which will differ from the actual characteristics and
 performance thereof) and should be read in conjunction therewith.
+
+[PAGE 110]
 104
 Percentage of Initial Class A-3 Note Principal
 at Various ABS Percentages
@@ -4643,6 +4862,8 @@ by the original principal amount of the note.
 This table has been prepared based on the assumptions herein (including
 the assumptions regarding the characteristics and performance of the Receivables, which will differ from the actual characteristics and
 performance thereof) and should be read in conjunction therewith.
+
+[PAGE 111]
 105
 Percentage of Initial Class A-3 Note Principal
 at Various ABS Percentages
@@ -4711,6 +4932,8 @@ by the original principal amount of the note.
 This table has been prepared based on the assumptions herein (including
 the assumptions regarding the characteristics and performance of the Receivables, which will differ from the actual characteristics and
 performance thereof) and should be read in conjunction therewith.
+
+[PAGE 112]
 106
 Percentage of Initial Class A-4 Note Principal
 at Various ABS Percentages
@@ -4786,6 +5009,8 @@ by the original principal amount of the note.
 This table has been prepared based on the assumptions herein (including
 the assumptions regarding the characteristics and performance of the Receivables, which will differ from the actual characteristics and
 performance thereof) and should be read in conjunction therewith.
+
+[PAGE 113]
 107
 Percentage of Initial Class A-4 Note Principal
 at Various ABS Percentages
@@ -4861,6 +5086,8 @@ by the original principal amount of the note.
 This table has been prepared based on the assumptions herein (including
 the assumptions regarding the characteristics and performance of the Receivables, which will differ from the actual characteristics and
 performance thereof) and should be read in conjunction therewith.
+
+[PAGE 114]
 108
 Percentage of Initial Class A-4 Note Principal
 at Various ABS Percentages
@@ -4936,6 +5163,8 @@ by the original principal amount of the note.
 This table has been prepared based on the assumptions herein (including
 the assumptions regarding the characteristics and performance of the Receivables, which will differ from the actual characteristics and
 performance thereof) and should be read in conjunction therewith.
+
+[PAGE 115]
 109
 POOL
 FACTORS AND TRADING INFORMATION
@@ -4988,6 +5217,8 @@ and
 Minimum Denominations
 The notes of each class shall be issued in U.S.
 Dollars in minimum denominations of $1,000 and integral multiples of $1,000 in excess thereof.
+
+[PAGE 116]
 110
 Payments of Interest
 The class A-1 notes, class A-2a notes, class A-3
@@ -5049,6 +5280,8 @@ Interest on the floating rate notes will be calculated
 based on the SOFR Rate plus the applicable spread set forth on the cover page to this prospectus; provided that, if the sum of the
 SOFR Rate and such spread is less than 0.00% for any Interest Period, then the interest rate for the floating rate notes for such Interest
 Period will be deemed to be 0.00%.
+
+[PAGE 117]
 111
 The “
 SOFR Rate
@@ -5111,6 +5344,8 @@ All percentages resulting from any calculation
 on the class A-2b notes will be rounded to the nearest one hundred-thousandth of a percentage point, with five-millionths of a percentage
 point rounded upwards (e.g., 9.8765445% (or 0.098765445) would be rounded to 9.87655% (or 0.0987655)), and all dollar amounts used in
 or resulting from that calculation on the class A-2b notes will be rounded to the nearest cent (with one-half cent being rounded upwards).
+
+[PAGE 118]
 112
 Effect of Benchmark Transition Event
 Notwithstanding the foregoing, if the administrator
@@ -5150,6 +5385,8 @@ Benchmark Transition Event, or whether any conditions to the designation of such
 identify or designate any Benchmark Replacement Adjustment, or other modifier to any replacement or successor index or (iv) to determine
 whether or what SOFR Adjustment Conforming Changes, Benchmark Replacement Rate Conforming Changes or other amendments are necessary or
 advisable, if any, in connection with any of the foregoing.
+
+[PAGE 119]
 113
 The calculation agent shall not be liable for any
 inability, failure or delay on its part to perform any of its duties set forth in any of the transaction document as a result of the unavailability
@@ -5206,6 +5443,8 @@ principal amount of any class of notes is paid may be significantly earlier or l
 the cover of this prospectus based on a variety of factors, including the factors described under
 “Weighted Average Life of the
 Notes.”
+
+[PAGE 120]
 114
 If the principal amount of a class of notes has
 not been paid in full on or prior to the related final scheduled payment date shown on the front cover of this prospectus, the Noteholders’
@@ -5257,6 +5496,8 @@ held by the trust, any other obligor on those notes, the depositor or an affilia
 is required to direct the indenture trustee to sell or liquidate the Receivables if the proceeds of that sale would be insufficient to
 pay the principal amount of and accrued but unpaid interest on the outstanding notes;
 [/TABLE_298]
+
+[PAGE 121]
 115
 [TABLE_299]
  | · | reduce the percentage of the aggregate principal amount of notes required
@@ -5313,6 +5554,8 @@ the indenture trustee that it is a breach of the type capable of remedy within 9
 the indenture trustee or to the trust and the indenture trustee by the holders of at least 25% in principal amount of the notes then outstanding
 acting together as a single class; or
 [/TABLE_305]
+
+[PAGE 122]
 116
 [TABLE_306]
  | · | particular events of bankruptcy, insolvency, receivership or liquidation
@@ -5370,6 +5613,8 @@ subject to certain conditions set forth in the indenture following an Event of D
 on the final scheduled payment date of any note or a default for five Business Days or more in the payment of any interest on any note.
 In the case of an Event of Default not involving any such default in payment, the indenture trustee is prohibited from selling the Receivables
 unless:
+
+[PAGE 123]
 117
 [TABLE_311]
  | · | the holders of the notes then outstanding (or relevant class or classes of
@@ -5427,6 +5672,8 @@ With respect to the trust, neither the indenture
 trustee, the Delaware trustee nor the owner trustee in its individual capacity, nor any holder of a certificate representing an ownership
 interest in the trust nor any of their respective owners, beneficiaries, agents, officers, directors, employees, affiliates, successors
 or
+
+[PAGE 124]
 118
 assigns will, in the absence of an express agreement to the contrary,
 be personally liable for the payment of the principal of or interest on the notes or for the agreements of the trust contained in the
@@ -5487,6 +5734,8 @@ The trust will not, among other things,
 Agreements or other specified documents with respect to the trust, sell, transfer, exchange or otherwise dispose of any of the assets
 of the trust unless directed to do so by the indenture trustee;
 [/TABLE_326]
+
+[PAGE 125]
 119
 [TABLE_327]
  | · | claim any credit on or make any deduction from the principal of and interest
@@ -5541,6 +5790,8 @@ to this prospectus and all information presented regarding the certificates is g
 certificates will be issued pursuant to the terms of the trust agreement, a form of which has been filed as an exhibit to the registration
 statement. A copy of the final signed trust agreement will be filed with the Securities and Exchange Commission on Form 8-K on or
 prior to the date the final prospectus is required to be filed.
+
+[PAGE 126]
 120
 The certificates will evidence undivided ownership
 interests in the trust created pursuant to the trust agreement. The certificates initially will be retained by the depositor, but no assurance
@@ -5592,6 +5843,8 @@ until the class A-1, class A-2, class A-3 and class A-4 notes have been paid in 
 will be made on each Payment Date from Available Amounts after payments of the Servicing Fee, Trust Fees and Expenses, Asset Representations
 Reviewer Fees and Expenses, any Noteholders’ Interest Distributable Amount, the Noteholders’ Percentage of the Principal Distributable
 Amount (if greater than zero), and payment of interest, if any, on the certificates.
+
+[PAGE 127]
 121
 Notwithstanding the foregoing, on each Payment
 Date after the acceleration of the notes following an Event of Default, the certificates will not receive any of the Principal Distributable
@@ -5646,6 +5899,8 @@ of priority:
  | · | second , to the servicer, the Servicing Fee, including any unpaid Servicing
 Fees with respect to one or more prior Collection Periods;
 [/TABLE_343]
+
+[PAGE 128]
 122
 [TABLE_344]
  | · | third, pro rata to the trustees and the account bank, any accrued
@@ -5697,6 +5952,8 @@ The Noteholders’ Principal Distributable
 Amount will be allocated among the notes as described above under “
 The Notes—Payments of Principal
 .”
+
+[PAGE 129]
 123
 CREDIT
 ENHANCEMENT
@@ -5737,6 +5994,8 @@ If the amount on deposit in the reserve fund on any Payment Date (after giving e
 fund on that Payment Date) is greater than the Specified Reserve Fund Balance for that Payment Date, subject to limitations set forth
 in the Transfer and Servicing Agreements, the indenture trustee will distribute any excess amounts remaining thereafter to the depositor.
 The noteholders will not have any rights in, or claims to, amounts distributed to the certificateholders or to the depositor.
+
+[PAGE 130]
 124
 The servicer may, from time to time after the date
 of this prospectus, notify each Rating Agency that it wishes to apply a formula for determining the Specified Reserve Fund Balance that
@@ -5784,6 +6043,8 @@ interest released from the collection account to the depositor will no longer be
 The depositor’s right to receive this excess interest is subordinated to the payment of servicing fees and other trust and asset
 representations reviewer fees, expenses and indemnities to the extent not previously paid by AHFC (which, with respect to (i) trust
 fees,
+
+[PAGE 131]
 125
 expenses and indemnities, shall not exceed $100,000 per annum and (ii) asset
 representations reviewer fees, expenses and indemnities, shall not exceed $150,000 per annum (which we refer to as “
@@ -5842,6 +6103,8 @@ reports and statements to Cede, as the registered holder of the notes, for distr
 Therefore, it is anticipated that the only noteholder will be Cede, as nominee of DTC. Noteholders will not be recognized by the indenture
 trustee as noteholders as that term will be used in the relevant agreements, and noteholders will only be permitted to exercise the rights
 of holders of notes of the related class indirectly through DTC and DTC Participants, as further described below.
+
+[PAGE 132]
 126
 Transfers between DTC Participants will occur in
 accordance with DTC rules. Transfers between Clearstream Participants will occur in accordance with Clearstream rules and operating
@@ -5883,6 +6146,8 @@ To facilitate subsequent transfers, all notes deposited
 by DTC Participants with DTC will be registered in the name of Cede, as nominee of DTC. The deposit of notes with DTC and their registration
 in the name of Cede will effect no change in beneficial ownership. DTC will have no knowledge of the actual noteholders and its records
 will reflect only the identity of the DTC Participants to whose accounts those
+
+[PAGE 133]
 127
 notes are credited, which may or may not be the noteholders. DTC Participants
 and Indirect DTC Participants will remain responsible for keeping account of their holdings on behalf of their customers. While the notes
@@ -5926,6 +6191,8 @@ Clearstream
 is a duly licensed bank organized
 as a limited liability company (a société anonyme) incorporated under the laws of the Grand Duchy of Luxembourg as a professional
 depositary. Clearstream holds securities for Clearstream Participants and facilitates the clearance and settlement of securities
+
+[PAGE 134]
 128
 transactions between Clearstream Participants through electronic book-entry
 changes in Clearstream accounts of Clearstream Participants, thereby eliminating the need for physical movement of certificates. For transactions
@@ -5972,6 +6239,8 @@ to the book-entry notes, holders representing at least a majority of the outstan
 a single class, advise the indenture trustee and the clearing agency participants through DTC in writing that the continuation of a book-entry
 system through DTC (or a successor thereto) with respect to those notes is no longer in the best interests of the holders of those notes.
 [/TABLE_356]
+
+[PAGE 135]
 129
 Upon the occurrence of any event described in the
 immediately preceding paragraph of which a responsible officer of the indenture trustee has actual knowledge, the indenture trustee will
@@ -6013,6 +6282,8 @@ by the indenture trustee. The owner trustee or indenture trustee, as applicable,
 on behalf of the trust, execute and deliver the notes and certificates. The net proceeds received from the sale of the notes will be applied
 to the purchase of the Receivables from the depositor and to make the required initial deposit into the reserve fund and the yield supplement
 account. The depositor will initially retain the certificates.
+
+[PAGE 136]
 130
 The originator will represent and warrant, among
 other things, that:
@@ -6064,6 +6335,8 @@ will remain in the servicer’s possession and control and will not be stamped o
 indenture trustee, if a subsequent purchaser were able to take physical possession or control of the Receivables in connection with a
 purchase in good faith in the ordinary course of its business, for new value and without knowledge that its purchase violates the rights
 of the trust, the trust’s interest in the Receivables could be defeated. In addition, in some cases,
+
+[PAGE 137]
 131
 the indenture trustee’s security interest in collections that
 have been received by the servicer but not yet remitted to the collection account could be defeated. We refer you to
@@ -6126,6 +6399,8 @@ to the multiple used for calculating expected cumulative net losses before the n
 Trigger has been set at a level in excess of the historical peak Delinquency Trigger to assure that the Delinquency Trigger is not breached
 due to ordinary fluctuations in the economy. The following chart shows the monthly percentages of receivables more than 60 days delinquent
 in AHFC’s prior securitized pools.
+
+[PAGE 138]
 132
 “
 Subject Receivables
@@ -6154,6 +6429,8 @@ If any of the Instituting Noteholders is not a record holder as reflected on the
 the indenture trustee may require no more verification than (1) a written certification from the noteholder that it is a beneficial
 owner of a specified principal amount of the Notes and (2) an additional form of documentation, such as a trade confirmation, an
 account statement, a letter from the broker or dealer or other similar document.
+
+[PAGE 139]
 133
 Any such vote will be (i) initiated no later
 than 90 days from the date on which a Form 10-D was filed which included a notification to Investors that the Delinquency Percentage
@@ -6204,6 +6481,8 @@ Review Expenses
 Expenses, subject to the limits set forth under “
 Payments on the Notes—Payment of Distributable Amounts
 .”
+
+[PAGE 140]
 134
 Asset Review
 The asset representations reviewer will perform
@@ -6253,6 +6532,8 @@ of the request by the originator, the requesting party may refer the matter, at 
 or binding arbitration. The requesting party will be required to provide notice of its intention to refer the matter to mediation, non-binding
 arbitration or binding arbitration, as applicable, to the originator, with a copy to the issuing entity, the depositor, the owner trustee
 and the indenture trustee.
+
+[PAGE 141]
 135
 If the requesting party selects mediation, the
 mediation will be administered by a nationally recognized arbitration and mediation association selected by the requesting party. The
@@ -6306,6 +6587,8 @@ at any time may be less than the balance of the reserve fund or the yield supple
 to be withdrawn from the reserve fund or yield supplement account to cover shortfalls in collections on the Receivables exceeds the amount
 of cash in the reserve fund or the yield supplement account, as the case may be, a temporary shortfall in the amounts paid to the noteholders
 or
+
+[PAGE 142]
 136
 certificateholders could result, which could, in turn, increase the
 average life of the notes or the certificates. Investment earnings on funds deposited in the Accounts, net of losses and investment expenses,
@@ -6347,6 +6630,8 @@ servicing and administrative duties under the sale and servicing agreement.
 The servicer will make reasonable efforts to collect
 all payments due with respect to the Receivables held by the trust and will, consistent with the sale and servicing agreement, follow
 the collection procedures it follows with respect to comparable automobile receivables it services for itself and others.
+
+[PAGE 143]
 137
 The servicer will be authorized to grant certain
 rebates, adjustments or extensions with respect to a Receivable without the prior consent of the trust. However, if any modification of
@@ -6398,6 +6683,8 @@ Base Servicing Fee
 ”) for
 each Collection Period. The Base Servicing Fee (together with any portion of the Base Servicing Fee that remains unpaid from prior Payment
 Dates) will be paid solely to the extent of amounts available for that purpose as set forth in this prospectus.
+
+[PAGE 144]
 138
 The servicer will also be entitled to collect and
 retain any late fees, prepayment charges and other administrative fees or similar charges allowed by applicable law with respect to the
@@ -6442,6 +6729,8 @@ which such payment is received. Payments made by check or electronic debit are d
 payments, including prepayments in full, are deposited into another account. Funds on deposit in these accounts are transferred to a separate
 operating account from which all sums representing payments on the related Receivables are remitted to the related collection account
 on a monthly basis.
+
+[PAGE 145]
 139
 The servicer will deposit all payments on Receivables
 received from Obligors and all proceeds of Receivables collected during each Collection Period, net of certain amounts permitted to be
@@ -6484,6 +6773,8 @@ and administrative features that are designed to: (i) designate a single copy of
 as being the single authoritative copy of the Receivable; (ii) manage access to and the expression of the authoritative copy; (iii) identify
 AHFC as the owner of record of the authoritative copy; and (iv) provide a means for transferring record ownership of, and the exclusive
 right of access to, the authoritative copy from the current owner of record to a successor owner of record.
+
+[PAGE 146]
 140
 Advances
 If the Scheduled Payment due on a Receivable (other
@@ -6529,6 +6820,8 @@ notes and to the Certificate Balance of the certificates;
 the close of business on the first day and last day of the related Collection Period after giving effect to payments allocated to principal
 reported under the immediately preceding bullet point;
 [/TABLE_375]
+
+[PAGE 147]
 141
 [TABLE_376]
  | · | the outstanding principal amount of each class of notes and the Note Pool
@@ -6593,6 +6886,8 @@ and Servicing Agreements, the name and contact information for the requesting no
 with respect to an asset representations review (which shall be filed on Form 10-D) to determine whether the asset representations
 reviewer will conduct an asset representations review;
 [/TABLE_391]
+
+[PAGE 148]
 142
 [TABLE_392]
  | · | whether and when the requisite percentage of Investors have voted to direct
@@ -6647,6 +6942,8 @@ with other Investors with regard to the possible exercise of rights under the Tr
 method other Investors may use to contact the requesting Investor.
 The servicer will bear any costs associated with
 including the above information in the Form 10-D.
+
+[PAGE 149]
 143
 List of Noteholders
 Three or more holders of the notes of any class
@@ -6688,6 +6985,8 @@ may be obtained by any noteholder or certificateholder by a request in writing a
 the case may be, at the related corporate trust office. So long as the depositor is filing any reports with respect to the trust under
 the Securities Exchange Act of 1934, as amended, an annual report on Form 10-K will be filed with the SEC within 90 days after the
 end of each fiscal year of the trust. The annual report will contain the statements, certificates and reports disclosed above.
+
+[PAGE 150]
 144
 Certain Matters Regarding the Servicer
 The sale and servicing agreement will provide that
@@ -6733,6 +7032,8 @@ the class of notes then outstanding; and
 [TABLE_398]
  | · | the occurrence of an Insolvency Event with respect to the servicer;
 [/TABLE_398]
+
+[PAGE 151]
 145
 provided, however
 , that (A) if
@@ -6772,6 +7073,8 @@ may waive any default by the servicer in the performance of its obligations unde
 except a Servicer Default in making any required deposits to the collection account in accordance with the sale and servicing agreement.
 No waiver will impair those noteholders’ or certificateholders’ rights with respect to subsequent defaults, except to the
 extent expressly waived.
+
+[PAGE 152]
 146
 Amendment
 Each of the Transfer and Servicing Agreements (other
@@ -6820,6 +7123,8 @@ list of all certificateholders maintained by the owner trustee for the purpose o
 to their rights under the trust agreement or under those certificates.
 No Transfer and Servicing Agreement will provide
 for the holding of annual or other meetings of securityholders.
+
+[PAGE 153]
 147
 Insolvency Event
 The trust agreement will provide that the owner
@@ -6865,6 +7170,8 @@ The owner trustee and indenture trustee will give
 written notice of termination to each securityholder. Upon termination of the trust, the assets of the trust will be liquidated and the
 proceeds from any liquidation (and amounts held in the Accounts) will be applied to pay the notes and the certificates in full, to the
 extent of amounts available.
+
+[PAGE 154]
 148
 Administration Agreement
 AHFC, in its capacity as administrator, will enter
@@ -6911,6 +7218,8 @@ For a discussion of the amendment provisions of
 the administration agreement, see “
 —Amendment”
 above.
+
+[PAGE 155]
 149
 Duties of the Owner Trustee, the Delaware Trustee and the Indenture
 Trustee
@@ -6956,6 +7265,8 @@ The Notes—The Indenture.
 The indenture trustee shall not be charged with
 actual or constructive knowledge of a failure by the servicer to perform its duties under the trust agreement, the sale and servicing
 agreement or the administration agreement which failure constitutes an Event of Default or Servicer Default, or of any breach
+
+[PAGE 156]
 150
 of the originator’s representations and warranties regarding
 the receivables, unless a responsible officer of the indenture trustee obtains actual knowledge or written notice of the failure as specified
@@ -6995,6 +7306,8 @@ to act or becomes insolvent. Under such circumstance, the administrator will be 
 resignation or removal of the owner trustee or the indenture trustee and appointment of a successor thereto will not become effective
 until acceptance of the appointment by the successor. All reasonable costs and expenses incurred in connection with the resignation or
 removal of a trustee and the appointment of a successor trustee shall be paid by the administrator.
+
+[PAGE 157]
 151
 The depositor (or the administrator on its behalf)
 will be obligated to pay the fees of the owner trustee, the Delaware trustee and the indenture trustee in connection with their duties
@@ -7037,6 +7350,8 @@ Each of the owner trustee, the Delaware trustee
 and the indenture trustee has represented to the sponsor, the depositor and the trust that, other than as disclosed in this prospectus,
 it is not a party to any current legal or governmental proceedings, nor is its management aware of any legal or governmental proceedings
 threatened against it that, if determined adversely to such party, would be expected to be material to holders of any notes or certificates.
+
+[PAGE 158]
 152
 CERTAIN
 LEGAL ASPECTS OF THE RECEIVABLES
@@ -7080,6 +7395,8 @@ authorities. In addition, as stated above, the servicer will continue to hold an
 in its possession as custodian for the trust pursuant to the sale and servicing agreement. We refer you to
 “Description of the
 Transfer and Servicing Agreements—Sale and Assignment of Receivables; Representations and Warranties.”
+
+[PAGE 159]
 153
 AHFC typically takes physical possession (or, in
 the case of electronic records or chattel paper, control) of the authoritative copies of the records evidencing those Receivables or electronic
@@ -7124,6 +7441,8 @@ contract to surrender possession of the certificate of title. In the case of aut
 of a lien on the certificate of title but not possession by the secured party (such as Texas), the secured party would receive notice
 of surrender from the state of re-registration if the security interest is noted on the certificate of title. Thus, the secured party
 would have the opportunity to re-perfect its security interest in the vehicle in the state of relocation.
+
+[PAGE 160]
 154
 However, these procedural safeguards will not protect
 the secured party if through fraud, forgery or administrative error, the Obligor somehow procures a new certificate of title that does
@@ -7168,6 +7487,8 @@ collateral prior to actual sale or other disposition by paying the secured party
 interest on the obligation plus reasonable expenses for repossessing, holding and preparing the collateral for disposition and arranging
 for its sale, plus, in some jurisdictions, reasonable attorneys’ fees. In some states, an Obligor has the right to redeem the collateral
 prior to actual sale by payment of delinquent installments or the unpaid balance.
+
+[PAGE 161]
 155
 Deficiency Judgments and Excess Proceeds
 The proceeds of resale of automobiles generally
@@ -7214,6 +7535,8 @@ or
 [TABLE_413]
  | · | an attempt were to be made to litigate any of the foregoing issues.
 [/TABLE_413]
+
+[PAGE 162]
 156
 On the Closing Date, counsel to the depositor will
 give an opinion to the effect that, based on a reasoned analysis of analogous case law (although there is no precedent based on directly
@@ -7258,6 +7581,8 @@ orders impacting the operations of federal agencies are being issued (with uncer
 of their implementation), and reductions of personnel are occurring across federal agencies (including the CFPB).  Many of the current
 U.S. administration’s executive orders are being challenged in court, with initial requests for injunctions being granted, denied,
 or extended, and the ultimate resolution of the legality of the executive
+
+[PAGE 163]
 157
 orders is expected to take an extended period of time.  Further,
 in pending litigation challenges to rules, federal agencies have sought to suspend or dismiss the litigation in some cases, and in other
@@ -7304,6 +7629,8 @@ the depositor, as applicable, is in default or in danger of default, (b) appoint
 would avoid or mitigate serious adverse effects on the financial stability or economic conditions of the United States and (c) such
 appointment would facilitate the orderly liquidation of AHFC. Moreover, the trust will own a relatively small amount of the Receivables
 originated and serviced by AHFC and the trust and the depositor will be structured as a
+
+[PAGE 164]
 158
 separate legal entity from AHFC and other trusts sponsored by AHFC.
 Notwithstanding the foregoing, because of the novelty of the Dodd-Frank Act and the OLA provisions, the uncertainty of the Secretary of
@@ -7348,6 +7675,8 @@ damages,” which claim would be no less than the amount lent plus interest accr
 addition, to the extent that the value of the collateral securing the loan exceeds such amount, the purchaser would also have a claim
 for any interest that accrued after such appointment at least through the date of repudiation or disaffirmance.  In addition, even
 if
+
+[PAGE 165]
 159
 the FDIC were to unsuccessfully challenge that the transfers were not
 legal true sales or that the FDIC would not repudiate a legal true sale, noteholders could suffer delays in the payments on their notes.
@@ -7393,6 +7722,8 @@ laws and related regulations impose substantial requirements upon lenders and se
 regarding the adequate disclosure of contract terms and limitations on contract terms, collection practices and creditor remedies. These
 laws include the Truth-in-Lending Act and Regulation Z, the Equal Credit Opportunity Act and Regulation B, the Federal Trade Commission
 Act, the Fair Credit Billing Act, the Fair Credit
+
+[PAGE 166]
 160
 Reporting Act and Regulation V, the Fair Debt Collection
 Practices Act and Regulation F, the Magnuson-Moss Warranty Act, the Gramm-Leach-Bliley Act, the Servicemembers Civil Relief Act, as
@@ -7443,6 +7774,8 @@ obligation of the originator to repurchase the Receivable unless the breach is c
 “Description of the Transfer
 and Servicing Agreements—Sale and Assignment of Receivables; Representations and Warranties”
 in this prospectus.
+
+[PAGE 167]
 161
 Courts have applied general equitable principles
 to secured parties pursuing repossession and litigation involving deficiency balances. These equitable principles may have the effect
@@ -7485,6 +7818,8 @@ property may not be rescinded or terminated by the originator or its transferee 
 or during that person’s military service, nor may the property be repossessed for such breach without a court order. In addition,
 the Relief Act and the laws of some states, including California, New York and New Jersey, impose limitations that would impair the ability
 of the servicer to repossess the related
+
+[PAGE 168]
 162
 Financed Vehicle during the Obligor’s period of active duty status
 and a period of time after active duty. Thus, if that Receivable goes into default, there may be delays and losses occasioned by the inability
@@ -7534,6 +7869,8 @@ to holders subject to special treatment under the U.S. federal income tax laws, 
 [TABLE_417]
  | · | tax-exempt organizations;
 [/TABLE_417]
+
+[PAGE 169]
 163
 [TABLE_418]
  | · | mutual funds;
@@ -7599,6 +7936,8 @@ effect) of such expanded group or (iv) a disregarded entity owned directly or in
 Holders should be aware that, as of the closing date, no transaction closely comparable to that contemplated herein has been the subject
 of any judicial decision, Treasury Regulation or IRS revenue ruling. Although special tax counsel to the trust will issue tax opinions
 to the effect described above, the IRS may successfully take a contrary position, and the
+
+[PAGE 170]
 164
 tax opinions are not binding on the IRS or on any court. The Holders
 will be deemed to agree, by their purchase of the notes, to treat the notes (other than notes beneficially owned by the trust or a person
@@ -7646,6 +7985,8 @@ of notes multiplied by its weighted average life to maturity) of original issue 
 OID
 ”). If a class of notes
 offered hereunder is in fact
+
+[PAGE 171]
 165
 issued at a greater than
 de minimis
@@ -7706,6 +8047,8 @@ include OID income on the note as it accrues will instead include the OID accrue
 at maturity and upon a sale or exchange of the note. Such holder would be required to defer deductions for any interest expense on an
 obligation incurred to purchase or carry the note to the extent it exceeds the sum of any interest income and OID accrued on such note.
 However, the holder may elect to include OID in income as
+
+[PAGE 172]
 166
 it accrues on all obligations having a maturity of one year or less
 that are held by the owner in that taxable year or thereafter, in which case the deferral rule of the preceding sentence will not
@@ -7763,6 +8106,8 @@ elect to include in gross income all interest that accrues on a note using the c
 —Original Issue Discount
 ,” with modifications described below. For purposes of this election, interest includes
 stated interest,
+
+[PAGE 173]
 167
 acquisition discount, OID,
 de minimis
@@ -7815,6 +8160,8 @@ the depositor is a “related person” within the meaning of the Code;
 Non-U.S. Holder is not a bank receiving interest described in Section 881(c)(3)(A) of the Code;
 3.            the
 interest is not contingent interest described in Section 871(h)(4) of the Code; and
+
+[PAGE 174]
 168
 4.            the
 Non-U.S. Holder does not bear specified relationships to any certificateholder.
@@ -7858,6 +8205,8 @@ of property producing such payments (e.g. notes). Notwithstanding the foregoing,
 that eliminate withholding on payments from such dispositions of such property. Pursuant to these proposed Treasury Regulations, the trust
 and any withholding agent may rely on this change to FATCA withholding until the final Treasury Regulations are issued. Holders should
 consult their own tax advisers on how these rules may apply to payments they receive under the notes.
+
+[PAGE 175]
 169
 Backup Withholding and Information Reporting
 U.S. Holders.
@@ -7908,6 +8257,8 @@ is made by a payor that is, for U.S. federal income tax purposes,
 [TABLE_439]
  | · | a controlled foreign corporation;
 [/TABLE_439]
+
+[PAGE 176]
 170
 [TABLE_440]
  | · | a U.S. branch of a foreign bank or foreign insurance company;
@@ -7955,6 +8306,8 @@ are not treated as “guaranteed payments”, note that U.S. Holders would be ta
 distributions are made to them. An individual U.S. Holder is not entitled to deduct his or her share of partnership expenses that are
 miscellaneous itemized deductions. To the extent the partnership expenses are treated as allocable to a trade or business, the amount
 or value of interest expense deductions available to the partners of the partnership
+
+[PAGE 177]
 171
 with respect to the partnership’s interest expense may be limited
 under the application of the limitation on deduction for interest rule of Section 163(j) of the Code. Any income allocated
@@ -7996,6 +8349,8 @@ consult with their tax advisors regarding the state and local tax treatment of a
 for them of purchasing, holding and disposing of notes. Certain states have also recently enacted partnership audit rules that correspond
 to the audit rules that now apply to partnerships for U.S. federal income tax purposes, and similar considerations apply to those
 state partnership audit rules as apply to the current federal partnership audit rules.
+
+[PAGE 178]
 172
 The federal and state tax discussions set forth
 above are included for general information only and may not be applicable depending upon your particular tax situation. It is suggested
@@ -8049,6 +8404,8 @@ treated as an equity interest for purposes of the Regulation, the acquisition, h
 Plan Investor could be considered to give rise to a prohibited transaction if the trust, servicer, administrator, owner trustee, Delaware
 trustee, indenture trustee, depositor, underwriters or any of their affiliates is or becomes a party in interest or a disqualified person
 with respect to such Benefit Plan Investor. In such case, certain exemptions
+
+[PAGE 179]
 173
 from the prohibited transaction rules could be applicable to the
 acquisition, holding and disposition of the notes by a Benefit Plan Investor depending on the type and circumstances of the plan fiduciary
@@ -8093,6 +8450,8 @@ that either (i) it is not acquiring and will not hold the note (or interest ther
 a Plan that is subject to Similar Law; or (ii) the acquisition, holding or disposition of the note (or interest therein) will not
 give rise to, in the case of a Benefit Plan Investor, a nonexempt prohibited transaction under Section 406 of ERISA or Section 4975
 of the Code or, in the case of a Plan that is subject to Similar Law, a violation of Similar Law.
+
+[PAGE 180]
 174
 Prospective Plan investors should consult with
 their legal advisors concerning the impact of ERISA and Section 4975 of the Code or any other Similar Law, the effect of the assets
@@ -8131,6 +8490,8 @@ UNDERWRITING
 Subject to the terms and conditions set forth in
 the underwriting agreement, the depositor has agreed to cause the trust to sell to the underwriters named below, and the underwriters
 have agreed to purchase, the principal amount of notes set forth below:
+
+[PAGE 181]
 175
 [TABLE_443]
 Underwriters |  | Class A-1 Notes (1) |  | Class A-2a Notes (1) |  | Class A-2b Notes (1) |  | Class A-3 Notes (1) |  | Class A-4 Notes (1) | 
@@ -8178,6 +8539,8 @@ that market-making may be discontinued at any time without notice at the sole di
 can be given as to the liquidity of, or trading markets for, the notes of any class.
 The trust may, from time to time, invest funds
 in the accounts in eligible investments acquired from the underwriters in the ordinary coverage of business.
+
+[PAGE 182]
 176
 The underwriters have advised the depositor that,
 pursuant to Regulation M under the Securities Exchange Act of 1934, as amended, specified persons participating in this offering may engage
@@ -8224,6 +8587,8 @@ engage in investment activity (within the meaning of Section 21 of the Financial
 FSMA
 ”))
 received by it in connection with the issue or sale of any notes in
+
+[PAGE 183]
 177
 circumstances in which Section 21(1) of the FSMA
 does not apply to the issuing entity or the depositor; and
@@ -8269,6 +8634,8 @@ be delivered by Mayer Brown LLP, certain legal matters relating to California la
 depositor and the trust will be passed upon by Fennemore Craig and Richards, Layton & Finger, P.A., respectively, and legal matters
 relating to U.S. federal income tax and California income tax will be passed upon for the trust by Mayer Brown LLP. Morgan, Lewis &
 Bockius LLP will act as counsel to the underwriters.
+
+[PAGE 184]
 178
 GLOSSARY
 “
@@ -8367,6 +8734,8 @@ related Collection Period (which shall be calculated in accordance with the simp
  | · | all collections on or in respect of the Receivables other than Defaulted
 Receivables;
 [/TABLE_449]
+
+[PAGE 185]
 179
 [TABLE_450]
  | · | all Net Liquidation Proceeds;
@@ -8428,6 +8797,8 @@ adjustment (which may be a positive or negative value or zero), or method for ca
 has been selected or recommended by the Relevant Governmental Body for the applicable Unadjusted Benchmark Replacement;
 (2) if the
 applicable Unadjusted Benchmark Replacement is equivalent to the ISDA Fallback Rate, the ISDA Fallback Adjustment; or
+
+[PAGE 186]
 180
 (3) the spread
 adjustment (which may be a positive or negative value or zero) that has been selected by the administrator giving due consideration to
@@ -8475,6 +8846,8 @@ or an entity with similar insolvency or resolution authority over the administra
 of the Benchmark (or such component) has ceased or will cease to provide the Benchmark (or such component) permanently or indefinitely,
 provided that, at the time of such statement or publication, there is no successor administrator that will continue to provide the Benchmark
 (or such component); or
+
+[PAGE 187]
 181
 (3) a public statement or publication
 of information by the regulatory supervisor for the administrator of the Benchmark announcing that the Benchmark is no longer representative.
@@ -8545,6 +8918,8 @@ Shortfall
 ” means, with respect to any Payment Date, the excess of the Certificateholders’ Monthly Principal Distributable
 Amount plus any outstanding Certificateholders’ Principal Carryover Shortfall for the preceding Payment Date, over the amount in
 respect of principal that is actually distributed to the certificateholders on that Payment Date.
+
+[PAGE 188]
 182
 “
 Certificateholders’ Principal Distributable
@@ -8638,6 +9013,8 @@ Deposit Date
  “
 Credit Enhancement—Yield Supplement Account
 .”
+
+[PAGE 189]
 183
 “
 Depositaries
@@ -8723,6 +9100,8 @@ Excess Payment
 under “
 Description of the Transfer and Servicing Agreements—Collections
 .”
+
+[PAGE 190]
 184
 “
 FDIC
@@ -8813,6 +9192,8 @@ Instituting Noteholders
 defined under “
 Description of the Transfer and Servicing Agreements—Asset Representations Review
 .”
+
+[PAGE 191]
 185
 “
 Interest Period
@@ -8888,6 +9269,8 @@ Noteholders’ Distributable Amount
 ”
 means with respect to any Payment Date, the sum of the Noteholders’ Interest Distributable Amount for all classes of notes plus
 the Noteholders’ Principal Distributable Amount for that Payment Date.
+
+[PAGE 192]
 186
 “
 Noteholders’ Interest Carryover
@@ -8963,6 +9346,8 @@ Legal Aspects of the Receivables—Dodd-Frank Act Orderly Liquidation Authority 
 Pass Through Rate
 ” means, for
 the certificates and each Payment Date, 0.00% per annum.
+
+[PAGE 193]
 187
 “
 Payment Date
@@ -9043,6 +9428,8 @@ and unpaid interest on the notes, as defined under “
 Description of the Transfer and Servicing Agreements—Termination; Optional
 Redemption.
 ”
+
+[PAGE 194]
 188
 “
 Regulation AB
@@ -9134,6 +9521,8 @@ Terms and Conditions
 under “
 Certain Information Regarding the Securities—Book-Entry Registration
 .”
+
+[PAGE 195]
 189
 “
 TIA
@@ -9206,6 +9595,8 @@ Warranty Purchase Payment
 ”
 means with respect to a Receivable, an amount equal to its unpaid Principal Balance, plus interest thereon at a rate equal to the APR
 to the last day of the collection period relating to the repurchase.
+
+[PAGE 196]
 190
 “
 Warranty Receivable
@@ -9229,6 +9620,8 @@ Yield Supplement Withdrawal Amount
 means the lesser of (1) the amount on deposit in the yield supplement account and (2) the sum of (A) the Yield Supplement
 Amount, and (B) after giving effect to the withdrawal of the Yield Supplement Amount, the amount by which the amount on deposit in
 the yield supplement account exceeds the maximum amount required to be on deposit therein on the immediately succeeding Payment Date.
+
+[PAGE 197]
 191
 ANNEX
 A
@@ -9282,6 +9675,8 @@ Trading between DTC Participants.
 Secondary
 market trading between DTC Participants will be settled using the procedures applicable to prior asset-backed securities issues in same-day
 funds.
+
+[PAGE 198]
 Annex A-
 1
 Trading between DTC Depositor
@@ -9330,6 +9725,8 @@ of credit with its respective clearing system and elect to be in debt in anticip
 the back valuation will extinguish any overdraft incurred over that one-day period. If settlement is not completed on the intended value
 date, i.e., the trade fails, receipt of the cash proceeds in the Clearstream Participant’s account would instead be valued as of
 the actual settlement date.
+
+[PAGE 199]
 Annex A-
 2
 Finally, day traders that
@@ -9378,6 +9775,8 @@ A Non-U.S. Person (other than an intermediary, withholding
 partnership or withholding trust) may claim an exemption from U.S. withholding on income effectively connected with the conduct of a trade
 or business in the United States by providing Form W-8ECI (Certificate of Foreign Person’s Claim That Income Is Effectively
 Connected With the Conduct of a Trade or Business in the United States). The Form W-8ECI is valid for a period beginning on
+
+[PAGE 200]
 Annex A-
 3
 the date that the form is signed and ending on
@@ -9411,9 +9810,13 @@ There may ultimately be additional certification
 requirements imposed to avoid withholding under the Foreign Account Tax Compliance Act provisions.
 See “Material U.S. Federal
 Income Tax Considerations—Foreign Account Tax Compliance.”
+
+[PAGE 201]
 Annex A-
 4
 [THIS PAGE INTENTIONALLY LEFT BLANK.]
+
+[PAGE 202]
 HONDA AUTO RECEIVABLES 2025-4 OWNER TRUST
 Issuing Entity
 If the aggregate initial principal amount of notes

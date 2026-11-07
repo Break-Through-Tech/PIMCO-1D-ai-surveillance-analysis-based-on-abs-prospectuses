@@ -1,3 +1,4 @@
+[PAGE 1]
 Filed pursuant to Rule 424(h)
 Registration Statement Nos. 333-258040 and 333-258040-11
 This prospectus is not complete and may
@@ -118,6 +119,8 @@ The date of this prospectus
 is November
 ●
 , 2024
+
+[PAGE 2]
 TABLE OF CONTENTS
 [TABLE_15]
 Reading this Prospectus |  | 3
@@ -228,6 +231,8 @@ Incorporation of Documents by Reference |  | 141
 Index of Defined Terms |  | 143
 Annex A: Static Pool Information — Prior Securitized Pools |  | A-1
 [/TABLE_16]
+
+[PAGE 3]
 [TABLE_17]
  | 2 | 
 [/TABLE_17]
@@ -303,6 +308,8 @@ ACT 2000 (AS AMENDED, THE
 ) and any rules or regulations made under
 the FSMA to implement
 DIRECTIVE (EU) 2016/97 (AS AMENDED, KNOWN AS THE "INSURANCE
+
+[PAGE 4]
 [TABLE_21]
  | 3 | 
 [/TABLE_21]
@@ -352,6 +359,8 @@ INFORMATION DOCUMENT REQUIRED BY REGULATION (EU) NO 1286/2014 (AS AMENDED, THE "
 THE NOTES OR OTHERWISE MAKING THEM AVAILABLE TO RETAIL INVESTORS IN THE EEA HAS BEEN PREPARED AND THEREFORE OFFERING OR SELLING THE NOTES
 OR OTHERWISE MAKING THEM AVAILABLE TO ANY RETAIL INVESTOR IN THE EEA MAY BE UNLAWFUL UNDER THE PRIIPS REGULATION
 .
+
+[PAGE 5]
 [TABLE_22]
  | 4 | 
 [/TABLE_22]
@@ -409,6 +418,8 @@ Subordination."
  | (8) | The residual interest will be held initially by the depositor and represents the right to all funds not needed to make required payments
 on the notes, pay fees and expenses of the trust or make deposits in the reserve account.
 [/TABLE_31]
+
+[PAGE 6]
 [TABLE_32]
  | 5 | 
 [/TABLE_32]
@@ -438,6 +449,8 @@ is reached.
  | (4) | Overcollateralization is the amount by which the pool balance or the adjusted pool balance exceeds the principal amount of the notes.
 Initially, overcollateralization for the notes will be approximately zero on an adjusted pool balance basis.
 [/TABLE_36]
+
+[PAGE 7]
 [TABLE_37]
  | 6 | 
 [/TABLE_37]
@@ -448,6 +461,8 @@ on each payment date. The priority of payments shown in this diagram will apply 
 under the Indenture. You should read this prospectus completely, including "Description of the Notes — Priority of Payments"
 and "Description of the Notes — Post-Acceleration Priority of Payments," for more details about the priority of payments
 for the notes.
+
+[PAGE 8]
 [TABLE_38]
  | 7 | 
 [/TABLE_38]
@@ -457,6 +472,8 @@ This diagram shows the role of each transaction
 party and each transaction document in this securitization transaction. You should read this prospectus completely, including "Transaction
 Parties," "Receivables," "Description of the Notes" and "Servicing," for more details about the roles
 of each transaction party and each transaction document in this securitization transaction.
+
+[PAGE 9]
 [TABLE_39]
  | 8 | 
 [/TABLE_39]
@@ -538,6 +555,8 @@ Benchmark Rate; Benchmark Transition Event ."
 [TABLE_45]
  | (5) | The Class C notes are not being offered by this prospectus.
 [/TABLE_45]
+
+[PAGE 10]
 [TABLE_46]
  | 9 | 
 [/TABLE_46]
@@ -608,6 +627,8 @@ cutoff date,
  | · | proceeds from claims on insurance policies covering the financed vehicles
 or the obligors,
 [/TABLE_50]
+
+[PAGE 11]
 [TABLE_51]
  | 10 | 
 [/TABLE_51]
@@ -691,6 +712,8 @@ Priority of Payments
 On each payment date, the indenture trustee will use available funds
 for the related collection period to make payments in the order of priority listed below. Available funds will consist primarily of collections
 on the receivables. This priority will
+
+[PAGE 12]
 [TABLE_56]
  | 11 | 
 [/TABLE_56]
@@ -773,6 +796,8 @@ breaches a representation in any material respect that is not corrected within a
 [/TABLE_72]
 If an event of default occurs, other than because of a bankruptcy or
 dissolution of the trust, the indenture trustee or a majority of the controlling class may accelerate the notes and declare them
+
+[PAGE 13]
 [TABLE_73]
  | 12 | 
 [/TABLE_73]
@@ -828,6 +853,8 @@ For more details
 about
 the priority of payments, including changes to the priority after an event of default and acceleration of the notes, you should read "Description
 of the Notes — Priority of Payments," "Description of the Notes — Post-
+
+[PAGE 14]
 [TABLE_74]
  | 13 | 
 [/TABLE_74]
@@ -878,6 +905,8 @@ interest on the notes and any required deposits in the reserve account. Any exce
 of available funds, to pay principal of the Class A-1 notes until paid in full and then to pay principal of the most senior class
 of notes to the extent necessary to reach the targeted overcollateralization amount. In general, excess spread provides a source of funds
 to offset losses on the receivables.
+
+[PAGE 15]
 [TABLE_75]
  | 14 | 
 [/TABLE_75]
@@ -941,6 +970,8 @@ about the application of tax laws, you should read "Tax Considerations."
 ERISA Considerations
 The offered notes generally will be eligible for purchase by employee
 benefit plans.
+
+[PAGE 16]
 [TABLE_81]
  | 15 | 
 [/TABLE_81]
@@ -966,6 +997,8 @@ regarding the eligibility of the Class A-1 notes under Rule 2a-7 and whether an 
 the fund's investment policies and objectives.
 For more information about Rule 2a-7 under the Investment Company
 Act of 1940, you should read "Investment Considerations."
+
+[PAGE 17]
 [TABLE_82]
  | 16 | 
 [/TABLE_82]
@@ -1041,6 +1074,8 @@ on the receivables,
 [TABLE_97]
  | · | higher than expected net losses on longer term receivables,
 [/TABLE_97]
+
+[PAGE 18]
 [TABLE_98]
  | 17 | 
 [/TABLE_98]
@@ -1111,6 +1146,8 @@ information systems and security systems, and
  | · | inaccurate or untrue representations made by Ford Credit or the depositor
 regarding the receivables or the inability of Ford Credit or the depositor to purchase or repurchase certain receivables.
 [/TABLE_113]
+
+[PAGE 19]
 [TABLE_114]
  | 18 | 
 [/TABLE_114]
@@ -1134,6 +1171,8 @@ due to faster rates of prepayments on the receivables, and interest rates at tha
 would have been paid had those prepayments occurred as expected, you may not be able to reinvest the principal at a rate of return that
 is equal to or greater than the rate of return on your notes.  Alternatively, if
 [/TABLE_115]
+
+[PAGE 20]
 [TABLE_116]
  | 19 | 
 [/TABLE_116]
@@ -1146,6 +1185,8 @@ Overcollateralization may not increase as expected |  | Overcollateralization is
  |  | For more information about overcollateralization as a form of credit enhancement for your notes, you should read "Credit Enhancement — Overcollateralization."
 An event of default and acceleration of the notes may result in earlier than expected payment of your notes or losses on your notes |  | An event of default may result in an acceleration of payments on your notes.  If principal of your notes is paid earlier than expected, you may not be able to reinvest the principal at a rate of return that is equal to or greater than the rate of return on your notes.  If the notes are accelerated after an event of default, the trust will not pay interest on or principal of any notes that are not part of the controlling class until all interest on and principal of the notes of the controlling class are paid in full.  If collections on the receivables and the proceeds of any sale of receivables are insufficient to pay the amounts owed on your notes, you may have delayed payments or losses on your notes.
 [/TABLE_117]
+
+[PAGE 21]
 [TABLE_118]
  | 20 | 
 [/TABLE_118]
@@ -1157,6 +1198,8 @@ The absence of a secondary market for your notes, financial market disruptions a
 You may suffer losses because you have limited control over actions of the trust and conflicts between classes of notes may occur |  | The controlling class may provide notice of a default relating to a breach of a material covenant, may accelerate the notes after an event of default and may waive certain events of default.  The controlling class may, in some circumstances, direct the indenture trustee to sell the receivables after an acceleration of the notes even if the proceeds would not be sufficient to pay all of the notes in full and would cause some classes of notes to suffer a loss.  The controlling class may terminate the servicer after a servicer termination event and may waive servicer termination events.
  |  | Holders of notes that are not part of the controlling class will have no right to take these actions.  Only the controlling class will have these rights.  The controlling class may have different interests from the noteholders of other classes and will not be required to consider the effect of its actions on the noteholders of other classes.
 [/TABLE_119]
+
+[PAGE 22]
 [TABLE_120]
  | 21 | 
 [/TABLE_120]
@@ -1166,6 +1209,8 @@ A reduction, withdrawal or qualification of the ratings on your notes, or the is
  |  | The sponsor hired two rating agencies that are nationally recognized statistical rating organizations, or "NRSROs," and will pay them a fee to assign ratings on the offered notes.  The sponsor has not hired any other NRSRO to assign ratings on the notes and is not aware that any other NRSRO assigned ratings on the notes.  However, under SEC rules, information provided to a hired rating agency for the purpose of assigning or monitoring the ratings on the notes is required to be made available to each NRSRO to make it possible for non-hired NRSROs to assign unsolicited ratings on the notes.  An unsolicited rating could be assigned at any time, including before the closing date, and none of the sponsor, the depositor, the underwriters or any of their affiliates will be obligated to inform you of any unsolicited ratings assigned after the date of this prospectus.  If a non-hired NRSRO assigns an unsolicited rating on the notes, it may be lower than the ratings provided by the hired rating agencies, which may adversely affect the market value of your notes and/or limit your ability to resell your notes.  In addition, if the sponsor fails to make available to the non-hired NRSROs any information provided to any hired rating agency for the purpose of assigning or monitoring the ratings on the notes, a hired rating agency could withdraw its ratings on the notes, which may adversely affect the market value of your notes and/or limit your ability to resell your notes.
  |  | You should make your own evaluation of the future performance of the receivables, the credit enhancement available for the notes and the likelihood of repayment of the notes.  You should not rely solely on the ratings on the notes.
 [/TABLE_121]
+
+[PAGE 23]
 [TABLE_122]
  | 22 | 
 [/TABLE_122]
@@ -1176,6 +1221,8 @@ The trust will issue floating rate notes, but will not enter into interest rate 
 The occurrence of a benchmark transition event could adversely affect the market value of the floating rate notes and/or limit your ability to resell the floating rate notes |  | The trust will issue floating rate notes that will accrue interest based on a benchmark.  The benchmark will initially be 30-day average SOFR, although it may be changed following the occurrence of a benchmark transition event and its related benchmark replacement date.  The benchmark transition events generally include the making of public statements or publication of information by the administrator of the benchmark, its regulatory supervisor or certain other governmental authorities that the benchmark will no longer be provided or is no longer representative of underlying market or economic reality.  However, we cannot provide any assurances that these events will be sufficient to trigger a change in the benchmark at all times when the then-current benchmark is no longer representative of market interest rates, or that these events will align with similar events in the market generally or in other parts of the financial markets, such as the derivatives market.
  |  | In order to compensate for any differences in the benchmark, a benchmark replacement adjustment will be included in any benchmark replacement.  However, we cannot provide any assurances that any benchmark replacement adjustment will be sufficient to produce the economic equivalent of the then-current benchmark, either at the benchmark replacement date or over the life of the floating rate notes.  As a result, we cannot provide any assurances that the characteristics of any benchmark replacement will be similar to the then-current benchmark that it is replacing, or that any benchmark replacement will produce the economic equivalent of the then-current benchmark that it is replacing.
 [/TABLE_123]
+
+[PAGE 24]
 [TABLE_124]
  | 23 | 
 [/TABLE_124]
@@ -1186,6 +1233,8 @@ The allocation of the initial principal amount of the Class A-2 notes is unknown
 The initial principal amount of the notes is unknown |  | Whether the trust will issue notes with an aggregate initial principal amount of $1,315,790,000 or $1,578,940,000 will be determined on or before the day of pricing.  The sponsor will make the determination regarding the aggregate initial principal amount of each class of notes based on, among other considerations, market conditions at the time of pricing.  The size of a class of notes may affect the liquidity of that class, with smaller classes being less liquid than larger classes.  In addition, if your class of notes is larger than you expected, then you will hold a smaller percentage of that class of notes and the voting power of your notes will be diluted.
 Retention of notes by the depositor may adversely affect the market value of your notes and/or limit your ability to resell your notes |  | The depositor may retain some or all of one or more classes of notes.  As a result, the market for notes of that class may be less liquid than would otherwise be the case and, if the retained notes are later sold in the secondary market, it could reduce demand for notes of that class already in the market, which may adversely affect the market value of your notes and/or limit your ability to resell your notes
 [/TABLE_125]
+
+[PAGE 25]
 [TABLE_126]
  | 24 | 
 [/TABLE_126]
@@ -1197,6 +1246,8 @@ Performance of the receivables is uncertain and depends on many factors and may 
 Receivables with longer terms may experience higher average net losses and may adversely impact the performance of the receivables and your notes |  | The original term of retail installment sale contracts has generally increased over time in response to market demand.  Some of the receivables in the pool of receivables will have original terms longer than 75 months, including original terms of up to 84 months.  Over the longer term of such receivables there may be a higher probability of extrinsic events affecting the receivable's performance.
  |  | The rate of depreciation of a financed vehicle is not related to the length of the related retail installment sale contract.  However, the rate at which the amount financed for a financed vehicle is reduced by timely obligor payments pursuant to a longer-term contract is inherently slower than for a shorter-term contract, which may increase the length of time that, and increase the amount by which, the amount financed exceeds the financed vehicle's value.  As a result, receivables with longer original terms have exhibited higher average net losses at repossession or charge off due to the slower rate of amortization over the receivable's longer term, a higher original amount financed and a higher loan-to-value ratio.  More frequent delinquencies or defaults or greater magnitudes of loss on longer-term receivables could result in increased losses on the receivables and losses on your notes.
 [/TABLE_127]
+
+[PAGE 26]
 [TABLE_128]
  | 25 | 
 [/TABLE_128]
@@ -1206,6 +1257,8 @@ Declines in the resale value of the financed vehicles may adversely affect the p
  |  | For more information about the distribution by vehicle model and vehicle type of the receivables, you should read "— High vehicle model or vehicle type concentrations may adversely affect the performance of the receivables and your notes" below and "Receivables — Composition of Receivables — Distribution by Make, Model and Vehicle Type of Receivables."
 Vehicle recalls and customer satisfaction programs may adversely affect the performance of the receivables and your notes |  | Vehicle recalls and customer satisfaction programs that apply to the financed vehicles, including recalls resulting from government or regulatory investigations, Ford requests to customers to return their vehicles to dealers or mechanics for possible service and repair or other similar actions, may adversely affect delinquencies, repossessions and credit losses on the related receivables.  An increase in the number of repossessed vehicles that are subject to an open vehicle recall, customer satisfaction program or customer perception of the applicability of the same may reduce the price at which the affected vehicles are sold at auction or delay the timing of disposition.  An increase in delinquencies, repossessions and credit losses on the receivables or a decrease in the proceeds from the sale of repossessed vehicles may result in accelerated, delayed or reduced payments on your notes.
 [/TABLE_129]
+
+[PAGE 27]
 [TABLE_130]
  | 26 | 
 [/TABLE_130]
@@ -1246,6 +1299,8 @@ types of the financed vehicles related to the receivables in the pool of receiva
  |  | Bronco
     Sport | Utility | 5.14 | 
 [/TABLE_134]
+
+[PAGE 28]
 [TABLE_135]
  | 27 | 
 [/TABLE_135]
@@ -1259,6 +1314,8 @@ Interests of other persons in the receivables or the related financed vehicles c
  |  | · the trust's security interest in the receivable or the financed vehicle is impaired because holders of some types of liens, such as tax liens or mechanic's liens, may have priority over the trust's security interest or a financed vehicle is confiscated by a government agency, or
  |  | · the trust does not have a perfected security interest in the receivable because Ford Credit did not maintain physical possession of the related tangible contract or "control" of the related electronic contract.
 [/TABLE_136]
+
+[PAGE 29]
 [TABLE_137]
  | 28 | 
 [/TABLE_137]
@@ -1290,6 +1347,8 @@ Climate change could have an adverse effect on Ford and Ford Credit and may, dir
 as extreme weather and natural disasters, the frequency and severity of which are expected to increase, may affect manufacturers, suppliers
 and
 [/TABLE_142]
+
+[PAGE 30]
 [TABLE_143]
  | 29 | 
 [/TABLE_143]
@@ -1308,6 +1367,8 @@ is uncertain and depends on many factors and may worsen in an economic downturn,
 the financed vehicles may adversely affect the performance of the receivables and your notes," "— Vehicle recalls and
 customer satisfaction programs may adversely
 [/TABLE_144]
+
+[PAGE 31]
 [TABLE_145]
  | 30 | 
 [/TABLE_145]
@@ -1327,6 +1388,8 @@ Economic volatility and global financial market disruptions resulting from a sig
  |  | · Ford Credit choosing to grant an increased number of extensions to obligors on the receivables,
  |  | · depressed economic activity and increased unemployment, leading to increased delinquency and credit losses for obligors,
 [/TABLE_146]
+
+[PAGE 32]
 [TABLE_147]
  | 31 | 
 [/TABLE_147]
@@ -1345,6 +1408,8 @@ that the relevant regulators would invoke the alternative liquidation framework 
 indicates that the framework should be exercised in a manner consistent with the Bankruptcy Code, which is the insolvency regime that
 would apply to Ford Credit, the depositor and the trust
 [/TABLE_148]
+
+[PAGE 33]
 [TABLE_149]
  | 32 | 
 [/TABLE_149]
@@ -1353,6 +1418,8 @@ would apply to Ford Credit, the depositor and the trust
  |  | The CFPB has successfully asserted the power to investigate and bring enforcement actions directly against securitization vehicles. On December 13, 2021, in an action brought by the CFPB, the U.S. District Court for the District of Delaware denied a motion to dismiss filed by a securitization trust by holding that the securitization trust is a "covered person" under the Dodd-Frank Act because it engages in the servicing of loans, even if through servicers and subservicers. CFPB v. Nat 'l Collegiate Master Student Loan Trust, No. 1:17-cv-1323-SB (D. Del.) .  On February 11, 2022, the district court granted the defendant securitization trust's motion to certify that order for an immediate interlocutory appeal and stayed the case pending resolution of any appeal.  On April 29, 2022, the Third Circuit Court of Appeals subsequently granted the defendant securitization trust's petition for an interlocutory appeal.  On May 17, 2023, the Third Circuit Court of Appeals heard the securitization trust's argument on appeal.  On March 19, 2024, the Third Circuit Court of Appeals affirmed the district court's decision that the defendant securitization trust is a "covered person" under the Dodd-Frank Act and is subject to the CFPB's enforcement authority.  On May 3, 2024, the defendant trusts filed a petition for rehearing and rehearing en banc with the Third Circuit Court of Appeals.  This petition was denied by the U.S. Court of Appeals for the Third Circuit on May 21, 2024 and the case will proceed in the U.S. District Court for the District of Delaware.  The CFPB may rely on this decision as precedent in investigating and bringing enforcement actions against other securitization trusts, including the issuing entity, in the future.
  |  | In February 2022, the CFPB also issued a Compliance Bulletin stating its position that automobile loan and lease holders and servicers are responsible for ensuring that their repossession-related practices, and the practices of their service providers, do not violate the law, and the CFPB also described its intention to hold loan and lease holders and servicers liable for unfair, deceptive, or abusive acts or practices related to the repossession of automobiles.  It is possible that the CFPB may bring enforcement actions against securitization trusts holding automobile loans or leases, such as the issuing entity, and servicers in the future.
 [/TABLE_150]
+
+[PAGE 34]
 [TABLE_151]
  | 33 | 
 [/TABLE_151]
@@ -1365,6 +1432,8 @@ SOFR is a relatively new reference rate, which could have an adverse effect on t
  |  | Because SOFR is a relatively new rate, the floating
 rate notes may not have an established trading market when issued, and an
 [/TABLE_152]
+
+[PAGE 35]
 [TABLE_153]
  | 34 | 
 [/TABLE_153]
@@ -1375,6 +1444,8 @@ rate notes may not have an established trading market when issued, and an
 Risks relating to the transaction parties
 A decline in the financial condition or business prospects of Ford, Ford Credit or other interdependent market participants could result in losses on your notes |  | Manufacturers and suppliers in the auto industry are interdependent, and adverse events affecting any major auto manufacturer or supplier could have an adverse effect on the other industry participants, including Ford and Ford Credit.  For example, economic volatility associated with the 2007-2009 global financial crisis and with the COVID-19 pandemic have had adverse effects on the financial condition and business prospects of manufacturers, suppliers and other interdependent market participants in the auto industry, including Ford and Ford Credit.
 [/TABLE_154]
+
+[PAGE 36]
 [TABLE_155]
  | 35 | 
 [/TABLE_155]
@@ -1388,6 +1459,8 @@ A bankruptcy of Ford Credit may result in delayed payments or losses on your not
  |  | · the trust not having a perfected security interest in the financed vehicles or any cash collections held by Ford Credit at the time the bankruptcy proceeding starts.
  |  | If a court were to decide that the transfer was not a "true sale" or that the depositor should be consolidated with Ford Credit for bankruptcy purposes, the trust would benefit from a security interest in the receivables. However, in that case, the receivables would be deemed to be owned by Ford Credit and payments may
 [/TABLE_156]
+
+[PAGE 37]
 [TABLE_157]
  | 36 | 
 [/TABLE_157]
@@ -1405,6 +1478,8 @@ the servicing fee, which is calculated as a fixed percentage of the pool balance
 or cover the actual cost of servicing the receivables.  In particular, the amount of the servicing fee will decline each month
 as the pool balance declines,
 [/TABLE_158]
+
+[PAGE 38]
 [TABLE_159]
  | 37 | 
 [/TABLE_159]
@@ -1417,6 +1492,8 @@ any of these representations are not true, it could adversely affect the collect
 if the origination or servicing of a receivable does not comply with U.S. federal and state consumer financial protection laws, the servicer
 may be prevented from or delayed in collecting the receivable.  Also, some of these laws may provide that the assignee of a
 [/TABLE_160]
+
+[PAGE 39]
 [TABLE_161]
  | 38 | 
 [/TABLE_161]
@@ -1424,6 +1501,8 @@ may be prevented from or delayed in collecting the receivable.  Also, some of th
  |  | consumer contract (such as the trust) is liable to the obligor for any failure of the contract to comply with these laws.  Ford Credit and/or the depositor must repurchase receivables that breach any of these representations if such a breach has a material adverse effect on the receivable.  Similarly, Ford Credit, as servicer, is required to purchase from the trust receivables for which certain modifications have been made.  If Ford Credit or the depositor fails to repurchase, or the servicer fails to purchase, the related receivables, you may experience delayed payments or losses on your notes.
  |  | For more details about consumer financial protection laws relating to the receivables, you should read "Important Legal Considerations — Receivables Contracts and Vehicles — Consumer Financial Protection Laws."
 [/TABLE_162]
+
+[PAGE 40]
 [TABLE_163]
  | 39 | 
 [/TABLE_163]
@@ -1486,6 +1565,8 @@ to repurchase the receivable.
 For more information about the representations
 and repurchase obligations, you should read "Receivables — Representations About Receivables" and "Receivables —
 Obligation to Repurchase Receivables."
+
+[PAGE 41]
 [TABLE_170]
  | 40 | 
 [/TABLE_170]
@@ -1534,6 +1615,8 @@ its funding requirements through securitizations for these reasons. Securitizati
 For more information about Ford Credit's securitization
 programs and its funding strategy, please read Ford Credit's Annual Report on Form 10-K which is available on Ford Credit's website
 at www.ford.com/finance/investor-center.
+
+[PAGE 42]
 [TABLE_172]
  | 41 | 
 [/TABLE_172]
@@ -1579,6 +1662,8 @@ Ford Credit typically purchases retail installment
 sale contracts with original terms of 60-, 72-, 75- and 84-months, but will also purchase contracts with other original terms. Ford Credit
 generally limits 84-month contracts to applicants meeting certain eligibility criteria, which include maximum advance limits. Most of
 the 84-month contracts purchased by Ford Credit are financed for the purchase of new vehicles for the applicants’ personal use.
+
+[PAGE 43]
 [TABLE_173]
  | 42 | 
 [/TABLE_173]
@@ -1646,6 +1731,8 @@ models to confirm the continued business significance and statistical predictabi
 predicted performance of its retail portfolio. Ford Credit develops new origination scoring models for its consumer, commercial and commercial
 line of credit applicants on a regular cycle plan. Ford Credit may make adjustments to improve the performance of the origination scoring
 models between development cycles by uniformly changing the overall risk scores or modifying the weighting of selected variables.
+
+[PAGE 44]
 [TABLE_174]
  | 43 | 
 [/TABLE_174]
@@ -1695,6 +1782,8 @@ to determine acceptable contract terms for applications that cannot be approved 
 approval on the addition of a qualified co-applicant or guarantor or on changes to the financing terms, such as a higher cash down payment
 or a less expensive vehicle being financed. For less creditworthy applicants, or if there is a discrepancy in the information provided
 by the applicant, the credit analyst may verify the
+
+[PAGE 45]
 [TABLE_175]
  | 44 | 
 [/TABLE_175]
@@ -1753,6 +1842,8 @@ In some cases Ford Credit may approve a reduced dealer discount rate. These rate
 obtain lower rates from other financing providers or to resolve a discrepancy in the originally quoted dealer discount rate. Ford and
 Ford Credit may also offer marketing programs where the dealer discount rate is determined primarily based on the specific applicant or
 contract characteristics rather than on the risk scores. These programs are generally offered
+
+[PAGE 46]
 [TABLE_176]
  | 45 | 
 [/TABLE_176]
@@ -1802,6 +1893,8 @@ vendor stores paper certificates of title in secure facilities controlled by phy
 area is limited to authorized personnel with a business need. Ford Credit also uses the electronic certificate of title process offered
 in many states that maintain electronic records of the certificate of title and lienholder information. Electronic titles are processed
 by Ford Credit’s vendor and, in some cases, are converted to paper titles and stored at the vendor’s secure facilities.
+
+[PAGE 47]
 [TABLE_177]
  | 46 | 
 [/TABLE_177]
@@ -1870,6 +1963,8 @@ scores are in the consumer origination scoring models.
 If the credit analyst requires additional information
 on a commercial applicant, the analyst may obtain a credit report from Dun & Bradstreet. The analyst may regenerate the applicant’s
 proprietary risk score
+
+[PAGE 48]
 [TABLE_178]
  | 47 | 
 [/TABLE_178]
@@ -1920,6 +2015,8 @@ portfolio of receivables to evaluate the effectiveness of its credit decisions a
 credit losses or delinquencies, market conditions, consumer credit trends, customer characteristics or other factors change, Ford Credit
 may adjust its purchasing standards and procedures, including purchase quality guidelines and risk factor guidelines, to change the quality
 of its portfolio or to achieve other business objectives.
+
+[PAGE 49]
 [TABLE_179]
  | 48 | 
 [/TABLE_179]
@@ -1987,6 +2084,8 @@ A substantial percentage of the retail installment
 sale contracts that Ford Credit purchases are originated under Ford-sponsored marketing programs, which can vary in markets across the
 country and are subject to change. As a result, changes in origination volumes and the characteristics of the contracts that Ford Credit
 purchases are caused primarily by changes in the volume of Ford vehicle sales
+
+[PAGE 50]
 [TABLE_189]
  | 49 | 
 [/TABLE_189]
@@ -2048,6 +2147,8 @@ score as a standalone variable. These changes are described under "
 Sponsor and Servicer — Material Changes to Origination,
 Underwriting and Purchasing Policies and Procedures
 " as well.
+
+[PAGE 51]
 [TABLE_190]
  | 50 | 
 [/TABLE_190]
@@ -2111,6 +2212,8 @@ vendors perform their services from locations outside the United States.
 Ford Credit also contracts with a network of outside
 contractors to repossess vehicles and to collect some deficiencies for charged off accounts. These contractors are monitored for compliance
 with the contracts, but due to the nature of these relationships, these contractors follow their own procedures.
+
+[PAGE 52]
 [TABLE_194]
  | 51 | 
 [/TABLE_194]
@@ -2165,6 +2268,8 @@ updated FICO
 ®
 scores, if applicable. Based on data from these models, receivables are grouped by risk category for collection.
 These categories determine how soon an obligor will be
+
+[PAGE 53]
 [TABLE_195]
  | 52 | 
 [/TABLE_195]
@@ -2212,6 +2317,8 @@ Ford Credit may allow an obligor to change the
 monthly payment due date typically by not more than 30 days over the life of the contract, if, for example, the day on which the obligor
 is paid by their employer changes. A due date change is generally not allowed for delinquent accounts and may not be used to bring an
 account current. A due date change is not considered to be a payment extension.
+
+[PAGE 54]
 [TABLE_196]
  | 53 | 
 [/TABLE_196]
@@ -2265,6 +2372,8 @@ other means. For example, some heavily damaged vehicles are sold for salvage or 
 an insurance company due to a total loss claim filed on the repossessed vehicle. Also, some vehicles with a limited resale market, such
 as some medium and heavy trucks and vehicles with specialty equipment, may be sold through a targeted bidding process to maximize net
 sale proceeds.
+
+[PAGE 55]
 [TABLE_197]
  | 54 | 
 [/TABLE_197]
@@ -2306,6 +2415,8 @@ repossession or credit loss information of a particular pool of retail installme
 shown below or that any trends shown in the tables will continue for any period. It is also uncertain that the historical delinquency,
 repossession and credit loss information included in the tables below will accurately predict or be similar to the performance of Ford
 Credit's portfolio of retail installment sale contracts or particular pools of retail installment sale contracts in the near future.
+
+[PAGE 56]
 [TABLE_198]
  | 55 | 
 [/TABLE_198]
@@ -2381,6 +2492,8 @@ financed vehicle for commercial purposes outstanding at the end of the period.
  | (9) | Aggregate principal balance at the end of the period over the aggregate principal balance of all 84-month
 contracts outstanding at the end of the period .
 [/TABLE_208]
+
+[PAGE 57]
 [TABLE_209]
  | 56 | 
 [/TABLE_209]
@@ -2451,6 +2564,8 @@ realized losses for a securitized pool of contracts may be higher or lower than 
 [TABLE_213]
  | (13) | For non-annual periods, the percentages are annualized.
 [/TABLE_213]
+
+[PAGE 58]
 [TABLE_214]
  | 57 | 
 [/TABLE_214]
@@ -2500,6 +2615,8 @@ to accommodate in-person work as needed
 .
 For more details about Ford Credit's servicing
 policies and procedures, you should read "Sponsor and Servicer — Servicing and Collections."
+
+[PAGE 59]
 [TABLE_217]
  | 58 | 
 [/TABLE_217]
@@ -2546,6 +2663,8 @@ The primary assets of the trust will be a pool
 of receivables consisting of retail installment sale contracts secured by new and used cars, light trucks and utility vehicles. On the
 closing date, Ford Credit will sell the receivables and other related assets to the depositor, and the depositor will sell the receivables
 and other related assets to the trust. The trust assets will be pledged by the trust to the indenture trustee for the benefit of the noteholders.
+
+[PAGE 60]
 [TABLE_218]
  | 59 | 
 [/TABLE_218]
@@ -2637,6 +2756,8 @@ from its portfolio of receivables. The selection criteria include that each rece
  | · | is
                                             not subject to a bankruptcy proceeding as of the cutoff date.
 [/TABLE_235]
+
+[PAGE 61]
 [TABLE_236]
  | 60 | 
 [/TABLE_236]
@@ -2660,6 +2781,8 @@ All of the receivables have level monthly payments.
 The obligor pays a fixed monthly payment until the final maturity date. The amount of the final payment is increased or decreased as
 necessary to repay the then unpaid principal balance due to the timing of payments made over the term of the contract, payment extensions
 or partial prepayments.
+
+[PAGE 62]
 [TABLE_237]
  | 61 | 
 [/TABLE_237]
@@ -2750,6 +2873,8 @@ Aggregate
 Percentage
     of initial pool balance | 45.95% | 
 [/TABLE_238]
+
+[PAGE 63]
 [TABLE_239]
  | 62 | 
 [/TABLE_239]
@@ -2816,6 +2941,8 @@ Percentage
  | (11) | Car includes sedans, hatchbacks and coupes. Light truck includes
                                             minivans, vans and light pick-up trucks. Utility includes wagons, SUVs and cross overs.
 [/TABLE_250]
+
+[PAGE 64]
 [TABLE_251]
  | 63 | 
 [/TABLE_251]
@@ -2900,6 +3027,8 @@ Total |  |  | 34,848 |  | $ | 1,402,598,939.49 |  | 100.00 | %
                                             (a) are not individuals or (b) are individuals with minimal or no recent credit
                                             history.
 [/TABLE_259]
+
+[PAGE 65]
 [TABLE_260]
  | 64 | 
 [/TABLE_260]
@@ -2956,6 +3085,8 @@ Total |  |  | 34,848 |  | $ | 1,402,598,939.49 |  | 100.00 | %
                                             stated no income or negligible income and receivables where Ford Credit has determined that
                                             the PTI is unreliable.
 [/TABLE_265]
+
+[PAGE 66]
 [TABLE_266]
  | 65 | 
 [/TABLE_266]
@@ -3050,6 +3181,8 @@ Total |  |  | 34,848 |  | $ | 1,402,598,939.49 |  | 100.00 | %
                                             Those receivables represent 6.90%, 1.03%, 0.90%, 0.86%, 0.13% and 0.12%, respectively, of
                                             the initial pool balance.
 [/TABLE_270]
+
+[PAGE 67]
 [TABLE_271]
  | 66 | 
 [/TABLE_271]
@@ -3117,6 +3250,8 @@ Total |  |  | 34,848 |  | $ | 1,402,598,939.49 |  | 100.00 | %
  | (1) | Includes
                                             vehicles with a plug-in hybrid electric power source.
 [/TABLE_275]
+
+[PAGE 68]
 [TABLE_276]
  | 67 | 
 [/TABLE_276]
@@ -3206,6 +3341,8 @@ Aggregate
 Percentage
     of initial pool balance | 45.84% | 
 [/TABLE_277]
+
+[PAGE 69]
 [TABLE_278]
  | 68 | 
 [/TABLE_278]
@@ -3272,6 +3409,8 @@ Percentage
  | (11) | Car includes sedans, hatchbacks and coupes. Light truck includes
                                             minivans, vans and light pick-up trucks. Utility includes wagons, SUVs and cross overs.
 [/TABLE_289]
+
+[PAGE 70]
 [TABLE_290]
  | 69 | 
 [/TABLE_290]
@@ -3354,6 +3493,8 @@ Total |  |  | 41,794 |  | $ | 1,683,369,242.22 |  | 100.00 | %
                                             (a) are not individuals or (b) are individuals with minimal or no recent credit
                                             history.
 [/TABLE_298]
+
+[PAGE 71]
 [TABLE_299]
  | 70 | 
 [/TABLE_299]
@@ -3408,6 +3549,8 @@ Total |  |  | 41,794 |  | $ | 1,683,369,242.22 |  | 100.00 | %
                                             stated no income or negligible income and receivables where Ford Credit has determined that
                                             the PTI is unreliable.
 [/TABLE_304]
+
+[PAGE 72]
 [TABLE_305]
  | 71 | 
 [/TABLE_305]
@@ -3501,6 +3644,8 @@ Total |  |  | 41,794 |  | $ | 1,683,369,242.22 |  | 100.00 | %
                                             Those receivables represent 6.82%, 1.01%, 0.93%, 0.85%, 0.12% and 0.13%, respectively, of
                                             the initial pool balance.
 [/TABLE_309]
+
+[PAGE 73]
 [TABLE_310]
  | 72 | 
 [/TABLE_310]
@@ -3567,6 +3712,8 @@ Total |  |  | 41,794 |  | $ | 1,683,369,242.22 |  | 100.00 | %
 [TABLE_314]
  | (1) | Includes vehicles with a plug-in hybrid electric power source.
 [/TABLE_314]
+
+[PAGE 74]
 [TABLE_315]
  | 73 | 
 [/TABLE_315]
@@ -3620,6 +3767,8 @@ receivables in this prospectus to the same information in Ford Credit's receivab
 data points reviewed or compared in the sample contracts. The depositor considers that the review indicates no systemic errors in the
 receivables data or other errors that could have a material adverse effect on the data and information about the receivables in this
 prospectus. Receivables systems data for the sample of 125 contract files was also compared against the initial asset-level data.
+
+[PAGE 75]
 [TABLE_316]
  | 74 | 
 [/TABLE_316]
@@ -3681,6 +3830,8 @@ about the entire pool of receivables and other property sold to the depositor, i
 [/TABLE_321]
 The depositor will make similar representations
 to the trust about each receivable and the pool of receivables and other property.
+
+[PAGE 76]
 [TABLE_322]
  | 75 | 
 [/TABLE_322]
@@ -3726,6 +3877,8 @@ Delinquency Trigger
 Form 10-D for that month. The second trigger is a "voting trigger" that will be met if, after the occurrence of a delinquency
 trigger, the noteholders of at least 5% of the principal amount of notes demand a vote and, subject to a 5% voting quorum, the noteholders
 of a majority of the principal amount of the notes that are voted vote to direct a review.
+
+[PAGE 77]
 [TABLE_323]
  | 76 | 
 [/TABLE_323]
@@ -3782,6 +3935,8 @@ For Ford Credit's prior securitized pools from
 48 have ranged from 0.85% to 2.31%. The following chart shows the monthly percentages of receivables more than 60 days delinquent in
 Ford Credit's prior securitized pools and the midrange delinquency rate observed in each period for these prior securitized pools from
 2006 through December of the prior calendar year compared to the delinquency trigger established for this securitization transaction.
+
+[PAGE 78]
 [TABLE_328]
  | 77 | 
 [/TABLE_328]
@@ -3813,6 +3968,8 @@ The review tests were designed by Ford Credit
 to determine whether a receivable was not in compliance with the representations made about it in the transaction documents at the relevant
 time, which is usually at origination of the receivable or as of the cutoff date or closing date. There may be multiple tests for each
 representation. The review is not designed to determine why the obligor is
+
+[PAGE 79]
 [TABLE_329]
  | 78 | 
 [/TABLE_329]
@@ -3865,6 +4022,8 @@ For a mediation, the proceeding will start within
 15 days after selection of the mediator and conclude within 30 days after the start of the mediation. Expenses of the mediation will
 be allocated among the parties as mutually agreed by the parties as part of the mediation. If the parties fail to agree at the completion
 of the mediation, the requesting party may refer the repurchase request to arbitration.
+
+[PAGE 80]
 [TABLE_330]
  | 79 | 
 [/TABLE_330]
@@ -3904,6 +4063,8 @@ amounts received on defaulted accounts, and (e) net recoveries on charged off ac
 This diagram shows the sources of available funds
 for each payment date. Available funds, including amounts withdrawn from the reserve account to cover shortfalls, are the only funds
 that will be used to make payments to the noteholders on each payment date.
+
+[PAGE 81]
 [TABLE_331]
  | 80 | 
 [/TABLE_331]
@@ -3939,6 +4100,8 @@ of notes are paid in full. For instance, interest due on the Class B notes will 
 Class A notes are paid in full.
 For more details about the payment priorities
 after an acceleration of the notes, you should read "— Post-Acceleration Priority of Payments" below.
+
+[PAGE 82]
 [TABLE_332]
  | 81 | 
 [/TABLE_332]
@@ -4000,6 +4163,8 @@ The
 "benchmark
 replacement" will be the first alternative set forth in the order below that can be determined by the trust as of the benchmark
 replacement date:
+
+[PAGE 83]
 [TABLE_338]
  | 82 | 
 [/TABLE_338]
@@ -4063,6 +4228,8 @@ to take or refrain from taking any action or any selection, will be conclusive a
 trust's sole discretion, and, notwithstanding anything to the contrary in the transaction documents, will become effective without consent
 from any other party. None of the trust, the owner trustee, the indenture trustee, the calculation agent, the administrator, the sponsor,
 the depositor or the servicer will have any liability for any determination made by or on behalf of
+
+[PAGE 84]
 [TABLE_343]
  | 83 | 
 [/TABLE_343]
@@ -4121,6 +4288,8 @@ a payment date are:
                                             notes, this amount will equal the principal amount of the Class B notes until paid in
                                             full.
 [/TABLE_345]
+
+[PAGE 85]
 [TABLE_346]
  | 84 | 
 [/TABLE_346]
@@ -4193,6 +4362,8 @@ accelerated after an event of default:
  | (9) | to the noteholders, sequentially by class, in each case until paid in
                                             full, principal in an amount equal to the regular principal payment,
 [/TABLE_357]
+
+[PAGE 86]
 [TABLE_358]
  | 85 | 
 [/TABLE_358]
@@ -4213,6 +4384,8 @@ to pay the Class A and Class B notes in full on their final scheduled payment da
 be available to pay the Class C notes in full on their final scheduled payment date under item (9).
 This diagram shows how available funds are paid
 on each payment date. The priority of payments shown in this diagram will apply unless the notes are accelerated after an event of default.
+
+[PAGE 87]
 [TABLE_361]
  | 86 | 
 [/TABLE_361]
@@ -4287,6 +4460,8 @@ an event that with notice or the lapse of time, or both, would become an event o
 it must notify the indenture trustee within five business days. Except in limited circumstances, if a responsible person of the indenture
 trustee knows of an event that with notice or the lapse of time, or both, would become an event of default, it must notify the noteholders
 within 90 days.
+
+[PAGE 88]
 [TABLE_375]
  | 87 | 
 [/TABLE_375]
@@ -4369,6 +4544,8 @@ trustee is only permitted to sell the receivables if the following conditions ar
  | — | the proceeds of the sale are expected to be sufficient to pay
                                             all amounts owed by the trust, including payments on the notes, or
 [/TABLE_387]
+
+[PAGE 89]
 [TABLE_388]
  | 88 | 
 [/TABLE_388]
@@ -4450,6 +4627,8 @@ to purchase the receivables from the trust on any payment date if the pool balan
 least ten days before the payment date the option is exercised. The servicer will exercise the option by depositing the purchase price
 for the receivables in the collection account on the business day before the payment date the option is exercised (or, with the satisfaction
 of the rating agency condition, on that
+
+[PAGE 90]
 [TABLE_398]
  | 89 | 
 [/TABLE_398]
@@ -4530,6 +4709,8 @@ the indenture to add, change or eliminate a term or modify the noteholders' righ
 In each case, the indenture trustee must receive
 a legal opinion that, for federal income tax purposes, the amendment will not cause any note to be deemed sold or exchanged, cause the
 trust to be treated as
+
+[PAGE 91]
 [TABLE_410]
  | 90 | 
 [/TABLE_410]
@@ -4607,6 +4788,8 @@ On receipt of a communication request, the servicer will include in the Form 10-
  | · | a
                                             description of the method by which the other noteholders may contact the requesting noteholder.
 [/TABLE_422]
+
+[PAGE 92]
 [TABLE_423]
  | 91 | 
 [/TABLE_423]
@@ -4664,6 +4847,8 @@ notes will be made by the indenture trustee on each payment date to registered h
 month. The payments will be made by check mailed to the address of the holder as it appears on the register maintained by the indenture
 trustee. The final payment on a definitive note will be made only on presentation and surrender of the definitive note at the address
 stated in the notice of final payment to the noteholders.
+
+[PAGE 93]
 [TABLE_427]
  | 92 | 
 [/TABLE_427]
@@ -4712,6 +4897,8 @@ reserve account are used on a payment date, other than the final scheduled payme
 available funds into the reserve account on future payment dates after
 making more senior payments until the reserve account is
 replenished to its initial level.
+
+[PAGE 94]
 [TABLE_428]
  | 93 | 
 [/TABLE_428]
@@ -4768,6 +4955,8 @@ Class C
     notes | 1.88 | 2.00
 Total | 93.81% | 100.00%
 [/TABLE_429]
+
+[PAGE 95]
 [TABLE_430]
  | 94 | 
 [/TABLE_430]
@@ -4830,6 +5019,8 @@ date after the floating rate notes are paid in full. If no floating rate notes a
 down from 7.15% on the cutoff date to 6.15% on the first payment date and remain at this level for each following payment date. For purposes
 of this calculation, future payments on each receivable are assumed to be equal monthly payments made over the remaining scheduled term
 regardless of any
+
+[PAGE 96]
 [TABLE_434]
  | 95 | 
 [/TABLE_434]
@@ -4898,6 +5089,8 @@ February 2025 | 59,303,615.38 |  | August 2028 | 5,203,131.35
 March 2025 | 57,098,280.74 |  | September 2028 | 4,719,356.59
 April 2025 | 54,940,192.13 |  | October 2028 | 4,264,153.30
 [/TABLE_436]
+
+[PAGE 97]
 [TABLE_437]
  | 96 | 
 [/TABLE_437]
@@ -4969,6 +5162,8 @@ August 2026 | 43,285,674.03 |  | February 2030 | 657,692.39
 September 2026 | 41,144,953.78 |  | March 2030 | 524,361.69
 October 2026 | 39,070,883.53 |  | April 2030 | 414,409.69
 [/TABLE_439]
+
+[PAGE 98]
 [TABLE_440]
  | 97 | 
 [/TABLE_440]
@@ -5040,6 +5235,8 @@ February 2028 | 10,487,691.88 |  | August 2031 | 1,051.92
 March 2028 | 9,689,315.80 |  | September 2031 | 384.46
 April 2028 | 8,927,815.68 |  | October 2031 | 79.59
 [/TABLE_442]
+
+[PAGE 99]
 [TABLE_443]
  | 98 | 
 [/TABLE_443]
@@ -5108,6 +5305,8 @@ retail installment sale contracts occur primarily when obligors decide to purcha
 obtain specific Ford marketing incentives that require Ford Credit financing and pay off their accounts within the first few months of
 the contract term, defaulted contracts are liquidated or insurance proceeds are received after the financed vehicle is determined to
 be a total loss. Unlike some other asset classes, such as residential
+
+[PAGE 100]
 [TABLE_451]
  | 99 | 
 [/TABLE_451]
@@ -5179,6 +5378,8 @@ Class C | 0.00%
                                             servicer exercises its clean up call option on the first payment date that the option is
                                             available.
 [/TABLE_458]
+
+[PAGE 101]
 [TABLE_459]
  | 100 | 
 [/TABLE_459]
@@ -5214,6 +5415,8 @@ Pool |  | Aggregate Principal Balance |  |  | Weighted Average APR |  | Weighted
 24 |  |  | 62,693,197.70 |  |  | 9.607% |  | 76 |  | 61
 Total |  | $ | 1,402,598,939.49 |  |  |  |  |  |  | 
 [/TABLE_460]
+
+[PAGE 102]
 [TABLE_461]
  | 101 | 
 [/TABLE_461]
@@ -5262,6 +5465,8 @@ class of notes.
 For a description of factors which may affect
 the rate of principal payments on the notes, you should read "Risk Factors — The timing of principal payments on your notes
 is uncertain."
+
+[PAGE 103]
 [TABLE_463]
  | 102 | 
 [/TABLE_463]
@@ -5344,6 +5549,8 @@ the number of years from the date of the issuance of the note to the related pay
 The ABS tables were prepared based on the assumptions
 described above, including the assumptions regarding the characteristics and performance of the receivables that will differ from the
 actual characteristics and performance of the receivables. You should be sure you understand these assumptions when reading the ABS tables.
+
+[PAGE 104]
 [TABLE_467]
  | 103 | 
 [/TABLE_467]
@@ -5426,6 +5633,8 @@ the number of years from the date of the issuance of the note to the related pay
 The ABS tables were prepared based on the assumptions
 described above, including the assumptions regarding the characteristics and performance of the receivables that will differ from the
 actual characteristics and performance of the receivables. You should be sure you understand these assumptions when reading the ABS tables.
+
+[PAGE 105]
 [TABLE_471]
  | 104 | 
 [/TABLE_471]
@@ -5508,6 +5717,8 @@ the number of years from the date of the issuance of the note to the related pay
 The ABS tables were prepared based on the assumptions
 described above, including the assumptions regarding the characteristics and performance of the receivables that will differ from the
 actual characteristics and performance of the receivables. You should be sure you understand these assumptions when reading the ABS tables.
+
+[PAGE 106]
 [TABLE_475]
  | 105 | 
 [/TABLE_475]
@@ -5590,6 +5801,8 @@ the number of years from the date of the issuance of the note to the related pay
 The ABS tables were prepared based on the assumptions
 described above, including the assumptions regarding the characteristics and performance of the receivables that will differ from the
 actual characteristics and performance of the receivables. You should be sure you understand these assumptions when reading the ABS tables.
+
+[PAGE 107]
 [TABLE_479]
  | 106 | 
 [/TABLE_479]
@@ -5672,6 +5885,8 @@ the number of years from the date of the issuance of the note to the related pay
 The ABS tables were prepared based on the assumptions
 described above, including the assumptions regarding the characteristics and performance of the receivables that will differ from the
 actual characteristics and performance of the receivables. You should be sure you understand these assumptions when reading the ABS tables.
+
+[PAGE 108]
 [TABLE_483]
  | 107 | 
 [/TABLE_483]
@@ -5753,6 +5968,8 @@ the number of years from the date of the issuance of the note to the related pay
 The ABS tables were prepared based on the assumptions
 described above, including the assumptions regarding the characteristics and performance of the receivables that will differ from the
 actual characteristics and performance of the receivables. You should be sure you understand these assumptions when reading the ABS tables.
+
+[PAGE 109]
 [TABLE_487]
  | 108 | 
 [/TABLE_487]
@@ -5803,6 +6020,8 @@ Class C notes |  |  |  |  | 16.6 |  |  |  | 1.2 |
 Residual Interest |  |  | 54.5 | - | 59.0 |  |  |  | 4.0   -      4.3 | 
 Total |  | $ | 1,360.6 | - | $1,365.1 |  |  |  | 100.0% | 
 [/TABLE_488]
+
+[PAGE 110]
 [TABLE_489]
  | 109 | 
 [/TABLE_489]
@@ -5863,6 +6082,8 @@ the servicer will exercise its clean up call option on the first payment date th
 paid for the receivables will be equal to the outstanding principal balance of the receivables, which is the minimum amount the servicer
 may pay for the receivables. The resulting cash flows to the retained interest are discounted to present value based on a discount rate
 that reflects the credit exposure to these cash flows. In completing these calculations, Ford Credit made the following assumptions:
+
+[PAGE 111]
 [TABLE_495]
  | 110 | 
 [/TABLE_495]
@@ -5931,6 +6152,8 @@ net loss assumptions of the hired NRSROs. Default and recovery rate estimates ar
 to reflect the credit exposure to the residual cash flows. Due to the lack of an actively traded market in residual interests, the discount
 rate was derived using qualitative factors that consider the equity-like component of the first-loss exposure.
 [/TABLE_506]
+
+[PAGE 112]
 [TABLE_507]
  | 111 | 
 [/TABLE_507]
@@ -5990,6 +6213,8 @@ advances for shortfalls in scheduled payments on receivables, collections or oth
 The servicer may delegate or perform its servicing
 obligations to or through others. No delegation or subcontracting will relieve the servicer of its servicing obligations. The servicer
 will be responsible for paying the fees of any delegates or subcontractors.
+
+[PAGE 113]
 [TABLE_517]
  | 112 | 
 [/TABLE_517]
@@ -6039,6 +6264,8 @@ Trust Bank Accounts
 The servicer will establish a collection account
 for the trust and will deposit all collections on the receivables, the repurchase price for any receivables repurchased by the sponsor
 or the depositor and
+
+[PAGE 114]
 [TABLE_518]
  | 113 | 
 [/TABLE_518]
@@ -6090,6 +6317,8 @@ Amendments to Sale and Servicing Agreement
 The trust, the depositor and the servicer may amend
 the sale and servicing agreement, without the consent of the noteholders, to clarify an ambiguity, correct an error or correct or supplement
 any term of the agreement that may be defective or inconsistent with the other terms of the agreement or as may be
+
+[PAGE 115]
 [TABLE_519]
  | 114 | 
 [/TABLE_519]
@@ -6155,6 +6384,8 @@ owner trustee, the indenture trustee or at least 25% of the controlling class, o
 [TABLE_530]
  | · | certain circumstances relating to a bankruptcy of the servicer.
 [/TABLE_530]
+
+[PAGE 116]
 [TABLE_531]
  | 115 | 
 [/TABLE_531]
@@ -6224,6 +6455,8 @@ in the pool and the pool factor,
  | · | delinquency, repossession and credit loss information on the receivables for
 the collection period, and whether the delinquency trigger occurred,
 [/TABLE_540]
+
+[PAGE 117]
 [TABLE_541]
  | 116 | 
 [/TABLE_541]
@@ -6290,6 +6523,8 @@ The servicer will
 prepare or obtain a number of annual reports, statements or certificates for the trust. No later than 90 days after the end of the calendar
 year, the servicer will provide to the depositor, the trust, the indenture trustee and the rating agencies the following
 :
+
+[PAGE 118]
 [TABLE_549]
  | 117 | 
 [/TABLE_549]
@@ -6345,6 +6580,8 @@ in
 "Receivables — Obligation to Repurchase Receivables."
 In addition, the depositor will represent that it owns
 the receivables free of liens or claims.
+
+[PAGE 119]
 [TABLE_553]
  | 118 | 
 [/TABLE_553]
@@ -6411,6 +6648,8 @@ of notes (with each class voting separately, except that the Class A notes will 
  | · | the holder of the residual interest delivers a legal opinion that, for federal
 income tax purposes, the amendment will not cause any note to be deemed sold or exchanged, cause the trust to be
 [/TABLE_563]
+
+[PAGE 120]
 [TABLE_564]
  | 119 | 
 [/TABLE_564]
@@ -6487,6 +6726,8 @@ replacement, and
  | · | cause the indenture trustee to notify the noteholders of the redemption of
 their notes.
 [/TABLE_573]
+
+[PAGE 121]
 [TABLE_574]
  | 120 | 
 [/TABLE_574]
@@ -6543,6 +6784,8 @@ the
 acceptance fees and annual fees of the owner trustee, reimburse the owner trustee for expenses incurred in performing its obligations,
 and pay any indemnities due to the owner trustee, to the extent those amounts are not paid or reimbursed by the depositor or the administrator.
 The trust will pay these amounts to the owner trustee on each payment date, along with similar amounts
+
+[PAGE 122]
 [TABLE_577]
  | 121 | 
 [/TABLE_577]
@@ -6610,6 +6853,8 @@ by the noteholders, and
 Except in limited circumstances, if a responsible
 person of the indenture trustee knows of an event that with notice or the lapse of time or both would become an event of default, it must
 provide written
+
+[PAGE 123]
 [TABLE_587]
  | 122 | 
 [/TABLE_587]
@@ -6659,6 +6904,8 @@ a default occurs under the indenture. In these circumstances, separate successor
 notes. Even if separate indenture trustees are appointed, only the indenture trustee acting on behalf of the controlling class will have
 the right to exercise remedies and only the controlling class will have the right to direct or consent to any action to be taken, including
 a sale of the receivables.
+
+[PAGE 124]
 [TABLE_588]
  | 123 | 
 [/TABLE_588]
@@ -6713,6 +6960,8 @@ The asset representations reviewer will not be
 liable for any action, omission or error in judgment, except for its own willful misconduct, bad faith or negligence. The asset representations
 reviewer will not be liable for any errors in any review materials relied on by it to perform a review or for the noncompliance or breach
 of any representation made about the receivables.
+
+[PAGE 125]
 [TABLE_591]
  | 124 | 
 [/TABLE_591]
@@ -6762,6 +7011,8 @@ described in
 "Description of the Notes — Priority of Payments."
 These fees will not change during the term of this
 securitization transaction.
+
+[PAGE 126]
 [TABLE_592]
  | 125 | 
 [/TABLE_592]
@@ -6817,6 +7068,8 @@ The sale of the receivables by Ford Credit to the depositor will be structured t
 the possibility that a bankruptcy proceeding of Ford Credit will adversely affect the trust's rights in the receivables. Ford Credit and
 the depositor intend that the sale of the receivables by Ford Credit to the depositor will be a "true sale." The depositor will
 have no recourse to Ford Credit other than the limited obligation to repurchase receivables for breaches of representations.
+
+[PAGE 127]
 [TABLE_594]
  | 126 | 
 [/TABLE_594]
@@ -6871,6 +7124,8 @@ creditors to agree not to start a bankruptcy proceeding against the trust.
 Assuming that the sale of the receivables by Ford
 Credit to the depositor is a "true sale," the depositor is not consolidated with Ford Credit in a bankruptcy of Ford Credit
 and the depositor is not in bankruptcy, the trust's perfected security interest in the receivables generally will provide the trust with
+
+[PAGE 128]
 [TABLE_597]
  | 127 | 
 [/TABLE_597]
@@ -6925,6 +7180,8 @@ Power Under OLA
 . If the FDIC is appointed receiver of a company under OLA, the FDIC would have the power to repudiate any
 contract to which the company was a party, if the FDIC determined that performance of the contract was burdensome and that repudiation
 would promote the orderly administration of the company's affairs.
+
+[PAGE 129]
 [TABLE_598]
  | 128 | 
 [/TABLE_598]
@@ -6982,6 +7239,8 @@ Ford Credit will not transfer physical possession or "control" of the contracts 
 maintain
 possession and "control" and act as custodian for the trust and the indenture trustee. Ford Credit will mark
 its accounting records and computer systems to reflect the assignment and pledge, but
+
+[PAGE 130]
 [TABLE_601]
  | 129 | 
 [/TABLE_601]
@@ -7033,6 +7292,8 @@ obtain a court order before repossessing the vehicle.
 If an obligor is in default under its retail installment
 sale contract, some states require that the obligor be notified of the default and given time to correct the default before repossession.
 In Ford Credit's experience, this right to correct is exercised by only a limited number of defaulted obligors.
+
+[PAGE 131]
 [TABLE_602]
  | 130 | 
 [/TABLE_602]
@@ -7091,6 +7352,8 @@ Under the terms of the Servicemembers Civil Relief
 Act and similar state laws, Ford Credit may not charge off a receivable or use self-help methods to repossess the vehicle of an obligor
 who enters military service after entering into a qualifying retail installment sale contract. In addition, an obligor who enters military
 service may be entitled to forgiveness of finance charges in excess of 6% per year, and a
+
+[PAGE 132]
 [TABLE_607]
  | 131 | 
 [/TABLE_607]
@@ -7144,6 +7407,8 @@ noteholders who:
 [TABLE_609]
  | · | are U.S. noteholders, and
 [/TABLE_609]
+
+[PAGE 133]
 [TABLE_610]
  | 132 | 
 [/TABLE_610]
@@ -7201,6 +7466,8 @@ In the opinion of Katten Muchin Rosenman LLP, the offered notes will be treated 
 tax purposes to the extent they are treated as beneficially owned by a person other than the sponsor or its affiliates for such purposes.
 The depositor, the servicer, the indenture trustee and each noteholder, by acquiring an interest in a note, will agree to treat the notes
 as
+
+[PAGE 134]
 [TABLE_616]
  | 133 | 
 [/TABLE_616]
@@ -7253,6 +7520,8 @@ or nonresident aliens who provide certification as to their status). Each holder
 to the indenture trustee, under penalties of perjury, a certificate containing the holder's name, address, correct federal taxpayer identification
 number and a statement that the holder is not subject to backup withholding. Should a holder fail to provide the required certification,
 the indenture trustee will be required to withhold the tax from interest payable to the holder and pay the withheld amount to the IRS.
+
+[PAGE 135]
 [TABLE_617]
  | 134 | 
 [/TABLE_617]
@@ -7314,6 +7583,8 @@ Foreign Financial Institutions and Certain Other Non-U.S. Entities
 . A 30% withholding tax generally will apply to payments
 of interest that are made to foreign financial institutions and certain non-financial foreign entities. Withholding tax, imposed under
 sections 1471 through 1474 of the Internal Revenue Code, or "FATCA," generally will not apply where payments are made to (i) a
+
+[PAGE 136]
 [TABLE_623]
  | 135 | 
 [/TABLE_623]
@@ -7376,6 +7647,8 @@ described in this section, plans generally may purchase the notes.
 A fiduciary of a plan should carefully review with its legal
 and other advisors whether the purchase, holding or disposition of any notes could give rise to a transaction prohibited or impermissible
 under ERISA or
+
+[PAGE 137]
 [TABLE_630]
  | 136 | 
 [/TABLE_630]
@@ -7435,6 +7708,8 @@ service provider (other than a party in interest or a disqualified person that i
 the plan involved in the transaction), if the plan pays no more than, and receives no less than, adequate consideration in connection
 with the transaction. However, even if the conditions in one or more applicable exemptions are met, the scope of relief may not necessarily
 cover all acts that might be construed as prohibited transactions.
+
+[PAGE 138]
 [TABLE_636]
  | 137 | 
 [/TABLE_636]
@@ -7506,6 +7781,8 @@ or commissions from the depositor or the purchasers of these notes. If these not
 depositor will be responsible for underwriting discounts or commissions or agent's commissions. These notes may be sold in one or more
 transactions at fixed prices, prevailing market prices at the time of sale, varying prices determined at the time of sale or negotiated
 prices.
+
+[PAGE 139]
 [TABLE_638]
  | 138 | 
 [/TABLE_638]
@@ -7569,6 +7846,8 @@ In the ordinary course
 of their businesses, the underwriters and their affiliates have engaged and may engage in various financial advisory, investment banking
 and commercial banking transactions
 with the sponsor, the depositor, the servicer and their affiliates.
+
+[PAGE 140]
 [TABLE_644]
  | 139 | 
 [/TABLE_644]
@@ -7635,6 +7914,8 @@ that customer would not qualify as a professional client as defined in point (10
 [TABLE_656]
  | — | not a Qualified Investor, and
 [/TABLE_656]
+
+[PAGE 141]
 [TABLE_657]
  | 140 | 
 [/TABLE_657]
@@ -7694,6 +7975,8 @@ The trust "incorporates by reference"
 some information it files with the SEC, which means that the trust can disclose important information to you by referring you to those
 documents. The information incorporated by reference is considered to be part of this prospectus. Information that the trust files later
 with the SEC will automatically update the information in this prospectus. In all cases, you should rely on
+
+[PAGE 142]
 [TABLE_659]
  | 141 | 
 [/TABLE_659]
@@ -7718,6 +8001,8 @@ Dearborn, Michigan 48126
 Attention: Ford Credit SPE Management Office
 Telephone number: (313) 594-3495
 Email: FSPEMgt@ford.com
+
+[PAGE 143]
 [TABLE_660]
  | 142 | 
 [/TABLE_660]
@@ -7832,6 +8117,8 @@ UK Securitization Regulation |  | 141
 unadjusted benchmark replacement |  | 83
 yield supplement overcollateralization amount |  | 95
 [/TABLE_662]
+
+[PAGE 144]
 [TABLE_663]
  | 143 | 
 [/TABLE_663]
@@ -7887,6 +8174,8 @@ because they (a) are not individuals or (b) are individuals with minimal or no r
 [TABLE_669]
 (6) | The LTV for a receivable is the original amount financed divided by the wholesale value of the vehicle.
 [/TABLE_669]
+
+[PAGE 145]
 [TABLE_670]
  | A- 1 | 
 [/TABLE_670]
@@ -7945,10 +8234,14 @@ the amounts in the "Cumulative Net Losses" column reflect the incorrectly applie
 in recoveries being overstated and net losses being understated. However, the incorrectly applied or duplicated amounts are not material,
 and if the recoveries had been correctly applied the "Cumulative Net Losses" would have changed by less than 0.02%.
 [/TABLE_681]
+
+[PAGE 146]
 [TABLE_682]
  | A- 2 | 
 [/TABLE_682]
 Ford Credit Auto Owner Trust 2019-A
+
+[PAGE 147]
 [TABLE_683]
  | A- 3 | 
 [/TABLE_683]
@@ -8042,10 +8335,14 @@ Month |  | Date |  | Pool
 [TABLE_686]
 See page A-1 for footnotes | Final Payment Date:   February 15, 2023
 [/TABLE_686]
+
+[PAGE 148]
 [TABLE_687]
  | A- 4 | 
 [/TABLE_687]
 Ford Credit Auto Owner Trust 2019-B
+
+[PAGE 149]
 [TABLE_688]
  | A- 5 | 
 [/TABLE_688]
@@ -8138,10 +8435,14 @@ Month |  | Date |  | Pool Balance (12) |  | Losses (13)(17) |  | Prepayments (14
 See page A-1 for footnotes | Final
     Payment Date:   April 17, 2023
 [/TABLE_691]
+
+[PAGE 150]
 [TABLE_692]
  | A- 6 | 
 [/TABLE_692]
 Ford Credit Auto Owner Trust 2019-C
+
+[PAGE 151]
 [TABLE_693]
  | A- 7 | 
 [/TABLE_693]
@@ -8234,10 +8535,14 @@ Month |  | Date |  | Pool Balance (12) |  | Losses (13)(17) |  | Prepayments (14
 See page A-1 for footnotes | Final
     Payment Date:   September 15, 2023
 [/TABLE_696]
+
+[PAGE 152]
 [TABLE_697]
  | A- 8 | 
 [/TABLE_697]
 Ford Credit Auto Owner Trust 2020-A
+
+[PAGE 153]
 [TABLE_698]
  | A- 9 | 
 [/TABLE_698]
@@ -8376,10 +8681,14 @@ Month |  | Date |  | Pool
 [TABLE_701]
 See page A-1 for footnotes | Final Payment Date:  January 16, 2024
 [/TABLE_701]
+
+[PAGE 154]
 [TABLE_702]
  | A- 10 | 
 [/TABLE_702]
 Ford Credit Auto Owner Trust 2020-B
+
+[PAGE 155]
 [TABLE_703]
  | A- 11 | 
 [/TABLE_703]
@@ -8475,10 +8784,14 @@ Month |  | Date |  | Pool Balance (12) |  | Losses (13)(17) |  | Prepayments (14
 [TABLE_706]
 See page A-1 for footnotes | Final Payment Date:  March 15, 2024
 [/TABLE_706]
+
+[PAGE 156]
 [TABLE_707]
  | A- 12 | 
 [/TABLE_707]
 Ford Credit Auto Owner Trust 2020-C
+
+[PAGE 157]
 [TABLE_708]
  | A- 13 | 
 [/TABLE_708]
@@ -8571,10 +8884,14 @@ Month |  | Date |  | Pool Balance (12) |  | Losses (13)(17) |  | Prepayments (14
 47 |  | Sep-24 |  |  | 170,948,195 |  |  | 5,434,967 |  |  | 2,964,070 |  |  | 3,359,820 |  |  | 834,901 |  |  | 171,591 |  |  | 438,444 |  | 0.85 | 
 [/TABLE_710]
 See page A-1 for footnotes
+
+[PAGE 158]
 [TABLE_711]
  | A- 14 | 
 [/TABLE_711]
 Ford Credit Auto Owner Trust 2021-A
+
+[PAGE 159]
 [TABLE_712]
  | A- 15 | 
 [/TABLE_712]
@@ -8671,10 +8988,14 @@ Days
 44 |  | Sep-24 |  |  | 196,193,980 |  |  | 4,620,335 |  |  | 3,370,398 |  |  | 4,406,036 |  |  | 691,915 |  |  | 199,253 |  |  | 437,784 |  | 0.68 | 
 [/TABLE_714]
 See page A-1 for footnotes
+
+[PAGE 160]
 [TABLE_715]
  | A- 16 | 
 [/TABLE_715]
 Ford Credit Auto Owner Trust 2022-A
+
+[PAGE 161]
 [TABLE_716]
  | A- 17 | 
 [/TABLE_716]
@@ -8818,10 +9139,14 @@ Days
 [/TABLE_718]
 See
 page A-1 for footnotes
+
+[PAGE 162]
 [TABLE_719]
  | A- 18 | 
 [/TABLE_719]
 Ford Credit Auto Owner Trust 2022-B
+
+[PAGE 163]
 [TABLE_720]
  | A- 19 | 
 [/TABLE_720]
@@ -8961,10 +9286,14 @@ Days
 [/TABLE_722]
 See
 page A-1 for footnotes
+
+[PAGE 164]
 [TABLE_723]
  | A- 20 | 
 [/TABLE_723]
 Ford Credit Auto Owner Trust 2022-C
+
+[PAGE 165]
 [TABLE_724]
  | A- 21 | 
 [/TABLE_724]
@@ -9093,10 +9422,14 @@ Month |  | Date |  | Pool Balance (12) |  | Net Losses (13) |  | Prepayments (14
 [/TABLE_726]
 See
 page A-1 for footnotes
+
+[PAGE 166]
 [TABLE_727]
  | A- 22 | 
 [/TABLE_727]
 Ford Credit Auto Owner Trust 2022-D
+
+[PAGE 167]
 [TABLE_728]
  | A- 23 | 
 [/TABLE_728]
@@ -9214,10 +9547,14 @@ Month |  | Date |  | Pool
 [/TABLE_730]
 See
 page A-1 for footnotes
+
+[PAGE 168]
 [TABLE_731]
  | A- 24 | 
 [/TABLE_731]
 Ford Credit Auto Owner Trust 2023-A
+
+[PAGE 169]
 [TABLE_732]
  | A- 25 | 
 [/TABLE_732]
@@ -9341,10 +9678,14 @@ Month |  | Date |  | Pool Balance (12) |  | Net Losses (13) |  | Prepayments (14
 [/TABLE_734]
 See
 page A-1 for footnotes
+
+[PAGE 170]
 [TABLE_735]
  | A- 26 | 
 [/TABLE_735]
 Ford Credit Auto Owner Trust 2023-B
+
+[PAGE 171]
 [TABLE_736]
  | A- 27 | 
 [/TABLE_736]
@@ -9454,10 +9795,14 @@ Days
 [/TABLE_738]
 See
 page A-1 for footnotes
+
+[PAGE 172]
 [TABLE_739]
  | A- 28 | 
 [/TABLE_739]
 Ford Credit Auto Owner Trust 2023-C
+
+[PAGE 173]
 [TABLE_740]
  | A- 29 | 
 [/TABLE_740]
@@ -9556,10 +9901,14 @@ Month |  | Date |  | Pool Balance (12) |  | Net Losses (13) |  | Prepayments (
 [/TABLE_742]
 See
 page A-1 for footnotes
+
+[PAGE 174]
 [TABLE_743]
  | A- 30 | 
 [/TABLE_743]
 Ford Credit Auto Owner Trust 2024-A
+
+[PAGE 175]
 [TABLE_744]
  | A- 31 | 
 [/TABLE_744]
@@ -9662,10 +10011,14 @@ Month |  | Date |  | Pool Balance (12) |  | Net Losses (13) |  | Prepayments (14
 [/TABLE_746]
 See
 page A-1 for footnotes
+
+[PAGE 176]
 [TABLE_747]
  | A- 32 | 
 [/TABLE_747]
 Ford Credit Auto Owner Trust 2024-B
+
+[PAGE 177]
 [TABLE_748]
  | A- 33 | 
 [/TABLE_748]
@@ -9781,10 +10134,14 @@ Month |  | Date |  | Pool
 [/TABLE_750]
 See
 page A-1 for footnotes
+
+[PAGE 178]
 [TABLE_751]
  | A- 34 | 
 [/TABLE_751]
 Ford Credit Auto Owner Trust 2024-C
+
+[PAGE 179]
 [TABLE_752]
  | A- 35 | 
 [/TABLE_752]
@@ -9845,6 +10202,8 @@ Month |  | Date |  | Pool Balance (12) |  | Net Losses (13) |  | Prepayments (14
 [/TABLE_754]
 See
 page A-1 for footnotes
+
+[PAGE 180]
 [TABLE_755]
  | A- 36 | 
 [/TABLE_755]
@@ -9858,6 +10217,8 @@ Cumulative Net Loss Information
 cumulative net loss information for Ford Credit's prior securitized pools of retail installment sale contracts for all transactions issued
 since 2019.
 See page A-1 for footnotes
+
+[PAGE 181]
 [TABLE_756]
  | A- 37 | 
 [/TABLE_756]

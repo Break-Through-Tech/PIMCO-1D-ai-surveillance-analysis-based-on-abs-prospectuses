@@ -1,3 +1,4 @@
+[PAGE 1]
 This document is subject to
       completion and amendment.  This prospectus is not an offer to sell these securities and it is not soliciting an offer to buy these securities in any state or foreign jurisdiction where the offer or sale is not permitted.
 Filed Pursuant to
@@ -80,6 +81,8 @@ Co-Managers
 CIBC Capital Markets | SOCIETE GENERALE
 [/TABLE_13]
 June __, 2025
+
+[PAGE 2 | printed ii]
 TABLE OF CONTENTS
 Page
 [TABLE_14]
@@ -133,6 +136,8 @@ Determination of Residual Values | 85
 Calculation of the Securitization Value of the Specified Leases | 86
 [/TABLE_14]
 ii
+
+[PAGE 3 | printed iii]
 [TABLE_15]
 Delinquencies, Repossessions and Loss Information | 86
 Static Pools | 90
@@ -192,6 +197,8 @@ Rights Upon Servicer Default | 143
 Insolvency Event | 144
 [/TABLE_15]
 iii
+
+[PAGE 4 | printed iv]
 [TABLE_16]
 Administration Agreement | 144
 Amendment | 145
@@ -236,6 +243,8 @@ APPENDIX B | - | Assumed Cashflows | Ap-B-1
 ANNEX A | - | Global Clearance, Settlement and Tax Documentation Procedures | A-1
 [/TABLE_17]
 iv
+
+[PAGE 5 | printed 1]
 Important Notice About Information Presented in this Prospectus
 We have started with an introductory section describing the issuing entity and the notes in abbreviated form, followed by a more complete
         description of the terms.  The introductory section is the Summary of Terms, which gives a brief introduction to the notes to be offered.
@@ -281,6 +290,8 @@ UK retail investor
 ” means a person who is one (or more) of: (i) a retail client, as defined in point (8) of Article 2 of Commission Delegated Regulation (EU) 2017/565 as it forms part of the
         domestic law of the UK by virtue of the European Union
 1
+
+[PAGE 6 | printed 2]
 (Withdrawal) Act 2018 (as amended, the “
 EUWA
 ”), and as amended; or (ii) a customer within the meaning of the provisions of the Financial
@@ -337,11 +348,15 @@ NI 33-105
 
         the underwriters are not required to comply with the disclosure requirements of NI 33-105 regarding underwriter conflicts of interest in connection with this offering.
 2
+
+[PAGE 7 | printed 3]
 Copies of the Documents
 If you have received a copy of this prospectus, you may request a copy of any information that we have incorporated by reference in this
         prospectus, excluding any exhibit to such information unless such exhibit is specifically incorporated by reference in that information, at no cost by contacting BMW Auto Leasing LLC at the following address or telephone number: BMW Auto Leasing
         LLC, c/o BMW Financial Services NA, LLC, 200 BMW Drive, Woodcliff Lake, New Jersey 07677; telephone: (201) 307-4000.  Copies of these materials can also be obtained electronically through the SEC’s internet website (www.sec.gov).
 3
+
+[PAGE 8 | printed 4]
 Summary of Transaction
 This chart provides only a simplified overview of the relations between the key parties to the transaction.  Refer to this prospectus for a further description.
 [TABLE_18]
@@ -351,13 +366,19 @@ This chart provides only a simplified overview of the relations between the key 
  | • | The SUBI represents a beneficial interest in a pool of closed-end BMW vehicle leases and the related BMW leased vehicles.
 [/TABLE_19]
 4
+
+[PAGE 9 | printed 5]
 Summary of Monthly Deposits to and Withdrawals from Accounts
 This chart provides only a simplified overview of the monthly flow of funds.  Refer to this prospectus for a further description.
 5
+
+[PAGE 10 | printed 6]
 Summary of Monthly Distributions of Available Amounts
 (Prior to an Acceleration of the Maturity of the Notes)
 This chart provides only a simplified overview of the monthly flow of funds.  Refer to this prospectus for a further description.
 6
+
+[PAGE 11 | printed 7]
 Summary of Terms
 The following summary contains a brief description of the terms of the offering of the notes.  You will find a more detailed description
           following this summary.  You should carefully read and consider this entire document, including any documents incorporated by reference herein, to understand all of the terms of the offering of the notes before making your investment decision.
@@ -388,6 +409,8 @@ Administration Agreement |  | The administration agreement among the administrat
                   the provision of reports by the administrator and the performance by the administrator of other administrative duties for the issuing entity.
 [/TABLE_21]
 7
+
+[PAGE 12 | printed 8]
 [TABLE_22]
 SUBI Trust Agreement |  | Collectively, the vehicle trust agreement, as amended and restated, between BMW Manufacturing L.P. and the vehicle trustee, which governs the vehicle
                   trust, and the SUBI supplement thereto between BMW Manufacturing L.P. and the vehicle trustee, under which the SUBI certificate is issued to BMW Manufacturing L.P. | 
@@ -413,6 +436,8 @@ Expected Final Payment Dates |  | The final principal payment for each class of 
                   this prospectus.  However, due to a variety of factors described herein, there can be no | 
 [/TABLE_22]
 8
+
+[PAGE 13 | printed 9]
 [TABLE_23]
  |  | assurance that your class of notes will not actually be paid in full on an earlier or on a later payment date. We
                     refer you to “Risk Factors” in this prospectus for discussions of certain of these factors. | 
@@ -431,6 +456,8 @@ Assets |  | The primary asset of the issuing entity will consist of the SUBI cer
  |  | • the number of specified leases was 30,480; | 
 [/TABLE_23]
 9
+
+[PAGE 14 | printed 10]
 [TABLE_24]
  |  | • the aggregate securitization value of the specified leases, discounted using the securitization rate, was $1,554,404,327.41; • the aggregate residual value of the specified leases being financed, discounted using the securitization rate, was $839,064,919.72 (which is approximately 53.98% of the aggregate securitization
                     value); • the weighted average original term to maturity of the specified leases was 36 months; and • the weighted average remaining term to maturity of the specified leases was 26 months. | 
@@ -448,6 +475,8 @@ Review of Pool Assets |  | In connection with the offering of the notes, the dep
                     of a credit bureau report, use of internet verification tools and a review of the applicant’s credit score based on a combination of such applicant’s credit bureau score and BMW FS’ own internal credit scoring process. | 
 [/TABLE_24]
 10
+
+[PAGE 15 | printed 11]
 [TABLE_25]
  |  | If the aggregate initial principal amount of the notes is $1,100,000,000, 19,278 of the
                     specified leases, having an aggregate securitization value of approximately $927,318,789.31 as of the cutoff date (approximately 73.22% of the aggregate securitization value of the specified leases as of the cutoff date), were
@@ -470,6 +499,8 @@ Removal of Pool Assets |  | The servicer may be required to reallocate from the 
                     which the related specified lease has reached its maturity date. For more information regarding the representations and warranties made with respect to the specified leases and
 [/TABLE_27]
 11
+
+[PAGE 16 | printed 12]
 [TABLE_28]
  |  | specified vehicles, and the remedies for breaches of such representations and warranties, see “The Specified Leases—General” and
                     “—Representations, Warranties and Covenants” in this prospectus.
@@ -487,6 +518,8 @@ Credit Risk Retention |  | The risk retention regulations in Regulation RR of th
                     Regulation RR. For more information regarding the risk retention regulations and the sponsor’s method of compliance with those regulations, see “Credit Risk Retention” in this prospectus.
 [/TABLE_28]
 12
+
+[PAGE 17 | printed 13]
 [TABLE_29]
 EU Securitization Regulation and UK Securitization Framework |  | The transaction described in this prospectus has not been structured with the objective of enabling or facilitating compliance by any person with the due diligence or other
                   requirements of: (i) Regulation (EU) 2017/2402 of the European Parliament and of the Council of December 12, 2017 (as amended, the “ EU Securitization Regulation ”) or (ii) the framework for the
@@ -505,6 +538,8 @@ General |  | The notes consist of: • the Class A-1 Notes; • the Class A-2a N
                   pricing. See “ Risk Factors—Risks Primarily Related to the Nature of the
 [/TABLE_29]
 13
+
+[PAGE 18 | printed 14]
 [TABLE_30]
  |  | Notes and the Structure of the Transaction—Risks associated with unknown aggregate initial principal amount of the notes .” All or a portion of one or more classes of the notes may be retained by the depositor or an affiliate of the depositor on the closing date. The issuing entity will also issue certificates representing the equity interest in the issuing entity.  The certificates will initially be held by the
                   depositor.  The depositor currently does not expect to sell the certificates, but may do so, to the extent permitted by Regulation RR. The certificates are not being offered to you by this prospectus.  Any information in this prospectus relating to the certificates is presented solely to
@@ -528,6 +563,8 @@ Terms of the Notes |  | In general, noteholders will receive payments of interes
                   any
 [/TABLE_30]
 14
+
+[PAGE 19 | printed 15]
 [TABLE_31]
  |  | interest accrual period, then the interest rate for the Class A-2b Notes for such interest accrual period will be deemed to be 0.00%.  For a description
                   of how interest will be calculated on the Class A-2b Notes, see “ Description of the Notes—Interest ” in this prospectus. The Class A - 2a Notes, the Class A-3 Notes and the Class A-4 Notes will accrue interest on a
@@ -550,6 +587,8 @@ Priority of Payments |  | On each payment date prior to the acceleration of the 
  |  | 3. to the indenture trustee (in each of its capacities under the transaction documents), the owner trustee and the asset
 [/TABLE_31]
 15
+
+[PAGE 20 | printed 16]
 [TABLE_32]
  |  | representations reviewer, the amount of any unpaid fees, costs, expenses and indemnification amounts due and owing to each such
                   party, pro rata, based on amounts due and owing to each such party, in an aggregate amount not to exceed $250,000 in any calendar year;
@@ -562,6 +601,8 @@ Priority of Payments |  | On each payment date prior to the acceleration of the 
                   (5) above, and which amount will be allocated to pay principal on the notes in the order of priority set forth under “ —Distributions from the Note Distribution Account” and “—Acceleration of the Notes; Change in Priority of Payments upon Acceleration of the Notes ” below;
 [/TABLE_32]
 16
+
+[PAGE 21 | printed 17]
 [TABLE_33]
  |  | 8. to the indenture trustee (in each of its capacities under the transaction documents), the owner trustee and the asset representations reviewer, the amount of any fees, costs, expenses and
                     indemnification amounts due to each such party and remaining unpaid as a result of the cap set forth in clause (3) above, pro rata, based on amounts due and owing to each such party; and
@@ -582,6 +623,8 @@ Acceleration of the Notes; Change in Priority of Payments upon Acceleration of t
                   under the second bullet point above for a period of 60 days or less, or under the third bullet point above for a period of 120
 [/TABLE_33]
 17
+
+[PAGE 22 | printed 18]
 [TABLE_34]
  |  | days or less, will not constitute an event of default if that failure or delay was caused by a force majeure or
                   other similar occurrence. See “Payments on the Notes” and “Description of the Transaction Documents—The
@@ -599,6 +642,8 @@ Minimum Denominations, Registration, Clearance and Settlement |  | The notes of 
                   will be issued in book-entry form and will be registered in the name of Cede & Co., as the nominee of The Depository Trust Company, the clearing agency.
 [/TABLE_34]
 18
+
+[PAGE 23 | printed 19]
 [TABLE_35]
 Optional Purchase |  | The servicer may, at its option, purchase the interest in the 2025-1 SUBI evidenced by the SUBI certificate from the issuing entity on any payment date
                   if, either before or after giving effect to any payment of principal required to be made on such payment date, the aggregate outstanding note balance is less than or equal to 5% of the initial aggregate principal amount of the notes.
@@ -618,6 +663,8 @@ Credit Enhancement |  | Credit enhancement is intended to protect you against lo
                   funds, including any excess cashflow, to achieve and maintain overcollateralization at the overcollateralization target
 [/TABLE_35]
 19
+
+[PAGE 24 | printed 20]
 [TABLE_36]
  |  | amount.  This application will result in the payment of more principal on the notes so long as these amounts are available for this purpose.  As the
                   principal amounts of the notes are reduced faster than the reduction in the aggregate securitization value of the specified leases, credit enhancement in the form of additional overcollateralization is created.
@@ -635,6 +682,8 @@ Advances |  | On or before each deposit date, the servicer (i) is required to ad
                   user-lessees and (ii) may, at its option, advance to the issuing entity an amount equal to the securitization value of specified vehicles for which the related specified leases have terminated during the related collection period and that the servicer has not sold. The servicer will not
 [/TABLE_36]
 20
+
+[PAGE 25 | printed 21]
 [TABLE_37]
  |  | be required to make any advance if it determines that it will not be able to recover an advance from future payments on the related specified lease or
                   specified vehicle.
@@ -654,6 +703,8 @@ Asset Representations Reviewer Fees and Expenses |  | The asset representations 
                   the issuing entity for all costs, expenses and indemnification amounts incurred by it in connection with the performance of its duties under the asset representations review agreement.
 [/TABLE_37]
 21
+
+[PAGE 26 | printed 22]
 [TABLE_38]
 CUSIP Numbers |  | Class A-1 Notes: 096912AA8 Class A-2a Notes: 096912AB6 Class A-2b Notes: 096912AC4 Class A-3 Notes: 096912AD2 Class A-4 Notes: 096912AE0
 Tax Status |  | Tax counsel to the depositor is of the opinion, subject to the assumptions set forth in this prospectus, that although there is no authority with respect
@@ -669,6 +720,8 @@ ERISA Considerations |  | The notes are generally eligible for acquisition by em
                   you should, among other things, consult with your counsel in determining whether all required conditions have been satisfied.
 [/TABLE_38]
 22
+
+[PAGE 27 | printed 23]
 [TABLE_39]
 Ratings |  | The sponsor has hired two rating agencies and will pay them a fee to assign ratings on the notes.  It is a condition to the issuance of the notes that
                   they receive certain credit ratings from the two rating agencies hired by the sponsor.  The sponsor has not hired any other nationally recognized statistical rating organization, or “NRSRO,” to assign ratings on the notes and is not aware
@@ -681,6 +734,8 @@ Certain Investment Company Act Considerations |  | In determining that the issui
                   Act.
 [/TABLE_39]
 23
+
+[PAGE 28 | printed 24]
 Summary of Risk Factors
 The following summary is a concise description of certain of the material risk factors that you should consider in making your decision to purchase any notes.  This summary does not
         purport to summarize all of the risks that you should consider in making your decision to purchase any notes.  You should carefully read the risks factors set forth under “
@@ -754,6 +809,8 @@ The notes are subject to certain risks related to the specified leases, the rela
                 such conditions and disasters resulting from climate change), public health concerns, economic developments and other similar events in specific geographic areas;
 [/TABLE_56]
 24
+
+[PAGE 29 | printed 25]
 [TABLE_57]
  | • | the turn-in rates under the specified leases and certain factors that could adversely affect the used car market;
 [/TABLE_57]
@@ -815,6 +872,8 @@ The notes are subject to certain general risks applicable to transactions of thi
  | • | limitations on your ability to exercise rights directly, due to the absence of physical notes, and potential delays in receiving payments as the result of the notes being held in book-entry form.
 [/TABLE_72]
 25
+
+[PAGE 30 | printed 26]
 Risk Factors
 You should consider the following risk factors in deciding whether to purchase the notes.
 Risks Primarily Related to the Nature of the Notes and the Structure of the Transaction
@@ -845,6 +904,8 @@ Payment defaults or the insolvency or dissolution of the issuing entity may resu
         principal amount of the outstanding notes to sell the assets of the issuing entity and prepay the notes.  In the event the indenture trustee sells the assets of the issuing entity under adverse market conditions, proceeds from such sale may not be
         sufficient to repay all of the notes and you may suffer a loss.
 26
+
+[PAGE 31 | printed 27]
 The notes are subject to risk because payments on the notes are subordinated to certain fees and other payments.
 The notes are subject to risk because payments of principal and interest on the notes on each payment date are subordinated to payment of any payment date advance
         reimbursement amount
@@ -878,6 +939,8 @@ Some prepayments may be caused by the servicer.  The servicer may be required to
 In addition, the servicer has the option to purchase the interest in the 2025-1 SUBI evidenced by the SUBI certificate from the issuing entity when the aggregate
         principal amount of the notes is less than or equal to 5% of the initial aggregate principal amount of the notes.  If exercised, this could reduce the average lives of the notes.
 27
+
+[PAGE 32 | printed 28]
 Further, the specified leases may be prepaid, in full or in part, voluntarily or as a result of defaults, theft of or damage to the related specified vehicles or
         for other reasons. The rate of prepayments on the specified leases may also be influenced by a variety of economic, social and other factors.  For these reasons, the servicer cannot predict the actual prepayment rates for the specified leases. You
         will bear any reinvestment risks resulting from prepayments on the specified leases and the corresponding acceleration of payments on the notes.
@@ -919,6 +982,8 @@ EEA
 ”) or the UK in relation to risk retention, due diligence and monitoring, credit granting standards, transparency or any other conditions with respect
         to investments in securitization transactions.
 28
+
+[PAGE 33 | printed 29]
 The arrangements described under “
 Credit Risk Retention
 ” in this prospectus have not been structured with the objective of
@@ -963,6 +1028,8 @@ SOFR
 Description of the Notes—Interest
 ” in this prospectus.  SOFR is a relatively new interest rate index, and the way that SOFR and any market-accepted adjustments to SOFR are determined may change over time.
 29
+
+[PAGE 34 | printed 30]
 SOFR is intended to be a broad measure of the cost of borrowing cash overnight collateralized by U.S. Treasury securities. SOFR is calculated as a volume-weighted
         median of transaction-level tri-party repo data collected from The Bank of New York Mellon as well as General Collateral Finance Repo transaction data and data on bilateral Treasury repo transactions cleared through The Fixed Income Clearing
         Corporation’s delivery-versus-payment service.  The FRBNY notes that it obtains information from DTCC Solutions LLC, an affiliate of The Depository Trust & Clearing Corporation.  The FRBNY states on its publication page for SOFR that the use of
@@ -996,6 +1063,8 @@ Because SOFR is a relatively new market index, the Class A-2b Notes will likely 
         later-issued notes with interest rates based on SOFR as a result.  Investors in the Class A-2b Notes may not be able to sell the Class A-2b Notes at all or may not be able to sell the Class A-2b Notes at prices that will provide them with yields
         comparable to those of similar investments
 30
+
+[PAGE 35 | printed 31]
 that have a developed secondary market, and may consequently experience increased pricing volatility and market risk.  If SOFR does not become widely adopted for
         securities like the Class A-2b Notes, or if the specific methodology for calculating interest on the Class A-2b Notes is not widely adopted by other market participants, the trading prices of the Class A-2b Notes may be lower than those of similar
         securities which are linked to indices that are more widely used.
@@ -1030,6 +1099,8 @@ BMW FS, as administrator, will have significant discretion with respect to certa
         benchmark transition event and its related benchmark replacement date have occurred, determining which related benchmark replacement is available, determining the earliest practicable determination date for using the related benchmark replacement,
         determining related benchmark
 31
+
+[PAGE 36 | printed 32]
 replacement adjustments (if not otherwise determined by the applicable governing bodies or authorities) and making related benchmark replacement conforming changes
         (including potential changes affecting the business day convention and determination date).  Noteholders, including noteholders of the Class A-2b Notes, will not have any right to approve or disapprove of these determinations or changes and will be
         deemed to waive and release any and all claims relating to any such determinations and changes.  If BMW FS, as administrator, determines in its sole discretion that an alternative index is not administratively feasible, including as a result of
@@ -1062,6 +1133,8 @@ Risk
         geographic concentration of the related user-lessees.  The occurrence of any such events could also adversely affect the ability of BMW FS and the other transaction parties to perform their respective obligations under the transaction documents,
         which could have an adverse effect on the timing and amount of payments on the notes.
 32
+
+[PAGE 37 | printed 33]
 Concentrations of specified vehicles in particular models or powertrain types could negatively affect the pool assets.
 If the aggregate initial principal amount of the notes is $1,100,000,000, the X5, X3, X7, 4 Series, 5 Series, 3 Series and 7 Series models represent approximately
         18.41%, 16.79%, 10.88%, 9.17%, 7.99%, 7.18% and 6.75%, respectively, of the aggregate securitization value of the specified vehicles as of the cutoff date.  If the aggregate initial principal amount of the notes is $1,350,000,000, the X5, X3, X7, 4
@@ -1107,6 +1180,8 @@ The geographic concentration of the specified leases and performance of the
 Economic conditions, such as unemployment, interest rates, inflation rates and consumer perceptions of the economy, in the states where user-lessees reside may
         affect delinquencies, losses and prepayments on the specified leases.  If
 33
+
+[PAGE 38 | printed 34]
 there is a concentration of vehicle registrations in particular states, any adverse economic conditions in those states, including those caused by extreme weather
         conditions and natural disasters, public health concerns and other similar events may affect the rate of prepayments and defaults on the specified leases and the ability to sell or dispose of the related specified vehicles for an amount at least
         equal to their
@@ -1151,6 +1226,8 @@ Events in the global financial markets, including downgrades of sovereign credit
         or pandemics, and slowing economic growth in the past have caused (and in the future may cause again) a significant reduction in liquidity in the secondary market for asset-backed securities, which could adversely affect the market value of the
         notes and limit the ability of an investor to sell its notes.
 34
+
+[PAGE 39 | printed 35]
 Geopolitical conditions and other market events, including disruptive trade policies, disruption of operations as a result of systemic political or economic
         instability, adverse changes to tax laws and regulations, tariffs, social unrest, outbreak of war or expansion of hostilities (such as continued or escalated hostilities between Russia and Ukraine and in the Middle East), public health concerns,
         climate-related risk, and acts of terrorism, could each have a material adverse effect on BMW FS’ business, results of operations and financial condition, and could have an adverse effect on the notes.
@@ -1184,6 +1261,8 @@ Each specified lease requires the user-lessee to obtain physical damage insuranc
 We refer you to “BMW FS’ Lease Financing Program—Physical Damage and Liability Insurance; Additional Insurance Provisions” and “—Contingent and
         Excess Liability Insurance” in this prospectus.
 35
+
+[PAGE 40 | printed 36]
 Vehicle recalls may adversely affect the performance of the specified leases and your notes.
 Applicable laws, regulations and governmental standards require manufacturers to take actions, from time to time, to remedy defects related to vehicle safety
         through safety recall campaigns.  BMW of North America, LLC may be obligated to recall certain specified vehicles if it determines that the vehicles do not comply with an applicable safety standard.  Defects in products can also lead to customer
@@ -1222,6 +1301,8 @@ The Dodd-Frank Act affects the offering, marketing and regulation of consumer fi
         BMW FS.  The Consumer Financial Protection Bureau has supervision, examination and enforcement authority over the consumer financial products and services of certain non-depository institutions and large insured depository institutions, including
         the ability to define and regulate unfair,
 36
+
+[PAGE 41 | printed 37]
 deceptive and abusive acts and practices.  For additional information, you should refer to “
 Certain Legal Aspects of the
           Specified Leases and the Specified Vehicles—Consumer Protection Laws.
@@ -1264,6 +1345,8 @@ FTC
 ”) and state attorneys general have, in recent years, increased their
         scrutiny of motor vehicle dealers and auto lending, particularly with respect to antidiscrimination and deception concerns related to the prices of, and fees charged in connection with, automobile financing, including add-on products
 37
+
+[PAGE 42 | printed 38]
 such as GAP insurance and extended warranties. Also, on December 12, 2023 the FTC issued a final rule that would have (i) prohibited motor vehicle dealers from
         making certain misrepresentations in the course of selling, leasing, or arranging financing for motor vehicles, (ii) required accurate pricing disclosures in dealers’ advertising and sales discussions, (iii) required dealers to obtain consumers’
         express, informed consent for charges, (iv) prohibited the sale of any add-on product or service that confers no benefit to the consumer, and (v) required dealers to keep records of advertisements and customer transactions.  The effective date was
@@ -1293,6 +1376,8 @@ Numerous federal and state consumer protection laws, including the federal Consu
 We refer you to “Certain Legal Aspects of the Specified Leases and the Specified Vehicles—Consumer Protection Laws” in this
         prospectus.
 38
+
+[PAGE 43 | printed 39]
 The return on your notes could be reduced by shortfalls due to the Servicemembers Civil Relief Act.
 The Servicemembers Civil Relief Act, as amended, and similar laws of many states may provide relief to user-lessees who enter active military service and to
         user-lessees in reserve status who are called to active duty after the origination of their leases.  U.S. military operations and rising tensions in other regions may continue to involve military operations that will increase the number of citizens
@@ -1326,6 +1411,8 @@ State and federal courts considering whether the Transportation Act preempts sta
         preempted with respect to cases commenced on or after August 10, 2005. One New York lower court, however, reached a contrary conclusion, concluding that the preemption provision in the Transportation Act was an unconstitutional exercise of
         congressional authority under the Commerce Clause of the
 39
+
+[PAGE 44 | printed 40]
 United States Constitution and, therefore, did not preempt New York law regarding vicarious liability. New York’s appellate court overruled the trial court and
         upheld the constitutionality of the preemption provision in the Transportation Act. New York’s highest court, the Court of Appeals, dismissed the appeal. In a 2008 decision relating to a case in Florida, the U.S. Court of Appeals for the 11th
         Circuit upheld the constitutionality of the preemption provision in the Transportation Act, and the plaintiffs’ petition seeking review of the decision by the U.S. Supreme Court was denied.  In 2010, the U.S. Court of Appeals for the 8th Circuit
@@ -1351,6 +1438,8 @@ Because the servicer is paid its servicing fee based on a percentage of the aggr
         servicer to agree to assume the duties of the servicer with respect to the remaining specified leases and specified vehicles.  If there is a delay in obtaining a successor servicer, it is possible that normal servicing activities could be disrupted
         during this period, which may delay or reduce payments to noteholders.
 40
+
+[PAGE 45 | printed 41]
 Commingling by the servicer may result in delays and reductions in payments on your notes.
 So long as BMW FS is the servicer, no servicer default has occurred and is continuing and either certain conditions established by the rating agencies rating the
         notes have been satisfied or alternative arrangements satisfactory to such rating agencies have been made, the servicer will not have to deposit collections into the SUBI collection account until the business day preceding the related payment
@@ -1387,6 +1476,8 @@ Following a bankruptcy or insolvency of the servicer or the depositor, a court c
                 interest in any cash collections of the specified leases and specified vehicles held by the servicer at the time that a bankruptcy proceeding begins.
 [/TABLE_80]
 41
+
+[PAGE 46 | printed 42]
 The depositor will take steps in structuring each transaction described in this prospectus to minimize the risk that a court would consolidate the depositor with
         BMW FS for bankruptcy purposes or conclude that the transfer of the SUBI certificate was not a “true sale.”
 We refer you to “Certain Legal Aspects of the Vehicle Trust and the 2025-1 SUBI—Insolvency-Related Matters” in this prospectus.
@@ -1423,6 +1514,8 @@ BMW FS’ Lease Financing Program—Electronic Contracts and Electronic Contract
         vaulting system recognizes, and any third-party vaulting system that it may utilize will recognize, BMW FS as the party having control of specified leases originated electronically by the vehicle trust, and BMW FS, as servicer, will maintain
         control of those specified leases on behalf of the vehicle trust and its assigns.  BMW FS’
 42
+
+[PAGE 47 | printed 43]
 electronic vaulting system is designed, and any third-party vaulting system will be designed, to enable the vehicle trust to perfect its interest in leases
         evidenced by electronic contracts by satisfying the Uniform Commercial Code’s requirements for “control” of electronic chattel paper.  For a description of these requirements,
 see “Certain Legal Aspects of the
@@ -1455,6 +1548,8 @@ The notes are not a suitable investment for any investor that requires a regular
         complex investments that should be considered only by sophisticated investors.  We suggest that only investors who, either alone or with their financial, tax and legal advisors, have the expertise to analyze the prepayment, reinvestment and default
         risks, the tax consequences of an investment and the interaction of these factors should consider investing in the notes.
 43
+
+[PAGE 48 | printed 44]
 You may have difficulty selling your notes or obtaining your desired sales price.
 The notes will not be listed on any securities exchange. Therefore, to sell your notes, you must first locate a willing purchaser.  The underwriters may or may not
         make a secondary market for the notes. If they do, they will not be obligated to make offers to buy the notes and may stop making offers at any time.  In addition, the underwriters may be unwilling or unable to make a market in the notes due to
@@ -1491,6 +1586,8 @@ Because the notes will be issued in book-entry form, you will be required to hol
         the caption
 “Description of the
 44
+
+[PAGE 49 | printed 45]
 Notes—Book-Entry Registration.”
 Unless and until the notes cease to be held in book-entry form, the indenture trustee will
         not recognize you as a “noteholder.”  As a result, except for certain rights to request an asset representations review, make a reallocation request, participate in certain dispute resolution matters and communicate with other investors, you will
@@ -1500,6 +1597,8 @@ Unless and until the notes cease to be held in book-entry form, the indenture tr
         payments received from the issuing entity to the accounts of its participants which, in turn, will credit those amounts to noteholders either directly or indirectly through indirect participants.  This process may delay your receipt of principal
         and interest payments from the issuing entity.
 45
+
+[PAGE 50 | printed 46]
 Defined Terms
 You can find a listing of the pages in this prospectus where the principal terms are defined under “
 Index of
@@ -1581,6 +1680,8 @@ Certificateholders
 .” Each Note will represent an obligation of, and each Certificate will represent a fractional undivided interest in, the Issuing Entity.  Payments in respect of the
         Certificates will be subordinated to payments in respect of the Notes to the extent described in this prospectus.  The Notes are the only securities being offered hereby.  The Certificates are not being offered to you in this offering.
 46
+
+[PAGE 51 | printed 47]
 The Issuing Entity
 Formation
 The Issuing Entity is a Delaware statutory trust that has been formed solely for the purposes of the transactions described in this prospectus.
@@ -1642,6 +1743,8 @@ Rating Agencies
 The Issuing Entity may not issue securities other than the Notes and the Certificates.  Except for the Securities, the Issuing Entity is also prohibited from
         borrowing money or making loans to any other person.
 47
+
+[PAGE 52 | printed 48]
 The term “
 Transaction Documents
 ” refers to, collectively, the Indenture, the SUBI Trust Agreement, the Servicing Agreement,
@@ -1696,6 +1799,8 @@ Trust
  | • | the rights of the Vehicle Trust under any related dealer agreements;
 [/TABLE_94]
 48
+
+[PAGE 53 | printed 49]
 [TABLE_95]
  | • | the rights of the Issuing Entity as a third party beneficiary of the Servicing Agreement and the SUBI Trust Agreement; and
 [/TABLE_95]
@@ -1747,6 +1852,8 @@ _____________________ (1) To be an amount not less than 0.25% of the Aggregate S
                 Leases as of the Cutoff Date. This amount may be adjusted upward.
 [/TABLE_99]
 49
+
+[PAGE 54 | printed 50]
 The following table illustrates the approximate capitalization of the Issuing Entity as of the Closing Date if the aggregate initial principal
         amount of the Notes is $1,350,000,000, as if the issuance and sale of the Notes had taken place on that date:
 [TABLE_100]
@@ -1791,6 +1898,8 @@ The Depositor was organized primarily for the purpose of acquiring interests in 
  | • | acquiring from BMW FS the certificates or notes issued by one or more issuing entities to which BMW FS or one of its subsidiaries transferred the Receivables;
 [/TABLE_106]
 50
+
+[PAGE 55 | printed 51]
 [TABLE_107]
  | • | performing its obligations under each applicable trust agreement, indenture and any other related agreements; and
 [/TABLE_107]
@@ -1834,6 +1943,8 @@ BMW FS began originating retail leases and began selling retail installment sale
         defaulted, or otherwise been accelerated due to the occurrence of an early amortization or other performance triggering event.  BMW FS has never failed to pay principal in full at maturity on any of its securities issued in a term securitization. 
         BMW FS only securitizes leases that it has originated, and it selects such leases based on specified selection criteria, certain of which are described in this prospectus.
 51
+
+[PAGE 56 | printed 52]
 BMW FS expects that asset-backed debt offerings will continue to be a material funding source for BMW FS. For additional information regarding BMW FS’ overall
         procedures for originating or acquiring and securitizing assets similar to the Specified Leases, you should refer to “
 BMW FS’ Lease Financing Program
@@ -1883,6 +1994,8 @@ The fair value of the Certificates is expected to equal at least 5% of the aggre
 If the aggregate initial principal amount of the Notes is $1,100,000,000, the fair value of the Notes and the Certificates is summarized below. 
         The totals in the table may not sum due to rounding:
 52
+
+[PAGE 57 | printed 53]
 [TABLE_109]
  | Fair Value (in millions) |  | Fair Value (as a percentage of the aggregate fair value of the Notes and Certificates)
 Class A-1 Notes | $167.0 |  | 12.6%
@@ -1930,6 +2043,8 @@ if the aggregate initial principal amount of the Notes is $1,350,000,000
 ,
         $255,500,000 and $255,500,000, respectively.  It is also assumed that the final interest rates of the Notes will be consistent with the interest rate assumptions below:
 53
+
+[PAGE 58 | printed 54]
 [TABLE_114]
 Class |  | Range of Interest Rates
 Class A-1 |  | 4.648% - 4.748%
@@ -1984,6 +2099,8 @@ The Sponsor developed these inputs and assumptions by considering the following 
  | • | The cumulative net loss rate is estimated using assumptions for both the magnitude of lifetime cumulative net losses and the shape of the cumulative net loss curve.  The lifetime cumulative net
 [/TABLE_125]
 54
+
+[PAGE 59 | printed 55]
 loss assumption and the shape of the cumulative net loss curve were developed considering the composition of each pool of Specified Leases, the
         performance of prior pools of leases securitized by the Sponsor, the performance of leases in the Sponsor’s managed portfolio, economic conditions, and the cumulative net loss assumptions of the Rating Agencies.  Default and recovery rate estimates
         are included in the cumulative net loss assumption.
@@ -2026,6 +2143,8 @@ The Vehicle Trust, the UTI Beneficiary and the Depositor are affiliates of the S
         the Sponsor, the Depositor, the Servicer, the Indenture Trustee, the Owner Trustee or any of their respective affiliates, and has not performed, and is not affiliated with any party hired by the Sponsor or any underwriter to perform, pre-closing
         due diligence work on the Specified Leases.  For information regarding any interest in the transaction retained by the Depositor, the Sponsor or their
 55
+
+[PAGE 60 | printed 56]
 affiliates to satisfy the credit risk retention rules, see “
 Credit Risk Retention
 .”  The Owner Trustee and the Indenture
@@ -2067,6 +2186,8 @@ U.S. Bank has provided corporate trust services since 1924.  As of March 31, 202
 The Indenture Trustee shall make each monthly statement available to the holders of the Notes via the Indenture Trustee’s internet website at
         https://pivot.usbank.com.  Holders of the Notes with questions may direct them to the Indenture Trustee’s bondholder services group at (800) 934-6802.
 56
+
+[PAGE 61 | printed 57]
 As of March 31, 2025, U.S. Bank (and its affiliate U.S. Bank Trust National Association) was acting as indenture trustee, registrar and paying
         agent on 211 issuances of automobile receivables-backed securities with an outstanding aggregate principal balance of approximately $92,623,800,000.
 U.S. Bank N.A. and other large financial institutions have been sued in their capacity as trustee or successor trustee for certain residential
@@ -2109,6 +2230,8 @@ The Owner Trustee’s or the Indenture Trustee’s liability in connection with 
         becomes insolvent or otherwise ceases to be eligible to continue in that capacity under the Indenture.  In those circumstances, the Depositor or the Issuing Entity, as the case may be, will be obligated to appoint a successor owner trustee or
         indenture trustee, respectively.  Any
 57
+
+[PAGE 62 | printed 58]
 resignation or removal of the Owner Trustee or Indenture Trustee and appointment of a successor trustee will not become effective until acceptance of the
         appointment by the successor.
 The Issuing Entity is required under the Transaction Documents to indemnify the Owner Trustee for any loss, liability, fee, disbursement or
@@ -2144,6 +2267,8 @@ Clayton and its affiliates are leading providers of targeted due diligence revie
         primarily on residential mortgage loan and residential mortgage-backed security transactions, although Clayton and its affiliates have also performed these services for transactions involving auto loans, equipment leases, credit cards, commercial
         mortgage loans, student loans, timeshare loans and boat and recreational vehicle loans.
 58
+
+[PAGE 63 | printed 59]
 Fees and Expenses
 The Asset Representations Reviewer will receive as compensation an annual fee equal to $5,000 (the “
 ARR Service
@@ -2185,6 +2310,8 @@ The Asset Representations Reviewer will not be liable to any person or entity fo
         expense, loss, damage or liability resulting from (i) the Asset Representations Reviewer’s willful misconduct, bad faith or negligence or reckless disregard of its obligations and duties under the Asset Representations Review Agreement or (ii) the
         Asset Representations Reviewer’s breach of
 59
+
+[PAGE 64 | printed 60]
 any of its representations or warranties in the Asset Representations Review Agreement.  The Asset Representations Reviewer will indemnify each of the Issuing
         Entity, the Depositor, the Servicer, the Owner Trustee and the Indenture Trustee and their respective officers, directors, successors, assigns, legal representatives, agents, and servants for all fees, costs, expenses, losses, damages and
         liabilities resulting from the willful misconduct, bad faith or negligence of the Asset Representations Reviewer in performing its obligations under the Asset Representations Review Agreement; provided, however, that the Asset Representations
@@ -2237,6 +2364,8 @@ Under the Vehicle Trust Agreement, the Vehicle Trust has not and will not:
  | • | invest in or underwrite securities;
 [/TABLE_136]
 60
+
+[PAGE 65 | printed 61]
 [TABLE_137]
  | • | offer securities in exchange for Vehicle Trust Assets, with the exception of the SUBI Certificate issued in connection with the Securities, Other SUBI Certificates and the UTI Certificates; or
 [/TABLE_137]
@@ -2281,6 +2410,8 @@ In the ordinary course of business, The Bank of New York Mellon is named as a de
         actions.  In connection with its role as trustee of certain RMBS transactions, The Bank of New York Mellon has been named as a defendant in a number of legal actions brought by RMBS investors.  These lawsuits allege that the trustee had expansive
         duties under the governing agreements, including the duty to investigate
 61
+
+[PAGE 66 | printed 62]
 and pursue breach of representation and warranty claims against other parties to the RMBS transactions.  While it is inherently difficult to predict the eventual
         outcomes of pending action, The Bank of New York Mellon denies liability and intends to defend the litigations vigorously.
 The Vehicle Trustee will make no representations as to the validity or sufficiency of 2025-1 SUBI or the SUBI Certificate (other than with
@@ -2310,6 +2441,8 @@ The Vehicle Trustee will be indemnified and held harmless by BMW FS or out of an
         arising with respect to any Vehicle Trust Asset, or (b) the Vehicle Trustee’s acceptance or performance of the trusts and duties contained in the SUBI Trust Agreement. Notwithstanding the foregoing, the Vehicle Trustee will not be indemnified or
         held harmless out of the Vehicle Trust Assets as to such fees and expenses:
 62
+
+[PAGE 67 | printed 63]
 [TABLE_139]
  | • | for which BMW FS shall be liable under, and shall have paid pursuant to, a Servicing Agreement,
 [/TABLE_139]
@@ -2343,6 +2476,8 @@ If the Vehicle Trustee is unsure as to the application of any provision of the V
         notice (or within such shorter period of time as reasonably may be specified in such notice or may be necessary under the circumstances) it may, but shall be under no duty to, take or refrain from taking such action, not inconsistent with any such
         agreement as it shall deem to be in the best interest of the beneficiary, and shall have no liability to any person or entity for such action or inaction, absent bad faith, willful misconduct or negligence.
 63
+
+[PAGE 68 | printed 64]
 The Vehicle Trustee will not be personally liable for (i) special, consequential or punitive damages, including lost profits, (ii) the acts or
         omissions of any nominee, correspondent, clearing agency or securities depository through which it may hold the Vehicle Trust’s securities or (iii) any losses due to forces beyond the reasonable control of the Vehicle Trustee, including strikes,
         work stoppages, acts of war or terrorism, insurrection, revolution, nuclear or natural catastrophes or acts of God and interruptions, loss or malfunctions of utilities, communications or computer (software and hardware) services.
@@ -2382,6 +2517,8 @@ Underwriting
 Leases are acquired or financed by BMW FS in accordance with underwriting guidelines which are intended to assess the applicant’s ability to pay
         the amounts due on the Lease and the adequacy of the Leased Vehicle as collateral. BMW FS utilizes credit score analysis and approval authority levels as credit controls.
 64
+
+[PAGE 69 | printed 65]
 BMW FS requires applicants to complete an application form providing various items of financial information, credit and employment history and
         other personal information.  Applications are submitted for new and used vehicles from approved retailers via InfoBahn - a BMW intranet system linked to Centers.  Credit applications are evaluated by BMW FS’ electronic decisioning system when
         received and are either automatically approved, automatically rejected or forwarded for review by one or more BMW FS Credit Representatives or by a Credit Manager with appropriate approval authority.
@@ -2412,6 +2549,8 @@ Upon review of the application, the applicant’s credit score and credit bureau
         applicant’s credit score will be highly considered by the Credit Representative or Credit Manager, as applicable, in determining whether to extend credit.  In addition, BMW FS also considers the applicant’s debt to income ratio, the applicant’s
         equity in the Leased Vehicle and other attributes as part of the decision making process.
 65
+
+[PAGE 70 | printed 66]
 When the applicant is a business, BMW FS generally requires an individual to guarantee the business’ obligations under the Lease.  When
         warranted, a business application may be approved without a guarantor, but only after a more thorough evaluation is performed which may include obtaining and reviewing audited/reviewed financial statements of the related business entity, as well as
         considering other important elements of the business to determine the credit worthiness.
@@ -2445,6 +2584,8 @@ BMW FS’ electronic vaulting system permits transmission, storage, access and a
         proprietary and third-party software, hardware, network communications equipment, lines and services, computer servers, data centers, support and maintenance services, security devices and other related technology materials that enable electronic
         contracting in the automobile retail and lease industry.  BMW FS’ electronic vaulting system uses a combination of technological and administrative features that are designed to (i)
 66
+
+[PAGE 71 | printed 67]
 designate a single copy of the record or records comprising an electronic contract as being the single authoritative copy of the Lease, (ii) manage access to and
         the expression of the authoritative copy, (iii) identify the Vehicle Trust, or the Vehicle Trustee on behalf of the Vehicle Trust, as the owner of record of the authoritative copy and (iv) provide a means for transferring record ownership of, and
         the exclusive right of access to, the authoritative copy from the current owner of record to a successor owner of record.
@@ -2477,6 +2618,8 @@ Contingent and Excess Liability Insurance
 ”). These insurance policies collectively provide insurance coverage at a minimum of $5 million
         per accident and permit multiple claims in any policy period. Claims could be
 67
+
+[PAGE 72 | printed 68]
 imposed against the assets of the Vehicle Trust if such coverage were exhausted and damages were assessed against the Vehicle Trust. In that event, investors in
         the Notes could incur a loss on their investment.
 See “Risk Factors—Risks Primarily Related to Legal and Regulatory Matters—Vicarious tort liability may result in a loss,” “Certain Legal Aspects of the Vehicle
@@ -2524,6 +2667,8 @@ BMW FS’ Sales Channel Development Department handles vehicle sales for BMW FS,
         company cars and maturity billing.  Customer interaction and lease portfolio management is handled by BMW FS’ Customer Loyalty and Center Sales Department commencing at 120 days prior to the scheduled maturity date for each Lease and continuing
         until the scheduled maturity date or termination of such Lease.
 68
+
+[PAGE 73 | printed 69]
 At 120 days prior to the expiration of a Lease, BMW FS, through its direct parent, BMW of North America, LLC (“
 BMW
 
@@ -2557,6 +2702,8 @@ CPO
         and Center demand for off-lease used BMW vehicles and to enhance the value of off-lease BMW vehicles. To qualify for CPO, a vehicle must pass an inspection conducted by a trained BMW technician employed at an authorized Center, based on standards
         set by BMW NA.  For CPO vehicles, BMW NA provides a limited warranty
 69
+
+[PAGE 74 | printed 70]
 for either one or two years (as determined by the related Center) that becomes effective upon the expiration of the New Vehicle Warranty. Each CPO vehicle also is
         covered by the BMW Roadside Assistance Program for up to three years which is identical to that offered on new vehicles. CPO is actively communicated and marketed by BMW NA through a separate sales force and is advertised using online, broadcast,
         print and social media.
@@ -2610,6 +2757,8 @@ Cutoff Date
  | • | amounts in the SUBI Collection Account received in respect of the sale of the Specified Vehicles,
 [/TABLE_143]
 70
+
+[PAGE 75 | printed 71]
 [TABLE_144]
  | • | certain monies due under or payable in respect of the Specified Leases and the Specified Vehicles on or after the Cutoff Date, including the right to receive payments made to BMW FS, the Depositor,
                 the Vehicle Trust, the Vehicle Trustee or the Servicer under any insurance policies relating to the Specified Leases, the Specified Vehicles or the related User-Lessees, and
@@ -2656,6 +2805,8 @@ If the aggregate initial principal amount of the Notes is $1,100,000,000, the Sp
 Aggregate Securitization Value
 ” for any such Specified Leases will mean an amount calculated as of the close of business on the Cutoff Date equal to the sum of the Securitization Values of such
 71
+
+[PAGE 76 | printed 72]
 Specified Leases and, for purposes of the Transaction Documents and the Specified Leases, the “
 Aggregate Securitization Value
 ”
@@ -2709,6 +2860,8 @@ Lease Default
 ”). Typical Lease Defaults include, but may not be limited to, failure of the User-Lessee to make
         payments when due, certain events of bankruptcy or insolvency of the User-Lessee, failure to maintain required insurance or failure to comply with any other term or condition of the Specified Lease. BMW FS regularly
 72
+
+[PAGE 77 | printed 73]
 tracks User-Lessees’ compliance with their payment obligations, but BMW FS does not monitor the maintenance of required User-Lessee insurance and will not be
         required to do so in the Transaction Documents
 .
@@ -2748,6 +2901,8 @@ The Servicer will represent and warrant that each Specified Lease or, to the ext
  | • | requires the User-Lessee to obtain physical damage and liability insurance that names BMW FS or the lessor as loss payee covering the related Specified Vehicle;
 [/TABLE_153]
 73
+
+[PAGE 78 | printed 74]
 [TABLE_154]
  | • | has been validly assigned to the Vehicle Trust by the related Center and is owned by the Vehicle Trust, free of all liens, encumbrances or rights of others other than liens relating to
                 administration of title and tax issues;
@@ -2800,6 +2955,8 @@ Deposit Date
         the Reallocation Payment must be made by the Servicer on the Deposit Date immediately preceding the Payment Date following the end of such 60-day period; otherwise, the Reallocation Payment must be made by the Servicer promptly after the end of
         such 60-day period. Upon any such payment, the related Specified Lease and Specified Vehicle shall no longer constitute SUBI Assets. The foregoing payment obligation will survive any termination of BMW FS as Servicer under the Servicing Agreement.
 74
+
+[PAGE 79 | printed 75]
 BMW FS will represent and warrant that, aside from the selection criteria described in this prospectus, it used no adverse selection procedures
         in selecting the Specified Leases from the pool of Leases for allocation to the 2025-1 SUBI as SUBI Assets and that aside from such criteria, it is not aware of any bias in the selection of the Specified Leases that would cause delinquencies or
         losses on the Specified Leases to be worse than any other Leases held by the Vehicle Trust. However, there can be no assurance as to actual delinquencies or losses on the Specified Leases. All Specified Vehicles relating to the Specified Leases
@@ -2843,6 +3000,8 @@ If the aggregate initial principal amount of the Notes is
         contracts.  If the aggregate initial principal amount of the Notes is $1,350,000,000, 25,592 Specified Leases, having an Aggregate Securitization Value of approximately $1,300,572,566.63 (representing approximately 83.67% of the Aggregate
         Securitization Value as of the Cutoff Date) are evidenced by electronic contracts.
 75
+
+[PAGE 80 | printed 76]
 Composition of the Specified Leases as of the Cutoff Date
 (if the aggregate initial principal amount of the Notes is $1,100,000,000)
 [TABLE_172]
@@ -2897,6 +3056,8 @@ See “BMW FS’ Lease Financing Program” in this prospectus.
 Additionally, FICO Scores are based on independent third party information.  BMW FS does not calculate the FICO scores and does not have access to the information used by the independent credit reporting agencies which provide the FICO scores to
         BMW FS.  FICO Scores should not be relied upon as a meaningful predictor of the performance of the Specified Leases.
 76
+
+[PAGE 81 | printed 77]
 Distribution of the Specified Leases by Securitization Value
 (if the aggregate initial principal amount of the Notes is $1,100,000,000)
 As of the Cutoff Date, the distribution of the Specified Leases by Securitization Value was as follows:
@@ -2926,6 +3087,8 @@ Amounts may not
 Percentages may
           not add to 100.00% due to rounding.
 77
+
+[PAGE 82 | printed 78]
 Distribution of the Specified Leases by Securitization Value
 (if the aggregate initial principal amount of the Notes is $1,350,000,000)
 As of the Cutoff Date, the distribution of the Specified Leases by Securitization Value was as follows:
@@ -2972,6 +3135,8 @@ Amounts may not
 Percentages may
           not add to 100.00% due to rounding.
 78
+
+[PAGE 83 | printed 79]
 Distribution of the Specified Leases by Original Term to Maturity
 (if the aggregate initial principal amount of the Notes is $1,350,000,000)
 As of the Cutoff Date, the distribution of the Specified Leases by the original term to maturity was as follows:
@@ -3030,6 +3195,8 @@ Amounts may not
 Percentages may
           not add to 100.00% due to rounding.
 79
+
+[PAGE 84 | printed 80]
 Distribution of the Specified Leases by State
 (if the aggregate initial principal amount of the Notes is $1,100,000,000)
 As of the Cutoff Date, the distribution of the Specified Leases, based on the garaging address of the User-Lessee of the related Specified Vehicle, was as follows:
@@ -3070,6 +3237,8 @@ Percentages may
 Includes States
           each accounting for less than 1.0% of the Aggregate Securitization Value as of the Cutoff Date.
 80
+
+[PAGE 85 | printed 81]
 Distribution of the Specified Leases by State
 (if the aggregate initial principal amount of the Notes is $1,350,000,000)
 As of the Cutoff Date, the distribution of the Specified Leases, based on the garaging address of the User-Lessee of the related Specified Vehicle, was as follows:
@@ -3119,6 +3288,8 @@ Risk Factors—Risks Primarily Related to the Specified Leases, Specified Vehicl
 in this prospectus
 .
 81
+
+[PAGE 86 | printed 82]
 Distribution of the Specified Leases by Related Specified Vehicle Model
 (if the aggregate initial principal amount of the Notes is $1,100,000,000)
 As of the Cutoff Date, the distribution of the Specified Leases by the model of the related Specified Vehicle was as follows:
@@ -3180,6 +3351,8 @@ Amounts may not
 Percentages may
           not add to 100.00% due to rounding.
 82
+
+[PAGE 87 | printed 83]
 Distribution of the Specified Leases by Year and Quarter of Maturity
 (if the aggregate initial principal amount of the Notes is $1,100,000,000)
 As of the Cutoff Date, the distribution of the Specified Leases based on the year and quarter of maturity was as follows:
@@ -3231,6 +3404,8 @@ Amounts may not
 Percentages may
           not add to 100.00% due to rounding.
 83
+
+[PAGE 88 | printed 84]
 Distribution of the Specified Leases by FICO
 ®
 Score
@@ -3306,6 +3481,8 @@ Amounts may not
 Percentages may
           not add to 100.00% due to rounding.
 84
+
+[PAGE 89 | printed 85]
 Distribution of the Specified Leases by Powertrain
 (if the aggregate initial principal amount of the Notes is $1,350,000,000)
 As of the Cutoff Date, the distribution of the Specified Leases by Powertrain was as follows:
@@ -3365,6 +3542,8 @@ Delinquencies, Repossessions and Loss
           Information
 ” below.
 85
+
+[PAGE 90 | printed 86]
 Calculation of the Securitization Value of the Specified Leases
 Under the Servicing Agreement, the Servicer will calculate a “securitization value” (the “
 Securitization Value
@@ -3415,6 +3594,8 @@ Set forth below is information concerning BMW FS’ experience with respect to i
         in the business of extending credit and are considered in BMW FS’ rate-setting process.  The following tables set forth the historical delinquency experience, net credit loss and repossession experience and ALG residual loss value experience of BMW
         FS’ portfolio of leases.
 86
+
+[PAGE 91 | printed 87]
 Delinquency, repossession and loss experience may be influenced by a variety of economic, social and geographic conditions and other factors
         beyond the control of BMW FS.  There is no assurance that BMW FS’ delinquency, repossession and loss experience with respect to its motor vehicle leases, or the experience of the Issuing Entity with respect to the Specified Leases, will be similar
         to that set forth below.  If economic conditions in the future differ from those during the periods referenced in the tables below, BMW FS’ delinquency, repossession and loss experience may be adversely affected.
@@ -3464,6 +3645,8 @@ ________________
                 is the subject of bankruptcy proceedings.
 [/TABLE_202]
 87
+
+[PAGE 92 | printed 88]
 [TABLE_203]
 BMW FS MANAGED NEW LEASE PORTFOLIO
 NET CREDIT LOSS AND REPOSSESSION EXPERIENCE (1)(2)
@@ -3517,6 +3700,8 @@ ________________
  | (6) | Annualized.
 [/TABLE_210]
 88
+
+[PAGE 93 | printed 89]
 [TABLE_211]
 BMW FS MANAGED NEW LEASE PORTFOLIO
 ALG RESIDUAL VALUE LOSS EXPERIENCE (1)(2)(3)
@@ -3563,6 +3748,8 @@ _____________________
         days prior to scheduled maturity.
 (6) Residual loss is net of remarketing expenses and end of lease collections.
 89
+
+[PAGE 94 | printed 90]
 Static Pools
 Attached to this prospectus as Appendix A, we have included charts that reflect the static pool performance of previous, recent
           securitizations of the Sponsor.  The static pool information is deemed to be a part of this prospectus.
@@ -3601,6 +3788,8 @@ BMW FS’ Lease Financing Program—Underwriting
             Securitization Value of the Specified Leases as of the Cutoff Date), were automatically approved.  If the aggregate initial principal amount of the Notes is $1,350,000,000, 23,633 of the Specified Leases, having an Aggregate Securitization
             Value of approximately $1,136,180,540.67 as of the
 90
+
+[PAGE 95 | printed 91]
 Cutoff Date (approximately 73.09% of the Aggregate Securitization Value of the Specified Leases as of the Cutoff Date), were automatically approved.  BMW FS
             determined that whether a Specified Lease was approved automatically by BMW FS’ electronic decisioning system or was approved following review by one or more BMW FS Credit Representatives or by a Credit Manager was not indicative of the quality
             of the related Specified Lease.  No completed applications for the Specified Leases were automatically rejected.  None of the Specified Leases were originated with exceptions to BMW FS’ underwriting guidelines.
@@ -3637,6 +3826,8 @@ In addition to this review, the Depositor’s review of the Specified Leases, in
           is accurately entered, captured and maintained in its systems.  These computer systems are subject to change control processes, automated controls testing and control review programs to determine whether systems controls are operating effectively
           and accurately.  All of these controls and procedures ensure integrity of data and information and accuracy of securitization disclosures including the Rule 193 Information.
 91
+
+[PAGE 96 | printed 92]
 Portions of the review of legal matters and the review of the characteristics of, and statistical information with respect to, the Specified
           Leases, were performed with the assistance of third parties engaged by BMW FS.  BMW FS and the Depositor determined the nature, extent and timing of the review and the sufficiency of the assistance provided by the third parties for purposes of
           its review.  The Depositor had ultimate authority and control over, and assumes all responsibility for, the review and the findings and conclusions of the review.  The Depositor attributes all findings and conclusions of the review to itself.
@@ -3674,6 +3865,8 @@ Payments on the Notes
 ” in this prospectus, interest payments on the
           Notes on each Payment Date generally will be made from the sum of:
 92
+
+[PAGE 97 | printed 93]
 [TABLE_213]
  | • | Available Funds remaining after (i) the Servicer has been paid the related Payment Date Advance Reimbursement and the Servicing Fee, and (ii) the Indenture Trustee, the Owner Trustee and the
                   Asset Representations Reviewer have been paid all unpaid fees, costs, expenses and indemnification amounts due and owing to each such party (subject to an aggregate cap prior to the acceleration of the Notes), and
@@ -3715,6 +3908,8 @@ Any determination, decision or election that may be made by the Administrator or
           Administrator, the Sponsor, the Depositor or the Servicer will have any liability for any action or inaction taken or refrained from being taken by it with respect to any SOFR Adjustment Conforming Changes or any other matters related to or
           arising in connection
 93
+
+[PAGE 98 | printed 94]
 with the foregoing. Each Noteholder and Beneficial Owner, by its acceptance of a Note or a beneficial interest in a Note, will be deemed to waive and release any
           and all claims against the Issuing Entity, the Owner Trustee, the Indenture Trustee, the Paying Agent, the Vehicle Trustee, the UTI Beneficiary, the Administrator, the Sponsor, the Depositor and the Servicer relating to any such determinations
           and changes.
@@ -3755,6 +3950,8 @@ Notwithstanding the foregoing, if the Administrator determines prior to the rele
           related Benchmark Replacement Date have occurred prior to the determination of the then-current Benchmark, the Benchmark Replacement determined by the Administrator will replace the then-current Benchmark for all purposes relating to the Class
           A-2b Notes in respect of such determination on such date and all such determinations on all subsequent dates (unless and until a subsequent Benchmark Transition Event and its related Benchmark Replacement Date occurs).
 94
+
+[PAGE 99 | printed 95]
 The Administrator will deliver written notice to each Rating Agency and to the Indenture Trustee and the Paying Agent on any SOFR
           Determination Date if, as of the applicable Reference Time, the Administrator has determined with respect to the related interest accrual period that there will be a change in the SOFR Rate or the terms related thereto since the immediately
           preceding SOFR Determination Date due to a determination by the Administrator that a Benchmark Transition Event and its related Benchmark Replacement Date have occurred.
@@ -3791,6 +3988,8 @@ Benchmark Replacement Adjustment
 ” means the first alternative set forth in the order below that can
           be determined by the Administrator as of the Benchmark Replacement Date:
 95
+
+[PAGE 100 | printed 96]
 (1)
 the spread adjustment (which may be a positive or negative value or zero), or method for calculating or determining such spread adjustment, that has been selected or recommended by the Relevant
             Governmental Body for the applicable Unadjusted Benchmark Replacement;
@@ -3829,6 +4028,8 @@ a public statement or publication of information by the regulatory supervisor fo
             with similar insolvency or resolution authority over the administrator for the Benchmark, which states that the administrator of the Benchmark (or such component) has ceased or will cease to provide the Benchmark (or such component) permanently
             or indefinitely, provided that, at the time of such statement or publication, there is no successor administrator that will continue to provide the Benchmark (or such component); or
 96
+
+[PAGE 101 | printed 97]
 (3)
 a public statement or publication of information by the regulatory supervisor for the administrator of the Benchmark announcing that the Benchmark is no longer representative.
 “
@@ -3871,6 +4072,8 @@ The Indenture Trustee, the Paying Agent, the Owner Trustee and the Vehicle Trust
           delay, error or inaccuracy on the part of any other transaction party, including without limitation, the Servicer or the Administrator (on behalf of the Issuing Entity), in providing any direction, instruction, notice or information required or
           contemplated by the terms of the Transaction Documents and reasonably required for the performance of such duties.
 97
+
+[PAGE 102 | printed 98]
 Principal
 Noteholders are entitled to receive
 , to the extent of funds available for payment,
@@ -3941,6 +4144,8 @@ The principal amount of each class of Notes, to the extent not paid, will be due
           pay principal in full on a class of Notes will result in an Event of Default only on the related Final Scheduled Payment Date or a redemption date. If the principal amount of a class of Notes has not been paid in full on or prior to its Final
           Scheduled Payment Date, as shown on the front cover of this prospectus, the Principal Distribution Amount for that Payment Date will, to the extent the remaining Available Funds and the Reserve
 98
+
+[PAGE 103 | printed 99]
 Fund Draw Amount are sufficient, include an amount sufficient to reduce the unpaid principal amount of that class of Notes to zero on that Payment Date.  The
           actual date on which a class of Notes is paid may be earlier than its Final Scheduled Payment Date based on a variety of factors, including the factors described under
 “Risk Factors—Risks Primarily Related to
@@ -3997,6 +4202,8 @@ Repurchase and Reallocation Obligations
 Each Dealer Agreement, among other things, obligates the related Center to repurchase any Lease BMW FS financed for the outstanding lease
           balance thereof, if the Center breaches certain representations and warranties as set
 99
+
+[PAGE 104 | printed 100]
 forth in the Dealer Agreement. The representations and warranties typically relate to the origination of the Lease and the transfer of the related Leased
           Vehicles and not the creditworthiness of the user-lessee under the Lease. In addition, the Servicer will be required to repurchase any Specified Vehicles covered by Specified Leases not meeting certain representations and warranties of the
           Servicer by making Reallocation Payments in respect thereof. Those representations and warranties relate primarily to the origination of the Specified Leases, and do not typically relate to the creditworthiness of the related user-lessees or the
@@ -4038,6 +4245,8 @@ If Noteholders and Verified Beneficial Owners (as defined below) holding at leas
             Beneficial Owner, then the Beneficial Owner must include with its request to the Indenture Trustee a written certification that it is a Beneficial Owner, together with one of the following additional forms of documentation of the requesting
             party’s status as a Beneficial Owner:
 100
+
+[PAGE 105 | printed 101]
 [TABLE_228]
  | • | a trade confirmation,
 [/TABLE_228]
@@ -4080,6 +4289,8 @@ Within 60 days of the delivery by the Indenture Trustee to the Asset Representat
             paid in full by the related User-Lessee or purchased from the Issuing Entity in accordance with the terms of the Transaction Documents, the Asset Representations Reviewer will immediately terminate its review of such ARR Lease.  If any ARR
             Lease was included in a prior review, the Asset Representations Reviewer will not conduct an additional review of such ARR Lease and will include the previously reported review results for such ARR Lease in the report provided by the Asset
 101
+
+[PAGE 106 | printed 102]
 Representations Reviewer for the current review, unless the Asset Representations Reviewer has reason to believe that the prior review was conducted in a
             manner that would not have ascertained the compliance of that ARR Lease with a specific representation or warranty, in which case the Asset Representations Reviewer may conduct additional tests.  The specified review procedures for each ARR
             Lease and each component of the specified representations and warranties made regarding such ARR Lease will consist of tests designed to determine whether such ARR Lease was or was not in compliance as of the Cutoff Date or the Closing Date, as
@@ -4108,6 +4319,8 @@ The Servicer will evaluate any report of the Asset Representations Reviewer, and
           Documents require that any breach of the representations and warranties must materially and adversely affect the Issuing Entity’s interests in a Specified Lease before the Servicer would be required to reallocate such Specified Lease.
 See “—Dispute Resolution for Reallocation Request” below for a description of dispute resolution procedures that may be employed in the event of unresolved reallocation requests.
 102
+
+[PAGE 107 | printed 103]
 60+ Day Delinquency Trigger
 .  The “
 Delinquency Trigger Percentage
@@ -4148,6 +4361,8 @@ JAMS, an organization providing alternative dispute resolution services, will ad
           possible.  The parties will use commercially reasonable efforts to begin the mediation within 30 days of the selection of the mediator and to conclude the mediation within 60 days of the start of the mediation. The fees and expenses of the
           mediation will be allocated as mutually agreed by the parties as part of the mediation, and will not be borne by the Issuing Entity.
 103
+
+[PAGE 108 | printed 104]
 Any binding arbitration will be administered by the American Arbitration Association (the “
 AAA
 ”)
@@ -4186,6 +4401,8 @@ Governing Law
 The Indenture and the Notes are governed by and shall be construed in accordance with the laws of the State of New York applicable to
           agreements made in and to be performed wholly within that jurisdiction.
 104
+
+[PAGE 109 | printed 105]
 Definitive Securities
 The Certificates will be issued in fully registered, certificated form.  The Notes will be issued in fully registered, certificated form to
           Noteholders or their respective nominees, rather than to DTC or its nominee, only if:
@@ -4225,6 +4442,8 @@ No Beneficial Owner will be entitled to receive a certificate representing that 
           Noteholders, Certificateholders or Securityholders as those terms will be used in the Transaction Documents, and Beneficial Owners will only be permitted to exercise the rights of holders of Notes of the related class indirectly through DTC and
           DTC Participants, as further described below.
 105
+
+[PAGE 110 | printed 106]
 Clearstream, Luxembourg will hold omnibus positions on behalf of its participants, which are referred to in this prospectus as “
 Clearstream, Luxembourg Participants
 ”, through customers’ securities accounts in their respective names on the books of their respective depositaries, which are referred to collectively in this prospectus as
@@ -4262,6 +4481,8 @@ To facilitate subsequent transfers, all Notes deposited by DTC Participants with
           Owners and its records will reflect only the identity of the DTC Participants to whose accounts those Notes are credited, which may or may not be the Beneficial Owners.  DTC Participants and Indirect DTC Participants will remain responsible for
           keeping account of their holdings on behalf of their customers.
 106
+
+[PAGE 111 | printed 107]
 While the Notes are held in book-entry form, Beneficial Owners will not have access to the list of Beneficial Owners, which may impede the ability of Beneficial
           Owners to communicate with each other.  However certain communications between Beneficial Owners regarding exercising their rights under the terms of the Transaction Documents will be facilitated by the Administrator by inclusion in Form 10-D.
 See
@@ -4292,6 +4513,8 @@ Clearstream, Luxembourg, incorporated under the laws of Luxembourg as a professi
           administration, clearance and settlement of internationally traded securities and securities lending and borrowing.  Clearstream, Luxembourg also deals with domestic securities markets in over 30 countries through established depository and
           custodial relationships.  Clearstream, Luxembourg is
 107
+
+[PAGE 112 | printed 108]
 registered as a bank in Luxembourg, and is subject to regulation by the Commission de Surveillance du Secteur Financier, “CSSF,” which supervises Luxembourg
           banks.  Clearstream, Luxembourg’s customers are world-wide financial institutions including underwriters, securities brokers and dealers, banks, trust companies and clearing corporations.  Clearstream, Luxembourg’s U.S. customers are limited to
           securities brokers and dealers, and banks.  Currently, Clearstream, Luxembourg has approximately 2,000 customers located in over 80 countries, including all major European countries, Canada, and the United States.  Indirect access to Clearstream,
@@ -4337,6 +4560,8 @@ amount necessary to make the distributions in clauses (a) through (e) under “
 exceeds the Available Funds
 .
 108
+
+[PAGE 113 | printed 109]
 Priority of Payments
 SUBI Collection Account
 .  On each Deposit Date, the Servicer will allocate Available Funds on deposit
@@ -4390,6 +4615,8 @@ See “Description of the Transaction Documents—Accounts” in this prospectus
 In addition, upon an event of default and acceleration of the Notes, all amounts on deposit in the Reserve Fund will be included as part of
           Available Funds.
 109
+
+[PAGE 114 | printed 110]
 The “
 Payment Date Advance Reimbursement
 ” for a Payment Date will equal the sum of (x) all outstanding
@@ -4451,6 +4678,8 @@ Overcollateralization represents the amount by which the Aggregate Securitizatio
           Notes.  Overcollateralization will be available to absorb losses on the Specified Leases that are not otherwise covered by excess cashflow, if any.  The Aggregate Securitization Value of the Specified Leases as of the Cutoff Date is expected to
           exceed the initial aggregate principal amount of the Notes
 110
+
+[PAGE 115 | printed 111]
 by approximately 13.15% of the Aggregate Securitization Value of the Specified Leases as of the Cutoff Date.  The “
 Overcollateralization Target
             Amount
@@ -4506,6 +4735,8 @@ Maturity, Prepayment and Yield Considerations
 For more detailed information regarding maturity and prepayment considerations with respect to the Notes, see “Weighted
           Average Lives of the Notes” and “Risk Factors—Risks Primarily Related to the Nature of the Notes
 111
+
+[PAGE 116 | printed 112]
 and the Structure of the Transaction—The timing of principal payments is uncertain, and prepayments or reallocations of
             specified leases and specified vehicles, and the servicer’s optional purchase of the SUBI Certificate may cause prepayments on the notes, resulting in reinvestment risk to you” in this prospectus.
 Except upon the
@@ -4562,6 +4793,8 @@ ABS
  | (3) | 0.70% ABS in month 31, increasing by 0.08% (precisely 0.40%/5) ABS in each subsequent month until reaching 1.10% ABS in the 36th month of the life of the lease;
 [/TABLE_254]
 112
+
+[PAGE 117 | printed 113]
 [TABLE_255]
  | (4) | 1.10% ABS in months 36 and 37, decreasing to 0.75% in months 38 and 39; and
 [/TABLE_255]
@@ -4621,6 +4854,8 @@ The tables below were prepared on the basis of certain assumptions regarding the
  | • | the Reserve Fund is funded with an amount equal to the Initial Deposit and no income is earned;
 [/TABLE_269]
 113
+
+[PAGE 118 | printed 114]
 [TABLE_270]
  | • | all prepayments are prepayments in full; and
 [/TABLE_270]
@@ -4664,6 +4899,8 @@ _________________________
 In calculating the Expected Final Payment Date shown on the cover to this prospectus, a 100% Prepayment Assumption was utilized.  The actual
           Payment Date on which the Class A-1 Notes are paid in full may be before or after this date depending on the actual payment experience of the Specified Leases.
 114
+
+[PAGE 119 | printed 115]
 Percentage of Class A-1 Note Balance Outstanding
 (1)
 (if the aggregate initial principal amount of the Notes is $1,350,000,000)
@@ -4695,6 +4932,8 @@ _________________________
 In calculating the Expected Final Payment Date shown on the cover to this prospectus, a 100% Prepayment Assumption was utilized.  The actual
           Payment Date on which the Class A-1 Notes are paid in full may be before or after this date depending on the actual payment experience of the Specified Leases.
 115
+
+[PAGE 120 | printed 116]
 Percentage of Class A-2a and Class A-2b Note Balances Outstanding
 (1)
 (if the aggregate initial principal amount of the Notes is $1,100,000,000)
@@ -4740,6 +4979,8 @@ _________________________
 In calculating the Expected Final Payment Date shown on the cover to this prospectus, a 100% Prepayment Assumption was utilized.  The actual
           Payment Date on which the Class A-2a Notes and Class A-2b Notes are paid in full may be before or after this date depending on the actual payment experience of the Specified Leases.
 116
+
+[PAGE 121 | printed 117]
 Percentage of Class A-2a and Class A-2b Note Balances Outstanding
 (1)
 (if the aggregate initial principal amount of the Notes is $1,350,000,000)
@@ -4785,6 +5026,8 @@ _________________________
 In calculating the Expected Final Payment Date shown on the cover to this prospectus, a 100% Prepayment Assumption was utilized.  The actual
           Payment Date on which the Class A-2a Notes and Class A-2b Notes are paid in full may be before or after this date depending on the actual payment experience of the Specified Leases.
 117
+
+[PAGE 122 | printed 118]
 Percentage of Class A-3 Note Balance Outstanding
 (1)
 (if the aggregate initial principal amount of the Notes is $1,100,000,000)
@@ -4838,6 +5081,8 @@ _________________________
 In calculating the Expected Final Payment Date shown on the cover to this prospectus, a 100% Prepayment Assumption was utilized.  The actual
           Payment Date on which the Class A-3 Notes are paid in full may be before or after this date depending on the actual payment experience of the Specified Leases.
 118
+
+[PAGE 123 | printed 119]
 Percentage of Class A-3 Note Balance Outstanding
 (1)
 (if the aggregate initial principal amount of the Notes is $1,350,000,000)
@@ -4891,6 +5136,8 @@ _________________________
 In calculating the Expected Final Payment Date shown on the cover to this prospectus, a 100% Prepayment Assumption was utilized.  The actual Payment Date on which
           the Class A-3 Notes are paid in full may be before or after this date depending on the actual payment experience of the Specified Leases.
 119
+
+[PAGE 124 | printed 120]
 Percentage of Class A-4 Note Balance Outstanding
 (1)
 (if the aggregate initial principal amount of the Notes is $1,100,000,000)
@@ -4946,6 +5193,8 @@ _________________________
 In calculating the Expected Final Payment Date shown on the cover to this prospectus, a 100% Prepayment Assumption was utilized.  The actual
           Payment Date on which the Class A-4 Notes are paid in full may be before or after this date depending on the actual payment experience of the Specified Leases.
 120
+
+[PAGE 125 | printed 121]
 Percentage of Class A-4 Note Balance Outstanding
 (1)
 (if the aggregate initial principal amount of the Notes is $1,350,000,000)
@@ -5001,6 +5250,8 @@ _________________________
 In calculating the Expected Final Payment Date shown on the cover to this prospectus, a 100% Prepayment Assumption was utilized.  The actual
           Payment Date on which the Class A-4 Notes are paid in full may be before or after this date depending on the actual payment experience of the Specified Leases.
 121
+
+[PAGE 126 | printed 122]
 Note Factors
 The “
 Note Factor
@@ -5048,6 +5299,8 @@ The Depositor on behalf of the Issuing Entity will file the reports required und
                   Leases, which exhibits will be incorporated by reference into the related Form 10-D; and
 [/TABLE_307]
 122
+
+[PAGE 127 | printed 123]
 [TABLE_308]
  | • | Report on Form 10-K (Annual Report), containing the items specified in Form 10-K with respect to a fiscal year, and the items required pursuant to Items 1122 and 1123 of Regulation AB of the
                   Securities Act.
@@ -5094,6 +5347,8 @@ Accounts
 On or prior to the Closing Date, the Issuing Entity will establish with the Securities Intermediary, and on and after the Closing Date, the
           Indenture Trustee will maintain, a segregated account in the name of the Issuing Entity for
 123
+
+[PAGE 128 | printed 124]
 the benefit of the holders of interests in the 2025-1 SUBI, into which collections on or in respect of the Specified Leases and the Specified Vehicles will
           generally be deposited (the “
 SUBI Collection Account
@@ -5136,6 +5391,8 @@ Permitted Investments
                   to the Indenture, and (z) services performed by the Indenture Trustee for such funds and pursuant to the Indenture may converge
 [/TABLE_317]
 124
+
+[PAGE 129 | printed 125]
 at any time. U.S. Bank Trust Co. or an affiliate thereof is authorized under the Indenture to charge and collect from the Indenture Trustee
           such fees as are collected from all investors in such funds for such services rendered to such funds (but not to exceed investment earnings thereon).
 Each of the foregoing criteria may be amended, modified or deleted and additional criteria may be added to this definition by the Depositor if the Rating Agency
@@ -5172,6 +5429,8 @@ The Transaction Documents generally require that the Servicer deposit all Collec
           have been made, the Servicer may retain such amounts received during a Collection Period until the related Deposit Date.  As of the date of this prospectus, the conditions that would permit the Servicer to retain Collections until the related
           Deposit Date are satisfied.
 125
+
+[PAGE 130 | printed 126]
 “
 Collections
 ” with respect to any Collection Period will include all net collections collected or
@@ -5226,6 +5485,8 @@ Sales Proceeds Advance
           or Termination Proceeds, as the case may be, in excess of the Securitization Value into the SUBI Collection Account. In the event that the Sales Proceeds and Termination Proceeds in respect of a Specified Vehicle are less than the related Sales
           Proceeds Advance, the Servicer will be reimbursed the difference as part of the related Payment Date Advance Reimbursement.
 126
+
+[PAGE 131 | printed 127]
 If the Servicer has not sold a Specified Vehicle within 90 days after it has made a Sales Proceeds Advance, it will be reimbursed for that
           Sales Proceeds Advance as part of the Payment Date Advance Reimbursement.  Within six months of receiving that reimbursement, if the related Specified Vehicle has not been sold, the Servicer shall, if permitted by applicable law, cause that
           Specified Vehicle to be sold at auction and shall remit the proceeds associated with the disposition of that Specified Vehicle to the SUBI Collection Account.
@@ -5285,6 +5546,8 @@ and the Owner Trustee
 days’ notice
 thereof
 127
+
+[PAGE 132 | printed 128]
 to the Noteholders.
 On the Payment Date fixed for redemption, the Notes will be due and payable at the Redemption Price, and no
           interest will accrue on the Notes after the Payment Date
@@ -5331,6 +5594,8 @@ The Administrator is not required to include any additional information regardin
           in the Form 10-D, and is required to disclose a Noteholder’s or a Verified Beneficial Owner’s written request only where the communication relates to the exercise by a Noteholder or a Verified Beneficial Owner of its rights under the Transaction
           Documents.  The expenses of administering the foregoing investor communication provisions will be the responsibility of the Administrator, which will be compensated by means of the administration fee paid by the Servicer as described below.
 128
+
+[PAGE 133 | printed 129]
 Sales Proceeds and Termination Proceeds
 Under the Servicing Agreement, the Servicer, on behalf of the Issuing Entity, will sell or otherwise dispose of Specified Vehicles related to
           (i) Specified Leases that have reached their respective Maturity Dates (a “
@@ -5381,6 +5646,8 @@ The Servicer will be required to reallocate a Specified Vehicle before the Matur
 After the sale of the SUBI Certificate to the Issuing Entity, the Servicer will be obligated to reallocate from the Issuing Entity, any
           Specified Vehicles covered by Specified Leases not meeting certain representations and
 129
+
+[PAGE 134 | printed 130]
 warranties by depositing or causing to be deposited into the SUBI Collection Account an amount equal to the Securitization Value of the Specified Lease not
           meeting
 such
@@ -5434,6 +5701,8 @@ The Issuing Entity and the Indenture Trustee may, with the consent of
  | 2. | impair the right to institute suit for the enforcement of specified provisions of the Indenture regarding payment;
 [/TABLE_337]
 130
+
+[PAGE 135 | printed 131]
 [TABLE_338]
  | 3. | reduce the percentage of the aggregate amount of the outstanding Notes, the consent of the holders of which is required for any supplemental indenture or any waiver of compliance with specified
                   provisions of the Indenture or of specified defaults and their consequences as provided for in the Indenture;
@@ -5485,6 +5754,8 @@ The Issuing Entity and the Indenture Trustee may also enter into supplemental in
 The Issuing Entity and the Indenture Trustee may also execute a supplemental indenture for the purpose of adding any provisions to, or
           changing in any manner or eliminating any of the provisions of, the Indenture or for the
 131
+
+[PAGE 136 | printed 132]
 purpose of modifying in any manner (other than the modifications set forth above, which require the consent of the holder of each outstanding affected Note) the
           rights of the Noteholders under the Indenture; provided, that:
 [TABLE_350]
@@ -5530,6 +5801,8 @@ Noteholders holding at least a majority of the aggregate outstanding principal a
           and the Indenture Trustee, may waive any past default or Event of Default prior to the declaration of the acceleration of the maturity of the Notes, except a default in the payment of principal of or interest on any of the Notes, or in respect of
           any covenant or provision in the Indenture that cannot be modified or amended without unanimous consent of the Noteholders.
 132
+
+[PAGE 137 | printed 133]
 If an Event of Default occurs and is continuing, the Indenture Trustee may and, at the written direction of the holders of a majority of the
           aggregate outstanding principal amount of the Notes, shall declare the principal of the Notes to be immediately due and payable. This declaration may be rescinded by the holders of a majority of the aggregate outstanding principal amount of the
           Notes before a judgment or decree for payment of the amount due has been obtained by the Indenture Trustee if:
@@ -5567,6 +5840,8 @@ Subject to the provisions of the Indenture relating to the duties of the Indentu
           aggregate outstanding principal amount of the Notes will have the right to direct the time, method and place of conducting any proceeding or any remedy available to the Indenture Trustee or exercising any trust power conferred on the Indenture
           Trustee.
 133
+
+[PAGE 138 | printed 134]
 No Noteholder will have the right to institute any proceeding with respect to the Indenture unless:
 [TABLE_362]
  | • | that Noteholder previously has given the Indenture Trustee written notice of a continuing Event of Default,
@@ -5616,6 +5891,8 @@ The Issuing Entity will not, so long as any Notes are outstanding, among other t
  | • | except as expressly permitted by the Transaction Documents, dissolve or liquidate in whole or in part;
 [/TABLE_371]
 134
+
+[PAGE 139 | printed 135]
 [TABLE_372]
  | • | permit the validity or effectiveness of the Indenture to be impaired or permit any person to be released from any covenants or obligations under the Indenture except as may be expressly permitted
                   by the Indenture;
@@ -5654,6 +5931,8 @@ Satisfaction and Discharge of Indenture
           funds sufficient for the payment in full of all of the Notes, including interest thereon, and any unpaid fees, costs, expenses and indemnification amounts due and owing to the Servicer, the Indenture Trustee, the Owner Trustee and the Asset
           Representations Reviewer.
 135
+
+[PAGE 140 | printed 136]
 The Owner Trustee and the Indenture Trustee
 Wilmington Trust, National Association will be the Owner Trustee under the Trust Agreement.  U.S. Bank Trust Co. will be the Indenture Trustee
           under the Indenture.  The Owner Trustee, the Indenture Trustee and any of their respective affiliates may hold Notes in their own names or as pledgees.
@@ -5698,6 +5977,8 @@ The Owner Trustee will make no representations as to the validity or sufficiency
           Certificates (other than the authentication of the Certificates) or of any Specified Leases or related documents and is not accountable for the use or application by the Depositor or the Servicer of any funds paid to the Depositor or the Servicer
           in respect of the Notes, the Certificates or the SUBI Certificate, or the investment of any monies by the Servicer before those monies are deposited into the SUBI Collection Account.  The Owner
 136
+
+[PAGE 141 | printed 137]
 Trustee will not independently verify the Specified Leases.  The Owner Trustee is required to perform only those duties specifically required of it under the
           Trust Agreement.  In addition to making distributions to the Certificateholder, those duties generally are limited to the receipt of the various certificates, reports or other instruments required to be furnished to the Owner Trustee under the
           Trust Agreement, in which case it will only be required to examine them to determine whether they conform to the requirements of the Trust Agreement.
@@ -5749,6 +6030,8 @@ Description of the Transaction Documents—Investor Communications
 in connection with the exercise of those rights.  A Noteholder’s right to institute any proceeding with
           respect to the Indenture Trustee is conditioned upon the Noteholder
 137
+
+[PAGE 142 | printed 138]
 providing the Indenture Trustee with written notice of the Event of Default
 and the holders of outstanding Notes evidencing not less
           than 25% of the
@@ -5799,6 +6082,8 @@ BMW FS’ Lease Financing Program
 ”
 in this prospectus.
 138
+
+[PAGE 143 | printed 139]
 The Servicer has discretion in servicing the Specified Leases and the related Specified Vehicles, including the ability to grant payment extensions and to
           determine the timing and method of collection and liquidation procedures.
 The Servicing Agreement will require the Servicer to obtain all licenses and make all filings required to be held or filed by the Vehicle
@@ -5829,6 +6114,8 @@ On a date on or prior to each Payment Date, the Servicer will provide to the Ind
 —Statements to Noteholders
 ” below.
 139
+
+[PAGE 144 | printed 140]
 Statements to Noteholders
 On or prior to each Payment Date, the Servicer will prepare and provide to the Indenture Trustee a statement to be made available to the
           Noteholders on that Payment Date.  In addition, on or prior to each Payment Date, the Servicer will prepare and provide to the Owner Trustee a statement to be made available to the Certificateholders.  Each statement to be delivered to
@@ -5887,6 +6174,8 @@ On or prior to each Payment Date, the Servicer will prepare and provide to the I
  | (q) | notice of the making of any SOFR Adjustment Conforming Changes; and
 [/TABLE_398]
 140
+
+[PAGE 145 | printed 141]
 [TABLE_399]
  | (r) | notice of the occurrence of a Benchmark Transition Event and its related Benchmark Replacement Date, the determination of a Benchmark Replacement, the Unadjusted Benchmark Replacement, the
                   Benchmark Replacement Adjustment and the making of any Benchmark Replacement Conforming Changes.
@@ -5916,6 +6205,8 @@ The Servicing Agreement will also provide for delivery to the Owner Trustee, Ind
           Defaults under the Servicing Agreement.
 Copies of the statements and certificates may be obtained by Noteholders by a request in writing addressed to the Indenture Trustee.
 141
+
+[PAGE 146 | printed 142]
 Certain Matters Regarding the Servicer
 The Servicing Agreement shall provide that the Servicer may not resign from its obligations and duties under such Servicing Agreement unless
           it determines that its duties thereunder are no longer permissible by reason of a change in applicable law or regulations. No such resignation will become effective until a successor servicer acceptable to the Indenture Trustee (acting at the
@@ -5952,6 +6243,8 @@ Servicer Default
                   the winding up or liquidation of the affairs of the Servicer and the continuance of any such decree or order unstayed and in effect for a period of 90 consecutive days; or
 [/TABLE_403]
 142
+
+[PAGE 147 | printed 143]
 [TABLE_404]
  | (e) | the commencement by the Servicer of a voluntary case under the federal bankruptcy laws, or any other present or future or state bankruptcy, insolvency or similar law, or the consent by the
                   Servicer to the appointment of or taking possession by a receiver, liquidator, assignee, trustee, custodian, sequestrator or other similar official of the Servicer or of any substantial part of its property or the making by the Servicer
@@ -5983,6 +6276,8 @@ If a bankruptcy trustee or similar official has been appointed for the Servicer,
           Indenture Trustee, the Owner Trustee, the Noteholders or the Certificateholders from effecting that transfer of servicing. Further, in such event, the Servicer shall use its commercially reasonable efforts to effect the orderly and efficient
           transfer of the servicing of the affected Specified Leases to the successor servicer and as promptly as practicable, the Servicer shall provide to the successor servicer a current computer tape containing
 143
+
+[PAGE 148 | printed 144]
 all information regarding the related Specified Leases required for the proper servicing of the affected Specified Leases, together with documentation containing
           any and all information necessary for use of the tape.  The Servicer will promptly reimburse the Issuing Entity and the Administrator for all reasonable expenses incurred by such entity in connection with the transfer of servicing of the
           Specified Leases.  Any compensation payable to a successor servicer may not be in excess of that permitted the predecessor servicer.
@@ -6027,6 +6322,8 @@ In addition, the Administrator will take (or cause to be taken) all appropriate 
                   other statements as to compliance with the Indenture;
 [/TABLE_413]
 144
+
+[PAGE 149 | printed 145]
 [TABLE_414]
  | • | the notification of the Indenture Trustee and the Rating Agencies of each Servicer Default and, if such Servicer Default arises from the failure of the Servicer to perform any of its duties or
                   obligations under the Servicing Agreement with respect to the SUBI Assets, the taking of all reasonable steps available to remedy such failure;
@@ -6073,6 +6370,8 @@ The Servicing Agreement and the SUBI Trust Agreement may be amended by the parti
           the holder of the SUBI Certificate, provided that any such amendment will not, in the good faith judgment of the parties thereto, materially and adversely affect the interest of the holder of the SUBI Certificate or, in the case of any amendment
           to the Servicing Agreement, any holders of the Notes.  The Servicing Agreement and the SUBI Trust Agreement may also be amended with the consent of the holders of at least a majority
 145
+
+[PAGE 150 | printed 146]
 of the aggregate outstanding principal amount of the Notes and, to the extent affected thereby, the consent of a majority of the holders of the Certificates,
           provided that, to the extent that any such amendment materially affects the UTI or any Other SUBI, the SUBI Certificate or the SUBI Assets, such amendment will require the consent of at least a majority of the holders of each such security
           affected thereby.  In the case of any such amendment to the Servicing Agreement or the SUBI Trust Agreement, the amendment will be deemed not to materially and adversely affect the interests of any holder of the Notes if the Rating Agency
@@ -6107,6 +6406,8 @@ in this prospectus
 The SUBI Certificate Transfer Agreement and the Issuer SUBI Certificate Transfer Agreement may be amended from time to time by the parties
           thereto without the consent of the holders of the Notes or the Certificates,
 146
+
+[PAGE 151 | printed 147]
 provided that, in the case of any amendment to the Issuer SUBI Certificate Transfer Agreement, such amendment will not, in the good faith judgment of the parties
           thereto, materially and adversely affect the interest of any of such holders.
 The Administration Agreement may be amended from time to time by the parties thereto, with the written consent of the Owner Trustee but without
@@ -6154,6 +6455,8 @@ Insolvency Laws
 ”), the Vehicle Trustee is not authorized to commence a case or proceeding
           thereunder. Each of the Vehicle Trustee, the UTI Beneficiary and the
 147
+
+[PAGE 152 | printed 148]
 holders from time to time of the UTI, the 2025-1 SUBI and any Other SUBI have agreed not to institute a case or proceeding against the Vehicle Trust under any
           Insolvency Law for a period of one year and one day after payment in full of all distributions to holders of the UTI, the 2025-1 SUBI and any Other SUBI under the Vehicle Trust Agreement.
 See
@@ -6192,6 +6495,8 @@ The Vehicle Trust Agreement provides for the UTI Beneficiary to be liable as if 
           Beneficiary was the general partner of the partnership to the extent necessary after giving effect to the payment of liabilities allocated severally to the holders of SUBI Certificate and any Other SUBI Certificates. However, it is possible that
           the Noteholders and Certificateholders could incur a loss on their investment to the extent any such claim were allocable to the Issuing Entity as the holder of a SUBI Certificate, either because a
 148
+
+[PAGE 153 | printed 149]
 lien arose in connection with the SUBI Assets or in the event the UTI Beneficiary did not have sufficient assets available, including distributions in respect of
           the UTI, to satisfy such claimant or creditor in full.
 The 2025-1 SUBI
@@ -6233,6 +6538,8 @@ Risk Factors—Risks Primarily Related to Bankruptcy and Insolvency of Transacti
           this prospectus and has undertaken to act throughout the life of such transactions in a manner intended to ensure that in the event a voluntary or involuntary case is commenced by or against BMW FS under the Insolvency Laws, the separate legal
           existence of each of BMW FS, on the one hand, and
 149
+
+[PAGE 154 | printed 150]
 the Vehicle Trust and the Depositor, on the other hand, will be maintained such that none of the respective assets and liabilities of the Vehicle Trust, BMW LP
           or the Depositor should be consolidated with those of BMW FS.
 With respect to the Depositor, these steps include its creation as a separate limited liability company under a limited liability company
@@ -6273,6 +6580,8 @@ FDIC
 OLA
 ”) as described
 150
+
+[PAGE 155 | printed 151]
 in more detail below. The proceedings, standards, powers of the FDIC as receiver and many other substantive provisions of OLA differ from those of the Bankruptcy
           Code in several respects. In addition, because the FDIC has yet to use OLA in any receivership, it is unclear exactly what impact these provisions will have on any particular company, including BMW FS, the UTI Beneficiary, the Depositor, the
           Vehicle Trust, the Issuing Entity, or any of their respective creditors.  On February 21, 2018, the Department of the Treasury proposed a number of changes to the bankruptcy process for financial companies and reform of the FDIC’s OLA authority.
@@ -6306,6 +6615,8 @@ FDIC Counsel
           of the applicable transition period of a regulation provided that such transfer satisfies the conditions for the exclusion of such assets from the property of the estate of that covered financial company under the Bankruptcy Code.  Although this
           advisory opinion does not bind the FDIC or its Board of Directors, and could be modified or withdrawn in the future, the advisory opinion also states that if
 151
+
+[PAGE 156 | printed 152]
 further regulations affecting the statutory power to disaffirm or repudiate contracts are implemented the FDIC Counsel will recommend that the FDIC Board of
           Directors incorporates a transition period of 90 days for any such regulations.  Subsequent to the advisory opinion, the FDIC has issued regulations implementing OLA; none of those regulations alters or contradicts the views of FDIC Counsel in
           the advisory opinion regarding the power of the FDIC to disaffirm or repudiate contracts.  To the extent any future regulations or subsequent FDIC actions in an OLA proceeding involving BMW FS or its subsidiaries (including the UTI Beneficiary,
@@ -6343,6 +6654,8 @@ Regardless of whether the transfers under the SUBI Certificate Transfer Agreemen
  | • | prior to any such repudiation of the Servicing Agreement, prevent any of the Indenture Trustee or the Noteholders from appointing a successor Servicer; or
 [/TABLE_428]
 152
+
+[PAGE 157 | printed 153]
 [TABLE_429]
  | • | repudiate the duties of the Vehicle Trust or the Vehicle Trustee under the SUBI Trust Agreement or any other agreements to which the Vehicle Trust is a party.
 [/TABLE_429]
@@ -6377,6 +6690,8 @@ Because the Issuing Entity will own the SUBI Certificate, the Issuing Entity wil
           interest, in the SUBI Assets.  Except as otherwise described below, the Indenture Trustee generally will not have a perfected security interest in the property of the Issuing Entity or any SUBI Assets and in no circumstances will the Indenture
           Trustee have a perfected security interest in any related Specified Vehicle.
 153
+
+[PAGE 158 | printed 154]
 As described herein under “
 Certain Legal Aspects of the Vehicle Trust and the 2025-1 SUBI
 ,” the
@@ -6428,6 +6743,8 @@ Although the Vehicle Trust will own all of the Specified Vehicles, they will be 
           laws differ as to whether anyone suffering injury to person or property involving a vehicle may bring an action against the owner of that vehicle merely by virtue of such ownership. To the extent that applicable state law permits such an action
           and is not preempted by the Transportation Act, the Vehicle Trust and the
 154
+
+[PAGE 159 | printed 155]
 Vehicle Trust Assets may be subject to liability to such an injured party. However, the laws of many states either (i) do not permit these types of suits, or
           (ii) the lessor’s liability is capped at the amount of any liability insurance that the user-lessee was required to, but failed to, maintain (except for some states, such as New York, where liability is joint and several). Furthermore, the
           Transportation Act provides that an owner of a motor vehicle that rents or leases the vehicle to a person will not be liable under the law of a state or political subdivision by reason of being the owner of the vehicle, for harm to persons or
@@ -6461,6 +6778,8 @@ In the event that a default by a user-lessee has not been cured within a certain
           be obtained from the appropriate state court, and the vehicle must then be repossessed in accordance with that order. Other jurisdictions permit repossession without notice, but only if the repossession can be accomplished peacefully. If a breach
           of the peace cannot be avoided, judicial action will be required.
 155
+
+[PAGE 160 | printed 156]
 After the Servicer has repossessed a Specified Vehicle, it may provide the related user-lessee with a period of time within which to cure the
           default under the related Specified Lease. If, by the end of that period, the default has not been cured, the Servicer will attempt to sell that Specified Vehicle.
 The Sales Proceeds or Termination Proceeds therefrom may be less than the remaining amounts due under that Specified Lease at the time of
@@ -6495,6 +6814,8 @@ The Specified Leases
 ,” BMW FS will represent and warrant as of the applicable Closing
           Date that the related Specified Leases and Specified Vehicles comply with all applicable laws, including Lemon Laws,
 156
+
+[PAGE 161 | printed 157]
 in all material respects. Nevertheless, there can be no assurance that one or more Specified Vehicles will not become subject to return (and the related
           Specified Lease terminated) in the future under a Lemon Law.
 The Servicemembers Civil Relief Act, as amended (the “
@@ -6530,6 +6851,8 @@ Legal Proceedings
 To the knowledge of the Sponsor and the Depositor, there are no legal proceedings pending, or governmental proceedings contemplated, against
           the Sponsor, the Depositor, the UTI Beneficiary, the Vehicle Trust, the Vehicle Trustee, the Servicer or the Issuing Entity that would be material to holders of any Notes.
 157
+
+[PAGE 162 | printed 158]
 For a description of any legal proceedings pending, or governmental proceedings contemplated, against the Owner Trustee and the Indenture
           Trustee that would be material to holders of any Notes, you should refer to “
 The Owner Trustee and the Indenture Trustee
@@ -6595,6 +6918,8 @@ U.S. Person
           States, any state thereof, or the District of Columbia, (iii) an estate, the income of which is includible in gross income for U.S. federal income tax purposes regardless of its source or (iv) a trust with respect to which a court in the United
           States is able to exercise primary authority over its
 158
+
+[PAGE 163 | printed 159]
 administration and as to which one or more U.S. Persons have the authority to control all of its substantial decisions or that is otherwise eligible to and has
           elected to be treated as a U.S. Person. A “
 Non-U.S. Note Owner
@@ -6630,6 +6955,8 @@ If the Issuing Entity were treated as a partnership for U.S. federal income tax 
           entities or arrangements treated as partnerships for U.S. federal income tax purposes would generally apply.  Under these rules, unless a partnership elects otherwise, taxes arising from audit adjustments are required to be paid by the
           partnership rather than by its partners or members.  The parties responsible for the tax administration of the Issuing Entity will have the authority to utilize, and intend to utilize, any exceptions and/or
 159
+
+[PAGE 164 | printed 160]
 elections available under these rules so that the beneficial owners of the Certificates, to the fullest extent possible, rather than the Issuing Entity itself,
           will be liable for any taxes arising from audit adjustments to the Issuing Entity’s taxable income if the Issuing Entity is treated as a partnership.  It is unclear how any such elections may affect the procedural rules available to challenge any
           audit adjustment that would otherwise be available in the absence of any such elections.
@@ -6665,6 +6992,8 @@ The excess of the “stated redemption price at maturity” of Notes offered her
           otherwise make the possibility of late payment or nonpayment sufficiently remote.  It is possible that interest payable on the Notes, as well as any discount from par value, will constitute OID either because the possibility of late payment or
           nonpayment of interest would not be regarded as remote or because there were not reasonable legal remedies to compel timely payment. A U.S. Note Owner (including
 160
+
+[PAGE 165 | printed 161]
 cash basis U.S. Note Owners) must include any such OID in income for U.S. federal income tax purposes over the term of the Note under a constant yield method,
           resulting in the inclusion of OID in income in advance of the receipt of the cash representing that income.
 In the case of a debt instrument (including a Note) as to which the repayment of principal may be accelerated as a result of the prepayment of
@@ -6702,6 +7031,8 @@ Amortizable Bond Premium
 .  In general, if a U.S. Note Owner purchases a Note at a premium (generally,
           an amount in excess of the amount payable upon the maturity thereof), such U.S. Note Owner will be considered to have
 161
+
+[PAGE 166 | printed 162]
 purchased such Note with “amortizable bond premium” equal to the amount of such excess.  The U.S. Note Owner may elect to amortize such amortizable bond premium
           as an offset to interest income and not as a separate deduction item as it accrues under a constant-yield method over the remaining term of the Note.  The U.S. Note Owner’s tax basis in the Note will be reduced by the amount of the amortized bond
           premium.  Any such election will apply to all debt instruments (other than instruments the interest on which is excludible from gross income) held by the U.S. Note Owner at, or that is acquired subsequent to, the beginning of the first taxable
@@ -6740,6 +7071,8 @@ Benchmark Transition Event
           consequences.  There is no direct Internal Revenue Service tax guidance regarding a possible change in the Benchmark as contemplated herein. Note Owners of Notes that have an interest rate that adjusts based on the SOFR Rate or the then-current
           Benchmark should consult with their own tax advisors regarding the potential consequences of a Benchmark Transition Event.
 162
+
+[PAGE 167 | printed 163]
 Possible Alternative Characterization
 Although as described above, it is the opinion of Tax Counsel that as of their issuance date, the Notes held by parties unaffiliated with the
           Issuing Entity for U.S. federal income tax purposes will be characterized as debt for such purposes, no assurance can be given that such a characterization will not be challenged nor, if challenged, will prevail. Were the IRS to contend
@@ -6773,6 +7106,8 @@ As described above, Tax Counsel will deliver its opinion that the Notes held by 
                   Beneficial Owner
 [/TABLE_436]
 163
+
+[PAGE 168 | printed 164]
 of the Notes (or such owner’s agent with legal authority to sign) stating that the holder is not a U.S. Person and providing such holder’s
           name and address, (ii) IRS Form W-8BEN (or, for entities, IRS Form W-8BEN-E) signed by the Beneficial Owner of the Notes (or such owner’s agent with legal authority to sign) claiming exemption from withholding under an applicable tax treaty or
           (iii) IRS Form W-8ECI signed by the Beneficial Owner of the Notes (or, for an entity, an authorized representative or officer of such owner with legal authority to sign) claiming exception from withholding of tax on income connected with the
@@ -6808,6 +7143,8 @@ FATCA
           reporting rules with respect to their U.S. account holders and investors and enter into agreements pursuant to which such foreign financial institutions must gather and report certain information to the IRS (or, pursuant to an applicable
           intergovernmental agreement, to their local tax authorities who will report such
 164
+
+[PAGE 169 | printed 165]
 information to the IRS) and withhold U.S. taxes from certain payments made by them in order to avoid 30% withholding.  Foreign financial institutions that fail
           to comply with the FATCA registration and certification requirements will be subject to a 30% withholding tax on U.S. source payments from the Notes, including interest, OID and gross proceeds from the sale of such Notes (subject to the caveat
           below). Payments of interest and OID from the Notes will also be subject to a withholding tax of 30% unless the entity certifies that it does not have any substantial U.S. owners or provides the name, address and tax identification number of each
@@ -6839,6 +7176,8 @@ ERISA
 ”), and Section
           4975 of the Code prohibit pension, profit-sharing or other employee benefit plans, as well as individual retirement
 165
+
+[PAGE 170 | printed 166]
 accounts and some types of Keogh Plans (each a “
 Benefit Plan
 ” or “
@@ -6882,6 +7221,8 @@ The Issuing Entity, the underwriters, the Owner Trustee, Indenture Trustee, the 
           Plan if any of the above parties or their affiliates has investment authority or renders investment advice for those assets, or is an employer maintaining or contributing to the Plan, unless an applicable prohibited transaction exemption is
           available to cover such acquisition, or the acquisition does not otherwise cause or constitute a non-exempt prohibited transaction.
 166
+
+[PAGE 171 | printed 167]
 Employee benefit plans that are governmental plans (as defined in Section 3(32) of ERISA), non-electing church plans (as defined in Section
           3(33) of ERISA) and non-U.S. plans are not subject to ERISA requirements nor to Section 4975 of the Code.  However, such plans may be subject to other federal, state, local or non-U.S. laws that impose requirements that are substantially similar
           to the provisions of Title I of ERISA or Section 4975 of the Code (“
@@ -6925,6 +7266,8 @@ ____________________
                   underwritten will be $416,500,000. If the aggregate initial principal amount of the Notes is $1,350,000,000, the aggregate initial principal amount of the Class A-2a Notes and the Class A-2b Notes to be underwritten will be $511,000,000.
 [/TABLE_442]
 167
+
+[PAGE 172 | printed 168]
 All or a portion of one or more classes of the Notes may be retained by the Depositor or an affiliate of the Depositor on the Closing Date.
           Any Notes retained by the Depositor or an affiliate on the Closing Date will not be sold to the underwriters under the underwriting agreement. Retained notes may be subsequently sold from time to time to purchasers directly by the Depositor or
           through underwriters, broker-dealers or agents who may receive compensation in the form of discounts, concessions or commissions from the Depositor or the purchasers of the retained notes. If the retained notes are sold through underwriters or
@@ -6957,6 +7300,8 @@ In connection with the offering of the Notes, the underwriters may engage in ove
           maintaining the price of the Notes.  Syndicate covering transactions involve purchases of the Notes in the open market after the distribution has been completed in order to cover short positions.  Stabilizing transactions and syndicate covering
           transactions may cause the price of the Notes to be higher than it would otherwise be in the absence of those transactions.  If the underwriters engage in stabilizing or syndicate covering transactions, they may discontinue them at any time.
 168
+
+[PAGE 173 | printed 169]
 Upon receipt of a request by an investor who has received an electronic prospectus from an underwriter or a request by that investor’s
           representative within the period during which there is an obligation to deliver a prospectus, BMW FS, the Depositor or the underwriters will promptly deliver, or cause to be delivered, without charge, a paper copy of this prospectus.
 European Economic Area
@@ -7007,6 +7352,8 @@ Each underwriter has also represented and agreed, severally and not jointly, tha
  | (iii) | not a qualified investor, as defined in Article 2 of Regulation (EU) 2017/1129 as it forms part of the domestic law of the UK by virtue of the EUWA, and as amended; and
 [/TABLE_454]
 169
+
+[PAGE 174 | printed 170]
 [TABLE_455]
  | (b) | the expression “offer” includes the communication in any form and by any means of sufficient information on the terms of the offer and the Notes to be offered so as to enable an investor to
                   decide to purchase or subscribe for the Notes.
@@ -7065,6 +7412,8 @@ The EU Due Diligence Requirements and the UK Due Diligence Requirements provide,
           institutional investor independently to assess the risks of holding the securitisation position, and has committed to make further information available on an ongoing basis, as appropriate, and including at least the information described in the
           SR 2024, the FCA Rules or the PRASR, as applicable.
 170
+
+[PAGE 175 | printed 171]
 None of the Issuing Entity, the Depositor, the Sponsor, the Servicer, the Administrator, the Indenture Trustee, the Owner Trustee, the
           underwriters, the UTI Beneficiary, the other parties to the transaction described in this prospectus, nor any of their respective affiliates, will undertake, or intends, to retain a material net economic interest with respect to such transaction
           in a manner that would satisfy the requirements of the EU Securitization Regulation or the UK Securitization Framework.
@@ -7089,6 +7438,8 @@ In addition to the legal opinions described in this prospectus, legal matters re
           matters will be passed upon for the Issuing Entity by Morgan, Lewis & Bockius LLP.  Certain legal matters will be passed upon for the underwriters by Sidley Austin LLP. Sidley Austin LLP from time to time renders legal services to BMW FS and
           certain of its affiliates on other matters.
 171
+
+[PAGE 176 | printed 172]
 Index of Principal Terms
 Set forth below is a list of capitalized terms used in this prospectus and the pages in this prospectus on which the
             definitions of those terms may be found.
@@ -7197,6 +7548,8 @@ FSMA | 13, 169
 FTC | 37
 [/TABLE_457]
 172
+
+[PAGE 177 | printed 173]
 [TABLE_458]
 Global Securities | A-1
 Indenture | 47
@@ -7314,6 +7667,8 @@ Termination Proceeds | 129
 Total Loss Payoff | 129
 [/TABLE_459]
 173
+
+[PAGE 178 | printed 174]
 [TABLE_460]
 Transaction Documents | 48
 Transportation Act | 39
@@ -7346,6 +7701,8 @@ Verified Beneficial Owner | 101
 WTNA | 56
 [/TABLE_461]
 174
+
+[PAGE 179]
 Appendix A
 Static Pool Information
 This Appendix contains static pool information about prior, recent securitizations of BMW FS.  The information in this Appendix consists of cumulative losses,
@@ -7366,6 +7723,8 @@ The definitions of certain terms used in this Appendix are defined below.  If no
 For the tables presented below, data presented under the column labeled “Prepayments ($)” represents the actual prepayments received for the
             related month, discounted at the applicable securitization rate.
 Ap-A-1
+
+[PAGE 180]
 [TABLE_464]
 BMW Vehicle Lease Trust 2021-1
 Static Pool Data
@@ -7394,6 +7753,8 @@ New | 100% |  |  |  |  |
 *Weighted by Securitization Value as of the Cutoff Date. |  |  |  |  | 
 [/TABLE_464]
 Ap-A-2
+
+[PAGE 181]
 [TABLE_465]
 Month | Date | 31-60 Days Delinquent ($) | Number of Leases 31-60 Days Delinquent | % by $ of Ending Aggregate Securitization Value | 61-90 Days Delinquent ($) | Number of Leases 61-90 Days Delinquent | % by $ of Ending Aggregate Securitization Value | 91-120 Days Delinquent ($) | Number of Leases 91-120 Days Delinquent | % by $ of Ending Aggregate Securitization Value | 121-150 Days Delinquent ($) | Number of Leases 121-150 Days Delinquent | % by $ of Ending Aggregate Securitization Value | 151+ Days Delinquent ($) | Number of Leases 151+ Days Delinquent | % by $ of Ending Aggregate Securitization Value | 60+ Days Delinquent ($) | % by $ of Ending Aggregate Securitization Value
 1 | 3/31/2021 | $863,694 | 20 | 0.06% | $157,914 | 2 | 0.01% | $0 | 0 | 0.00% | $0 | 0 | 0.00% | $0 | 0 | 0.00% | $157,914 | 0.01%
@@ -7426,6 +7787,8 @@ Month | Date | 31-60 Days Delinquent ($) | Number of Leases 31-60 Days Delinquen
 28 | 6/30/2023 | $592,458 | 23 | 0.23% | $498,796 | 17 | 0.19% | $128,727 | 4 | 0.05% | $107,436 | 4 | 0.04% | $0 | 0 | 0.00% | $734,960 | 0.28%
 [/TABLE_465]
 Ap-A-3
+
+[PAGE 182]
 [TABLE_466]
 Month | Date | End of Period Aggregate Securitization Value ($) | Cumulative Net Credit Gain/(Loss) ($) | % by $ of Original Aggregate Securitization Value | Cumulative Net Residual Gain/(Loss) ($) | % by $ of Original Aggregate Securitization Value | Prepayments ($)
 1 | 3/31/2021 | $1,406,572,221 | $0 | 0.00% | $3,575,250 | 0.25% | $7,342,050
@@ -7458,6 +7821,8 @@ Month | Date | End of Period Aggregate Securitization Value ($) | Cumulative Net
 28 | 6/30/2023 | $258,478,421 | ($105,632) | -0.01% | $261,194,763 | 17.94% | $3,041,517
 [/TABLE_466]
 Ap-A-4
+
+[PAGE 183]
 [TABLE_467]
 BMW Vehicle Lease Trust 2021-2
 Static Pool Data
@@ -7486,6 +7851,8 @@ New | 100% |  |  |  |  |
 *Weighted by Securitization Value as of the Cutoff Date. |  |  |  |  | 
 [/TABLE_467]
 Ap-A-5
+
+[PAGE 184]
 [TABLE_468]
 Month | Date | 31-60 Days Delinquent ($) | Number of Leases 31-60 Days Delinquent | % by $ of Ending Aggregate Securitization Value | 61-90 Days Delinquent ($) | Number of Leases 61-90 Days Delinquent | % by $ of Ending Aggregate Securitization Value | 91-120 Days Delinquent ($) | Number of Leases 91-120 Days Delinquent | % by $ of Ending Aggregate Securitization Value | 121-150 Days Delinquent ($) | Number of Leases 121-150 Days Delinquent | % by $ of Ending Aggregate Securitization Value | 151+ Days Delinquent ($) | Number of Leases 151+ Days Delinquent | % by $ of Ending Aggregate Securitization Value | 60+ Days Delinquent ($) | % by $ of Ending Aggregate Securitization Value
 1 | 9/30/2021 | $1,441,255 | 36 | 0.10% | $41,808 | 1 | 0.00% | $0 | 0 | 0.00% | $0 | 0 | 0.00% | $0 | 0 | 0.00% | $41,808 | 0.00%
@@ -7518,6 +7885,8 @@ Month | Date | 31-60 Days Delinquent ($) | Number of Leases 31-60 Days Delinquen
 28 | 12/31/2023 | $1,423,622 | 43 | 0.50% | $432,989 | 16 | 0.15% | $171,252 | 6 | 0.06% | $26,842 | 1 | 0.01% | $0 | 0 | 0.00% | $631,083 | 0.22%
 [/TABLE_468]
 Ap-A-6
+
+[PAGE 185]
 [TABLE_469]
 Month | Date | End of Period Aggregate Securitization Value ($) | Cumulative Net Credit Gain/(Loss) ($) | % by $ of Original Aggregate Securitization Value | Cumulative Net Residual Gain/(Loss) ($) | % by $ of Original Aggregate Securitization Value | Prepayments ($)
 1 | 9/30/2021 | $1,397,636,507 | ($405) | 0.00% | $7,794,313 | 0.54% | $17,224,781
@@ -7550,6 +7919,8 @@ Month | Date | End of Period Aggregate Securitization Value ($) | Cumulative Net
 28 | 12/31/2023 | $284,847,361 | ($166,941) | -0.01% | $225,049,192 | 15.46% | $2,748,124
 [/TABLE_469]
 Ap-A-7
+
+[PAGE 186]
 [TABLE_470]
 BMW Vehicle Lease Trust 2022-1
 Static Pool Data
@@ -7578,6 +7949,8 @@ New | 100% |  |  |  |  |
 *Weighted by Securitization Value as of the Cutoff Date. |  |  |  |  | 
 [/TABLE_470]
 Ap-A-8
+
+[PAGE 187]
 [TABLE_471]
 Month | Date | 31-60 Days Delinquent ($) | Number of Leases 31-60 Days Delinquent | % by $ of Ending Aggregate Securitization Value | 61-90 Days Delinquent ($) | Number of Leases 61-90 Days Delinquent | % by $ of Ending Aggregate Securitization Value | 91-120 Days Delinquent ($) | Number of Leases 91-120 Days Delinquent | % by $ of Ending Aggregate Securitization Value | 121-150 Days Delinquent ($) | Number of Leases 121-150 Days Delinquent | % by $ of Ending Aggregate Securitization Value | 151+ Days Delinquent ($) | Number of Leases 151+ Days Delinquent | % by $ of Ending Aggregate Securitization Value | 60+ Days Delinquent ($) | % by $ of Ending Aggregate Securitization Value
 1 | 1/31/2022 | $1,792,670 | 36 | 0.13% | $308,588 | 7 | 0.02% | $0 | 0 | 0.00% | $0 | 0 | 0.00% | $0 | 0 | 0.00% | $308,588 | 0.02%
@@ -7610,6 +7983,8 @@ Month | Date | 31-60 Days Delinquent ($) | Number of Leases 31-60 Days Delinquen
 28 | 4/30/2024 | $1,114,115 | 41 | 0.45% | $731,539 | 22 | 0.30% | $252,491 | 9 | 0.10% | $79,348 | 3 | 0.03% | $0 | 0 | 0.00% | $1,063,379 | 0.43%
 [/TABLE_471]
 Ap-A-9
+
+[PAGE 188]
 [TABLE_472]
 Month | Date | End of Period Aggregate Securitization Value ($) | Cumulative Net Credit Gain/(Loss) ($) | % by $ of Original Aggregate Securitization Value | Cumulative Net Residual Gain/(Loss) ($) | % by $ of Original Aggregate Securitization Value | Prepayments ($)
 1 | 1/31/2022 | $1,397,300,912 | $0 | 0.00% | $9,835,212 | 0.67% | $19,979,096
@@ -7642,6 +8017,8 @@ Month | Date | End of Period Aggregate Securitization Value ($) | Cumulative Net
 28 | 4/30/2024 | $245,440,836 | ($296,108) | -0.02% | $214,441,358 | 14.69% | $2,796,856
 [/TABLE_472]
 Ap-A-10
+
+[PAGE 189]
 [TABLE_473]
 BMW Vehicle Lease Trust 2023-1
 Static Pool Data
@@ -7670,6 +8047,8 @@ New | 100% |  |  |  |  |
 *Weighted by Securitization Value as of the Cutoff Date. |  |  |  |  | 
 [/TABLE_473]
 Ap-A-11
+
+[PAGE 190]
 [TABLE_474]
 Month | Date | 31-60 Days Delinquent ($) | Number of Leases 31-60 Days Delinquent | % by $ of Ending Aggregate Securitization Value | 61-90 Days Delinquent ($) | Number of Leases 61-90 Days Delinquent | % by $ of Ending Aggregate Securitization Value | 91-120 Days Delinquent ($) | Number of Leases 91-120 Days Delinquent | % by $ of Ending Aggregate Securitization Value | 121-150 Days Delinquent ($) | Number of Leases 121-150 Days Delinquent | % by $ of Ending Aggregate Securitization Value | 151+ Days Delinquent ($) | Number of Leases 151+ Days Delinquent | % by $ of Ending Aggregate Securitization Value | 60+ Days Delinquent ($) | % by $ of Ending Aggregate Securitization Value
 1 | 2/28/2023 | $2,012,870 | 42 | 0.18% | $257,198 | 6 | 0.02% | $0 | 0 | 0.00% | $0 | 0 | 0.00% | $0 | 0 | 0.00% | $257,198 | 0.02%
@@ -7700,6 +8079,8 @@ Month | Date | 31-60 Days Delinquent ($) | Number of Leases 31-60 Days Delinquen
 26 | 3/31/2025 | $2,290,815 | 64 | 1.03% | $738,690 | 20 | 0.33% | $313,221 | 9 | 0.14% | $33,126 | 1 | 0.01% | $0 | 0 | 0.00% | $1,085,038 | 0.49%
 [/TABLE_474]
 Ap-A-12
+
+[PAGE 191]
 [TABLE_475]
 Month | Date | End of Period Aggregate Securitization Value ($) | Cumulative Net Credit Gain/(Loss) ($) | % by $ of Original Aggregate Securitization Value | Cumulative Net Residual Gain/(Loss) ($) | % by $ of Original Aggregate Securitization Value | Prepayments ($)
 1 | 2/28/2023 | $1,110,962,947 | $0 | 0.00% | $4,878,042 | 0.42% | $11,018,295
@@ -7730,6 +8111,8 @@ Month | Date | End of Period Aggregate Securitization Value ($) | Cumulative Net
 26 | 3/31/2025 | $221,617,921 | ($742,234) | -0.06% | $125,893,781 | 10.93% | $4,362,621
 [/TABLE_475]
 Ap-A-13
+
+[PAGE 192]
 [TABLE_476]
 BMW Vehicle Lease Trust 2023-2
 Static Pool Data
@@ -7758,6 +8141,8 @@ New | 100% |  |  |  |  |
 *Weighted by Securitization Value as of the Cutoff Date. |  |  |  |  | 
 [/TABLE_476]
 Ap-A-14
+
+[PAGE 193]
 [TABLE_477]
 Month | Date | 31-60 Days Delinquent ($) | Number of Leases 31-60 Days Delinquent | % by $ of Ending Aggregate Securitization Value | 61-90 Days Delinquent ($) | Number of Leases 61-90 Days Delinquent | % by $ of Ending Aggregate Securitization Value | 91-120 Days Delinquent ($) | Number of Leases 91-120 Days Delinquent | % by $ of Ending Aggregate Securitization Value | 121-150 Days Delinquent ($) | Number of Leases 121-150 Days Delinquent | % by $ of Ending Aggregate Securitization Value | 151+ Days Delinquent ($) | Number of Leases 151+ Days Delinquent | % by $ of Ending Aggregate Securitization Value | 60+ Days Delinquent ($) | % by $ of Ending Aggregate Securitization Value
 1 | 10/31/2023 | $3,092,492 | 55 | 0.22% | $695,452 | 14 | 0.05% | $85,695 | 1 | 0.01% | $0 | 0 | 0.00% | $0 | 0 | 0.00% | $781,147 | 0.06%
@@ -7780,6 +8165,8 @@ Month | Date | 31-60 Days Delinquent ($) | Number of Leases 31-60 Days Delinquen
 18 | 3/31/2025 | $5,814,232 | 125 | 0.98% | $2,134,808 | 48 | 0.36% | $652,061 | 15 | 0.11% | $467,356 | 9 | 0.08% | $0 | 0 | 0.00% | $3,254,225 | 0.55%
 [/TABLE_477]
 Ap-A-15
+
+[PAGE 194]
 [TABLE_478]
 Month | Date | End of Period Aggregate Securitization Value ($) | Cumulative Net Credit Gain/(Loss) ($) | % by $ of Original Aggregate Securitization Value | Cumulative Net Residual Gain/(Loss) ($) | % by $ of Original Aggregate Securitization Value | Prepayments ($)
 1 | 10/31/2023 | $1,382,129,478 | $0 | 0.00% | $7,398,675 | 0.51% | $16,868,996
@@ -7802,6 +8189,8 @@ Month | Date | End of Period Aggregate Securitization Value ($) | Cumulative Net
 18 | 3/31/2025 | $592,690,973 | ($613,313) | -0.04% | $114,628,667 | 7.96% | $9,896,153
 [/TABLE_478]
 Ap-A-16
+
+[PAGE 195]
 [TABLE_479]
 BMW Vehicle Lease Trust 2024-1
 Static Pool Data
@@ -7830,6 +8219,8 @@ New | 100% |  |  |  |  |
 *Weighted by Securitization Value as of the Cutoff Date. |  |  |  |  | 
 [/TABLE_479]
 Ap-A-17
+
+[PAGE 196]
 [TABLE_480]
 Month | Date | 31-60 Days Delinquent ($) | Number of Leases 31-60 Days Delinquent | % by $ of Ending Aggregate Securitization Value | 61-90 Days Delinquent ($) | Number of Leases 61-90 Days Delinquent | % by $ of Ending Aggregate Securitization Value | 91-120 Days Delinquent ($) | Number of Leases 91-120 Days Delinquent | % by $ of Ending Aggregate Securitization Value | 121-150 Days Delinquent ($) | Number of Leases 121-150 Days Delinquent | % by $ of Ending Aggregate Securitization Value | 151+ Days Delinquent ($) | Number of Leases 151+ Days Delinquent | % by $ of Ending Aggregate Securitization Value | 60+ Days Delinquent ($) | % by $ of Ending Aggregate Securitization Value
 1 | 2/29/2024 | $1,953,687 | 36 | 0.14% | $472,732 | 9 | 0.03% | $0 | 0 | 0.00% | $0 | 0 | 0.00% | $0 | 0 | 0.00% | $472,732 | 0.03%
@@ -7848,6 +8239,8 @@ Month | Date | 31-60 Days Delinquent ($) | Number of Leases 31-60 Days Delinquen
 14 | 3/31/2025 | $5,205,722 | 106 | 0.52% | $1,350,175 | 28 | 0.14% | $629,953 | 12 | 0.06% | $371,030 | 10 | 0.04% | $0 | 0 | 0.00% | $2,351,158 | 0.24%
 [/TABLE_480]
 Ap-A-18
+
+[PAGE 197]
 [TABLE_481]
 Month | Date | End of Period Aggregate Securitization Value ($) | Cumulative Net Credit Gain/(Loss) ($) | % by $ of Original Aggregate Securitization Value | Cumulative Net Residual Gain/(Loss) ($) | % by $ of Original Aggregate Securitization Value | Prepayments ($)
 1 | 2/29/2024 | $1,444,509,870 | ($6,905) | 0.00% | $5,612,670 | 0.37% | $12,320,404
@@ -7866,6 +8259,8 @@ Month | Date | End of Period Aggregate Securitization Value ($) | Cumulative Net
 14 | 3/31/2025 | $998,951,854 | ($563,698) | -0.04% | $56,450,389 | 3.77% | $11,973,205
 [/TABLE_481]
 Ap-A-19
+
+[PAGE 198]
 [TABLE_482]
 BMW Vehicle Lease Trust 2024-2
 Static Pool Data
@@ -7894,6 +8289,8 @@ New | 100% |  |  |  |  |
 *Weighted by Securitization Value as of the Cutoff Date. |  |  |  |  | 
 [/TABLE_482]
 Ap-A-20
+
+[PAGE 199]
 [TABLE_483]
 Month | Date | 31-60 Days Delinquent ($) | Number of Leases 31-60 Days Delinquent | % by $ of Ending Aggregate Securitization Value | 61-90 Days Delinquent ($) | Number of Leases 61-90 Days Delinquent | % by $ of Ending Aggregate Securitization Value | 91-120 Days Delinquent ($) | Number of Leases 91-120 Days Delinquent | % by $ of Ending Aggregate Securitization Value | 121-150 Days Delinquent ($) | Number of Leases 121-150 Days Delinquent | % by $ of Ending Aggregate Securitization Value | 151+ Days Delinquent ($) | Number of Leases 151+ Days Delinquent | % by $ of Ending Aggregate Securitization Value | 60+ Days Delinquent ($) | % by $ of Ending Aggregate Securitization Value
 1 | 10/31/2024 | $2,370,624 | 38 | 0.17% | $526,522 | 8 | 0.04% | $0 | 0 | 0.00% | $0 | 0 | 0.00% | $0 | 0 | 0.00% | $526,522 | 0.04%
@@ -7904,6 +8301,8 @@ Month | Date | 31-60 Days Delinquent ($) | Number of Leases 31-60 Days Delinquen
 6 | 3/31/2025 | $4,506,696 | 81 | 0.35% | $911,194 | 16 | 0.07% | $350,807 | 6 | 0.03% | $37,143 | 1 | 0.00% | $0 | 0 | 0.00% | $1,299,143 | 0.10%
 [/TABLE_483]
 Ap-A-21
+
+[PAGE 200]
 [TABLE_484]
 Month | Date | End of Period Aggregate Securitization Value ($) | Cumulative Net Credit Gain/(Loss) ($) | % by $ of Original Aggregate Securitization Value | Cumulative Net Residual Gain/(Loss) ($) | % by $ of Original Aggregate Securitization Value | Prepayments ($)
 1 | 10/31/2024 | $1,418,081,685 | $49 | 0.00% | $4,261,413 | 0.29% | $10,267,491
@@ -7914,18 +8313,26 @@ Month | Date | End of Period Aggregate Securitization Value ($) | Cumulative Net
 6 | 3/31/2025 | $1,269,521,201 | ($23,867) | 0.00% | $19,803,055 | 1.35% | $8,071,718
 [/TABLE_484]
 Ap-A-22
+
+[PAGE 201]
 Cumulative Net Loss Information
 .  The graph below shows
             cumulative net credit losses, as a percentage of the aggregate securitization value of the leases in the related pool as of the end of each monthly period, for each of the Sponsor’s lease securitizations since 2020.
 Ap-A-23
+
+[PAGE 202]
 Delinquency Information
 .  The graph below shows the aggregate
             securitization value of 60 or more days delinquent leases as a percentage of the aggregate securitization value of the leases in the related pool as of the end of each monthly period, for each of the Sponsor’s lease securitizations since 2020.
 Ap-A-24
+
+[PAGE 203]
 Monthly Prepayment Information
 .  The graph below shows the amount
             of monthly prepayments for each of the Sponsor’s lease securitizations since 2020.
 Ap-A-25
+
+[PAGE 204]
 Appendix B
 Assumed Cashflows
 (if the aggregate initial principal amount of the Notes is $1,100,000,000)
@@ -7971,6 +8378,8 @@ March 2028 |  | 40,775,612.51 |  | 0.00 |  | 41,144,292.01
 April 2028 |  | 0.00 |  | 0.00 |  | 0.00
 [/TABLE_485]
 Ap-B-1
+
+[PAGE 205]
 Assumed Cashflows
 (if the aggregate initial principal amount of the Notes is $1,350,000,000)
 Modeling Assumption: The cashflow schedules appearing in the immediately following table were generated assuming (i) that the User-Lessees make their remaining
@@ -8015,6 +8424,8 @@ March 2028 |  | 50,339,399.09 |  | 0.00 |  | 50,794,551.16
 April 2028 |  | 0.00 |  | 0.00 |  | 0.00
 [/TABLE_486]
 Ap-B-2
+
+[PAGE 206 | printed A-1]
 Annex A
 Global Clearance, Settlement and Tax Documentation Procedures
 Except in specified circumstances, the globally offered Notes (the “
@@ -8058,6 +8469,8 @@ Trading between DTC Depositary and Clearstream, Luxembourg Participants
             business day prior to settlement.  Clearstream, Luxembourg will instruct the respective Depositary, as the case may be, to receive the Global Securities against payment.  Payment will include interest accrued on the Global Securities from and
             including the last coupon payment date to and excluding the settlement date, on the basis of the
 A-1
+
+[PAGE 207 | printed A-2]
 actual number of days in that accrual period and a year assumed to consist of 360 days.  For transactions settling on the 31st of the month, payment will
             include interest accrued to and excluding the first day of the following month.  Payment will then be made by the respective Depositary to the DTC Participant’s account against delivery of the Global Securities.  After settlement has been
             completed, the Global Securities will be credited to the respective clearing system and by the clearing system, in accordance with its usual procedures to the Clearstream, Luxembourg Participant’s account.  The securities credit will appear the
@@ -8090,6 +8503,8 @@ Finally, day traders that use Clearstream, Luxembourg and that purchase Global S
                     customary procedures;
 [/TABLE_487]
 A-2
+
+[PAGE 208 | printed A-3]
 [TABLE_488]
  | 2. | borrowing the Global Securities in the U.S. from a DTC Participant no later than one day prior to settlement, which would give the Global Securities sufficient time to be reflected in their
                     Clearstream, Luxembourg account in order to settle the sale side of the trade; or
@@ -8135,6 +8550,8 @@ Non-U.S. Person
 This summary does not deal with all aspects of U.S. federal income tax withholding that may be relevant to foreign holders of Global
             Securities.  It is suggested that investors consult their tax advisors for specific tax advice concerning their holding and disposing of Global Securities.
 A-3
+
+[PAGE 209]
 [TABLE_490]
 BMW Auto Leasing LLC Depositor |  | BMW Vehicle Lease Trust 2025-1 Issuing Entity
 BMW Financial Services NA, LLC Sponsor, Servicer and Administrator

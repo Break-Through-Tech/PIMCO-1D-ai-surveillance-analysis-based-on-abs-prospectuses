@@ -1,3 +1,4 @@
+[PAGE 1]
 This prospectus is not complete and may be amended.  This prospectus is not an offer to sell these securities and we are not seeking an offer to buy these securities in any state where the offer
           or sale is not permitted.
 Filed Pursuant to Rule 424(h)
@@ -45,6 +46,8 @@ The depositor or one or more of its affiliates may continue to retain a portion 
 (2)
 The Class A-1a notes, the Class A-1b notes and the Class C notes are not offered hereby. Any information in this prospectus regarding the Class A-1a notes, the Class A-1b notes or the Class C notes is included
           only for informational purposes and to facilitate a better understanding of the Class B notes that are offered by this prospectus.
+
+[PAGE 2]
 (3)
 If the notes have not been redeemed as of the payment date in August 2027, beginning on such payment date, in addition to interest at the stated interest rate, each class of notes will accrue additional interest
           at the additional interest rate applicable to that class of notes, which additional interest amounts will be distributed to noteholders as set forth under “
@@ -95,6 +98,8 @@ RBC Capital Markets
 (sole structurer)
 ________________
 The date of this prospectus is July   , 2025
+
+[PAGE 3 | printed 2]
 TABLE OF CONTENTS
 [TABLE_6]
 Important Notice About Information in this Prospectus | 5
@@ -160,6 +165,8 @@ Notice Obligations of Cellco | 108
 Receivables | 109
 [/TABLE_7]
 2
+
+[PAGE 4 | printed 3]
 [TABLE_8]
 Receivables, Group 1 Assets and Series 2024-6 Assets | 109
 Description of the Receivables | 110
@@ -226,6 +233,8 @@ Backup Withholding | 176
 Possible Alternative Treatments of the Offered Notes | 176
 [/TABLE_9]
 3
+
+[PAGE 5 | printed 4]
 [TABLE_10]
 Foreign Account Tax Compliance | 177
 Reportable Transactions | 177
@@ -251,6 +260,8 @@ Annex A: Static Pool Data: Master Trust Receivables | A‑1
 Annex B: Other Group 1 Series of Credit Extensions Outstanding | B‑1
 [/TABLE_11]
 4
+
+[PAGE 6 | printed 5]
 IMPORTANT NOTICE ABOUT INFORMATION IN THIS PROSPECTUS
 This prospectus has been prepared by Verizon ABS II LLC, as depositor, and Cellco Partnership d/b/a Verizon Wireless, as sponsor. The U.S. Securities and Exchange Commission (the “
 SEC
@@ -294,6 +305,8 @@ This prospectus begins with the following brief introductory sections:
 The other sections of this prospectus contain more detailed descriptions of the parties to this securitization transaction, the assets of the issuing entity and the servicing of the assets, the notes and the structure
         of this securitization transaction.  Cross-references refer you to more detailed descriptions of a
 5
+
+[PAGE 7 | printed 6]
 particular topic or related information elsewhere in this prospectus.  The Table of Contents contains references to key topics.  The information set forth in any Schedule attached to this prospectus and in Annex A and Annex B is deemed to be a
         part of and is incorporated into this prospectus.
 Capitalized terms used in this prospectus, if not defined when first used, will have the meanings ascribed thereto in
@@ -323,6 +336,8 @@ Each note bears the following legend:
 ERISA
 ”), SECTION 4975 OF THE INTERNAL
 6
+
+[PAGE 8 | printed 7]
 REVENUE CODE OF 1986, AS AMENDED (THE “
 CODE
 ”), OR A FEDERAL, STATE, LOCAL OR NON-U.S. LAW OR REGULATION THAT IS SUBSTANTIALLY SIMILAR TO TITLE I OF ERISA OR
@@ -359,6 +374,8 @@ UK PRIIPS REGULATION
         IN THE UK HAS BEEN PREPARED AND THEREFORE OFFERING OR SELLING THE NOTES OR OTHERWISE MAKING THEM AVAILABLE TO ANY UK RETAIL INVESTOR IN THE UK MAY BE UNLAWFUL UNDER THE UK PRIIPS REGULATION.
 THIS PROSPECTUS IS NOT A PROSPECTUS FOR THE PURPOSES OF THE UK PROSPECTUS REGULATION.
 7
+
+[PAGE 9 | printed 8]
 NOTICE TO INVESTORS: EUROPEAN ECONOMIC AREA
 THE NOTES ARE NOT INTENDED TO BE OFFERED, SOLD OR OTHERWISE MADE AVAILABLE TO AND SHOULD NOT BE OFFERED, SOLD OR OTHERWISE MADE AVAILABLE TO ANY EU RETAIL INVESTOR IN THE EUROPEAN ECONOMIC AREA (THE “
 EEA
@@ -378,6 +395,8 @@ EU PRIIPS REGULATION
         THEM AVAILABLE TO ANY EU RETAIL INVESTOR IN THE EEA MAY BE UNLAWFUL UNDER THE EU PRIIPS REGULATION.
 THIS PROSPECTUS IS NOT A PROSPECTUS FOR THE PURPOSES OF THE EU PROSPECTUS REGULATION.
 8
+
+[PAGE 10 | printed 9]
 TRUST AND TRANSACTION STRUCTURE DIAGRAM
 The following diagram provides a simplified overview of the structure of the Trust, this securitization transaction and the credit and payment enhancement available for the Notes.  You should read
         this prospectus in its entirety for a more detailed description of this securitization transaction.
@@ -420,6 +439,8 @@ The following diagram provides a simplified overview of the structure of the Tru
                 Notes.  The Series 2024-6 Required Overcollateralization Percentage is 8.25% and the Series 2024-
 [/TABLE_23]
 9
+
+[PAGE 11 | printed 10]
 [TABLE_24]
  | 6 Required Overcollateralization Amount was equal to $134,877,384.20 on the Initial Issuance Date and will equal such amount on the Closing Date. For more details about overcollateralization, you should read “Credit and Payment Enhancement—Overcollateralization.”
 [/TABLE_24]
@@ -429,6 +450,8 @@ The following diagram provides a simplified overview of the structure of the Tru
                 allocated to Series 2024-6 on such Payment Date.
 [/TABLE_25]
 10
+
+[PAGE 12 | printed 11]
 TRANSACTION CREDIT AND PAYMENT ENHANCEMENT DIAGRAM
 This diagram is a simplified overview of the credit and payment enhancement available for the Notes on the Closing Date and how credit and payment enhancement is used to absorb losses on the
         Receivables.  If losses on the Receivables and other shortfalls in cash flows exceed the amount of available credit and payment enhancement, the amount available to make payments on the Notes will be reduced to the extent of these losses.  The risk
@@ -454,13 +477,19 @@ ________________________
                 allocated to Series 2024-6 on such Payment Date.
 [/TABLE_29]
 11
+
+[PAGE 13 | printed 12]
 TRANSACTION PARTIES AND DOCUMENTS DIAGRAM
 The following diagram shows the role of each transaction party and the obligations that are governed by each transaction document relating to the Notes.
 12
+
+[PAGE 14 | printed 13]
 TRANSACTION PAYMENTS DIAGRAM
 This diagram shows how Series 2024-6 Available Funds will be paid on each Payment Date.  The priority of payments shown in this diagram will apply unless the Notes are accelerated
         after an Event of Default.  You should read this prospectus completely, including “Description of the Notes—Priority of Payments” and “—Post-Acceleration Priority of Payments,” for more details about the priority of payments for the Notes.
 13
+
+[PAGE 15 | printed 14]
 SUMMARY
 This summary describes the transaction parties, the main terms of the issuance of and payments on the Notes, the Receivables, the cash flows in this securitization transaction and
             the credit and payment enhancement available for the Notes.  It does not contain all of the information that you should consider in making your investment decision.  To understand fully the terms of the Class B Notes and the transaction
@@ -520,6 +549,8 @@ Servicing the Receivables and the Securitization
                 Transaction
 ” or any Credit Extensions other than the Notes, except for
 14
+
+[PAGE 16 | printed 15]
 certain information with respect to the Group 1 Credit Extensions Outstanding set forth in Annex B.
 The equity interest in the Trust is represented by the Certificates, which are not offered by this prospectus.  The Depositor and Verizon DPPA True-up Trust hold the Certificates.  Verizon DPPA True-up Trust is a majority owned affiliate
               of the Sponsor and is beneficially owned by the Originators. The Certificates do not have an interest rate.
@@ -561,6 +592,8 @@ Verizon ABS II LLC is a Delaware limited liability company and a special purpose
 Issuing Entity or Trust
 Verizon Master Trust is a Delaware statutory trust governed by the Trust Agreement and will issue
 15
+
+[PAGE 17 | printed 16]
 the Notes.  The Trust was formed on February 3, 2021.
 Originators
 Cellco and certain other affiliates of Verizon Communications are the Originators who have originated or will originate the Receivables under contracts entered into by Verizon Wireless Services, as agent of each Originator or another
@@ -604,6 +637,8 @@ The Trust will be entitled to Collections on each Receivable on and after the re
 Statistical Calculation Date
 May 11, 2025.
 16
+
+[PAGE 18 | printed 17]
 Statistical Information
 The statistical information in this prospectus is based on the Receivables as of the Statistical Calculation Date.  The pool of Receivables on the Closing Date may (i) not include certain Receivables designated to Group 1 as of the
               Statistical Calculation Date as a result of payments in full or delinquencies on certain Device Payment Plan Agreements after the Statistical Calculation Date and other reasons for which the Device Payment Plan Agreements would not constitute
@@ -653,6 +688,8 @@ Earliest Redemption Date; Optional Redemption of the Notes
 The Trust may not effect an Optional Redemption prior to the Earliest Redemption Date, which is the Payment Date occurring in October 2025.  Certificateholders representing 100% of the voting interests of the Certificates, with the consent
               of the Administrator, on behalf of the Trust, have the right to direct the Trust to exercise an Optional Redemption of the Notes, in whole but not in part, on any date on or after the Earliest
 17
+
+[PAGE 19 | printed 18]
 Redemption Date.  If the Trust effects an Optional Redemption on any date prior to the First Par Redemption Date, the Trust will be required to pay a Make-Whole Payment in connection with such redemption.
 The Trust may not exercise an Optional Redemption unless all principal of, and accrued and unpaid interest on, the Notes, and any applicable Make-Whole Payments and Additional Interest Amounts due and payable on that date, and all other
               amounts payable by the Trust with respect to Series 2024-6, including such amounts due and payable to the Indenture Trustee, the Owner Trustee, the Master Collateral Agent and the Asset Representations Reviewer as of such date, are paid in
@@ -695,6 +732,8 @@ The Series 2024-6 Available Funds for any Payment Date will be equal to the sum 
               released from the Principal Funding Account for such Payment Date.  Prior to each Payment Date, Group 1 Available Funds allocable to Series 2024-6 for such Payment Date will be withdrawn by the Master Collateral Agent from the Collection
               Account, as directed by the Servicer, and remitted to the Distribution Account.
 18
+
+[PAGE 20 | printed 19]
 Series 2024-6 Concentration Limits
 The Series 2024-6 Concentration Limits are the tests below used to calculate the Series 2024-6 Excess Concentration Amount.  The Series 2024-6 Excess Concentration Amount is the sum of the following amounts, without duplication:
 (i) for all Receivables:
@@ -741,6 +780,8 @@ With respect to each Payment Date, interest on the Class A-1a Notes, Class B Not
               excluding the 20th day of the calendar month in which that Payment Date occurs.  This means that the interest due on the Class A-1a Notes, Class B Notes and Class C Notes on each Payment Date will be the product of: (i) the Note Balance of
               such class of Notes on that Payment Date, before giving effect to any payments made
 19
+
+[PAGE 21 | printed 20]
 on that date; (ii) the applicable interest rate on such class of Notes for that Payment Date; and (iii) 30 divided by 360.  With respect to the first Payment Date following the Closing Date, (i) the True-up Trust, as the holder of the
               Class B Notes prior to the Closing Date, will only be entitled to interest accrued on the Class B Notes from and including July 20, 2025 to but excluding the Closing Date and (ii) purchasers of the Class B Notes offered by this prospectus
               will only be entitled to interest accrued on the Class B Notes from and including the Closing Date to but excluding August 20, 2025.
@@ -775,6 +816,8 @@ On each Payment Date during the Amortization Period, the Trust will make Priorit
               payments applied to the Class A Notes allocated to the Class A-1a Notes and Class A-1b Notes, pro rata, based on the Note Balance of the Class A-1a Notes and Class A-1b Notes on the related Payment Date, before giving effect to any payments
               made on that date), the Class B Notes and the Class C Notes, in that order, in each case until such class of Notes is paid in full.  On each Payment Date on which Make-Whole Payments
 20
+
+[PAGE 22 | printed 21]
 are due and payable on the Notes, the Trust will make such Make-Whole Payments, to the extent of Series 2024-6 Available Funds available therefor, sequentially to the Class A Notes (with any principal payments applied to the Class A Notes
               allocated to the Class A-1a Notes and Class A-1b Notes, pro rata, based on the Note Balance of the Class A-1a Notes and Class A-1b Notes on the related Payment Date, before giving effect to any payments made on that date), the Class B Notes
               and the Class C Notes, in that order, in each case until such class of Notes is paid in full.
@@ -822,6 +865,8 @@ Certain fees and expenses of the Trust have been and will be allocated to Group 
               Series 2024-6 based on the Series 2024-6 ARR Series Allocation Percentage.  As of the Closing Date, the Series 2024-6 ARR Series Allocation Percentage will be equal to 13.80%.  The Supplemental ARR Fee due to the Asset Representations
               Reviewer is and will be allocated to Series 2024-6 based on the Series 2024-6 Supplemental ARR Series Allocation
 21
+
+[PAGE 23 | printed 22]
 Percentage.  As of the Closing Date, the Series 2024-6 Supplemental ARR Series Allocation Percentage will be equal to 13.80%.
 Servicing Fees
 On each Payment Date, the Trust will pay the Servicer the Servicing Fee with respect to that Payment Date.  On each Payment Date, the Trust will pay the Series 2024-6 Allocation Percentage of the Servicing Fee from Series 2024-6 Available
@@ -852,6 +897,8 @@ Asset Representations Reviewer Fees
 The Asset Representations Reviewer will be entitled to certain fees in connection with the performance of its duties under the Asset Representations Review Agreement.  The Trust will pay the Asset Representations Reviewer a monthly fee
               equal to $416.67.  The Trust will pay the Series 2024-6 ARR Series Allocation Percentage of such amounts from Series 2024-6 Available Funds.  In addition, on each Payment
 22
+
+[PAGE 24 | printed 23]
 Date, the Trust will pay the Asset Representations Reviewer a Supplemental ARR Fee equal to $1,666.67.  The Trust will pay the Series 2024-6 Supplemental ARR Series Allocation Percentage of such Supplemental ARR Fee from Series 2024-6
               Available Funds.  In the event an Asset Representations Review occurs, the Asset Representations Reviewer will be entitled to a one-time fee of $50,000, as described under “
 Asset Representations Reviewer.
@@ -909,6 +956,8 @@ Percentage of Consumer Receivables | 90.07%
 Percentage of Business Receivables | 9.93%
 [/TABLE_48]
 23
+
+[PAGE 25 | printed 24]
 ___________________
 [TABLE_49]
 (1) | Weighted averages are weighted by the aggregate Principal Balance of the applicable Receivables as of the Statistical Calculation Date.
@@ -969,6 +1018,8 @@ Each of the following will be Amortization Events for Series 2024-6:
  | • | as of any Payment Date, a Pool Balance Deficit exists after giving effect to distributions on such Payment Date (including deposits to the Principal
 [/TABLE_57]
 24
+
+[PAGE 26 | printed 25]
 [TABLE_58]
  |  | Funding Account on such Payment Date),
 [/TABLE_58]
@@ -1020,6 +1071,8 @@ Each of the following are Events of Default with respect to Group 1:
 If an Event of Default occurs because of bankruptcy or dissolution of the Trust, the Notes will be accelerated and declared due and payable automatically.  If an Event of Default (other than an Event of Default caused by the bankruptcy or
               dissolution of the Trust) occurs, the Indenture Trustee or the holders of a majority of the Note Balance of the Controlling Class may accelerate the Notes and declare the Notes to be immediately due and payable.  If an Event of
 25
+
+[PAGE 27 | printed 26]
 Default has occurred and is continuing, the Revolving Period will end and the Amortization Period will begin.  Following an acceleration of the Notes, any Series 2024-6 Available Funds will be paid according to the post-acceleration
               priority of payments described under “
 Description of the Notes—Post Acceleration Priority of Payments
@@ -1064,6 +1117,8 @@ Each of the following events are Servicer Termination Events under the Transfer 
                       preceding bullet point or the immediately
 [/TABLE_70]
 26
+
+[PAGE 28 | printed 27]
 [TABLE_71]
  |  | following bullet point), which failure has a material adverse effect on the Creditors and continues for ninety (90) days after the Servicer receives written notice
                       of the failure from the Master Collateral Agent or the Majority Trust Creditor Representatives, or
@@ -1097,6 +1152,8 @@ On each Payment Date, the Servicer will instruct the Paying Agent to use Series 
                       will not apply; provided further that on the Payment Date occurring in December of each calendar year, to the extent the aggregate annual expenses or
 [/TABLE_74]
 27
+
+[PAGE 29 | printed 28]
 [TABLE_75]
  | indemnities payable to any of the parties set forth in this clause (1) is less than the applicable aggregate annual cap set forth for such party in this clause (1),
                       the portion of such cap that remains unused may be paid to each other party set forth in this clause (1) to the extent that any aggregate annual expenses or indemnities payable to each such other party exceeded the aggregate annual
@@ -1148,6 +1205,8 @@ On each Payment Date, the Servicer will instruct the Paying Agent to use Series 
                       Priority Principal Payment for the current Payment Date and (b) during the
 [/TABLE_85]
 28
+
+[PAGE 30 | printed 29]
 [TABLE_86]
  | Amortization Period, to the Noteholders, in the order set forth under “— Payments of Principal ” above, an amount (not less
                       than zero) equal to the excess, if any, of the aggregate Note Balance of the Class A Notes, Class B Notes and Class C Notes as of the immediately preceding Payment Date (or for the initial Payment Date, as of the Initial Issuance
@@ -1196,6 +1255,8 @@ In the event that any First Priority Principal Payment, Second Priority Principa
                       connection therewith, or
 [/TABLE_95]
 29
+
+[PAGE 31 | printed 30]
 [TABLE_96]
  | • | in the event that the Amortization Period is in effect immediately following distributions made on any Payment Date, amounts on deposit in the Principal Funding
                       Account will be paid to the Noteholders on such Payment Date, in the order set forth under “— Payments of Principal ” above, until the aggregate Note Balance of the Class A Notes, Class B Notes
@@ -1227,6 +1288,8 @@ On each Payment Date, the Servicer will direct the Paying Agent to withdraw any 
               Redemption, all amounts on deposit in the Reserve Account will be withdrawn and applied to pay any amounts due in connection therewith.
 If, on any Payment Date, Series 2024-6 Available Funds are insufficient to pay the fees, expenses and indemnities of the Master Collateral Agent, the Indenture Trustee, the Owner Trustee, the Asset Representations Reviewer and the
 30
+
+[PAGE 32 | printed 31]
 Servicer set forth in priorities (1) and (2) under “
 Description of the Notes—Priority of Payments,
 ” make interest payments and any First Priority Principal Payment, Second Priority Principal Payment
@@ -1266,6 +1329,8 @@ On each Payment Date, interest will be paid, first, on the Class A Notes, pro ra
 On each Payment Date during the Amortization Period, the Trust will pay principal sequentially, beginning with the Class A Notes (with any principal payments applied to the Class A Notes allocated to the Class A-1a Notes and Class A-1b
               Notes, pro rata, based on the Note Balance of the Class A-1a Notes and Class A-1b Notes on the related Payment Date, before giving effect to any payments made on that date), and will not pay
 31
+
+[PAGE 33 | printed 32]
 principal of any subordinated class of Notes until the Note Balances of all more senior classes of Notes are paid in full.  In addition, if a Priority Principal Payment (other than a Regular Priority Principal Payment) is required on any
               Payment Date, the Trust will pay such required Priority Principal Payment to the most senior class of Notes Outstanding (or make the corresponding deposit into the Principal Funding Account, as applicable) prior to the payment of interest on
               the more subordinated Notes on that Payment Date, as set forth under “
@@ -1297,6 +1362,8 @@ For more information about the representations and reacquisition and acquisition
 Notwithstanding the foregoing, if any of the eligibility representations or warranties made by an
               Originator or the Servicer (in the case of Receivables transferred by the Additional Transferor or designated to Group 1 on a Designation Date) about a Receivable was
 32
+
+[PAGE 34 | printed 33]
 inaccurate when made so that the Receivable was not an Eligible Receivable as of the related Cutoff Date but such inaccuracy does not affect the ability of the Trust to receive and retain payment in full on the related Receivable on the
               terms and conditions and within the timeframe set forth in the underlying Device Payment Plan Agreement, such inaccuracy will not constitute a breach of the representations or warranties of the related Originator or the Servicer and the
               related Originator or the Servicer, as applicable, will not be required to reacquire or acquire the related Receivable.
@@ -1329,6 +1396,8 @@ Servicing the Receivables and the Securitization Transaction—Collections and O
 See “Receivables—Obligation to Acquire or Reacquire
                 Receivables; Obligation to
 33
+
+[PAGE 35 | printed 34]
 Make Credit Payments and Upgrade Prepayments.”
 Under the Parent Support Agreement, the Parent Support Provider will guarantee amounts due with respect to the reacquisition, acquisition, prepayment and other payment obligations of the Originators, the Marketing Agent and the Servicer,
               and Collections to be deposited during each Collection Period by the Servicer.
@@ -1366,6 +1435,8 @@ In the event that certain votes or directions may occur or be given under the Ma
               Representative for Series 2024-6, as to how it should vote or direct such matters; provided that if any vote or direction under the Master Collateral Agreement requires the consent or direction of Creditor Representatives representing all
               Credit Extensions, or Group 1 Creditor Representatives representing all Group 1 Credit Extensions, the
 34
+
+[PAGE 36 | printed 35]
 Indenture Trustee, as Creditor Representative for Series 2024-6, will only vote or give such direction in accordance with the direction of 100% of the Noteholders.  Any such vote or direction by the Indenture Trustee, as Creditor
               Representative for Series 2024-6, at the direction of the Controlling Class, will be made on behalf of all Noteholders, notwithstanding that such action was taken solely at the direction of the Controlling Class.
 Other Group 1 Series
@@ -1401,6 +1472,8 @@ ERISA Considerations
 The Class B Notes generally will be eligible for purchase by Benefit Plans.
 For more information about the treatment of the Class B Notes under ERISA, you should read “Certain Considerations for ERISA and Other Benefit Plans.”
 35
+
+[PAGE 37 | printed 36]
 Investment Considerations
 The Trust is not registered or required to be registered as an “investment company” under the Investment Company Act of 1940, as amended, and in making this determination is relying on the exemption from the definition of “investment
               company” set forth in Section 3(c)(5) of the Investment Company Act of 1940, as amended, although there may be additional exemptions or exclusions available to the Trust.  The Trust is structured so as not to be a “covered fund” under the
@@ -1429,6 +1502,8 @@ In addition, no such person will undertake, or intends, with respect to such tra
               any other law or regulation now or hereafter in effect in the EU, the EEA or the UK in relation to risk retention, due diligence and monitoring, credit granting standards, transparency or any other conditions with respect to investments in
               securitization transactions.
 36
+
+[PAGE 38 | printed 37]
 The arrangements described in “
 U.S. Credit Risk Retention
 ” have not been structured with the objective of enabling or facilitating compliance with the requirements of the EU Securitization
@@ -1462,6 +1537,8 @@ CUSIP Numbers
 Class B Notes | 92348K DG5
 [/TABLE_99]
 37
+
+[PAGE 39 | printed 38]
 GLOSSARY
 Capitalized terms used in this prospectus, if not defined when first used, will have the meanings ascribed thereto in
 “Schedule I—Glossary of Defined Terms.”
@@ -1524,6 +1601,8 @@ Risks Related to the Receivables
                 present bankruptcy risks, which may result in losses on your Offered Notes.
 [/TABLE_115]
 38
+
+[PAGE 40 | printed 39]
 [TABLE_116]
  | • | The application of credits to Obligor accounts may reduce payments received on the Receivables, which may result in payment delays or losses on your Offered Notes.
 [/TABLE_116]
@@ -1585,6 +1664,8 @@ General Risk Factors
                 being held in book-entry form.
 [/TABLE_131]
 39
+
+[PAGE 41 | printed 40]
 Risk Factors
 [TABLE_132]
 Risks Related to the Structure of the Notes and the Trust
@@ -1601,6 +1682,8 @@ Holders of Class B Notes will be subject to greater risk of loss because of subo
                 only be sold by the Master Collateral Agent upon the occurrence of an Event of Default and an acceleration of the Notes in the
 [/TABLE_132]
 40
+
+[PAGE 42 | printed 41]
 [TABLE_133]
  | circumstances described under “Description of the Notes—Events of Default—Remedies Following Event of Default” .
 The Offered Notes may not be redeemed by the Anticipated Redemption Date, and Noteholders will bear all interest rate risk
@@ -1618,6 +1701,8 @@ The terms of other Group 1 Series may affect the timing and amounts of the payme
                 criteria than the eligibility criteria for Series 2024-6 and/or (iii) a higher discount rate than the Series 2024-6 Discount Rate.  If a Group 1 Series has more
 [/TABLE_133]
 41
+
+[PAGE 43 | printed 42]
 [TABLE_134]
  | stringent concentration limits than the Series 2024-6 Concentration Limits, more-stringent eligibility criteria than the eligibility criteria for
                 Series 2024-6 or a higher discount rate than the Series 2024-6 Discount Rate, the positive difference of the Adjusted Series Invested Amount for such Group 1 Series over the Series Invested Amount for such Group 1 Series may be
@@ -1634,6 +1719,8 @@ Payment priorities increase the risk of loss by, or delay in payment to, holders
                 classes have received most or all amounts payable on their Notes, and after which a disproportionate amount of credit and payment enhancement may have been applied and not replenished.
 [/TABLE_134]
 42
+
+[PAGE 44 | printed 43]
 [TABLE_135]
  | If an Optional Redemption has not been effected by the Trust, because of the priority of payment on the Notes, the yields of the classes of Notes
                 lower in payment priority will be more sensitive to losses on the Receivables and the timing of these losses than the classes of Notes higher in payment priority.  Accordingly, the Class B Notes will be relatively more sensitive to losses
@@ -1651,6 +1738,8 @@ Noteholders will bear all reinvestment risk resulting from principal payments on
                 Period.”
 [/TABLE_135]
 43
+
+[PAGE 45 | printed 44]
 [TABLE_136]
  | During the Amortization Period, the rate of payment on the Offered Notes will also depend on the rate of payment on the Receivables, including
                 prepayments.  Faster than expected rates of prepayments on the Receivables will cause the Trust to pay principal of your Offered Notes more quickly during the Amortization Period.  Prepayments on the Receivables will occur if:
@@ -1671,6 +1760,8 @@ Noteholders will bear all reinvestment risk resulting from principal payments on
                   discussion of additional risks
 [/TABLE_136]
 44
+
+[PAGE 46 | printed 45]
 [TABLE_137]
  | related to Upgrade Offers, see “—Verizon Wireless’ Upgrade Offers may adversely impact Collections on the
                   Receivables and the timing of principal payments, which may result in reinvestment risk” below . You will bear all reinvestment risk resulting from principal payments on your Offered Notes occurring earlier than expected as a result of the
@@ -1688,6 +1779,8 @@ Noteholders will bear all interest rate risk resulting from principal payments o
                 any
 [/TABLE_137]
 45
+
+[PAGE 47 | printed 46]
 [TABLE_138]
  | payments made on that date), and no principal will be paid on any class of Notes until all senior classes of Notes have been paid in full. If
                 principal of your Offered Notes is paid later than expected, it may adversely affect the yield on your Offered Notes.  You will bear all interest rate risk resulting from principal payments on your Offered Notes occurring later than
@@ -1707,6 +1800,8 @@ Because you have limited control over actions of the Trust and amendments to the
                 specified percentage of Noteholders of the Controlling Class or with the consent of a specified percentage of the Creditor Representatives of all Credit Extensions, including Credit Extensions related to Groups other than Group
 [/TABLE_138]
 46
+
+[PAGE 48 | printed 47]
 [TABLE_139]
  | 1.  The Controlling Class will have the right to direct the Indenture Trustee, as Creditor Representative for Series 2024-6, as to how to vote in
                 connection with any amendments to the transaction documents that require the consent of Creditor Representatives.  In addition, the Administrator may amend the Indenture for the purpose of making Benchmark Replacement Conforming Changes,
@@ -1723,6 +1818,8 @@ Because you have limited control over actions of the Trust and amendments to the
                 designated to
 [/TABLE_139]
 47
+
+[PAGE 49 | printed 48]
 [TABLE_140]
  | any other Group), you will incur a loss on your Offered Notes.
  | For a more detailed description of the actions that the Controlling Class may direct, you should read “Description
@@ -1742,6 +1839,8 @@ Collections on Receivables allocated to Series 2024-6, and any credit or payment
                 enhancement for the Offered Notes is limited.  The Offered Notes will not be insured or guaranteed by the Sponsor, the Originators, the Servicer, the Depositor, the Parent Support Provider,
 [/TABLE_140]
 48
+
+[PAGE 50 | printed 49]
 [TABLE_141]
  | the Marketing Agent, any of their respective affiliates or any other Person.  Therefore, in the event that an Optional Redemption has not been
                 effected by the Trust, if Collections on the Receivables allocated to Series 2024-6, together with the credit and payment enhancement for Series 2024-6, are insufficient to pay amounts due on your Offered Notes on any Payment Date, you will
@@ -1761,6 +1860,8 @@ The addition or removal of Receivables may decrease the credit quality of the as
                 the Closing Date, including, but not limited to, with respect to the charging of interest, the original term, the amount of
 [/TABLE_141]
 49
+
+[PAGE 51 | printed 50]
 [TABLE_142]
  | the monthly payment and/or the Obligor’s ability to prepay the related Device Payment Plan Agreement. Other Group 1 Series may have different, and less-stringent eligibility criteria than Series 2024-6, and the additional Receivables eligible for such
                 other Group 1 Series may not be of the same credit quality as the Receivables that meet the eligibility criteria for Series 2024-6.  The proportion of Receivables that qualify as Series 2024-6 Eligible Receivables may vary.  The eligibility
@@ -1776,6 +1877,8 @@ The addition or removal of Receivables may decrease the credit quality of the as
                 2024-6 Concentration Limits.
 [/TABLE_142]
 50
+
+[PAGE 52 | printed 51]
 [TABLE_143]
 Performance of the Receivables is uncertain and depends on many factors and may worsen in an economic downturn,
                   which may increase the likelihood that payments on your Offered Notes will be delayed or that you will incur losses on your Offered Notes | The performance of the Receivables depends on a number of factors, including general economic conditions, unemployment levels, pandemics and other
@@ -1795,6 +1898,8 @@ Geographic concentration of the Receivables may delay payments on, or result in 
                 concentrated in California (approximately 9.93%), Florida (approximately 6.21%), Texas (approximately
 [/TABLE_143]
 51
+
+[PAGE 53 | printed 52]
 [TABLE_144]
  | 6.00%) and New York (approximately 5.80%).  No other state made up more than 5.00% of the Receivables as of the Statistical Calculation Date. 
                 However, the geographic concentration of the Receivables on the Closing Date may be different than the geographic concentration of the Receivables as of the Statistical Calculation Date. Economic conditions or other factors affecting states with a high concentration of Receivables, including any interruption of wireless service
@@ -1816,6 +1921,8 @@ Payments on the Trust DPPAs will be subordinated to certain other payments by th
                 monthly aging
 [/TABLE_144]
 52
+
+[PAGE 54 | printed 53]
 [TABLE_145]
  | categories, as described under “Servicing the Receivables and the Securitization Transaction—Collections and Other
                   Servicing Procedures.” Therefore,
@@ -1835,6 +1942,8 @@ Verizon Wireless’ Upgrade Offers may adversely impact Collections on the Recei
                 Device Payment Plan Agreements, as described under “ Origination and Description of Device Payment Plan Agreement Receivables—Upgrade
 [/TABLE_145]
 53
+
+[PAGE 55 | printed 54]
 [TABLE_146]
  | Offers. ”  The number of upgrades occurring pursuant to Upgrade Offers will depend on a variety of economic,
                 social and other factors, including improved technology available in newer wireless devices, customer demand for, and supply of, specific wireless devices (including newly released wireless devices), any other promotional offers offered by
@@ -1850,6 +1959,8 @@ Upgrade Offers may present bankruptcy risks, which may result in losses on your 
                 applicable, as debtor in possession, may continue to offer Upgrade Programs, including the Current Upgrade Program, and may choose either to perform or not to perform its obligations thereunder, as described under “ Some Important Legal Considerations—Matters Relating to
 [/TABLE_146]
 54
+
+[PAGE 56 | printed 55]
 [TABLE_147]
  | Bankruptcy—Bankruptcy Proceedings of Cellco or Other Originators and Impact on Upgrade Offers.” If the Marketing Agent or any Originator fails to remit required prepayment amounts to the Trust, the Trust may have difficulty collecting against
                 the related Obligor, and the Obligor may be less likely to pay amounts remaining due under the Obligor’s original Device Payment Plan Agreement.  In addition, the Obligor may argue that it has a defense to making payments to the Trust
@@ -1867,6 +1978,8 @@ The application of credits to Obligor accounts may reduce payments received on t
                 Offered Notes. Verizon may become subject to investigations or actions from regulators or related oversight agencies
 [/TABLE_147]
 55
+
+[PAGE 57 | printed 56]
 [TABLE_148]
  | as well as private litigation, the results of which may require Verizon Wireless to apply credits to certain customers’ accounts.  Although there are
                 no current investigations, actions or litigation requiring the application of credits to the Receivables, Verizon Wireless could be required to apply credits to customers’ accounts in settlement of an investigation, action or litigation in
@@ -1886,6 +1999,8 @@ An interruption or degradation of wireless service provided by Verizon Wireless 
                 set-off of the Obligors, any interruption
 [/TABLE_148]
 56
+
+[PAGE 58 | printed 57]
 [TABLE_149]
  | or degradation of service may also give rise to an affected Obligor’s defense or claim of set-off with respect to payment on the Obligor’s
                 Receivable.  From time to time, Verizon Wireless may offer special promotions to customers who have been affected by a service interruption.  You may incur losses on your Offered Notes as a result of any reductions in Collections related to
@@ -1902,6 +2017,8 @@ A wireless device recall or manufacturing defect may result in delayed payments 
                   Modifications and Obligation to Acquire Receivables .”  From time to time, Verizon Wireless may offer special promotions to customers who have been affected by a recall.
 [/TABLE_149]
 57
+
+[PAGE 59 | printed 58]
 [TABLE_150]
  | Moreover, an Obligor affected by a recall or whose wireless device suffers a manufacturing defect, may have a defense against the ongoing payment of
                 its related Receivable, which may result in delayed payments on your Offered Notes, or you may incur losses on your Offered Notes. See “Some Important Legal Considerations—Consumer Protection Laws.”
@@ -1923,6 +2040,8 @@ If the Servicer is unable to perform its obligations, payments on your Offered N
                 operations or financial condition, the preventive actions Verizon takes to reduce the risks associated with cyber attacks, including protection of its systems and networks, may be
 [/TABLE_150]
 58
+
+[PAGE 60 | printed 59]
 [TABLE_151]
  | insufficient to repel or mitigate the effects of a major cyber attack in the future . If the networks or systems of Cellco or those of its suppliers, vendors and other service providers are rendered inoperable by a cyber attack,
                 Cellco’s ability to perform its obligations under the Transfer and Servicing Agreement could be compromised for a period of time or permanently.  In that case, payment on your Offered Notes may be delayed or you may incur losses on your
@@ -1942,6 +2061,8 @@ The Servicer’s ability to commingle Collections with its own funds may delay p
                 Account on the second Business Day immediately preceding the related Payment Date.  If the Monthly Remittance Condition is no longer satisfied, the
 [/TABLE_151]
 59
+
+[PAGE 61 | printed 60]
 [TABLE_152]
  | Servicer will be required to deposit Collections on the Receivables into the Collection Account within two (2) Business Days after identification of
                 receipt of good funds.   Prior to remittance into the Collection Account, the Servicer will be permitted to use Collections on the Receivables at its own risk and for its own benefit and may commingle Collections on Receivables with its own
@@ -1960,6 +2081,8 @@ Conflicts of interest may exist among the Servicer, the Marketing Agent, the Par
                 sale of a wireless device securing a Receivable) as additional servicing
 [/TABLE_152]
 60
+
+[PAGE 62 | printed 61]
 [TABLE_153]
  | compensation, the Servicer may have a financial incentive to write-off an account. As Marketing Agent, Cellco, may (i) grant credits to an Obligor for various reasons, including as an incentive for that Obligor to
                 maintain service with Verizon Wireless or upgrade that Obligor’s wireless device, even if those credits could lead to shortfalls in payments received by the Trust on any Receivable and (ii) offer upgrades to various Obligors, in either
@@ -1976,6 +2099,8 @@ The financial condition of the Parent Support Provider, the Servicer, the Market
                 regulations enacted to address the potential impacts of climate change), the potential for cyber attacks affecting their operations and business relationships, external events impacting their infrastructure or operations,
 [/TABLE_153]
 61
+
+[PAGE 63 | printed 62]
 [TABLE_154]
  | such as natural disasters, extreme weather conditions or terrorist or other hostile acts , the availability of
                 financing to fund operations and refinance existing debt, changes in pension and benefit costs, work stoppages by the unionized portion of their workforces, the adverse outcome of litigation and public health crises. In the event that the financial condition of the Parent Support Provider, the Servicer, the Marketing Agent or any Originator caused that party to be
@@ -1995,6 +2120,8 @@ Bankruptcy of any Originator, the Servicer, the Marketing Agent or the Parent Su
                 the Marketing Agent with respect to reacquisitions or
 [/TABLE_154]
 62
+
+[PAGE 64 | printed 63]
 [TABLE_155]
  | acquisitions of Receivables, and other payment obligations as set forth under “ Parent Support Provider. ”  To
                 the extent of a bankruptcy of the Parent Support Provider, the Parent Support Provider may be unable to make a payment when required, and amounts available to pay interest on and, during the Amortization Period, principal of your Offered
@@ -2012,6 +2139,8 @@ Federal financial regulatory reform could have an adverse impact on Cellco, the 
                 covered persons, which could include Cellco, the Depositor or the Trust.  Title X of the Dodd-Frank Act gives the CFPB supervision, examination and enforcement
 [/TABLE_155]
 63
+
+[PAGE 65 | printed 64]
 [TABLE_156]
  | authority over the consumer financial products and services offered by certain non-depository institutions and large insured depository
                 institutions.  In particular, three of the primary purposes of the CFPB are to enforce federal consumer financial laws, to ensure that consumers receive clear and accurate disclosures regarding financial products and to protect consumers
@@ -2027,6 +2156,8 @@ Federal financial regulatory reform could have an adverse impact on Cellco, the 
                 court granted the defendant trusts’ motion to certify that order for immediate appeal and stayed the case pending resolution of any appeal. On
 [/TABLE_156]
 64
+
+[PAGE 66 | printed 65]
 [TABLE_157]
  | March 19, 2024, the U.S. Court of Appeals for the Third Circuit affirmed the district court’s decision. The Third Circuit and the U.S. Supreme Court
                 denied further review. On January 16, 2025, the CFPB announced a settlement of the action with the defendant trusts. Under the proposed order, the trusts agreed to pay $2.25 million in consumer redress, to be paid out of trust
@@ -2042,6 +2173,8 @@ Federal financial regulatory reform could have an adverse impact on Cellco, the 
                 of time for 90 days to prepare for its position paper for the mediator.  Because mediation proceedings are subject to confidentiality
 [/TABLE_157]
 65
+
+[PAGE 67 | printed 66]
 [TABLE_158]
  | requirements, there are no further updates on the public docket as of July 10, 2025. The CFPB and state regulators and attorneys general, who have the independent authority to enforce the Dodd-Frank Act, may rely on these cases as
                 precedent in investigating and bringing enforcement actions against other trusts and securitization vehicles, including the Trust, in the future. In addition, there are other provisions of the Dodd-Frank Act which, if and depending on how they are implemented, could have an adverse impact on
@@ -2058,6 +2191,8 @@ The Offered Notes may not be a suitable investment for investors subject to the 
                 Investor with the UK Due Diligence
 [/TABLE_158]
 66
+
+[PAGE 68 | printed 67]
 [TABLE_159]
  | Requirements or by any person with the requirements of any other law or regulation now or hereafter in effect in the EU, the EEA or the UK in
                 relation to risk retention, due diligence and monitoring, credit granting standards, transparency or any other conditions with respect to investments in securitization transactions. The arrangements described in “ U.S. Credit Risk Retention ” have not been structured with the objective of
@@ -2076,6 +2211,8 @@ A reduction, withdrawal or qualification of the ratings on your Offered Notes, o
                 future as a result of a change of circumstances, deterioration in the performance of the Receivables,
 [/TABLE_159]
 67
+
+[PAGE 69 | printed 68]
 [TABLE_160]
  | a multi-notch downgrade in the debt of Verizon Communications below investment grade, errors in analysis or otherwise.  None of the Depositor, the
                 Sponsor, the Parent Support Provider or any of their affiliates will have any obligation to replace or supplement any credit or payment enhancement or to take any other action to maintain any ratings on the Offered Notes.  If the ratings on
@@ -2093,6 +2230,8 @@ The rating of any Letter of Credit Provider may affect the ratings of the Offere
                 Offered Notes.  A downgrade, suspension or withdrawal of the rating assigned by any rating agency to the Offered Notes would likely have adverse consequences on their
 [/TABLE_160]
 68
+
+[PAGE 70 | printed 69]
 [TABLE_161]
  | liquidity or market value.  As of the Closing Date, the transaction will not have a Letter of Credit Provider.
 General Risk Factors
@@ -2113,6 +2252,8 @@ Retention of a portion of the Offered Notes by the Depositor or an affiliate of 
                 Additionally, if any retained portion of the Offered Notes is subsequently sold in the secondary market, the
 [/TABLE_161]
 69
+
+[PAGE 71 | printed 70]
 [TABLE_162]
  | voting power of the Noteholders of the outstanding Offered Notes may be diluted.
 Because the Offered Notes are in book-entry form, your rights can only be exercised indirectly | Because the Offered Notes were issued in book-entry form, you will be required to hold your interest in the Offered Notes through DTC in the United
@@ -2126,6 +2267,8 @@ Because the Offered Notes are in book-entry form, your rights can only be exerci
                 delay your receipt of principal and interest payments from the Trust.
 [/TABLE_162]
 70
+
+[PAGE 72 | printed 71]
 DESCRIPTIONS OF THE TRANSACTION DOCUMENTS
 The following sections of this prospectus contain summaries of certain material terms of the transaction documents, including the Trust Agreement, the Administration Agreement, the Master Collateral Agreement, the
         Transfer and Servicing Agreement, the Receivables Transfer Agreements, the Asset Representations Review Agreement and the Indenture, but these summaries are not complete descriptions of these transaction documents.  For more details about the
@@ -2167,6 +2310,8 @@ The purposes of the Trust are and will be to:
                 related Credit Extensions,
 [/TABLE_166]
 71
+
+[PAGE 73 | printed 72]
 [TABLE_167]
  | • | enter into and perform its obligations under the transaction documents and any other Series Related Documents,
 [/TABLE_167]
@@ -2204,6 +2349,8 @@ The Trust may not consolidate or merge with or into any other Person or convey o
         Indenture to not constitute a valid and perfected first priority lien on the assets of the Trust specifically designated to Series 2024-6, subject to no adverse claims.
 The Servicer will indemnify the Trust for liabilities and damages caused by the Servicer’s willful misconduct, bad faith or gross negligence in the performance of its duties as Servicer.
 72
+
+[PAGE 74 | printed 73]
 The Administrator will perform additional administrative services for the Trust and the Owner Trustee pursuant to the Administration Agreement, as further described under “
 Sponsor,
           Servicer, Custodian, Marketing Agent and Administrator
@@ -2235,6 +2382,8 @@ The transfers of Device Payment Plan Agreements and the designation of such Devi
 The Administrator shall deliver to the Depositor, the Trust and the Master Collateral Agent, no later than each Payment Date an acquisition notice for the Device Payment Plan Agreements transferred to the Trust on each
         Acquisition Date occurring during the calendar month preceding the month in which such Payment
 73
+
+[PAGE 75 | printed 74]
 Date occurs (to the extent not included on any previously delivered acquisition notice), which acquisition notice will set forth (i) the Pool Balance, (ii) the Required Pool Balance, (iii) the Excess Concentration Amount for each Group 1 Series
         for which Group 1 Credit Extensions are Outstanding as of the related Acquisition Date and (iv) the Ineligible Amount for each Group 1 Series for which Group 1 Credit Extensions are Outstanding as of the related Acquisition Date, in each case as of
         such Acquisition Date and after giving effect to the acquisition of Receivables on each such Acquisition Date; provided that if such acquisition notice is delivered on the related Acquisition Date, the acquisition notice for the Device Payment Plan
@@ -2263,6 +2412,8 @@ Release Date
 (i)          no event has occurred and is continuing, or would result from such release, which constitutes (x) an Event of Default, Servicer Termination Event or amortization event for any Group 1
         Series (or an event that with the giving of notice or the passage of time would constitute an Event of Default, Servicer Termination Event or amortization event for any Group 1 Series) or (y) a Pool Balance Deficit;
 74
+
+[PAGE 76 | printed 75]
 (ii)          immediately after giving effect to such release of Receivables, the Trust shall be in compliance in all material respects with all representations, warranties and covenants contained in
         the transaction documents, except to the extent that any such failure would not have a material adverse effect on the Group 1 Credit Extensions;
 (iii)          the Servicer shall have delivered the information required to be delivered by it under the Master Collateral Agreement; and
@@ -2288,6 +2439,8 @@ The Trust is a master trust that may from time to time issue or enter into addit
 (v)          the Trust shall have delivered to the Master Collateral Agent and each Group 1 Creditor Representative (with a copy to each rating agency engaged to rate any Group 1 Credit Extensions,
         if any) a tax opinion, dated the applicable closing date with respect to such additional Group 1 Series;
 75
+
+[PAGE 77 | printed 76]
 (vi)          the Trust shall have delivered to the Master Collateral Agent and each Group 1 Creditor Representative an opinion of counsel substantially to the effect that:
 (A)          all conditions precedent to issuing or entering into such additional Group 1 Series have been complied with;
 (B)          the operative agreement for such additional Group 1 Series has been duly authorized, executed and delivered by the Trust; and
@@ -2317,6 +2470,8 @@ OWNER TRUSTEE
 Wilmington Trust, National Association will act as Owner Trustee under the Trust Agreement. WTNA is a national banking association with trust powers incorporated in 1995. The Owner Trustee’s principal place of business
         is located at 1100 North Market Street, Wilmington, Delaware 19890.  WTNA is an affiliate of Wilmington Trust Company and both WTNA and Wilmington Trust Company are subsidiaries of Wilmington
 76
+
+[PAGE 78 | printed 77]
 Trust Corporation. Since 1998, Wilmington Trust Company has served as trustee in numerous asset-backed securities transactions.
 WTNA is subject to various legal proceedings that arise from time to time in the ordinary course of business. WTNA does not believe that the ultimate resolution of any of these proceedings will have a materially
         adverse effect on its services as Owner Trustee.
@@ -2351,6 +2506,8 @@ The Owner Trustee may resign at any time by notifying the Depositor and the Admi
         its legal status, financial condition or specific rating conditions.  No resignation or removal of the Owner Trustee will be effective until a successor owner trustee is in place.  If not paid by the Trust, the Administrator will reimburse the
         Owner Trustee and the successor owner trustee for any expenses associated with the replacement of the Owner Trustee.
 77
+
+[PAGE 79 | printed 78]
 The Trust Agreement will terminate on the later of the date when:
 [TABLE_174]
  | • | the last Trust DPPA has been paid in full, settled, sold or written-off and all cash collections and other cash proceeds (whether in the form of cash, wire transfer or
@@ -2385,6 +2542,8 @@ RMBS
         trusts.  The complaints, primarily filed by investors or investor groups against U.S. Bank and similar institutions, allege the trustees caused losses to investors as a result of alleged failures by the sponsors, mortgage loan sellers and servicers
         to comply with the governing agreements for these RMBS trusts.  Plaintiffs generally assert causes of action based
 78
+
+[PAGE 80 | printed 79]
 upon the trustees’ purported failures to enforce repurchase obligations of mortgage loan sellers for alleged breaches of representations and warranties, notify securityholders of purported events of default allegedly caused by breaches of
         servicing standards by mortgage loan servicers and abide by a heightened standard of care following alleged events of default.
 U.S. Bank denies liability and believes that it has performed its obligations under the RMBS trusts in good faith, that its actions were not the cause of losses to investors, that it has meritorious defenses, and it
@@ -2423,6 +2582,8 @@ As further set forth in the Master Collateral Agreement, the Master Collateral A
                   of Default—Remedies Following Event of Default,” other Trust DPPAs designated to any other Group) in accordance with the Master Collateral Agreement, and
 [/TABLE_178]
 79
+
+[PAGE 81 | printed 80]
 [TABLE_179]
  | • | providing written notice to the Parent Support Provider of the failure of any Originator, the Servicer or the Marketing Agent, as applicable, to make required payments in
                 respect of the Receivables under the transaction documents.
@@ -2463,6 +2624,8 @@ The Trust will indemnify the Master Collateral Agent and its officers, directors
         enforcement of its rights (including rights of indemnification) under the Master Collateral Agreement) of whatever kind or nature regardless of merit, demanded, asserted or claimed against or incurred by them to the extent related to or arising out
         of the administration of the Master Collateral Agreement and the performance of its duties thereunder or under the transaction
 80
+
+[PAGE 82 | printed 81]
 documents, including the costs and expenses of enforcing the Master Collateral Agreement against the Trust and defending itself against or investigating any claims (whether asserted by the Trust, any Creditor or any other Person), not resulting
         from the gross negligence, bad faith or willful misconduct by the Person seeking indemnification.
 The Administrator will indemnify U.S. Bank Trust Co., in its capacity as Master Collateral Agent and each of its other capacities under the transaction documents for any amounts not paid by the Trust; provided that
@@ -2501,6 +2664,8 @@ As further set forth in the Indenture, the Indenture Trustee’s main duties are
  | • | acting as Creditor Representative for Series 2024-6,
 [/TABLE_182]
 81
+
+[PAGE 83 | printed 82]
 [TABLE_183]
  | • | voting or directing the Master Collateral Agent under the Master Collateral Agreement, as Group 1 Creditor Representative for Series 2024-6, as to all matters on which
                 Group 1 Creditor Representatives may vote or direct the Master Collateral Agent under the Master Collateral Agreement,
@@ -2538,6 +2703,8 @@ The Indenture Trustee will not be required to expend or risk its own funds or ot
         in complying with the request or direction.
 The Indenture Trustee may exercise its rights or powers under the Indenture or perform its obligations
 82
+
+[PAGE 84 | printed 83]
 thereunder either directly or by or through agents or attorneys or a custodian or nominee.
 The Indenture Trustee will not have any obligation or responsibility to monitor or enforce the Sponsor’s compliance
         with any risk retention requirements and shall not be charged with knowledge of the U.S. Risk Retention Rules, nor shall it be liable to any Noteholder or other party for violation of the U.S. Risk Retention Rules now or hereafter in effect, except
@@ -2572,6 +2739,8 @@ Under the Trust Indenture Act, the Indenture Trustee may be considered to have a
 “Description of the Notes—Events of Default—Remedies Following Event of Default,”
 other Trust DPPAs designated to any other Group).
 83
+
+[PAGE 85 | printed 84]
 ASSET REPRESENTATIONS REVIEWER
 Pentalpha Surveillance LLC (“
 Pentalpha
@@ -2616,6 +2785,8 @@ Description of the Notes—Priority of Payments.
 Description of the Notes—Post-Acceleration Priority of Payments
 .”
 84
+
+[PAGE 86 | printed 85]
 Except as described below, the Asset Representations Reviewer may not resign unless it determines, in its sole discretion that (a) it is legally unable to perform its obligations under the Asset Representations Review
         Agreement and (b) there is no reasonable action that it could take to make the performance of its obligations under the Asset Representations Review Agreement permitted under applicable law.  If the Asset Representations Reviewer breaches any of
         its representations, warranties, covenants or obligations under the Asset Representations Review Agreement, becomes the subject of a bankruptcy or similar proceeding, or no longer satisfies the applicable eligibility criteria, the Trust may remove
@@ -2643,6 +2814,8 @@ General
 Verizon Communications is a holding company that, acting through its subsidiaries, is one of the world’s leading providers of technology, communications, information and entertainment products and services to
         consumers, businesses and government entities.  Verizon has two reportable segments that it operates and manages as strategic business units, Verizon Consumer Group and Verizon Business Group, and
 85
+
+[PAGE 87 | printed 86]
 Verizon offers wireless services and equipment to customers of both.  Verizon’s wireless services are provided across one of the most extensive wireless networks in the United States.  As of March 31, 2025, the Verizon Consumer Group had
         approximately 94.9 million wireless retail postpaid connections and the Verizon Business Group had approximately 30.9 million wireless retail postpaid connections.  Verizon had consolidated revenues of $134.8 billion for the year ended December 31,
         2024.  As of March 31, 2025, Verizon had approximately 99,400 employees.
@@ -2669,6 +2842,8 @@ The True-up Trust, as a majority-owned affiliate of the Sponsor, will retain the
         2024-6 on the Closing Date.  The Certificates represent the interest in each Group not represented by any Series of that Group and are entitled to, among other things, with respect to Group 1, distributions in respect of the Transferor’s Interest
         on each Payment Date.  In general, the Class R Interest represents the right to all Series 2024-6 Available Funds on any Payment Date not needed to pay fees, expenses and indemnities of the Trust allocated to or otherwise payable by Series
 86
+
+[PAGE 88 | printed 87]
 2024-6 or to make interest and principal payments on the Notes, payments, if any, required to reimburse any Letter of Credit Provider for any amounts drawn under the related Letter of Credit together with interest accrued on the drawn amount,
         any required deposits into the Reserve Account or the Principal Funding Account, any Additional Interest Amounts and Make-Whole Payments payable on that Payment Date.
 None of the Sponsor, the Depositor, the Originators, the True-up Trust or any of their affiliates may hedge, sell or transfer the required retention except to the extent permitted by the U.S. Risk Retention Rules.
@@ -2704,6 +2879,8 @@ Receivables—Obligation to Acquire or Reacquire Receivables; Obligation to Make
 Any fees and expenses incurred by the Marketing Agent will be paid
         by the Originators.
 87
+
+[PAGE 89 | printed 88]
 Cellco is the Administrator of the Trust under the Administration Agreement.  From time to time, the Administrator may (on behalf of the Trust) identify (i) Device Payment Plan Agreements to be transferred by each
         Originator to the Depositor and by the Depositor to the Trust, (ii) Trust DPPAs to be designated to a Group and (iii) with the consent of the Servicer, Trust DPPAs previously designated to a Group that does not relate to any Outstanding Credit
         Extensions to be re-designated to another Group. In addition, the Administrator will provide notices on behalf of the Trust and perform all administrative obligations of the Trust under the Indenture and the other transaction documents.  These
@@ -2732,6 +2909,8 @@ Receivables—Obligation to Acquire or Reacquire Receivables; Obligation to Make
 ” the Parent Support
         Provider will be required to remit the Reconveyance Amount for that Receivable into the Collection Account or will be required to cause the related Originator or the Servicer (in the case of Receivables transferred by the
 88
+
+[PAGE 90 | printed 89]
 Additional Transferor or designated to Group 1 on a Designation Date), as applicable, to reacquire or acquire, as applicable, that Receivable.
 In addition, as further described under “
 Receivables—Obligation to Acquire or Reacquire Receivables; Obligation to Make Credit Payments and Upgrade Prepayments,
@@ -2778,6 +2957,8 @@ The Originators originated the Receivables pursuant to the origination practices
 Origination and Description of Device Payment Plan Agreement
           Receivables—Underwriting
 89
+
+[PAGE 91 | printed 90]
 Criteria,
 ” and have or will originate future Receivables pursuant to the origination practices and policies set forth under “
 Origination and Description of Device Payment
@@ -2817,6 +2998,8 @@ Verizon DPPA Master Trust was a Delaware statutory trust created in September 20
         originated by the Originators from the Originators or Verizon Business DPPA Master Trust in connection with the financing facility for Device Payment Plan Agreements under which it was formed.  Prior to the Closing Date, the Additional Transferor
         transferred its rights in certain of these Device Payment Plan Agreements to the Depositor.  As of the date of this prospectus, only a de minimis amount of the
 90
+
+[PAGE 92 | printed 91]
 aggregate principal balance of the Receivables held by the Trust are Device Payment Plan Agreements that were transferred by the Additional Transferor to the Depositor and by the Depositor to the Trust.
 The Servicer has represented that the Receivables transferred by the Additional Transferor to the Depositor are Eligible Receivables, though such Receivables may not constitute Series 2024-6 Eligible Receivables.  The
         Depositor has assigned the right to enforce this representation to the Trust, and the Trust has assigned the right to enforce this representation to the Master Collateral Agent, for the benefit of the Group 1 Creditors.  If this representation is
@@ -2850,6 +3033,8 @@ The direct channel includes stores operated by Verizon and staffed by Verizon re
 The indirect/digital partners channel includes agents that sell Verizon wireless products and services at retail locations operated and staffed by the agents throughout the United States, as well as through the
         Internet.  The majority of these sales are made under exclusive selling arrangements with Verizon. Also
 91
+
+[PAGE 93 | printed 92]
 included in the indirect sales channel are certain high-profile, national retailers, including Best Buy, that sell Verizon wireless products and services on a nonexclusive basis.
 Prior to July 2019, wireless devices sold by Verizon were generally “unlocked,” and, therefore, a customer was free, subject to the limitations of the device, to use the wireless device on another wireless provider’s
         network.  On June 25, 2019, the Federal Communications Commission approved Verizon’s request to extend the lock period for sixty (60) days after the sale of the device for new smartphones.  In July 2019, Verizon began implementing a sixty (60) day
@@ -2892,6 +3077,8 @@ In June 2015, the Edge program was further revised to remove the contractual opt
  | • | risk of loss, theft or damage remains with the customer and insurance is recommended, but not required;
 [/TABLE_196]
 92
+
+[PAGE 94 | printed 93]
 [TABLE_197]
  | • | upon a customer default, to the extent permitted by applicable law, Verizon Wireless has the right to require the customer to pay the entire remaining balance in full;
                 and
@@ -2921,6 +3108,8 @@ With both consumer customer and business customer account-based coverage, a cust
         either a consumer customer or business customer, it has been at least twelve months since the last claim was filed on a line, in which case the registration re-opens. Customers who purchase wireless devices under a Device Payment Plan Agreement
         remain obligated for the total number of payments even if the wireless device is lost, stolen or damaged. Verizon Wireless recommends that customers obtain property insurance on wireless devices.
 93
+
+[PAGE 95 | printed 94]
 Underwriting Criteria
 Consumer Customers
 .  The following discussion is applicable only to consumer customers.
@@ -2958,6 +3147,8 @@ Based on the custom credit risk score, Verizon Wireless assigns each customer to
 In February 2017, Verizon Wireless implemented, on a test basis, and in April 2017, Verizon Wireless fully implemented, the use of alternative credit data from NCTUE as an input into its proprietary custom credit
         model.  NCTUE is a consumer credit reporting agency that maintains data, such as payment and account history, reported by telecommunications, pay TV and utility service providers that are members of
 94
+
+[PAGE 96 | printed 95]
 NCTUE.  Experiential data from like industries has proven to be extremely valuable in credit model development and risk assessment, and the data provides greater insight into the credit of underserved emerging youth and multicultural segments.
 In September 2017, following a trial change earlier in the year, Verizon Wireless implemented a recalibration of its credit policy for new customers to better reflect recent device payment plan performance,
         macroeconomic conditions and the competitive landscape.  As a result of the credit policy recalibration, the down payment requirements for some new customers decreased or were eliminated, and the requirements for other new customers increased. 
@@ -2990,6 +3181,8 @@ In the normal course of business, Verizon
         needs of the business.  In addition, from time to time, Verizon Wireless conducts trials with respect to changes to its underwriting and credit policies with respect to a limited number of consumer customers or business customers, as applicable,
         which, depending on the outcome of these trials, may result in these changed policies (or a variation thereof) being implemented for all consumer customers or business customers, respectively.
 95
+
+[PAGE 97 | printed 96]
 Exceptions to Underwriting Criteria.
 Verizon Wireless does not consider any of the existing Receivables to have been originated pursuant to exceptions to its underwriting
         criteria.
@@ -3023,6 +3216,8 @@ Receivables—Obligation to Acquire or Reacquire Receivables; Obligation to Make
 For a further discussion of risks associated with the application of credits, see “Risk Factors—The application of credits to Obligor accounts may reduce payments received on the Receivables, which
         may
 96
+
+[PAGE 98 | printed 97]
 delay payments on the Offered Notes or result in losses on the Offered Notes.”  For more information on Verizon Wireless’ activity history with respect to credits, see “Servicing the Receivables and the Securitization
         Transaction—Delinquency and Write-Off Experience.”
 Transfer of Service
@@ -3055,6 +3250,8 @@ during each of
           the tables will continue for any period
 .
 97
+
+[PAGE 99 | printed 98]
 Origination Characteristics
 [TABLE_199]
  |  | Three Months Ended March 31, |  | Year Ended December 31,
@@ -3108,6 +3305,8 @@ The Servicer will service the Receivables under the Transfer and Servicing Agree
  | • | maintaining accurate and complete accounts and computer systems for the servicing of the Receivables,
 [/TABLE_209]
 98
+
+[PAGE 100 | printed 99]
 [TABLE_210]
  | • | preparing and furnishing monthly investor reports, remittance reports and instructions, and
 [/TABLE_210]
@@ -3151,6 +3350,8 @@ Payments on an account can be made by a variety of methods, including check, cre
         payment via the Verizon website, the My Verizon or My Business Mobile Application or by phone with a Verizon customer or financial services representative.  Customers and other Obligors can also make payments through authorized third-party agents. 
         Checks typically are processed through a Verizon managed lockbox process.
 99
+
+[PAGE 101 | printed 100]
 Verizon Wireless’ collection efforts with respect to a particular Obligor are generally based on the results of proprietary custom empirically-derived internal behavioral scoring models that analyze the
         Obligor’s past performance to predict the likelihood of the Obligor falling further delinquent.
 Verizon Wireless’ custom scoring models assess a number of variables, including origination characteristics, customer account history, and payment patterns.  An external scoring model is
@@ -3181,6 +3382,8 @@ A business customer may enter into an Associated Account Agreement to obtain pri
 After standard collection efforts are exhausted, Verizon Wireless writes off any remaining balance on an account.  On average, Verizon Wireless writes off an account when it is between one-hundred
         forty-three (143) and one-hundred forty-five (145) days past its bill date, but it may write-off an account earlier or later depending on the risk of the account and other circumstances.
 100
+
+[PAGE 102 | printed 101]
 After an account has been “written-off,” Verizon Wireless continues efforts to recover the unpaid charges.  Generally, recovery efforts are pursued based on a proprietary scoring method that assesses
         the likelihood of repayment by the related Obligor.  After several cycles of collection activity on written-off accounts, Verizon Wireless typically sells the account as a final effort to realize value.  Any recoveries after write-off, including
         any proceeds from the sale of a wireless device securing a Receivable, will not be assets of the Trust, but will instead be paid to the Servicer as additional servicing compensation.
@@ -3199,6 +3402,8 @@ Subsequent to origination, Verizon Wireless monitors delinquency and write-off e
         economic, social, geographic and other factors beyond the control of Verizon Wireless.  There can be no assurance that the delinquency or write-off experience of the pool of Receivables described in this prospectus will be similar to the historical
         experience shown below for Device Payment Plan Agreements serviced by Cellco or that any trends shown in the tables will continue for any period.
 101
+
+[PAGE 103 | printed 102]
 Delinquency and Write-Off Experience
 [TABLE_215]
  |  | As of March 31, |  | As of December 31,
@@ -3244,6 +3449,8 @@ _______________________
                 period.
 [/TABLE_221]
 102
+
+[PAGE 104 | printed 103]
 Servicing Fees
 On each Payment Date, the Trust will pay the Servicer the Servicing Fee with respect to that Payment Date.  On each Payment Date, the Trust will pay the Series 2024-6 Allocation Percentage of the Servicing Fee from
         Series 2024-6 Available Funds in accordance with the priorities set forth under “
@@ -3277,6 +3484,8 @@ Under the terms of the Servicemembers Civil Relief Act and similar state laws, a
 See also “Some Important Legal Considerations—Servicemembers Civil Relief
           Act.”
 103
+
+[PAGE 105 | printed 104]
 For more information about the Servicer’s policies and procedures for servicing the Receivables, you should read “—Servicing Duties” and “—Collections
         and Other Servicing Procedures” above.
 Bank Accounts
@@ -3303,6 +3512,8 @@ If the Monthly Remittance Condition is no longer satisfied and the Servicer or t
         Collateral Agent and the Paying Agent on each deposit date setting forth, among other things, (x) the aggregate dollar amount of Collections deposited by the Servicer on that date, (y) the aggregate number of Upgrade Offers accepted since the
         deposit date immediately preceding the current deposit date, and (z) the aggregate amount of Upgrade Prepayments remitted by the Marketing Agent or the applicable Originators on that date.
 104
+
+[PAGE 106 | printed 105]
 Custodial Obligations of Cellco
 Cellco will act as Custodian for the Trust and will maintain electronically a Receivable file for each Receivable.  A Receivable file will include originals or copies of the Device Payment Plan
         Agreement. Copies typically will be electronically imaged copies.  Imaged copies of the documents will be accessible as “read only.”  Each Receivable file is maintained separately, but will not be segregated from other similar Receivable files or
@@ -3340,6 +3551,8 @@ the Servicer will be required to deliver notice to certain Obligors as described
         requisite payment under the original Device Payment Plan Agreement.  Any monthly credit granted to an Obligor is required to be applied directly against the monthly payment due on the related Device Payment Plan Agreement that is a Receivable and
         not in
 105
+
+[PAGE 107 | printed 106]
 accordance with the Servicer’s customary payment application pursuant to its Servicing Procedures.
 See “Risk Factors—Verizon Wireless’ Upgrade Offers may adversely impact Collections on the Receivables and the
           timing of principal payments, which may result in reinvestment risk.”
@@ -3368,6 +3581,8 @@ Resignation and Termination of Servicer
 Cellco may not resign as Servicer unless it determines it is legally unable to perform its obligations under the Transfer and Servicing Agreement.  No resignation will become effective until the earlier of (x) the date
         on which a successor servicer has assumed Cellco’s servicing obligations or (y) the date on which the Servicer is legally unable to act as Servicer.
 106
+
+[PAGE 108 | printed 107]
 Each of the following events will be a “
 Servicer Termination Event
 ” under the Transfer and Servicing Agreement:
@@ -3405,6 +3620,8 @@ If a Servicer Termination Event occurs and is continuing, the Master Collateral 
         further action, will be automatically appointed the successor servicer to perform the obligations of the Servicer (other than any obligations specifically excluded) until such time as another successor servicer shall accept engagement as successor
         servicer.  If the Master Collateral Agent is unwilling or legally unable to act as successor servicer, it will appoint, or petition a court of competent
 107
+
+[PAGE 109 | printed 108]
 jurisdiction to appoint, an institution having a net worth of not less than $50,000,000 whose regular business and operations includes the servicing of accounts and can accommodate the servicing of Device Payment Plan Agreements, as successor to
         the Servicer under the Transfer and Servicing Agreement.
 The Master Collateral Agent may make arrangements for the compensation of the successor servicer out of Collections and amounts collected on the other Trust DPPAs as it and the successor servicer may agree.  In
@@ -3434,6 +3651,8 @@ Within ten (10) days following the earlier to occur of (i) a ratings downgrade b
         make the relevant Upgrade Prepayment, and stating that those Obligors will continue to have an obligation to make payments on their original Device Payment Plan Agreements, but may deduct a corresponding amount from their new Device Payment Plan
         Agreements with Verizon Wireless.
 108
+
+[PAGE 110 | printed 109]
 RECEIVABLES
 Receivables, Group 1 Assets and Series 2024-6 Assets
 The primary assets of the Trust will be a revolving pool of Device Payment Plan Agreements for wireless devices originated by the Originators described under “
@@ -3478,6 +3697,8 @@ Certain assets have been and will be specifically designated to Series 2024-6, a
 [/TABLE_232]
 The foregoing assets have been pledged by the Trust to the Indenture Trustee for the benefit of the Noteholders.
 109
+
+[PAGE 111 | printed 110]
 Description of the Receivables
 Each of the Receivables was and will be originated by one of the Originators using the origination procedures described under “
 Origination and Description of Device Payment Plan
@@ -3515,6 +3736,8 @@ Series 2024-6
  | • | as of any date of determination, the remaining term of the Receivable was less than or equal to 36 months;
 [/TABLE_233]
 110
+
+[PAGE 112 | printed 111]
 [TABLE_234]
  | • | the Receivable did not contain a contractual right to an upgrade of the device related to the Device Payment Plan Agreement at the time the Receivable was originated;
 [/TABLE_234]
@@ -3570,6 +3793,8 @@ As of the Statistical Calculation Date, the aggregate Principal Balance of the R
 Each Receivable has a 0.00% APR.
 The information concerning the Receivables presented throughout this prospectus is based on the Receivables as of the Statistical Calculation Date.  The pool of Receivables on the Closing Date may (i) not
 111
+
+[PAGE 113 | printed 112]
 include certain Receivables designated to Group 1 as of the Statistical Calculation Date as a result of payments in full or delinquencies on certain Device Payment Plan Agreements after the Statistical Calculation Date and other reasons for
         which the Device Payment Plan Agreements would not constitute Eligible Receivables for Group 1 as of the Cutoff Date related to the Closing Date and (ii) include other Receivables designated to Group 1 after the Statistical Calculation Date.
 The following tables, together with the characteristics of the Receivables presented throughout this prospectus, show the characteristics or distributions of some characteristics of the Receivables solely as of the
@@ -3639,6 +3864,8 @@ ___________________
 (8) | Includes Receivables that are secured by the related wireless device and have a perfected security interest in such wireless device.
 [/TABLE_256]
 112
+
+[PAGE 114 | printed 113]
 Geographic Concentration of the Receivables
 (1)
 [TABLE_257]
@@ -3691,6 +3918,8 @@ ___________________
                 because they are individuals with minimal or no recent credit history.
 [/TABLE_262]
 113
+
+[PAGE 115 | printed 114]
 Distribution of the
 Customer Tenure of the
 Receivables
@@ -3712,6 +3941,8 @@ __________________________
                   I—Glossary of Defined Terms .”
 [/TABLE_264]
 114
+
+[PAGE 116 | printed 115]
 Distribution of the
 Remaining Installments on the
 Receivables
@@ -3757,6 +3988,8 @@ Remaining Installments |  | Number of Receivables |  |  | Aggregate Principal Ba
 Total |  |  | 58,405,930 |  |  | $ | 26,921,922,935.10 |  |  |  | 100.00 | %
 [/TABLE_265]
 115
+
+[PAGE 117 | printed 116]
 Additional Receivables
 From time to time after the Closing Date, the Trust may acquire additional Device Payment Plan Agreements for the Receivables Transfer Amount from the Depositor that the Depositor acquired from the Originators and
         designate such Device Payment Plan Agreements to Group 1, but only if those Device Payment Plan Agreements are Eligible Receivables as of the related Cutoff Date.  The cash portion of the Receivables Transfer Amount to be paid by the Trust for any
@@ -3798,6 +4031,8 @@ Series 2024-6 Excess Concentration Amount
  | • | the amount by which the aggregate Principal Balance of Business Receivables exceeds 10.00% of the Pool Balance.
 [/TABLE_271]
 116
+
+[PAGE 118 | printed 117]
 The FICO
 ®
 Score used for purposes of the Series 2024-6 Concentration Limits above refers to a Consumer Obligor’s FICO
@@ -3841,6 +4076,8 @@ Each Originator will severally represent and warrant that the Receivables origin
         of the related Cutoff Date, though the Originators will not be required to make any representation that such Receivables constitute Series 2024-6 Eligible Receivables.  In addition, the Servicer has represented and warranted that the Receivables
         transferred by the Additional Transferor to the Depositor and by the Depositor to the Trust for designation to Group 1 were Eligible Receivables as of
 117
+
+[PAGE 119 | printed 118]
 the related Cutoff Date, though the Servicer was not required to make any representation that such Receivables constitute Series 2024-6 Eligible Receivables.  In addition, in the event that any Trust DPPAs are designated to Group 1 on a
         Designation Date, the Servicer will represent and warrant that such Receivables are Eligible Receivables as of the related Cutoff Date, though the Servicer will not be required to make any representation that such Receivables constitute Series
         2024-6 Eligible Receivables.  The Depositor will assign its rights to these representations to the Trust, and the Trust will assign its rights to these representations to the Master Collateral Agent, for the benefit of the Group 1 Creditors. In
@@ -3877,6 +4114,8 @@ Upon the occurrence of a Delinquency Trigger, the Servicer will promptly send a 
 If Requesting Noteholders request a formal Public Group 1 Noteholder vote by contacting the Master Collateral Agent within ninety (90) days of the date of the Form 10-D in which the occurrence of a Delinquency Trigger
         has been reported, then the Master Collateral Agent will notify the Administrator, the
 118
+
+[PAGE 120 | printed 119]
 Trust and each Group 1 Creditor Representative (including the Indenture Trustee) for each Series of Publicly Registered Notes, and the Trust (or the Administrator, on behalf of the Trust) will include in the Trust’s Form 10-D filing for the
         Collection Period in which that request occurred a statement that sufficient Requesting Noteholders are requesting a full vote of all Public Group 1 Noteholders to commence an Asset Representations Review.  If the requesting party is a Public Group
         1 Noteholder of record, no further verification of ownership will be required.  If the requesting party is a Note Owner, then the Note Owner must provide certification or documentation indicating that such Note Owner is a Verified Note Owner. 
@@ -3903,6 +4142,8 @@ Within sixty (60) days of the delivery by the Master Collateral Agent to the Ass
         Publicly Registered Notes and the Servicer of the notice directing the Asset Representations Reviewer to proceed with an Asset Representations Review, the Servicer will give the Asset Representations Reviewer access to the information necessary for
         it to perform a review of all of the ARR Receivables, as described below.  The Asset Representations Reviewer will be obligated to complete its review of all ARR Receivables within sixty (60) days after receiving access to the required information,
 119
+
+[PAGE 121 | printed 120]
 provided that the deadline will be extended for an additional thirty (30) days in respect of any ARR Receivable in respect of which additional information was required by the Asset Representations Reviewer for the purpose of completing the
         related review.  The review procedures for each ARR Receivable will consist of tests designed to determine whether that ARR Receivable was or was not in compliance with the representations and warranties made regarding that ARR Receivable in the
         applicable Receivables Transfer Agreement or the Transfer and Servicing Agreement.  The Asset Representations Reviewer will determine whether each test was passed, failed or incomplete; however, the Asset Representations Reviewer will have no
@@ -3928,6 +4169,8 @@ The Asset Representations Reviewer will report its findings and conclusions to t
         limitations contained in the Master Collateral Agreement, Public Group 1 Noteholders evidencing not less than a majority of the note balance of all Publicly Registered Notes then Outstanding, acting together as a single class, will have the right
         to direct the Master Collateral Agent regarding the time, method and place of
 120
+
+[PAGE 122 | printed 121]
 exercising of any trust or power conferred on the Master Collateral Agent with respect to requesting the reacquisition or acquisition of a Receivable.  If Public Group 1 Noteholders evidencing not less than a majority of the note balance of all
         Publicly Registered Notes then Outstanding, acting together as a single class, notify the Master Collateral Agent in writing that they consider any non-compliance of any representation to be a breach of the applicable Receivables Transfer Agreement
         or the Transfer and Servicing Agreement, as applicable, or request in writing that a Receivable be reacquired or acquired, the Master Collateral Agent will forward, as soon as practicable and within five (5) Business Days, that written notice to
@@ -3961,6 +4204,8 @@ Public Group 1 Noteholders
 benefit from an Asset Representations Review.  Because Cellco’s prior securitizations have not experienced significant historical 60-day delinquency rates and given the relatively stable economic period for these
           securitization transactions, the multiples are intended to account for future volatility and stressed economic conditions.
 121
+
+[PAGE 123 | printed 122]
 The Delinquency Trigger Rate will be reviewed and may be adjusted upon the occurrence of any of the following events:
 (i)
 the filing of a registration statement with the SEC relating to any
@@ -3989,6 +4234,8 @@ If any of the eligibility representations or warranties made by an Originator or
         constitute a breach of the eligibility representations or warranties of the related Originator or the Servicer and the related Originator or the Servicer, as applicable, will not be required to reacquire or acquire the related Receivable.
 These reacquisition and acquisition obligations will be the sole remedy against the Originators and the Servicer for any losses resulting from a breach of the eligibility representations or warranties of any
 122
+
+[PAGE 124 | printed 123]
 Originators and the Servicer with respect to the Receivables.  None of the Master Collateral Agent, the Indenture Trustee, the Owner Trustee, the Asset Representations Reviewer, the Sponsor, the Servicer, the Administrator, the Marketing Agent
         or the Depositor will have any duty to investigate whether any eligibility representation or warranty with respect to a Receivable has been breached.  If the Servicer resigns or is terminated as described under “
 Servicing
@@ -4030,6 +4277,8 @@ In addition, as set forth under
 ” if the Servicer (A)
         makes certain modifications,
 123
+
+[PAGE 125 | printed 124]
 including if it (i) cancels a Receivable or reduces or waives (including with respect to an Upgrade Offer) the remaining Principal Balance under a Receivable or any portion thereof and/or as a result, the monthly payments due thereunder, (ii)
         modifies, supplements, amends or revises a Receivable to grant the Obligor under that Receivable a contractual right to upgrade the related wireless device or (iii) grants payment extensions resulting in the final payment date of a Receivable being
         later than the Collection Period immediately preceding the final maturity date for the latest maturing Group 1 Credit Extension or (B) fails to maintain perfection of the Trust’s and the Master Collateral Agent’s security interest in the
@@ -4057,6 +4306,8 @@ If the Parent Support Provider does not make an Upgrade Prepayment to the Trust 
         Upgrade Offer, the Servicer, so long as Cellco is the Servicer, will be required to credit to the Obligor’s account with respect to payments due under the new Device Payment Plan Agreement entered into as a result of the related upgrade, on a
         monthly basis an amount equal to the amount due each month under the original Device Payment Plan Agreement.  If Cellco is no longer the Servicer, Cellco will be required to apply those credits upon receipt of notice from the
 124
+
+[PAGE 126 | printed 125]
 successor servicer that the Obligor has made the requisite payment under the original Device Payment Plan Agreement.  See
 “Parent Support Provider”
 for additional information about the Parent Support
@@ -4090,6 +4341,8 @@ JAMS, an organization providing alternative dispute resolution services, will ad
         reasonable efforts to begin the mediation within thirty (30) days of the selection of the mediator and to conclude the mediation within sixty (60) days of the start of the mediation. The fees and expenses of the mediation will be allocated as
         mutually agreed by the parties as part of the mediation.
 125
+
+[PAGE 127 | printed 126]
 Any binding arbitration will be administered by the AAA pursuant to its commercial arbitration rules and mediation procedures in effect on the date the arbitration is filed. The panel will consist of three (3)
         members.  One (1) arbitrator will be appointed by the requesting party within five (5) Business Days of its notice selecting arbitration, one (1) arbitrator will be appointed by the Depositor within five (5) Business Days of the requesting party’s
         appointment, and one (1) arbitrator (who will preside over the panel) will be chosen by the two (2) party-appointed arbitrators within five (5) Business Days of the second appointment.  If any party fails to appoint an arbitrator or the two (2)
@@ -4116,6 +4369,8 @@ The Administrator will not use selection procedures in selecting Device Payment 
         re-designated from a Group that does not relate to any Outstanding Credit Extensions to Group 1, in either case that it believes to be materially adverse to the interests of the Group 1 Creditors.  Neither the Depositor nor the Sponsor has engaged
         or intends to engage a third party to assist with the review of Receivables.  The Depositor takes full responsibility for the review of the Receivables, the work performed by Verizon and the findings and conclusions of that review.
 126
+
+[PAGE 128 | printed 127]
 The Depositor confirmed with senior management personnel of Verizon familiar with the securitization transaction and the Receivables that they performed a comprehensive review of the information about such Receivables
         contained in this prospectus.  The descriptions of the general information about the Receivables and how they were originated were reviewed and confirmed as accurate by relevant senior managers and legal personnel at Verizon.  Verizon’s legal
         personnel also reviewed and confirmed that the descriptions of the material terms of the Receivables accurately reflect the terms of the forms of Device Payment Plan Agreements originated by the Originators, that the descriptions of the legal and
@@ -4146,6 +4401,8 @@ Master Trust Receivables
         of this prospectus and the registration statement of which this prospectus is a part.  We caution you that the Receivables may not perform in a similar manner to the Master Trust Receivables in any particular vintage origination year reflected in
         the data set forth in Annex A.
 127
+
+[PAGE 129 | printed 128]
 The characteristics of the Master Trust Receivables included in the static pool information discussed above, as well as the social, economic and other conditions existing at the time when those Master Trust Receivables
         were originated and repaid, may vary materially from the characteristics of the additional Receivables and the social, economic and other conditions existing at the time when the additional Receivables will be originated, and those that will exist
         in the future when the Receivables are required to be repaid.  Therefore, there can be no assurance that the delinquency, loss or prepayment experience of the revolving pool of Receivables will be similar to the information for any particular
@@ -4178,6 +4435,8 @@ Each Group 1 Series represents an undivided interest in the Receivables, includi
 [/TABLE_282]
 Prior to each Payment Date, Group 1 Available Funds allocable to Series 2024-6 for such Payment Date will be withdrawn by the Master Collateral Agent from the Collection Account, as directed by the
 128
+
+[PAGE 130 | printed 129]
 Servicer, and remitted to the Distribution Account. On each Payment Date, each Group 1 Series will be entitled to a portion of the Group 1 Available Funds for such Payment Date based on the Series Allocation Percentage for such Group 1 Series.
 On each Payment Date, the Certificateholders are entitled to receive the applicable Transferor’s Allocation for such Payment Date pari passu with the portion of Group 1 Available Funds allocated to each Group 1 Series,
         provided that if at any time a Pool Balance Deficit exists, the Transferor’s Percentage and the Transferor’s Allocation will be equal to zero. As of the Closing Date (based on the information with respect to the Receivables as of the Statistical
@@ -4211,6 +4470,8 @@ All interest amounts that are due but not paid on any Payment Date will be due o
 The Trust will make interest payments on the Notes on each Payment Date from Series 2024-6 Available Funds.  Interest, including any Additional Interest Amounts, will be paid, first to the Class A Notes, pro rata,
         based on the amount of interest due to the Class A-1a Notes and Class A-1b Notes, then to the
 129
+
+[PAGE 131 | printed 130]
 Class B Notes and then to the Class C Notes.  Interest payments will not be made on any subordinated class of Notes until all interest payments due on all more senior classes of Notes are paid in full.
 If the amount of Series 2024-6 Available Funds, together with the amount withdrawn from the Reserve Account and, if applicable, drawn under a Letter of Credit, is insufficient to pay all interest due on any class of
         Notes on any Payment Date, each holder of that class of Notes will receive its pro rata share of the amount that is available.  In addition, any First Priority Principal Payments will be paid to Noteholders (or deposited into the Principal Funding
@@ -4249,6 +4510,8 @@ if the rate specified in (1) above does not so appear, the applicable compounded
         as published in respect of the first preceding U.S. Government Securities Business Day for which such rate appeared on the FRBNY’s Website.
 The specific Compounded SOFR rate is referred to by its tenor. For example, “30-day Average SOFR” refers to the compounded average SOFR over a rolling 30-calendar day period as published on the FRBNY’s Website.
 130
+
+[PAGE 132 | printed 131]
 “
 SOFR
 ” means the secured overnight financing rate published for any day by the FRBNY (or a successor administrator), as the administrator of the Benchmark, on the FRBNY’s Website
@@ -4288,6 +4551,8 @@ For the avoidance of doubt: (a) in no event will (x) the Paying Agent be respons
         comparable system as is customarily used to quote SOFR or such substitute for SOFR, (y) the Indenture Trustee, the Master Collateral Agent or the Owner Trustee be responsible for obtaining Compounded SOFR or any substitute for SOFR, or (z) the
         Indenture Trustee, the Paying Agent, the Master Collateral Agent or the Owner Trustee  be responsible for making any decision or election in connection
 131
+
+[PAGE 133 | printed 132]
 with a Benchmark Transition Event or a Benchmark Replacement as described above, including any determination with respect to a tenor, rate or adjustment or of the occurrence or non-occurrence of an event and (b) in
         connection with any of the matters referenced in clause (a) of this sentence, the Indenture Trustee, the Paying Agent, the Master Collateral Agent and the Owner Trustee will be entitled to conclusively rely on any determinations made by the
         Administrator (on behalf of the Trust), as applicable, in regards to such matters and will have no liability for such actions taken at the direction of the Administrator (on behalf of the Trust).
@@ -4325,6 +4590,8 @@ Priority Principal Payments, if any, will be applied on each Payment Date during
                 effect to any payments made on that date, until each such class of Notes is paid in full;
 [/TABLE_283]
 132
+
+[PAGE 134 | printed 133]
 [TABLE_284]
  | • | second, to the Class B Notes until paid in full; and
 [/TABLE_284]
@@ -4375,6 +4642,8 @@ Amortization Events
                 by dividing the aggregate Principal Balance of all Receivables which became Written-Off Receivables during
 [/TABLE_290]
 133
+
+[PAGE 135 | printed 134]
 [TABLE_291]
  |  | each of the three (3) prior Collection Periods by the Pool Balance as of the first day of each of those Collection Periods, multiplied by four (4), exceeds 10.00%,
 [/TABLE_291]
@@ -4415,6 +4684,8 @@ The Certificateholders will notify the Trust, the Servicer, the Master Collatera
         amounts due thereon, including all principal of, and accrued and unpaid interest on, the Notes, and any applicable Make-Whole Payments and Additional Interest Amounts.  On the date on which an Optional Redemption is effected, the Trust will cause
         to be deposited into the Distribution Account the required redemption price for the Notes and the Indenture Trustee will transfer any
 134
+
+[PAGE 136 | printed 135]
 amounts on deposit in the Reserve Account and the Principal Funding Account into the Distribution Account.
 Other Group 1 Series may have the same or different optional redemption rights. Certificateholders may elect to exercise these optional redemption rights in their discretion, and the election to redeem any Group 1
         Series will not require the Trust to redeem any other Group 1 Series.
@@ -4453,6 +4724,8 @@ On each Payment Date, the Servicer will instruct the Paying Agent to use Series 
                 Allocated Percentage of all amounts due, including (x) fees due to the Owner Trustee and (y) expenses and indemnities due to the Owner Trustee, up to a maximum aggregate amount, in the case of clause (y), of $100,000 per year for all
 [/TABLE_300]
 135
+
+[PAGE 137 | printed 136]
 [TABLE_301]
  |  | Group 1 Series in the aggregate; (C) to the Asset Representations Reviewer, (i) the Series 2024-6 ARR Series Allocation Percentage of all amounts due, including (x) fees
                 (other than the Supplemental ARR Fee) due to the Asset Representations Reviewer (including fees due in connection with any Asset Representations Review) and (y) expenses and indemnities due to the Asset Representations Reviewer, up to a
@@ -4502,6 +4775,8 @@ On each Payment Date, the Servicer will instruct the Paying Agent to use Series 
                 Account to equal the Required Reserve Amount less the amount available under such Letter of Credit, if any,
 [/TABLE_309]
 136
+
+[PAGE 138 | printed 137]
 [TABLE_310]
  | (10) | (a) during the Revolving Period, for deposit to the Principal Funding Account and (b) during the Amortization Period, to the Noteholders, in
 
@@ -4552,6 +4827,8 @@ In the event that any First Priority Principal Payment, Second Priority Principa
                 will be paid to the Noteholders on such Payment Date, in the order set forth under “—Payments of Principal”
 [/TABLE_320]
 137
+
+[PAGE 139 | printed 138]
 [TABLE_321]
  |  | above, until the aggregate Note Balance of the Class A Notes, Class B Notes and Class C Notes is reduced to zero.
 [/TABLE_321]
@@ -4594,6 +4871,8 @@ If the Notes are accelerated after an Event of Default, on each Payment Date, th
  | (7) | to the Noteholders of the Class C Notes, interest due on the Class C Notes,
 [/TABLE_328]
 138
+
+[PAGE 140 | printed 139]
 [TABLE_329]
  | (8) | to the Noteholders of the Class C Notes, principal of the Class C Notes until paid in full,
 [/TABLE_329]
@@ -4633,6 +4912,8 @@ If an Event of Default occurs because of bankruptcy or dissolution of the Trust,
         agencies rating any Group 1 Credit Extensions no more than five (5) Business Days after a responsible person of the Trust obtains knowledge of an Event of Default.  If an officer in the corporate trust office of the Indenture Trustee having direct
         responsibility for the administration of the Series Related Documents for Series 2024-6 has actual knowledge of an Event of Default, it must notify the Noteholders within five (5) Business Days.
 139
+
+[PAGE 141 | printed 140]
 If an Event of Default occurs, such Event of Default will also occur with respect to each other Group 1 Series, though the Creditors of each Group 1 Series may make independent determinations as to whether to exercise
         remedies following such Event of Default, including whether to declare the related Credit Extensions to be due and payable;
 provided, however
@@ -4673,6 +4954,8 @@ If the Notes have been accelerated and the acceleration has not been rescinded, 
  | • | take any other appropriate action to protect and enforce the rights and remedies of the Indenture Trustee and the Noteholders, or
 [/TABLE_340]
 140
+
+[PAGE 142 | printed 141]
 [TABLE_341]
  | • | vote as a Group 1 Creditor Representative to cause the Trust to sell the Receivables and other assets of the Trust designated to Group 1 (and, in the limited
                 circumstances described below, other Trust DPPAs designated to any other Group).
@@ -4699,6 +4982,8 @@ Subject to the conditions described above, the Master Collateral Agent may cause
         the proceeds of the sale of Receivables and other assets of the Trust designed to Group 1, is sufficient to pay in full all amounts owed by the Trust, as set forth in clause (a)(B) or (b)(B) above.  The Trust DPPAs designated to any other Group
         sold in any such sale described above may not be selected in a manner materially adverse to the interests of the Creditors of such other Group.
 141
+
+[PAGE 143 | printed 142]
 In determining whether the condition in clause (a)(B), (b)(B) or (b)(C)(1) above has been satisfied, the Master Collateral Agent at the expense of the Trust, may obtain, and conclusively rely on an opinion of a
         nationally-recognized independent investment banking firm or firm of certified public accountants on the expected proceeds or on the sufficiency of the Receivables and any other assets of the Trust designated to Group 1 for that purpose and the
         feasibility of such proposed action.  If an Event of Default has occurred and the Master Collateral Agent has been directed to cause the Trust to sell the Receivables and other assets of the Trust designated to Group 1 (and which may also include,
@@ -4741,6 +5026,8 @@ Notes Owned by Transaction Parties
 Notes owned by the Depositor, the Servicer or any of their affiliates will not be included for purposes of determining whether a required percentage of any class of Notes has taken any action under the Indenture or any
         other transaction document.
 142
+
+[PAGE 144 | printed 143]
 List of Noteholders
 A Noteholder may communicate with the Indenture Trustee or the Master Collateral Agent and provide notices and make requests and demands and give directions to the Indenture Trustee or the Master Collateral Agent, as
         applicable, as permitted by the transaction documents through the procedures of DTC and by notice to the Indenture Trustee or the Master Collateral Agent, as applicable.
@@ -4781,6 +5068,8 @@ The Indenture will not be discharged until:
  | • | the Trust has paid all other amounts payable by it in respect of Series 2024-6 under the transaction documents, and
 [/TABLE_353]
 143
+
+[PAGE 145 | printed 144]
 [TABLE_354]
  | • | the Trust has delivered an officer’s certificate and a legal opinion to the Indenture Trustee each stating that all conditions to the satisfaction and discharge of the
                 Indenture have been satisfied.
@@ -4824,6 +5113,8 @@ The Trust and the Master Collateral Agent may, also without the consent of any C
         Creditor Representative an officer’s certificate to the effect that the proposed action meets the requirements set forth in the Master Collateral Agreement and (y) the proposed action does not adversely affect the rights, duties, protections,
         indemnities, immunities or obligations of the Master Collateral Agent.
 144
+
+[PAGE 146 | printed 145]
 The Trust and the Master Collateral Agent, with the consent of the Majority Trust Creditor Representatives of each Group adversely affected thereby, may, with prior written notice to the rating agencies (if any Credit
         Extensions of an affected Group are then rated by a rating agency), enter into an amendment or amendments to the Master Collateral Agreement for the purpose of adding any provisions to or changing in any manner or eliminating any of the provisions
         of the Master Collateral Agreement or of modifying in any manner the rights of the Creditors or the Creditor Representatives under the Master Collateral Agreement.
@@ -4867,6 +5158,8 @@ The Indenture may be amended by the Trust and the Indenture Trustee, without the
  | • | to convey, transfer, assign, mortgage or pledge any property to or with the Indenture Trustee for the benefit of the Noteholders;
 [/TABLE_372]
 145
+
+[PAGE 147 | printed 146]
 [TABLE_373]
  | • | to cure any ambiguity, to correct an error or to correct or supplement any provision of the Indenture that may be defective or inconsistent with the other terms of the
                 Indenture;
@@ -4903,6 +5196,8 @@ No amendment to the Indenture, without the consent of each Noteholder of each Ou
                 the Required Reserve Amount;
 [/TABLE_377]
 146
+
+[PAGE 148 | printed 147]
 [TABLE_378]
  | • | modify the percentage of Note Balance of the Notes or the Controlling Class that are required for any action;
 [/TABLE_378]
@@ -4939,6 +5234,8 @@ Actions of Noteholders under the Indenture will be taken by DTC on instructions 
 Prospective Noteholders should review the rules and procedures of DTC and Clearstream for clearing, settlement, payments and tax withholding applicable to their purchase of the Notes.  In particular, investors should
         note that DTC’s rules and procedures limit the ability of the Trust and the Indenture Trustee to make
 147
+
+[PAGE 149 | printed 148]
 post-payable adjustments for principal and interest payments after a period of time, which may be as short as ninety (90) days.
 The Clearing Systems
 DTC
@@ -4968,6 +5265,8 @@ Notes will be issued in physical form to Noteholders only if:
                 appoint a qualified successor,
 [/TABLE_382]
 148
+
+[PAGE 150 | printed 149]
 [TABLE_383]
  | • | the Administrator notifies the Indenture Trustee that it elects to terminate the book-entry system through DTC, or
 [/TABLE_383]
@@ -4998,6 +5297,8 @@ Reserve Account
 As a form of credit and payment enhancement for the Notes, the Servicer established the Reserve Account.  On the Initial Issuance Date, the Trust made a deposit into the Reserve Account from the net proceeds of the
         sale of the Class A-1a Notes, the Class A-1b Notes and the Class C Notes in an amount
 149
+
+[PAGE 151 | printed 150]
 equal to the Required Reserve Amount. In addition, after the Closing Date, subject to the requirements set forth under “
 —Letter of Credit
 ” below, the Trust or Verizon Communications may cause a Letter of
@@ -5031,6 +5332,8 @@ Letter of Credit
 On the Initial Issuance Date there was no Letter of Credit issued and on the Closing Date, no Letter of Credit will be issued.  After the Closing Date, the Trust or Verizon Communications may cause a Letter of Credit
         to be issued by a Letter of Credit Provider, subject to the satisfaction of the Rating Agency Condition.  The Trust will file a copy of any Letter of Credit on Form 8-K with the SEC.  Any Letter of Credit Provider
 150
+
+[PAGE 152 | printed 151]
 will be entitled to a fee in connection with the performance of its duties under the Letter of Credit.  The Trust will pay the Letter of Credit Provider a fee determined at the time the related Letter of Credit is issued.  The Letter of Credit
         Provider will also be entitled to reimbursement or payment by the Trust for all costs, expenses and indemnification amounts incurred by it in connection with the performance of its duties under the Letter of Credit.  The Trust will pay such amounts
         from Series 2024-6 Available Funds on each Payment Date in accordance with the priority set forth under “
@@ -5067,6 +5370,8 @@ Description of the Notes—Priority of Payments
 If the Notes are accelerated after an Event of Default, the priority of payments will change and the Trust will pay interest and principal sequentially, beginning with the Class A Notes (with any principal payments
         applied to the Class A Notes allocated to the Class A-1a Notes and Class A-1b Notes, pro rata, based on
 151
+
+[PAGE 153 | printed 152]
 the Note Balance of the Class A-1a Notes and Class A-1b Notes as of the end of the immediately preceding Payment Date), then the Class B Notes and then the Class C Notes.  The Trust will not pay interest or principal of the Class B Notes and
         Class C Notes until all more senior classes of Notes are paid in full.  These subordination features provide credit enhancement to more senior classes of Notes, with the Class A Notes benefiting the most.
 Overcollateralization
@@ -5091,6 +5396,8 @@ The True-up Trust, as a majority-owned affiliate of the Sponsor, will retain the
 None of the Sponsor, the Depositor, the other Originators, the True-up Trust or any of their affiliates may sell, transfer or hedge the Transferor’s Interest or the applicable Series EHRI other than as permitted by the
         U.S. Risk Retention Rules.
 152
+
+[PAGE 154 | printed 153]
 Qualifying “Seller’s Interest”
 The Transferor’s Interest (represented by the Certificates) has been structured to be a qualifying “seller’s interest” under the U.S. Risk Retention Rules. The Transferor’s Interest is collateralized by the
         Receivables, is pari passu with each Series of investor ABS interests issued by the Trust for Group 1, and adjusts for fluctuations in the outstanding principal balance of the Receivables.
@@ -5122,6 +5429,8 @@ Eligible Horizontal Residual Interests
 The Class R Interest has been structured to be an “eligible horizontal residual interest” under the U.S. Risk Retention Rules with respect to Series 2024-6.  On any Payment Date, the Class R Interest will absorb any
         losses incurred on the Receivables before any losses are incurred by the holders of other ABS interests
 153
+
+[PAGE 155 | printed 154]
 issued in connection with Series 2024-6, and the Class R Interest will have the most subordinated claim to payments of principal and interest by the Trust with respect to Series 2024-6.  In general, the Class R Interest represents the right to
         all Series 2024-6 Available Funds on any Payment Date not needed to pay fees, expenses and indemnities of the Trust allocated to or otherwise payable by Series 2024-6 or to make interest and principal payments on the Notes, payments, if any,
         required to reimburse a Letter of Credit Provider for any amounts drawn under any Letter of Credit together with interest accrued on the drawn amount, any required deposits into the Reserve Account or the Principal Funding Account, any Additional
@@ -5161,6 +5470,8 @@ Level 1 inputs include quoted prices for identical instruments and are the most 
 •
 Level 2 inputs include quoted prices for similar instruments and observable inputs, including as interest rates and yield curves, and
 154
+
+[PAGE 156 | printed 155]
 •
 Level 3 inputs include data not observable in the market and reflect management judgment about the assumptions market participants would use in pricing
         the instrument.
@@ -5213,6 +5524,8 @@ December | $61,250.00
                 Notes set forth on the cover of this prospectus;
 [/TABLE_393]
 155
+
+[PAGE 157 | printed 156]
 [TABLE_394]
  | • | interest accrues on the Class A-1a Notes at 4.17% per annum, the Class A-1b Notes at Compounded SOFR + 0.67% per annum, the Class B Notes at 4.42% per annum and the Class
                 C Notes at 4.67% per annum;
@@ -5291,6 +5604,8 @@ Prepayment Assumption
  | • | in months 1-3 of the Device Payment Plan Agreement, 0.00% of defaults occur in each month,
 [/TABLE_416]
 156
+
+[PAGE 158 | printed 157]
 [TABLE_417]
  | • | in months 4-6 of the Device Payment Plan Agreement, approximately 1.50% of defaults occur in each month,
 [/TABLE_417]
@@ -5363,6 +5678,8 @@ CPR rate
 – estimated considering the composition of the Receivables, and the static pool prepayment history of
         the Master Trust Receivables included in Annex A, as applicable.
 157
+
+[PAGE 159 | printed 158]
 •
 Cumulative gross loss rate
 – estimated using assumptions for both the magnitude of lifetime cumulative gross
@@ -5403,6 +5720,8 @@ UK Securitization Regulation
 ”) generally
         applies to securitisations (as
 158
+
+[PAGE 160 | printed 159]
 defined in the UK Securitization Regulation) the securities of which were issued on or after January 1, 2019 and before November 1, 2024.
 Article 5 of the UK Securitization Regulation places certain conditions on investments in a “securitisation” (as defined in such regulation) (the “
 UK Due Diligence Requirements
@@ -5435,6 +5754,8 @@ Failure by an EU Affected Investor to comply with the EU Due Diligence Requireme
 Prospective investors are responsible for analyzing their own legal and regulatory position and are encouraged to consult with their own investment and legal advisors regarding the suitability of the Offered Notes for
         investment and the scope and applicability of, and compliance with, the requirements of the EU Securitization Regulation, the UK Securitization Regulation and any other existing or future similar regimes
 159
+
+[PAGE 161 | printed 160]
 in any relevant jurisdictions.  See also “
 Risk Factors—The Offered Notes may not be a suitable investment for investors subject to the EU Securitization Regulation or the UK Securitization Regulation
 .”
@@ -5470,6 +5791,8 @@ Each absolute assignment of Receivables by the Depositor to the Trust has been a
         to minimize the possibility that a bankruptcy proceeding of the Depositor will adversely affect the Trust’s rights in the Receivables. The Depositor intends that each absolute assignment of the Receivables by the Depositor to the Trust will be a
         “true sale.”  The Trust will have no recourse to the Depositor, the Servicer, any Originator or the Additional Transferor other
 160
+
+[PAGE 162 | printed 161]
 than the limited obligation of the Originators and the Servicer (in the case of Receivables transferred by the Additional Transferor) to reacquire or acquire Receivables for breaches of representations.
 On the Initial Issuance Date, the Trust received a reasoned legal opinion that in a bankruptcy of the Depositor:
 [TABLE_440]
@@ -5508,6 +5831,8 @@ The obligations on the original Device Payment Plan Agreement are not terminated
         conditions are satisfied, including that the related Originator (or the Marketing Agent) makes the Upgrade Prepayment.  If the original Device Payment Plan Agreement is a Receivable, (i) under the transaction documents, Cellco, as Originator or as
         Marketing
 161
+
+[PAGE 163 | printed 162]
 Agent on behalf of the other Originators, would be required to remit, or to cause the related Originator to remit, to the Trust the related Upgrade Prepayment and (ii) because the Trust owns the original Device Payment Plan Agreement, the Trust
         is still entitled to payment by the related Obligor of the amounts due under that Device Payment Plan Agreement if Cellco does not satisfy the Upgrade Prepayment.
 If Cellco or an Originator becomes a debtor under chapter 11 of the Bankruptcy Code and therefore becomes a debtor in possession, pursuant to the provisions of the Bankruptcy Code before the creation of an Upgrade
@@ -5541,6 +5866,8 @@ Bankruptcy Proceedings of Cellco or the Originators and Avoidance of Pre-Bankrup
 If the Marketing Agent or an Originator becomes a debtor under the
         Bankruptcy Code, the bankruptcy trustee of the Marketing Agent or Originator (including the Marketing Agent or Originator as
 162
+
+[PAGE 164 | printed 163]
 debtor in possession) may seek to avoid any Upgrade Prepayments made by the Marketing Agent or the related Originator before the filing of the bankruptcy petition on the grounds that the Upgrade Prepayment was a preferential transfer or a
         fraudulent transfer.
 Under each Upgrade Contract between an Obligor and an Originator, the Marketing Agent is obligated to make, or to cause the related Originator to make, the Upgrade Prepayment to the Trust and for the benefit of the
@@ -5567,6 +5894,8 @@ In the case of an Upgrade Prepayment made by the Marketing Agent as agent for an
         Agency Agreement, the other Originator has agreed to reimburse the Marketing Agent for any Upgrade Prepayments that the Marketing Agent makes to the Trust and has granted a security interest in the new Device Payment Plan Agreement to secure its
         reimbursement obligation.  As discussed above, when the Marketing Agent makes the Upgrade Prepayment, the Upgrade Prepayment extinguishes the
 163
+
+[PAGE 165 | printed 164]
 Obligor’s claim in recoupment and right of offset against the new Device Payment Plan Agreement acquired by the Originator pursuant to the Upgrade Contract.  The Upgrade Prepayment automatically and simultaneously increases the value of the new
         Device Payment Plan Agreement.  This increase in the value of the new Device Payment Plan Agreement increases the value of the Marketing Agent’s security interest in the new Device Payment Plan Agreement and is new value to the extent of the
         increase.  To the extent that the principal balance of the new Device Payment Plan Agreement is greater than the Obligor’s claim in recoupment, this increase is a complete defense to an avoidance action.  Further, the bankruptcy trustee of the
@@ -5597,6 +5926,8 @@ The Marketing Agent as Originator is incurring the Upgrade Prepayment obligation
         expected to be for an amount greater than the Upgrade Prepayment, and the other benefits and revenues from having the Obligor agree to continue as a customer using the Marketing Agent’s wireless services for two years.  Accordingly, the Marketing
         Agent as Originator will be receiving value at least reasonably equivalent to or greater than the amount of the Upgrade Prepayment obligation.
 164
+
+[PAGE 166 | printed 165]
 In the case of the Marketing Agent as agent for an Originator, the Marketing Agent incurs the Upgrade Prepayment obligation in exchange for the grant of a security interest in the new Device Payment Plan Agreement
         obtained by the Originator pursuant to an Upgrade Contract to secure the Originator’s obligation to reimburse the Marketing Agent for Upgrade Prepayments that it makes.  The grant of the security interest is a transfer of property in the amount of
         the secured claim.  So long as the total amount due on the new Device Payment Plan Agreement (without regard to an Obligor’s claim in recoupment and right of offset) is greater than the amount of the Upgrade Prepayment obligation, which it is
@@ -5624,6 +5955,8 @@ Bankruptcy Limitations
         provided, that the aggregate Principal Balance of all such Receivables reacquired or acquired by an Originator or the Servicer (in the case of Receivables transferred by the Additional Transferor) does not exceed five percent (5%) of the highest
         aggregate Principal Balance of all Receivables transferred by that Originator or the Additional Transferor, as applicable, to the Depositor and by the Depositor to the Trust and held by the Trust as of the
 165
+
+[PAGE 167 | printed 166]
 applicable date of determination.
 For additional information on bankruptcy surrendered devices, see “Origination and Description of Device Payment Plan Agreement Receivables—Bankruptcy Surrendered Devices.
 ”
@@ -5655,6 +5988,8 @@ Under the terms of the Servicemembers Civil Relief Act and similar state laws, a
         permits an Obligor to choose to suspend any line for the period of the relocation for up to three (3) years and ninety (90) days.  All billing for service and features will be stopped while the related account is suspended, which includes billing
         for that Obligor’s Device Payment Plan Agreement.  While it is a condition to its inclusion as a Series
 166
+
+[PAGE 168 | printed 167]
 2024-6 Eligible Receivable that a Receivable may not be in suspension status (including pursuant to the application of the Servicemembers Civil Relief Act), Device Payment Plan Agreements with Obligors who subsequently enter the military or
         subsequently receive orders to relocate may constitute Receivables.
 Military Lending Act.
@@ -5684,6 +6019,8 @@ These fees will not change during the term of this securitization transaction.  
         Owner Trustee, Asset Representations Reviewer or Servicer, as applicable.  The fees of any Letter of Credit Provider may be paid monthly, annually or on another schedule as agreed by the Administrator and such Letter of Credit Provider and will be
         set forth in the related Letter of Credit.
 167
+
+[PAGE 169 | printed 168]
 The fees set forth below will be payable from Series 2024-6 Available Funds.
 [TABLE_445]
 Fee |  | Amount
@@ -5705,6 +6042,8 @@ The Master Collateral Agent fee is paid to the Master Collateral Agent for perfo
         Reviewer on completion of a review of the ARR Receivables for its performance of the review.  The Trust will pay and reimburse the Master Collateral Agent, the Indenture Trustee, the Owner Trustee and the Asset Representations Reviewer for its fees
         and reasonable out of pocket expenses incurred under the Master Collateral Agreement, the Indenture, the Trust Agreement and the Asset Representations Review
 168
+
+[PAGE 170 | printed 169]
 Agreement, respectively.  The Trust also will pay any indemnities owed to the Master Collateral Agent, the Indenture Trustee, Owner Trustee or Asset Representations Reviewer.  Any fees, expenses or indemnities paid to the Master Collateral
         Agent, the Indenture Trustee, Owner Trustee or Asset Representations Reviewer by the Administrator, on behalf of the Trust, will be reimbursed in the order of priority described under
 “Description of the
@@ -5753,6 +6092,8 @@ On or about the 15th day of each month, and in no case later than at least two (
  | • | the Priority Principal Payments, if any, including deposits into the Principal Funding Account,
 [/TABLE_456]
 169
+
+[PAGE 171 | printed 170]
 [TABLE_457]
  | • | the Note Balance of each class of Notes at the beginning of the period and the end of the period and the note factors needed to compute the Note Balance of each class of
                 Notes, in each case giving effect to all payments to be made on the Payment Date,
@@ -5806,6 +6147,8 @@ The Servicer, on behalf of the Trust, will file a Form 10-D for the Trust with t
                 month, the identity and experience of the new asset representations reviewer, the date and the circumstances surrounding the change, and
 [/TABLE_471]
 170
+
+[PAGE 172 | printed 171]
 [TABLE_472]
  | • | information required with respect to any request from a Public Group 1 Noteholder or a Verified Note Owner during the prior calendar month to communicate with other
                 Creditors, as described under “ Description of the Notes—Noteholder Communications .”
@@ -5832,6 +6175,8 @@ In addition, the Indenture will require that the Indenture Trustee, pursuant to 
         qualification to continue as Indenture Trustee under the Indenture, any amounts advanced by it under the Indenture, the amount, interest rate and maturity date of certain indebtedness owing by the Trust to the Indenture Trustee in its individual
         capacity, the property and funds physically held by the Indenture Trustee in its capacity as Indenture Trustee and any action taken by it that materially affects the Notes and that has not been previously reported.
 171
+
+[PAGE 173 | printed 172]
 CERTAIN U.S. FEDERAL INCOME TAX CONSEQUENCES
 The following discussion of certain U.S. federal income tax consequences of the purchase, ownership and disposition of the Offered Notes (which term “Offered Note,” or “Offered Notes,” as used in this discussion refers
         solely to the Offered Notes held by parties unaffiliated with the Trust, and “Noteholder” refers to a beneficial owner of such an Offered Note), to the extent it relates to matters of law or legal conclusions with respect thereto, represents the
@@ -5857,6 +6202,8 @@ Tax Characterization of the Trust
 On the Initial Issuance Date, Tax Counsel delivered its opinion, subject to certain qualifications and assumptions, that the Trust would not be classified as an association (or a publicly traded partnership), in either
         case, taxable as a corporation for U.S. federal income tax purposes.  This opinion was based on the
 172
+
+[PAGE 174 | printed 173]
 assumption that the terms of the Trust Agreement and related transaction documents would be complied with by the parties thereto.
 If the Trust were taxable as a corporation for U.S. federal income tax purposes, the Trust would be subject to U.S. federal corporate income tax on its taxable income.  The Trust’s taxable income would include all of
         its income on the Receivables, possibly reduced by its interest expense on the Offered Notes.  Any corporate income tax could materially reduce cash available to make payments on the Offered Notes.  Investors in the Offered Notes should be aware
@@ -5886,6 +6233,8 @@ In the case of a debt instrument (including an Offered Note) as to which the rep
         instrument, under Section 1272(a)(6) of the Code, the periodic accrual of OID is determined by taking into account (i) a prepayment assumption determined in the manner prescribed by regulations, and (ii) adjustments in the accrual of OID when
         prepayments do not conform to the prepayment assumption.
 173
+
+[PAGE 175 | printed 174]
 Regulations prescribing the manner to determine the prepayment assumption have yet to be proposed or adopted.  It is unclear whether the requirement to use a prepayment assumption would be applicable to the Offered Notes in the absence
         of these regulations or whether use of a reasonable prepayment assumption (generally the assumption used to price the debt offering) may be required or permitted without reliance on these regulations.  If the requirement to use a prepayment
         assumption applies to the Offered Notes, the amount of OID that will accrue in any given “accrual period” may either increase or decrease depending upon the actual prepayment rate of the Receivables securing the Offered Notes.  In the absence of
@@ -5927,6 +6276,8 @@ Treatment of Make-Whole Payments and Additional Interest Amounts
         purposes on a Make-Whole Payment or Additional Interest Amount only when such amount is received or accrued according to each U.S. Owner’s method of tax accounting.  Each U.S. Owner should discuss the treatment of Make-Whole Payments or Additional
         Interest Amounts with its tax advisors.
 174
+
+[PAGE 176 | printed 175]
 Sale or Other Disposition
 .  If a U.S. Owner sells an Offered Note, such U.S. Owner will recognize gain or loss in an amount equal to the difference between the amount realized
         on the sale and their adjusted tax basis in the Offered Note.  The adjusted tax basis of an Offered Note to a particular U.S. Owner will generally equal the U.S. Owner’s cost for the Offered Note, increased by any market discount, acquisition
@@ -5957,6 +6308,8 @@ To qualify for the portfolio interest exemption, the Foreign Owner must provide 
         the IRS Form W-8BEN, IRS Form W-8BEN-E, IRS Form W-8ECI or applicable similar or successor form of any changes to the information on the Form or applicable similar or successor form.  If interest paid to a Foreign Owner is not considered portfolio
         interest and is not effectively connected with the conduct of a trade or business within the United States by the Foreign Owner, then it will be subject
 175
+
+[PAGE 177 | printed 176]
 to U.S. federal income and withholding tax at a rate of 30 percent, unless reduced or eliminated pursuant to an applicable tax treaty.  In order to claim the benefit of any applicable tax treaty, the Foreign Owner must provide the
         applicable trustee or other Person who is required to withhold U.S. federal income tax with respect to the Offered Notes with an appropriate statement (on IRS Form W-8BEN, IRS Form W-8BEN-E or applicable similar or successor form), signed under
         penalty of perjury, certifying that the Foreign Owner is entitled to benefits under the treaty.
@@ -5987,6 +6340,8 @@ If, contrary to the opinion of Tax Counsel, the IRS successfully asserted that t
         such partnership may be treated as “unrelated business taxable income,” income realized by Foreign Owners may be subject to U.S. federal income tax and withholding taxes and cause Foreign Owners to be subject to U.S. federal income tax return
         filing and withholding requirements, and
 176
+
+[PAGE 178 | printed 177]
 individual Noteholders might be subject to some limitations on their ability to deduct their share of Trust expenses.
 Foreign Account Tax Compliance
 In addition to the rules described above regarding the potential imposition of U.S. withholding taxes on payments to non-U.S. Persons, withholding taxes could also be imposed under the FATCA regime.  Under FATCA,
@@ -6012,6 +6367,8 @@ Subject to the discussion below, the Offered Notes may be purchased with the ass
         3(33) of ERISA), and other Benefit Plans that are not subject to Title I of ERISA or Section 4975 of the Code.
 ERISA imposes certain requirements on the fiduciaries of a Plan and on Persons who are subject to ERISA’s general fiduciary requirements, including the requirement of investment prudence and
 177
+
+[PAGE 179 | printed 178]
 diversification and the requirement that the investments of a Plan are made in accordance with its governing documents.  The prudence of a particular investment must be determined by the responsible fiduciary of a Plan by taking into
         account the particular circumstances of the Plan and all of the facts and circumstances of the investment, including, but not limited to, the matters discussed under “
 Risk Factors
@@ -6052,6 +6409,8 @@ Although there is little guidance on the subject, the Depositor believes that th
         assessment is based upon the traditional debt features of the Offered Notes, including the reasonable expectation of the purchasers of the Offered Notes that the Offered Notes will be repaid when due, traditional default remedies, and on the
         absence of conversion rights, warrants and other typical equity features.
 178
+
+[PAGE 180 | printed 179]
 Without regard to whether the Offered Notes are treated as debt for ERISA purposes, the acquisition, holding and disposition of the Offered Notes by or on behalf of a Plan could be considered to give rise to a direct
         or indirect prohibited transaction under ERISA or Section 4975 of the Code if the Trust, the Owner Trustee, the Indenture Trustee, the underwriter or any of their respective affiliates, including Cellco, is or becomes a “party in interest” under
         ERISA or a “disqualified person” under Section 4975 of the Code with respect to the Plan.  In this case, exemptions from the prohibited transaction rules could be applicable to the acquisition, holding and disposition of Offered Notes by or on
@@ -6088,6 +6447,8 @@ Additional Considerations
 Because the Transaction Parties, the underwriter or any of their affiliates may receive certain benefits in connection with the sale or holding of Offered Notes, the Offered Notes may not be purchased with the assets
         of a Benefit Plan if any of these parties (a) has investment or administrative discretion with respect
 179
+
+[PAGE 181 | printed 180]
 to the Benefit Plan assets; (b) has authority or responsibility to give, or gives, investment advice with respect to the Benefit Plan assets for a fee; or (c) is an employer maintaining or contributing to the Benefit Plan, unless the
         acquisition, holding and disposition of the Offered Notes would be covered by an applicable prohibited transaction exemption or will not cause a violation of any Similar Laws.
 Prospective Benefit Plan investors in the Offered Notes should consult with their legal advisors concerning the impact of ERISA and the Code or Similar Laws, the availability of exemptions from the prohibited
@@ -6115,6 +6476,8 @@ For additional information, you should refer to “Monthly Investor Reports” a
           Reports.”
 Copies of these reports may be obtained at no charge.
 180
+
+[PAGE 182 | printed 181]
 The Depositor
 The Depositor has filed with the SEC the registration statement under the Securities Act of which this prospectus forms a part.  This prospectus does not contain all the information contained in the registration
         statement.  The Depositor has satisfied the registrant requirements for use of Form SF-3 contained in General Instruction I.A.1 of Form SF-3.  The SEC maintains a website (http://www.sec.gov) that contains reports, registration statements and other
@@ -6154,6 +6517,8 @@ Indenture Trustee
 .”  There are no legal proceedings pending or known to be contemplated by any governmental authorities against the Sponsor, the Depositor, the Owner Trustee, the Indenture
         Trustee, the Master Collateral Agent,
 181
+
+[PAGE 183 | printed 182]
 the Trust, the Servicer, the Marketing Agent or any Originator, or of which any of their property is subject, that is material to Noteholders.
 UNDERWRITING
 Subject to the terms and conditions in the underwriting agreement, the Depositor has agreed to sell to RBC Capital Markets, LLC, as underwriter, and the underwriter has agreed to purchase, all or a portion of the
@@ -6187,6 +6552,8 @@ Until the distribution of the Offered Notes is completed, rules of the SEC may l
         transactions involve syndicate sales in excess of the offering size, which creates a syndicate short position. Stabilizing transactions consist of certain bids or purchases made for the purpose of preventing or retarding a decline in the market
         price of the Offered Notes while the offering is in progress.  The underwriter also may impose a penalty bid, whereby selling concessions
 182
+
+[PAGE 184 | printed 183]
 allowed to broker-dealers in respect of the Offered Notes sold short in the offering may be reclaimed by the underwriter if Offered Notes are repurchased by the underwriter in stabilizing or covering transactions.  Over-allotment transactions,
         stabilizing transactions, syndicate covering transactions and penalty bids may stabilize, maintain or otherwise affect the market price of the Offered Notes which may be higher than the price that might otherwise prevail in the open market.  Any
         transactions, if commenced, may be discontinued at any time.
@@ -6216,6 +6583,8 @@ The underwriter will represent, warrant and agree that:
                 involving the UK.
 [/TABLE_492]
 183
+
+[PAGE 185 | printed 184]
 The underwriter will also represent and warrant to, and agree with, the Depositor that it has not offered, sold or otherwise made available and will not offer, sell or otherwise make available any Offered Notes to any
         UK retail investor in the UK. For these purposes:
 [TABLE_493]
@@ -6248,6 +6617,8 @@ LEGAL OPINIONS
 Morgan, Lewis & Bockius LLP will review or provide opinions, or has reviewed and provided opinions, on legal matters relating to the Notes and U.S. federal income tax and other matters for the Trust, the Depositor
         and the Servicer.  Mayer Brown LLP will review or provide, or has reviewed and provided, opinions on legal matters relating to the Notes and other matters for the underwriter.
 184
+
+[PAGE 186 | printed 185]
 AVAILABLE INFORMATION
 Within the prescribed period of time for tax reporting purposes after the end of each calendar year, the Indenture Trustee and the Owner Trustee will mail to each Person who at any time during the related calendar year
         has been a Noteholder or Certificateholder, respectively, and received any payment on the Offered Notes or Certificates, respectively, held by that Person, a statement containing certain information for the purposes of that Noteholder’s or
@@ -6256,6 +6627,8 @@ Within the prescribed period of time for tax reporting purposes after the end of
 See “Certain U.S. Federal Income Tax Consequences” for additional information
 .
 185
+
+[PAGE 187]
 Schedule I
 Glossary of Defined Terms
 Certain terms used in this prospectus are defined below with respect to Series 2024-6 but not any other Series.  If at any time in this prospectus a lower case term is used that is otherwise defined with respect to Series 2024-6, as it applies
@@ -6306,6 +6679,8 @@ Affiliated Party
         business customer that has entered into an Individual Sign Agreement, other authorized individual) of the related Associated Account Agreement Party and is otherwise authorized by such Associated Account Agreement Party to enter into a Device
         Payment Plan Agreement pursuant to the terms of the related Associated Account Agreement.
 S-I-1
+
+[PAGE 188]
 “
 Amortization Events
 ” means, with respect to Series 2024-6, each of the amortization events described under “
@@ -6365,6 +6740,8 @@ Available Subordinated Percentage
 Bankruptcy Code
 ” means the United States Bankruptcy Code, 11 U.S.C. 101 et seq.
 S-I-2
+
+[PAGE 189]
 “
 Benchmark
 ” means, initially, Compounded SOFR; provided that if a Benchmark Transition Event and its related Benchmark Replacement Date have occurred with respect to Compounded SOFR or the then-current
@@ -6400,6 +6777,8 @@ Benchmark Replacement Date
 For the avoidance of doubt, if the event giving rise to the Benchmark Replacement Date occurs on the same day as, but earlier than, the Reference Time in respect of any determination, the Benchmark Replacement Date
         will be deemed to have occurred prior to the Reference Time for such determination.
 S-I-3
+
+[PAGE 190]
 “
 Benchmark Transition Event
 ” means the occurrence of one or more of the following events with respect to the then-current Benchmark (including the daily published component used in the calculation
@@ -6453,6 +6832,8 @@ Class A-1b Notes
 Class B Notes
 ” means the $102,180,000 Class B    % asset-backed notes issued by the Trust on the Initial Issuance Date and offered by the Depositor by this prospectus as part of Series 2024-6.
 S-I-4
+
+[PAGE 191]
 “
 Class C Notes
 ” means the $61,308,000 Class C 4.67% asset-backed notes issued and offered by the Trust on the Initial Issuance Date as part of Series 2024-6.
@@ -6522,6 +6903,8 @@ Credit Payment
 ” means an amount equal to the reduction in the amount owed by an Obligor under a Receivable due to the application of any credits to such Obligor’s account that would have otherwise
         constituted Collections.
 S-I-5
+
+[PAGE 192]
 “
 Creditor Representative
 ” means, with respect to each Series, the representative appointed by such Series to act on its behalf under the Master Collateral Agreement for voting among one or more Series. 
@@ -6581,6 +6964,8 @@ Department of Defense
 Depositor
 ” means Verizon ABS II LLC, a Delaware limited liability company.
 S-I-6
+
+[PAGE 193]
 “
 Designation Date
 ” means, with respect to any Receivable, any date subsequent to the related Acquisition Date on which such Receivable is designated or re-designated, as applicable, to Group 1.
@@ -6659,6 +7044,8 @@ Event of Default
                 Primary Series
 [/TABLE_499]
 S-I-7
+
+[PAGE 194]
 [TABLE_500]
  |  | Document or in any officer’s certificate delivered in connection with any Primary Series Document is incorrect in any material respect when made, and, in either case, (x)
                 has a material adverse effect on the Group 1 Creditors, and (y) is not cured for a period of ninety (90) days after written notice was given to the Trust by the Master Collateral Agent or to the Trust and the Master Collateral Agent by
@@ -6720,6 +7107,8 @@ Group 1 Available Funds
         or the Servicer (in the case of Receivables transferred by the Additional Transferor or designated to Group 1 on a Designation Date) to reacquire or acquire, as applicable, Receivables that breach representations, (iii) amounts paid to the Trust by
         the Servicer to acquire certain
 S-I-8
+
+[PAGE 195]
 Receivables modified by the Servicer or certain Receivables for which the Servicer’s covenants were breached, in each case, for the related Collection Period, (iv) amounts paid to the Trust by the Marketing Agent or the related Originator to
         acquire certain Receivables transferred by the Marketing Agent to a different Obligor, for the related Collection Period, (v) Upgrade Prepayments and Credit Payments paid to the Trust by the Marketing Agent or the related Originator in respect of
         the Receivables, (vi) any amounts paid to the Trust by the Parent Support Provider under the Parent Support Agreement in respect of the Receivables, (vii) the excess of the proceeds of any sales of Receivables by the Trust over the amount of such
@@ -6786,6 +7175,8 @@ Initial Closing Date
 Initial Issuance Date
 ” means September 18, 2024.
 S-I-9
+
+[PAGE 196]
 “
 IRS
 ” means the United States Internal Revenue Service.
@@ -6837,6 +7228,8 @@ for each class of Notes other than the Class A-1b Notes, the excess of (a) the s
         amount of all future interest payments that would otherwise accrue on the Note Balance of such class of Notes from the Optional Redemption date until the First Par Redemption Date and (y) the principal payment, with each payment under this clause
         (a) discounted from the First Par Redemption Date to the Optional Redemption date, monthly on a 30/360 day basis at the Make-Whole Discount Rate over (b) the principal payment; and
 S-I-10
+
+[PAGE 197]
 (ii)
 for the Class A-1b Notes, the excess of (a) the sum of the present value of (x) the amount of all future interest
         payments that would otherwise accrue on the Note Balance of the Class A-1b Notes at an interest rate of Compounded SOFR applicable to that Payment Date plus the spread applicable to the Class A-1b Notes from the Optional Redemption date until the
@@ -6902,6 +7295,8 @@ Note Prepayment Assumption
 Noteholder
 ” means any holder of the Notes.
 S-I-11
+
+[PAGE 198]
 “
 Notes
 ” has the meaning set forth under “
@@ -6955,6 +7350,8 @@ Owner Trustee
 Parent Support Agreement
 ” means the Parent Support Agreement, dated as of the Initial Closing Date, among the Parent Support Provider, the Depositor, the Trust and the Master Collateral Agent.
 S-I-12
+
+[PAGE 199]
 “
 Parent Support Provider
 ” means Verizon Communications, as parent support provider under the Parent Support Agreement.
@@ -7022,6 +7419,8 @@ Rating Agency Condition
         Servicer, the Owner Trustee, the Master Collateral Agent and, with respect to actions or requests relating to the Notes, the Indenture Trustee, that the proposed action or request will not result in a downgrade or withdrawal of its then current
         rating on any of such Credit Extensions or (ii) if the then-current policies of
 S-I-13
+
+[PAGE 200]
 Moody’s prohibit Moody’s from providing such notice, Moody’s does not notify the Depositor, the Servicer, the Owner Trustee, the Master Collateral Agent or, with respect to actions or requests relating to the Notes, the Indenture Trustee, that
         the proposed action or request will result in a downgrade or withdrawal of its then-current rating on any of such Credit Extensions within ten (10) days following any request therefor, (y) if Fitch or any other rating agency (other than Moody’s or
         S&P) has been engaged to rate any Outstanding Credit Extensions, then Fitch or such other rating agency, as applicable, does not notify the Depositor, the Servicer, the Owner Trustee, the Master Collateral Agent or, with respect to actions or
@@ -7071,6 +7470,8 @@ Required Overcollateralization Amount
         date and (y) during the amortization period for such Group 1 Series, the aggregate Outstanding principal amount of any Group 1 Credit Extensions Outstanding in such Group 1 Series as of the last day of the revolving period for such Group 1 Series,
         divided by (b) the percentage,
 S-I-14
+
+[PAGE 201]
 expressed as a fraction, equal to 100% minus the Required Overcollateralization Percentage for such Group 1 Series.
 “
 Required Overcollateralization Percentage
@@ -7132,6 +7533,8 @@ Series 2024-6 Concentration Limit
 Series 2024-6 Discount Rate
 ” means 9.96%.
 S-I-15
+
+[PAGE 202]
 “
 Series 2024-6 Eligible Receivable
 ” means each Receivable that satisfies the eligibility requirements set forth under “
@@ -7193,6 +7596,8 @@ Series Share
 Servicemembers Civil Relief Act
 ” means the U.S. Servicemembers Civil Relief Act, as amended.
 S-I-16
+
+[PAGE 203]
 “
 Servicer
 ” means Cellco, as servicer under the Transfer and Servicing Agreement.
@@ -7257,6 +7662,8 @@ Transaction Parties
 ” means, collectively, the Sponsor, the Depositor, the Servicer, the Marketing Agent, the Originators, the Trust, the Parent Support Provider, the Master Collateral Agent, the Indenture
         Trustee and the Owner Trustee.
 S-I-17
+
+[PAGE 204]
 “
 Transfer and Servicing Agreement
 ” means the Transfer and Servicing Agreement, dated as of the Initial Closing Date, among the Trust, the Depositor, and Cellco, as Servicer, Marketing Agent and Custodian,
@@ -7336,6 +7743,8 @@ U.S. Person
                 the meaning of Section 7701(a)(30) of the Code have authority to control all substantial decisions of the trust or (b) the trust was in existence on August 20, 1996 and is eligible to elect, and has made a
 [/TABLE_508]
 S-I-18
+
+[PAGE 205]
 [TABLE_509]
  |  | valid election, to be treated as a U.S. Person despite not meeting the requirements of clause (a).
 [/TABLE_509]
@@ -7407,6 +7816,8 @@ Verizon Communications
 Verizon Wireless
 ” means the wireless business of Verizon operated by Cellco and other subsidiaries of Verizon Communications, including the Originators, under the Verizon brand.
 S-I-19
+
+[PAGE 206]
 “
 Verizon Wireless Services
 ” means Verizon Wireless Services, LLC.
@@ -7417,6 +7828,8 @@ Written-Off Receivable
 WTNA
 ” means Wilmington Trust, National Association (formerly called M & T Bank, National Association).
 S-I-20
+
+[PAGE 207 | printed A-1]
 Annex A
 Static Pool Data – Master Trust Receivables
 This Annex A contains static pool information of the Master Trust Receivables organized by vintage year.  The information in
@@ -7511,6 +7924,8 @@ The following footnotes apply to the charts included in this Annex A:
               percentage of the aggregate Principal Balance.
 [/TABLE_534]
 A-1
+
+[PAGE 208 | printed A-2]
 Vintage Pool Origination Characteristics
 (1)
 [TABLE_535]
@@ -7547,6 +7962,8 @@ Percentage of Master Trust Receivables that are Business Device Payment Plan Agr
 ___________________
 See page A-1 for footnotes.
 A-2
+
+[PAGE 209 | printed A-3]
 Master Trust Receivable Static Pool Cumulative Loss History After Application of First Payment Filter By Percentage of
       Dollar Amount
 (11)(12)
@@ -7596,6 +8013,8 @@ Months Since Origination | Aggregate Principal Balance of Master Trust Receivabl
 ___________________
 See page A-1 for footnotes.
 A-3
+
+[PAGE 210 | printed A-4]
 Master Trust Receivable Static Pool Cumulative Loss History After Application of Second Payment Filter By Percentage of
       Dollar Amount
 (11)(13)
@@ -7645,6 +8064,8 @@ Months Since Origination | Aggregate Principal Balance of Master Trust Receivabl
 ___________________
 See page A-1 for footnotes.
 A-4
+
+[PAGE 211 | printed A-5]
 Master Trust Receivable Static Pool Cumulative Prepayment History By Percentage of Dollar Amount
 (15)
 [TABLE_538]
@@ -7693,6 +8114,8 @@ Months Since Origination | Aggregate Principal Balance of Master Trust Receivabl
 ___________________
 See page A-1 for footnotes.
 A-5
+
+[PAGE 212 | printed A-6]
 Master Trust Receivable Static Pool Cumulative Upgrade Prepayment History By Percentage of Dollar Amount
 (16)
 [TABLE_539]
@@ -7741,6 +8164,8 @@ Months Since Origination | Aggregate Principal Balance of Master Trust Receivabl
 ___________________
 See page A-1 for footnotes.
 A-6
+
+[PAGE 213 | printed A-7]
 Master Trust Receivable Static Pool Delinquency Categorization By Dollar Amount for Yearly Origination
         Pools
 (17)(18)
@@ -7778,6 +8203,8 @@ Months Since Origination |  |  |  |  |  |  |
 ___________________
 See page A-1 for footnotes.
 A-7
+
+[PAGE 214 | printed A-8]
 Master Trust Receivable Static Pool Delinquency Categorization By Dollar Amount for Yearly Origination
         Pools
 (17)(18)
@@ -7815,6 +8242,8 @@ Months Since Origination |  |  |  |  |  |  |
 ___________________
 See page A-1 for footnotes.
 A-8
+
+[PAGE 215 | printed A-9]
 Master Trust Receivable Static Pool Delinquency Categorization By Dollar Amount for Yearly Origination
         Pools
 (17)(18)
@@ -7864,6 +8293,8 @@ Months Since Origination |  |  |  |  |  |  |
 ___________________
 See page A-1 for footnotes.
 A-9
+
+[PAGE 216 | printed A-10]
 Master Trust Receivable Static Pool Delinquency Categorization By Dollar Amount for Yearly Origination
         Pools
 (17)(18)
@@ -7913,6 +8344,8 @@ Months Since Origination |  |  |  |  |  |  |
 ___________________
 See page A-1 for footnotes.
 A-10
+
+[PAGE 217 | printed A-11]
 Master Trust Receivable Static Pool Delinquency Categorization By Dollar Amount for Yearly Origination
         Pools
 (17)(18)
@@ -7962,6 +8395,8 @@ Months Since Origination |  |  |  |  |  |  |
 ___________________
 See page A-1 for footnotes.
 A-11
+
+[PAGE 218 | printed A-12]
 Master Trust Receivable Static Pool Delinquency Categorization By Dollar Amount for Yearly Origination
         Pools
 (17)(18)
@@ -8011,6 +8446,8 @@ Months Since Origination |  |  |  |  |  |  |
 ___________________
 See page A-1 for footnotes.
 A-12
+
+[PAGE 219]
 Annex B
 Other Group 1 Series Outstanding
 Loan Series 2021-A
@@ -8035,6 +8472,8 @@ Required Reserve/LC Amount: with respect to any date of determination (i) during
 Loan Series 2021-B Required Overcollateralization Percentage as of Renewal Date: 8.75%.
 Defined terms used on this Annex B with respect to Loan Series 2021-B and not otherwise defined on this Annex B have the definitions ascribed to them in the
       Loan Agreement for Loan Series 2021-B dated December 16, 2021, as amended.
+
+[PAGE 220]
 Series 2023-1 Asset Backed Notes
 Closing Date: January 26, 2023
 [TABLE_546]
@@ -8077,6 +8516,8 @@ Required Reserve Amount: with respect to any Payment Date (i) during the Revolvi
 Series 2023-3 Required Overcollateralization Percentage: 8.25%.
 Defined terms used on this Annex B with respect to the Series 2023-3 Asset Backed Notes and not otherwise defined on this Annex B have the definitions ascribed
       to them in the VZMT 2023-3 offering memorandum dated April 18, 2023.
+
+[PAGE 221]
 Series 2023-4 Asset Backed Notes
 Closing Date: June 30, 2023
 [TABLE_548]
@@ -8124,6 +8565,8 @@ Required Reserve Amount: with respect to any Payment Date (i) during the Revolvi
 Series 2023-5 Required Overcollateralization Percentage: 8.25%.
 Defined terms used on this Annex B with respect to the Series 2023-5 Asset Backed Notes and not otherwise defined on this Annex B have the definitions ascribed
       to them in the VZMT 2023-5 prospectus dated September 12, 2023.
+
+[PAGE 222]
 Series 2023-6 Asset Backed Notes
 Closing Date: September 20, 2023
 [TABLE_550]
@@ -8166,6 +8609,8 @@ Required Reserve Amount: with respect to any Payment Date (i) during the Revolvi
 Series 2023-7 Required Overcollateralization Percentage: 8.25%.
 Defined terms used on this Annex B with respect to the Series 2023-7 Asset Backed Notes and not otherwise defined on this Annex B have the definitions ascribed
       to them in the VZMT 2023-7 prospectus dated November 9, 2023.
+
+[PAGE 223]
 Series 2024-1 Asset Backed Notes
 Closing Date: January 18, 2024
 [TABLE_552]
@@ -8205,6 +8650,8 @@ Required Reserve Amount: with respect to any Payment Date (i) during the Revolvi
 Series 2024-2 Required Overcollateralization Percentage: 8.25%.
 Defined terms used on this Annex B with respect to the Series 2024-2 Asset Backed Notes and not otherwise defined on this Annex B have the definitions ascribed
       to them in the VZMT 2024-2 offering memorandum dated January 9, 2024.
+
+[PAGE 224]
 Series 2024-3 Asset Backed Notes
 Closing Date: April 23, 2024
 [TABLE_554]
@@ -8245,6 +8692,8 @@ Required Reserve Amount: with respect to any Payment Date (i) during the Revolvi
 Series 2024-4 Required Overcollateralization Percentage: 8.25%.
 Defined terms used on this Annex B with respect to the Series 2024-4 Asset Backed Notes and not otherwise defined on this Annex B have the definitions ascribed
       to them in the VZMT 2024-4 prospectus dated June 25, 2024.
+
+[PAGE 225]
 Series 2024-5 Asset Backed Notes
 Closing Date: June 28, 2024
 [TABLE_556]
@@ -8279,6 +8728,8 @@ Required Reserve Amount: with respect to any Payment Date (i) during the Revolvi
 Series 2024-7 Required Overcollateralization Percentage: 8.25%.
 Defined terms used on this Annex B with respect to the Series 2024-7 Asset Backed Notes and not otherwise defined on this Annex B have the definitions ascribed
       to them in the VZMT 2024-7 offering memorandum dated September 9, 2024.
+
+[PAGE 226]
 Series 2024-8 Asset Backed Notes
 Closing Date: November 26, 2024
 [TABLE_558]
@@ -8314,6 +8765,8 @@ Required Reserve Amount: with respect to any Payment Date (i) during the Revolvi
 Series 2025-1 Required Overcollateralization Percentage: 8.25%.
 Defined terms used on this Annex B with respect to the Series 2025-1 Asset Backed Notes and not otherwise defined on this Annex B have the definitions ascribed
       to them in the VZMT 2025-1 prospectus dated January 15, 2025.
+
+[PAGE 227]
 Series 2025-2 Asset Backed Notes
 Closing Date: January 22, 2025
 [TABLE_560]
@@ -8349,6 +8802,8 @@ Required Reserve Amount: with respect to any Payment Date (i) during the Revolvi
 Series 2025-3 Required Overcollateralization Percentage: 8.25%.
 Defined terms used on this Annex B with respect to the Series 2025-3 Asset Backed Notes and not otherwise defined on this Annex B have the definitions ascribed
       to them in the VZMT 2025-3 prospectus dated March 25, 2025.
+
+[PAGE 228]
 Series 2025-4 Asset Backed Notes
 Closing Date: March 31, 2025
 [TABLE_562]
@@ -8387,6 +8842,8 @@ Required Reserve Amount: with respect to any Payment Date (i) during the Revolvi
 Series 2025-5 Required Overcollateralization Percentage: 8.25%.
 Defined terms used on this Annex B with respect to the Series 2025-5 Asset Backed Notes and not otherwise defined on this Annex B have the definitions ascribed
       to them in the VZMT 2025-5 prospectus dated June 17, 2025.
+
+[PAGE 229]
 Series 2025-6 Asset Backed Notes
 Closing Date: June 24, 2025
 [TABLE_564]
@@ -8409,6 +8866,8 @@ Required Reserve Amount: with respect to any Payment Date (i) during the Revolvi
 Series 2025-6 Required Overcollateralization Percentage: 8.25%.
 Defined terms used on this Annex B with respect to the Series 2025-6 Asset Backed Notes and not otherwise defined on this Annex B have the definitions ascribed
       to them in the VZMT 2025-6 offering memorandum dated June 17, 2025.
+
+[PAGE 230]
 [TABLE_565]
 You should rely only on the information contained in or incorporated by reference into this prospectus.  We have not
                       authorized anyone to give you different information.  You should not rely on the accuracy of the information in this prospectus for any date other than as of the date stated on the front cover of this prospectus.  We are not offering

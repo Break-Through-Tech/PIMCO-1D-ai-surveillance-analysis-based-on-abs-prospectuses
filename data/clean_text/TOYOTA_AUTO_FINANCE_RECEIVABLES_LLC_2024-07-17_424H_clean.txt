@@ -1,3 +1,4 @@
+[PAGE 1]
 This document is subject to completion and amendment.  This prospectus is not an offer to sell these securities and it is not soliciting an offer to buy these securities in any
         state or foreign jurisdiction where the offer or sale is not permitted.
 Subject to Completion and Amendment, Dated July 17, 2024
@@ -85,6 +86,8 @@ MUFG | BMO Capital Markets | BofA Securities | Lloyds Securities
 ANZ Securities | ING | R. Seelaus & Co., LLC
 [/TABLE_13]
 The date of this prospectus is July ___, 2024
+
+[PAGE 2 | printed 2]
 TABLE OF CONTENTS
 Page
 [TABLE_14]
@@ -144,6 +147,8 @@ Priority of Payments | 121
 Payments After Occurrence of Event of Default Resulting in Acceleration | 121
 [/TABLE_14]
 2
+
+[PAGE 3 | printed 3]
 [TABLE_15]
 Credit and Cash Flow Enhancement | 122
 TRANSFER AND SERVICING AGREEMENTS | 125
@@ -201,6 +206,8 @@ ANNEX A:  GLOBAL CLEARANCE, SETTLEMENT AND TAX DOCUMENTATION PROCEDURES | A-1
 ANNEX B:  STATIC POOL INFORMATION | B-1
 [/TABLE_15]
 3
+
+[PAGE 4 | printed 4]
 IMPORTANT NOTICE ABOUT INFORMATION PRESENTED IN THIS PROSPECTUS
 Cross-references are included in this prospectus, which direct you to more detailed descriptions of a particular topic.  You can also find references to key topics in the table of contents beginning on page 2 of this
         prospectus.
@@ -229,6 +236,8 @@ THIS PROSPECTUS MAY ONLY BE COMMUNICATED OR CAUSED TO BE COMMUNICATED IN THE UNI
         NOTES ARE OR WILL BE AVAILABLE TO PERSONS IN THE UK WHO ARE NOT RELEVANT PERSONS AND THIS PROSPECTUS MUST NOT BE ACTED ON OR RELIED ON IN THE UK BY PERSONS WHO ARE NOT RELEVANT PERSONS. ANY INVESTMENT OR INVESTMENT ACTIVITY TO WHICH THIS PROSPECTUS
         RELATES, INCLUDING THE NOTES, IS AVAILABLE IN THE UK ONLY TO RELEVANT PERSONS AND WILL BE ENGAGED IN THE UK ONLY WITH RELEVANT PERSONS.  THE COMMUNICATION OF THIS PROSPECTUS TO ANY PERSON IN THE UK WHO IS NOT
 4
+
+[PAGE 5 | printed 5]
 A RELEVANT PERSON IS UNAUTHORIZED AND MAY CONTRAVENE THE FINANCIAL SERVICES AND MARKETS ACT 2000 (AS AMENDED, THE “FSMA”).
 THE NOTES ARE NOT INTENDED TO BE OFFERED, SOLD OR OTHERWISE MADE AVAILABLE TO AND SHOULD NOT BE OFFERED, SOLD OR OTHERWISE MADE AVAILABLE TO ANY UK RETAIL INVESTOR IN THE UK. FOR THESE PURPOSES, THE EXPRESSION “UK
         RETAIL INVESTOR” MEANS A PERSON WHO IS ONE (OR MORE) OF THE FOLLOWING: (I) A RETAIL CLIENT AS DEFINED IN POINT (8) OF ARTICLE 2 OF COMMISSION DELEGATED REGULATION (EU) 2017/565, AS IT FORMS PART OF THE DOMESTIC LAW OF THE UK BY VIRTUE OF THE
@@ -246,11 +255,15 @@ THE NOTES ARE NOT INTENDED TO BE OFFERED, SOLD OR OTHERWISE MADE AVAILABLE TO AN
         THE EUROPEAN ECONOMIC AREA HAS BEEN PREPARED AND THEREFORE OFFERING OR SELLING THE NOTES OR OTHERWISE MAKING THEM AVAILABLE TO ANY EU RETAIL INVESTOR IN THE EUROPEAN ECONOMIC AREA MAY BE UNLAWFUL UNDER THE EU PRIIPS REGULATION.
 THIS PROSPECTUS IS NOT A PROSPECTUS FOR THE PURPOSES OF THE EU PROSPECTUS REGULATION.
 5
+
+[PAGE 6 | printed 6]
 SUMMARY OF PARTIES TO THE TRANSACTION
 This chart provides only a simplified overview of the relationships between the key parties to the transaction.  For additional information, you should refer to this prospectus.  On the closing date, the Class B Notes
         and approximately, but not less than, 5% (by aggregate initial principal amount) of each of the Class A-1 Notes, the Class A-2a Notes, the Class A-2b Notes, the Class A-3 Notes and the Class A-4 Notes will be retained initially by Toyota Auto
         Finance Receivables LLC. The Class B Notes are not being publicly registered and are not offered hereby.
 6
+
+[PAGE 7 | printed 7]
 SUMMARY OF MONTHLY DISTRIBUTIONS OF COLLECTIONS
 This chart provides only a simplified overview of the monthly distributions of available collections. For additional information, see “
 Payments to Noteholders—Calculation of Available
@@ -259,6 +272,8 @@ Payments to Noteholders—Calculation of Available
 —Priority of Payments
 ” in this prospectus.
 7
+
+[PAGE 8 | printed 8]
 SUMMARY OF TERMS
 The following information highlights selected information from this document and provides a general overview of the terms of the notes.  To understand all of the terms of the offering of these
         notes, you should read carefully this entire document, including any documents incorporated by reference herein, before making your investment decision.
@@ -284,6 +299,8 @@ Administration Agreement |  | The administration agreement among the administrat
 Asset Representations Review Agreement |  | The asset representations review agreement among the asset representations reviewer, the issuing entity, the servicer and the administrator.  The asset representations review agreement governs the
 [/TABLE_16]
 8
+
+[PAGE 9 | printed 9]
 [TABLE_17]
  |  | performance by the asset representations reviewer of asset representations reviews.
 Relevant Dates |  | 
@@ -306,6 +323,8 @@ Description of the Notes |  | The class A-1 notes, the class A-2a notes, the cla
                 if the aggregate initial principal amount of the notes is $1,350,000,000, the aggregate initial principal amount of the class A-2b notes will not exceed $356,625,000 and if the aggregate initial
 [/TABLE_17]
 9
+
+[PAGE 10 | printed 10]
 [TABLE_18]
  |  | principal amount of the notes is $1,750,000,000, the aggregate initial principal amount of the class A-2b notes will not exceed $462,000,000. TMCC will make the determination regarding the aggregate initial principal amount of the notes based on, among other considerations, market conditions at the time of pricing. See “ Risk Factors—Risks
                   Primarily Related to the Nature of the Notes and the Structure of the Transaction—Risks associated with unknown aggregate initial principal amount of the notes .” All of the notes issued by the issuing entity will be secured by the assets of the issuing entity pursuant to the indenture and by funds on deposit in the accounts of the issuing entity.
@@ -327,6 +346,8 @@ U.S. Credit Risk Retention |  | The risk retention regulations in Regulation RR 
                 will be retained initially by the depositor. The depositor
 [/TABLE_18]
 10
+
+[PAGE 11 | printed 11]
 [TABLE_19]
  |  | is a wholly-owned subsidiary of TMCC and will initially retain the U.S. retained interest.  The sponsor will agree that it will not, and will cause the depositor and each affiliate of the sponsor not to, sell, transfer, finance or hedge
                 the U.S. retained interest, except to the extent permitted by Regulation RR. Any notes which are retained initially by the depositor, and which are not required to be retained by the sponsor, directly or indirectly, as a part of the U.S. retained interest will not be subject to the limitations on sale, transfer,
@@ -340,6 +361,8 @@ EU Securitization Regulation and UK Securitization Regulation |  | None of TMCC,
                 imposition of a penalty regulatory capital charge on that investment or other regulatory sanctions and/or remedial measures being taken or imposed by such investor’s competent authority. Prospective investors are responsible for analyzing their own legal and regulatory position and are encouraged to consult with their own
 [/TABLE_19]
 11
+
+[PAGE 12 | printed 12]
 [TABLE_20]
  |  | investment and legal advisors regarding the suitability of the notes for investment and the scope, applicability and compliance requirements of the EU Securitization Regulation, the UK Securitization Regulation and any other existing or
                 future similar regimes in any relevant jurisdictions. For more information regarding the EU Securitization Regulation and the UK Securitization Regulation, see “ Risk Factors—The notes may not be suitable investments for investors subject to the EU
@@ -362,6 +385,8 @@ Assets of the Issuing Entity; the Receivables and Statistical Information |  | T
  | Range of Original Amounts Financed | $2,833.45 - $109,737.07
 [/TABLE_21]
 12
+
+[PAGE 13 | printed 13]
 [TABLE_22]
  | Weighted Average Annual Percentage Rate (“APR”) (1) | 6.05%
  | Range of APRs | 0.00% - 22.26%
@@ -401,6 +426,8 @@ Assets of the Issuing Entity; the Receivables and Statistical Information |  | T
                   Administrator and Servicer—Underwriting of Motor Vehicle Retail Installment Sales Contracts ” in this prospectus.
 [/TABLE_25]
 13
+
+[PAGE 14 | printed 14]
 [TABLE_26]
  |  | The receivables must satisfy the eligibility criteria specified in the transaction documents.  For additional information regarding the eligibility criteria for receivables being acquired by the issuing entity, you should refer to “ The Receivables ” in this prospectus.
  |  | The assets of the issuing entity will also include:
@@ -421,6 +448,8 @@ Review of Pool Assets |  | In connection with the offering of the notes, the dep
                 automatically by TMCC’s electronic credit decision system or was accepted following review by a TMCC credit analyst was not indicative of the related receivable’s quality.
 [/TABLE_26]
 14
+
+[PAGE 15 | printed 15]
 [TABLE_27]
 Asset Representations Review |  | The asset representations reviewer will perform a review of certain of the receivables for compliance with the representations made about the receivables if:
  |  | • | a delinquency trigger for the receivables is reached; and
@@ -441,6 +470,8 @@ Asset Representations Reviewer Fees and Expenses |  | The issuing entity will pa
                 representations reviewer a fee equal to $200 for each receivable reviewed by it.
 [/TABLE_27]
 15
+
+[PAGE 16 | printed 16]
 [TABLE_28]
  |  | For additional information regarding fees, expenses and indemnification amounts reimbursable or payable to the asset representations reviewer, you should refer to “ Fees and Expenses ” in this
                 prospectus.
@@ -464,6 +495,8 @@ Interest and Principal Payments |  | Interest Rates
                 receive all interest owed on their notes on any payment date, the issuing entity will make payments of interest on later payment dates to make up the shortfall (together with interest on such amounts at
 [/TABLE_28]
 16
+
+[PAGE 17 | printed 17]
 [TABLE_29]
  |  | the applicable interest rate for such class, to the extent permitted by law) to the extent funds are available to do so pursuant to the payment priorities described in this prospectus. The class A notes will be the “controlling class”
                 under the indenture while any class A notes are outstanding.  After the class A notes have been paid in full, the class B notes will be the controlling class.
@@ -487,6 +520,8 @@ Interest and Principal Payments |  | Interest Rates
                 the extent not previously retained by the servicer) from available collections received during the related collection period (and, if applicable, amounts withdrawn from the reserve account):
 [/TABLE_29]
 17
+
+[PAGE 18 | printed 18]
 [TABLE_30]
  |  | 1. | Servicing Fee –– to the servicer, the servicing fee;
  |  | 2. | Transaction Fees and Expenses — to the indenture trustee, the owner trustee and the asset representations reviewer, the amount of any fees, expenses and indemnification amounts due to each such
@@ -509,6 +544,8 @@ Interest and Principal Payments |  | Interest Rates
  |  | 7. | Reserve Account Deposit –– to the reserve account, to the extent amounts then on deposit in the reserve account are less than the specified reserve account balance described below under “ —Credit Enhancement—Reserve Account, ” until the amount on deposit in the reserve account equals such specified reserve account balance;
 [/TABLE_30]
 18
+
+[PAGE 19 | printed 19]
 [TABLE_31]
  |  | 8. | Note Principal –– to the noteholders, to be paid in the priority described under “ —Principal Payments ” above, the regular principal distribution amount;
  |  | the “regular principal distribution amount” means, with respect to any payment date, an amount equal to (a) the excess, if any, of (i) the aggregate outstanding principal amount of the notes as of such payment date (before giving effect
@@ -530,6 +567,8 @@ Interest and Principal Payments |  | Interest Rates
  |  | 6. | Class B Note Principal –– to the class B noteholders, until the principal amount of the class B notes is reduced to zero; and
 [/TABLE_31]
 19
+
+[PAGE 20 | printed 20]
 [TABLE_32]
  |  | 7. | Excess Amounts –– to the certificateholder, any remaining amounts.
  |  | Following the occurrence of an event of default under the indenture that results in the acceleration of the maturity of the notes, amounts on deposit in the reserve account will be withdrawn and used to the extent necessary to pay
@@ -549,6 +588,8 @@ Events of Default |  | Each of the following will constitute an event of default
                 acceleration of the notes and the principal of the notes to be immediately due and payable. For additional information regarding the events of default, you should refer to “ Description of the Notes—Indenture—Events of Default; Rights Upon Event of Default ” in this prospectus.
 [/TABLE_32]
 20
+
+[PAGE 21 | printed 21]
 [TABLE_33]
 Credit Enhancement |  | Credit enhancement is intended to protect you against losses and delays in payments on your notes.  If losses on the receivables and other shortfalls in cash flows exceed the amount of available credit enhancement, such losses will not
                 be allocated to write down the principal amount of any class of notes. Instead, the amount available to make payments on the notes will be reduced to the extent of such losses.  The credit enhancement for the notes is:
@@ -573,6 +614,8 @@ Credit Enhancement |  | Credit enhancement is intended to protect you against lo
                 depositor.  The “specified reserve account balance” is, on any payment date, the lesser of (a) the amount deposited into the reserve account on the closing date and (b) the aggregate outstanding
 [/TABLE_33]
 21
+
+[PAGE 22 | printed 22]
 [TABLE_34]
  |  | principal amount of the notes after giving effect to all payments of principal on that payment date.  In addition, on any payment date prior to an event of default that results in an acceleration of the maturity of the notes, net
                 investment earnings on the amounts on deposit in the reserve account will be distributed to the depositor.
@@ -592,6 +635,8 @@ Credit Enhancement |  | Credit enhancement is intended to protect you against lo
                 No payments of principal will be made on the class B notes until the principal of and interest on the class A notes has been paid in full.
 [/TABLE_34]
 22
+
+[PAGE 23 | printed 23]
 [TABLE_35]
  |  | If an event of default that results in the acceleration of payment of the notes occurs, no payments of interest or principal will be made on the class B notes until the class A notes are paid in full. Consequently, the holders of the
                 class B notes will incur losses and shortfalls because of delinquencies and losses on the receivables before the holders of the class A notes incur those losses and shortfalls. While any class A notes are outstanding, the failure to pay interest on the class B notes will not be an event of default. For additional information, you should refer to “ Payments to Noteholders—Credit and Cash Flow Enhancement—Subordination of Principal and Interest ” in this prospectus .
@@ -609,6 +654,8 @@ Removal of Pool Assets |  | Breaches of Representations and Warranties .  Upon s
  |  | For additional information, you should refer to “ Repurchases of Receivables ” in this prospectus.
 [/TABLE_35]
 23
+
+[PAGE 24 | printed 24]
 [TABLE_36]
  |  | Breach of Servicer Covenants .  The servicer will be required to purchase any receivable with respect to which specified servicing covenants made by the servicer under the sale and servicing
                 agreement are breached and are not cured in all material respects.
@@ -632,6 +679,8 @@ Certain Investment Company Act Considerations |  | The issuing entity will be re
                 amended, although there may be additional
 [/TABLE_38]
 24
+
+[PAGE 25 | printed 25]
 [TABLE_39]
  |  | exclusions or exemptions available to the issuing entity. The issuing entity is being structured so as not to constitute a “covered fund” for purposes of the regulations adopted to implement Section 619 of the Dodd-Frank Wall Street
                 Reform and Consumer Protection Act.
@@ -640,6 +689,8 @@ Eligibility for Purchase by Money Market Funds |  | The class A-1 notes have bee
                 investment in the class A-1 notes satisfies the fund’s investment policies, ratings requirements and objectives.
 [/TABLE_39]
 25
+
+[PAGE 26 | printed 26]
 SUMMARY OF RISK FACTORS
 The following summary is a concise description of certain of the material risk factors that you should consider in making your decision to purchase any notes.  This summary does not purport to summarize all of the
         risks that you should consider in making your decision to purchase any notes.  You should carefully read the risks factors set forth under “Risk Factors,” as well as the other information contained in this prospectus.
@@ -704,6 +755,8 @@ The notes are subject to certain risks related to the receivables and economic c
  | • | geographic concentrations of the receivables and extreme weather conditions, public health concerns, natural disasters and other similar events in specific geographic areas.
 [/TABLE_55]
 26
+
+[PAGE 27 | printed 27]
 Risks primarily related to legal and regulatory matters.
 The notes are subject to certain risks related to legal and regulatory matters, which could lead to payment delays, shortfalls in payments or losses on your notes, including due to factors such as, but not limited to:
 [TABLE_56]
@@ -765,6 +818,8 @@ The notes are subject to certain general risks applicable to transactions of thi
  | • | limitations on your ability to exercise rights directly, due to the absence of physical notes, and potential delays in receiving payments as the result of the notes being held in book-entry form.
 [/TABLE_72]
 27
+
+[PAGE 28 | printed 28]
 RISK FACTORS
 You should consider the following risk factors in deciding whether to purchase any notes.
 Risks Primarily Related to the Nature of the Notes and the Structure of the Transaction
@@ -805,6 +860,8 @@ Whether the issuing entity will issue notes with an aggregate initial principal 
         regarding the aggregate initial principal amount of the notes based on, among other considerations, market conditions at the time of pricing.  The size of a class of notes may affect liquidity of that class, with smaller classes being less liquid
         than larger classes.  In addition, if your class of notes is larger than you expected, then you will hold a smaller percentage of that class of notes and the voting power of your notes will be diluted.
 28
+
+[PAGE 29 | printed 29]
 Failure to pay principal on your notes will not constitute an event of default until maturity.
 The amount of principal required to be paid to the noteholders will generally be limited to amounts available in the collection account (including amounts transferred to the collection account from the reserve
         account).  Therefore, the failure to pay principal of your notes generally will not result in the occurrence of an event of default until the final scheduled payment date for your notes.  For additional information, you should refer to “
@@ -841,6 +898,8 @@ Some prepayments may be caused by the sponsor, the depositor or the servicer.  F
         to take or refrain from taking certain actions with respect to the receivables.  If the sponsor or the depositor breaches any such representation or warranty, or if the servicer breaches any such agreement, and such breach is material and cannot be
         remedied, the breaching party will be required to purchase the affected receivables from the issuing entity.
 29
+
+[PAGE 30 | printed 30]
 This will result, in effect, in the prepayment of the purchased receivables.  The servicer will also have the option to purchase the receivables from the issuing entity on or after the payment date when the aggregate outstanding principal
         balance of the receivables has declined to 5% or less of the aggregate principal balance of the receivables as of the cutoff date.  In addition, an event of default under the indenture could cause your notes to be prepaid.
 Additionally, under its current servicing practices, the servicer will modify the terms of any receivable impacted by the Servicemembers Civil Relief Act, as amended, and will be obligated to purchase any such modified
@@ -871,6 +930,8 @@ The EU Securitization Regulation places certain conditions on investments in a �
 The UK Securitization Regulation places certain conditions on investments in a “securitisation” (as defined in such regulation) (the “UK Due Diligence Requirements”) by certain types of UK-regulated investors,
         including insurance undertakings, reinsurance undertakings, occupational pension schemes, fund managers of such schemes, alternative investment fund managers that market or manage alternative investment funds in the UK, UCITS, UCITS
 30
+
+[PAGE 31 | printed 31]
 management companies, credit institutions and investment firms, each as described in more detail in the UK Securitization Regulation. The UK Due Diligence Requirements also apply to investments by certain consolidated affiliates, wherever
         established or located, of certain UK-regulated credit institutions and investment firms (such affiliates, together with all institutional investors referred to in this paragraph, “UK Affected Investors”).
 Among other things, the EU Due Diligence Requirements and the UK Due Diligence Requirements provide that, prior to investing in a securitisation, an EU Affected Investor or a UK Affected Investor, as applicable, is
@@ -900,6 +961,8 @@ The issuing entity will make payments on the class A-2b notes out of payments re
         dedicated to the class A-2b notes.  Therefore, an increase in the benchmark rate would increase the amount due as interest payments on the class A-2b notes without any corresponding increase in the amount of interest due on the receivables or any
         additional source of funds that provide a source of payment for those increased interest payments.
 31
+
+[PAGE 32 | printed 32]
 If the floating rate payable by the issuing entity in respect of the class A-2b notes increases to the point where the amount of interest and principal due on the notes, together with other fees and expenses payable by
         the issuing entity, exceeds the amount of collections and other funds available to the issuing entity to make such payments, the issuing entity may not have sufficient funds to make payments on the notes, including the class A-2b notes.  If the
         issuing entity does not have sufficient funds to make such payments, you may experience delays or reductions in the interest and principal payments on your notes.
@@ -933,6 +996,8 @@ Description of the Notes—Payments of Interest
 ”), generally are not expected to be as volatile as changes in the daily levels of SOFR, the return on and value of the Class A-2b notes may
         fluctuate more than floating rate debt securities that are linked to less volatile
 32
+
+[PAGE 33 | printed 33]
 rates.  As a result, there can be no assurance that SOFR will perform in the same way as LIBOR would have at any time, including, without limitation, as a result of changes in interest and yield rates in the market, market volatility or global
         or regional economic, financial, political, regulatory, judicial or other events.
 Any failure of SOFR to gain market acceptance could adversely affect the class A-2b notes.
@@ -966,6 +1031,8 @@ The determination of a benchmark replacement, the calculation of the interest ra
 TMCC, as administrator, will have significant discretion with respect to certain elements of the related benchmark replacement process, including determining whether a benchmark transition event and its related
         benchmark replacement date have occurred, determining which related benchmark replacement is available,
 33
+
+[PAGE 34 | printed 34]
 determining the earliest practicable determination date for using the related benchmark replacement, determining related benchmark replacement adjustments (if not otherwise determined by the applicable governing bodies or authorities) and making
         related benchmark replacement conforming changes (including potential changes affecting the business day convention and determination date).  Holders of class A-2b notes will not have any right to approve or disapprove of these changes and will be
         deemed to have agreed to waive and release any and all claims relating to any such determinations.  If TMCC, as administrator, determines in its sole discretion that an alternative index is not administratively feasible, including as a result of
@@ -994,6 +1061,8 @@ As the allocated initial principal amount of the class A-2b notes is increased (
 Because the aggregate initial principal amount of class A-2a notes and the class A-2b notes is fixed as set forth on the front cover of this prospectus, the division of the aggregate initial principal amount between
         the class A-2a notes and the class A-2b notes may result in one of such classes either being issued in only a very small initial principal amount, which may reduce the liquidity of such class of notes, or not being issued at all.
 34
+
+[PAGE 35 | printed 35]
 Risks Primarily Related to the Receivables and Economic Conditions
 Economic developments, geopolitical conditions and other market events may adversely affect the liquidity, performance and market value of your notes.
 The United States has in the past experienced, and may in the future experience, a recession or period of economic contraction.  A deterioration in economic conditions, including elevated unemployment, decreases in
@@ -1027,6 +1096,8 @@ The market for used Toyota or Lexus vehicles could be adversely affected by fact
         regulation (including, for example, recent rules adopted by the Environmental Protection Agency and states such as California regarding vehicle emissions), trade policies, fluctuations in interest rates, decreased or delayed new vehicle production,
         shortage of parts, components or raw materials, extreme weather conditions,
 35
+
+[PAGE 36 | printed 36]
 natural disasters, supply chain or logistic network interruptions or other events and economic conditions generally. Any such adverse change could result in reduced proceeds upon the liquidation or other disposition
         of financed vehicles, and therefore could result in reduced proceeds on defaulted receivables.  If losses on the receivables exceed the credit enhancement available, you may suffer a loss on your investment.
 Discount pricing incentives or other marketing incentive programs on new vehicles by Toyota Motor North America, Inc., TMCC or any of their competitors that effectively reduce the
@@ -1064,6 +1135,8 @@ or
 may decrease.  A decrease in the level of sales, including as a result of the actual or perceived quality, safety or reliability of Toyota and Lexus vehicles, or a change in standards of regulatory
         bodies, will have a negative
 36
+
+[PAGE 37 | printed 37]
 impact on the level of TMCC’s financing volume, voluntary protection products volume, earnings assets and revenues.  The credit performance of TMCC’s dealer and consumer lending portfolios may also be adversely affected.
 In addition, as a result of any recalls, obligors of related receivables may be more likely to be delinquent in or default on payments on their receivables.
 If any of these events materially affect collections on the
@@ -1100,6 +1173,8 @@ There can be no assurance that the value of any financed vehicle will be greater
         during these earlier years are likely to result in losses because the proceeds of repossession are less likely to pay the full amount of interest and principal owed on the receivable.  The frequency and amount of losses may be greater for
         receivables with longer terms, because these receivables tend to have a somewhat greater frequency of delinquencies and defaults and because the slower rate of amortization of the principal balance of a longer term
 37
+
+[PAGE 38 | printed 38]
 receivable may result in a longer period during which the value of the financed vehicle is less than the remaining principal balance of the receivable.  See the tables describing the composition of the receivables under the heading “
 The Receivables
 ” in this prospectus for the percentage of the aggregate principal balance of the receivables as of the cutoff date consisting of receivables with original scheduled payments greater than 60
@@ -1137,6 +1212,8 @@ As a provider of finance and voluntary protection products and services, TMCC op
         addition, TMCC is subject to governmental and regulatory examinations, information gathering requests, and investigations from time to time at the state and federal levels.  Compliance with applicable law is costly and can affect TMCC’s results of
         operations.  Compliance requires forms, processes, procedures, controls and the infrastructure to support these requirements.  Compliance may create operational constraints and place limits on
 38
+
+[PAGE 39 | printed 39]
 pricing, as the laws and regulations in the financial services industry are designed primarily for the protection of consumers.  Changes in laws and regulations could restrict TMCC’s ability to operate its business as currently operated, could
         impose substantial additional costs or require it to implement new processes, which could adversely affect TMCC’s business, prospects, financial performance or financial condition.  The failure to comply with applicable laws and regulations could
         result in significant statutory civil and criminal fines, penalties, monetary damages, attorney or legal fees and costs, restrictions on TMCC’s ability to operate its business, possible revocation of licenses and damage to TMCC’s reputation, brand
@@ -1167,6 +1244,8 @@ In addition, on May 6, 2024, the CFPB filed a separate complaint against the Nat
         and $1.75 million in penalties, respectively; to pay an additional $3 million in redress to affected borrowers, to be allocated by agreement between PHEAA and the NCSL Trusts; and to correct outstanding requests by borrowers.  The proposed orders
         would also require the NCSL Trusts
 39
+
+[PAGE 40 | printed 40]
 to modify their servicing guidelines to address the CFPB’s allegations.  On June 21, 2024, Pacific Investment Management Company LLC filed a proposed objection to the proposed consent orders and a motion to intervene.
 The CFPB, state attorneys general and state regulators, who have the independent authority to enforce the Dodd-Frank Act, may rely on these cases as precedent in investigating and bringing enforcement actions against
         other trusts and securitization vehicles, including the issuing entity, in the future.
@@ -1201,6 +1280,8 @@ If the Federal Deposit Insurance Corporation, or the “FDIC,” were appointed 
 Certain Legal Aspects of the Receivables—Dodd-Frank Act Orderly Liquidation Authority Provisions
 ” in this prospectus.
 40
+
+[PAGE 41 | printed 41]
 No assurances can be given that the liquidation framework for the resolution of “covered financial companies” would not apply to TMCC or its affiliates, including the depositor and the issuing entity.  For additional
         information, you should refer to “
 Certain Legal Aspects of the Receivables—Dodd-Frank Act Orderly Liquidation Authority Provisions—Potential Applicability to TMCC, the Depositor and the Issuing Entity
@@ -1234,6 +1315,8 @@ If a servicer default occurs, either the indenture trustee or the holders of not
         receives each month will be reduced as the size of the pool decreases over time.  At some point, if the need arises to obtain a successor servicer, the fee that such successor servicer would earn might not be sufficient to induce a potential
         successor servicer to agree to service the remaining receivables in the pool, which could result in increased delinquencies and/or defaults on the receivables.
 41
+
+[PAGE 42 | printed 42]
 There may be potential adverse effects of credit ratings-related matters on the servicer, which could have an adverse effect on your notes.
 Several credit rating agencies rate the long-term corporate credit and/or debt of TMCC and its affiliates.  The credit ratings of TMCC depend, in large part, on the existence of the credit support arrangements with
         Toyota Financial Services Corporation and Toyota Motor Corporation and on the financial condition and results of operations of Toyota Motor Corporation.  If these arrangements (or replacement arrangements acceptable to the applicable rating
@@ -1261,6 +1344,8 @@ From time to time, TMCC is also subjected to cyber-attacks that result in slow p
         actors, organized crime, perpetrators of fraud, terrorists, and others.  In addition, TMCC may have increased cyber-security risks and increased vulnerability to security breaches and other information technology disruptions as a result of
         increased remote or hybrid work arrangements. TMCC may not be able to anticipate or implement effective preventative measures against all security breaches of these types, especially because the
 42
+
+[PAGE 43 | printed 43]
 techniques used change frequently and because attacks can originate from a wide variety of sources.  The occurrence of any of these events could have a material adverse effect on TMCC’s business, results of operations and financial condition,
         could adversely affect TMCC’s ability to service the receivables and perform its other obligations under the transaction agreements, and could have an adverse effect on your notes.
 TMCC’s enterprise data practices, including the collection, use, sharing, and security of personal and financial information of TMCC’s customers, employees, and third-party individuals, are subject
@@ -1288,6 +1373,8 @@ TMCC relies on its own information systems and third-party information systems t
         implementation related difficulties may contribute to higher delinquencies.  It is not possible to predict with any degree of certainty all of the potential adverse consequences that may be experienced, and there can also be no assurance that any
         such disruptions in servicing activities will not adversely affect TMCC’s ability to service the receivables, which could have an adverse effect on your notes.
 43
+
+[PAGE 44 | printed 44]
 Risks Primarily Related to Bankruptcy and Insolvency of Transaction Parties and Perfection of Security Interests
 The bankruptcy of TMCC or the depositor could result in losses or delays in payments on your notes.
 If TMCC or the depositor were to become subject to bankruptcy proceedings, you could experience losses or delays in the payments on your notes.  TMCC will sell the receivables to the depositor, and the depositor will
@@ -1331,6 +1418,8 @@ Certain Legal Aspects of
 Repurchases of Receivables
 ” in this prospectus.
 44
+
+[PAGE 45 | printed 45]
 If the servicer does not maintain control of the receivables evidenced by electronic contracts, the issuing entity may not have a perfected interest in those receivables.
 As described in “
 The Sponsor, Administrator and Servicer—Electronic Contracts and Electronic Contracting
@@ -1363,6 +1452,8 @@ The notes are not a suitable investment for any investor that requires a regular
         sophisticated investors.  We suggest that only investors who, either alone or with their financial, tax and legal advisors, have the expertise to analyze the prepayment, reinvestment and default risks, the tax consequences of an investment and the
         interaction of these factors should consider investing in the notes.
 45
+
+[PAGE 46 | printed 46]
 The absence of a secondary market for the notes or a lack of liquidity in the secondary markets could limit your ability to resell the notes or adversely affect the market value of your notes.
 The notes will not be listed on any securities exchange. Therefore, to sell your notes, you must first locate a willing purchaser. The underwriters may, but are not obligated to, provide a secondary market for the
         notes and even if the underwriters make a market in the notes, the underwriters may stop making offers at any time.  In addition, the prices offered, if any, may not reflect prices that other potential purchasers would be willing to pay, were they
@@ -1392,6 +1483,8 @@ The depositor expects that the class A notes will receive ratings from two natio
         unsolicited rating on the notes, there can be no assurance that such rating will not be lower than the ratings provided by the hired rating agencies, which could adversely affect the market value of your notes and/or limit your ability to resell
         your notes.  In addition, if the sponsor fails to make available to the non-hired NRSROs any information provided to any hired rating agency for the purpose of assigning or monitoring the ratings on the notes, a hired rating
 46
+
+[PAGE 47 | printed 47]
 agency could withdraw its ratings on the notes, which could adversely affect the market value of your notes and/or limit your ability to resell your notes.  Furthermore, Congress or the Securities and Exchange Commission may determine that any
         NRSRO that assigns ratings to the notes no longer qualifies as a nationally recognized statistical rating organization for purposes of the federal securities laws and that determination may also have an adverse effect on the market price of the
         notes.  Potential investors in the notes are urged to make their own evaluation of the creditworthiness of the receivables and the credit enhancement on the notes, and not to rely solely on the ratings on the notes.
@@ -1417,6 +1510,8 @@ Description of the Notes—Book-Entry Registration
         issuing entity to the accounts of its participants which, in turn, will credit those amounts to noteholders either directly or indirectly through indirect participants. This process may delay your receipt of principal and interest payments from the
         issuing entity.
 47
+
+[PAGE 48 | printed 48]
 THE ISSUING ENTITY
 The Toyota Auto Receivables 2024-C Owner Trust (the “Issuing Entity”) is a Delaware statutory trust formed pursuant to the trust agreement, as amended and restated (the “Trust Agreement”), between Toyota Auto Finance
         Receivables LLC, as depositor (“TAFR LLC” or the “Depositor”), and Wilmington Trust, National Association, as owner trustee (in such capacity, the “Owner Trustee”), and the filing of a certificate of trust with the Secretary of State of the State
@@ -1460,6 +1555,8 @@ making distributions on the Notes and the Certificate and to the Depositor, the 
 engaging in those other activities, including entering into agreements, that are necessary, suitable or convenient to
         accomplish the foregoing or are incidental thereto or connected therewith;
 48
+
+[PAGE 49 | printed 49]
 (v)
 subject to compliance with the Transfer and Servicing Agreements, engaging in such other activities as may be required
         in connection with conservation of the Trust Estate; and
@@ -1496,6 +1593,8 @@ Transfer and Servicing Agreements––Servicing Compensation and Payment of Exp
 ––Administration Agreement
 ” in this prospectus.
 49
+
+[PAGE 50 | printed 50]
 Pursuant to agreements between TMCC and authorized Toyota and Lexus vehicle dealers or dealer groups and, to a lesser extent, other domestic and import franchise dealers (collectively, the “Dealers”), each Dealer will
         be obligated to repurchase from TMCC those contracts that do not meet certain representations and warranties made by the Dealer when sold by the Dealer.  These Dealer repurchase obligations are referred to in this prospectus as “Dealer Recourse.” 
         Although the Dealer agreements with respect to the Receivables will not be assigned to the Issuing Entity, the Sale and Servicing Agreement will require that any recovery by TMCC in respect of any Receivable pursuant to any Dealer Recourse be
@@ -1530,6 +1629,8 @@ cars, crossover
         Notes (the “Closing Date”), TMCC will sell the Receivables to the Depositor pursuant to the Receivables Purchase Agreement.  The Depositor will, in turn, sell the Receivables to the Issuing Entity pursuant to the Sale and Servicing Agreement.  For
         so long as the Notes are outstanding, neither the Depositor nor TMCC may substitute any other retail installment sales contract for any Receivable sold to the Issuing Entity.
 50
+
+[PAGE 51 | printed 51]
 If the aggregate initial principal amount of the Notes is $1,350,000,000, the following table illustrates the capitalization of the Issuing Entity as of the Closing Date, as if the issuance and sale of the Notes and
         the Certificate had taken place on such date:
 [TABLE_76]
@@ -1585,6 +1686,8 @@ The Depositor was organized primarily for the purpose of acquiring installment s
         to the Receivables to issuing entities, causing the issuance of securities similar to the Notes and the Certificate and engaging in related transactions.  Initially, the Depositor will also own the Certificate issued by the Issuing Entity.  The
         Depositor’s limited liability company agreement limits its activities to the purposes indicated above and to any activities incidental to and necessary for such purposes (including repurchase obligations with respect to Warranty
 51
+
+[PAGE 52 | printed 52]
 Receivables).  Other than the obligation to obtain the consent of the Certificateholder with respect to amendments to the Trust Agreement or other consent rights given to the holder of the residual interest in the Issuing Entity, the Depositor
         will have no ongoing duties with respect to the Issuing Entity.
 The limited liability company agreement of the Depositor includes requirements for independent managers, extensive corporate separateness covenants and restrictions on its permitted corporate functions (including on
@@ -1615,6 +1718,8 @@ The dealer service functions in the regional Experience Centers acquire retail a
 The customer service functions in the regional experience centers support customer account servicing functions such as collections, lease terminations, and administration of both retail and lease contract customer
         accounts.  The Central region Experience Center also supports voluntary protection operations by providing contract and claims administrative services.
 52
+
+[PAGE 53 | printed 53]
 In the fiscal year ended March 31, 2021, TMCC began providing private label financial services to third-party automotive and mobility companies commencing with the provision of services to Mazda Motor of America, Inc.
         (“Mazda”).  TMCC currently offers exclusive private label automotive retail, lease, voluntary protection products and dealer financing products and services marketed under the brands Mazda Financial Services and Mazda Protection Products to Mazda
         customers and dealers in the U.S.A.
@@ -1653,6 +1758,8 @@ TMCC matches interest rates with customer risk as defined by credit bureau score
 Dealers transmit customer credit applications electronically through TMCC’s online system for credit acquisition.  The customer may submit a credit application directly to TMCC’s website, in which case, the credit
         application is sent to the Dealer of the customer’s choice and is considered by TMCC for preapproval.  Upon receipt of the credit application, TMCC’s loan origination system automatically requests a credit bureau report from one of
 53
+
+[PAGE 54 | printed 54]
 the major credit bureaus.  TMCC uses a proprietary credit scoring system to evaluate an applicant’s risk profile.  Factors used by the credit scoring system (based on the applicant’s credit history) include the contract term, ability to pay,
         amount financed relative to the value of the vehicle to be financed and credit bureau attributes, such as payment history, number of trade lines, utilization ratio, and number of credit inquiries.
 Applications received from Dealers include the applicant’s name, address, residential status, source and amount of monthly income and amount of monthly rent or mortgage payment.  Applications received from consumers
@@ -1682,6 +1789,8 @@ When a customer application for credit is approved, the Dealer is required to su
 TMCC regularly reviews and analyzes its portfolio of Receivables to evaluate the effectiveness of its underwriting guidelines and purchasing criteria.  If external economic factors, credit losses or delinquency
         experience, market conditions or other factors change, TMCC may adjust its underwriting guidelines and purchasing criteria in order to change the asset quality of its portfolio or to achieve other goals and objectives.
 54
+
+[PAGE 55 | printed 55]
 TMCC’s retail installment sales contracts require Obligors to possess physical damage insurance and to provide evidence of such insurance upon TMCC’s request.  The terms of each Receivable allow, but do not require,
         TMCC to obtain any such coverage on behalf of the Obligor.  In accordance with its normal servicing procedures, TMCC currently does not obtain insurance coverage on behalf of the Obligor.
 Electronic Contracts and Electronic Contracting
@@ -1713,6 +1822,8 @@ Certain Legal Aspects of the Receivables—Deficiency Judgments and Excess Proce
 ” in this prospectus.  Any surplus amounts remaining, after
         recovery fees, disposition costs, and other expenses have been paid and after any reserve charge-backs, dealer guarantees and optional product refunds have been credited to the customer’s account, are refunded to the customers.  Refunds of
 55
+
+[PAGE 56 | printed 56]
 surplus amounts are administered by the regional experience centers.  Collections of post-sale deficiencies and full-balance charge-offs are handled by third-party vendors and the regional experience centers.  TMCC’s policy is to charge‑off a
         finance contract in its servicing system as soon as disposition of the vehicle has been completed, sales proceeds have been received, and optional product refunds have been applied, when applicable.  However, TMCC may in some circumstances
         charge-off a finance contract prior to repossession.  In the case of uncollectible accounts, charge-off of a finance contract will occur prior to and without repossession.  When repossession and disposition of the collateral has not been completed,
@@ -1748,6 +1859,8 @@ Under its current servicing practices, the Servicer will modify the terms of any
         Receivable by depositing an amount equal to the remaining outstanding Principal Balance of such Receivable into the Collection Account.
 The Servicer has a contract modification program pursuant to which the Servicer may enter into an amendment to the loan contract with an Obligor whose Receivable relates to a new or used vehicle that meets certain
 56
+
+[PAGE 57 | printed 57]
 criteria, in order to extend the term of such Receivable, thereby increasing the number of Scheduled Payments remaining on such Receivable, and re-amortize the loan to reduce monthly payments.  Such extensions are generally only available to
         Obligors if a default, breach, violation, delinquency or event permitting acceleration under the terms of such Receivable has occurred or, in the judgment of the Servicer, is imminent.  The maximum term of such an amendment is 12 months added to
         the original term to maturity of the related contract regardless of whether prior deferments were granted.  However, a Receivable will not be amended if the original contract term is greater than 72 months.  In addition, if any amendment under this
@@ -1781,6 +1894,8 @@ Citibank is a national banking association and wholly owned subsidiary of Citigr
         Services.  Citibank has primary corporate trust offices located in both New York and London.  Citibank is a leading provider of corporate trust services offering a full range of agency, fiduciary, tender and exchange, depositary and escrow
         services.  As of the end of the second quarter of 2024, Citibank’s Agency and Trust group manages in excess
 57
+
+[PAGE 58 | printed 58]
 of $8 trillion in fixed income and equity investments on behalf of over 3,000 corporations worldwide.  Since 1987, Citibank’s Agency and Trust group has provided corporate trust services for asset-backed securities containing pool assets
         consisting of airplane leases, auto loans and leases, boat loans, commercial loans, commodities, credit cards, durable goods, equipment leases, foreign securities, funding agreement backed note programs, truck loans, utilities, student loans and
         commercial and residential mortgages.   As of the end of the second quarter of 2024, Citibank acts as indenture trustee and/or paying agent for approximately 305 various asset backed trusts supported by either auto loans or leases or equipment
@@ -1809,6 +1924,8 @@ The Depositor, the Servicer and their respective affiliates may maintain normal 
         Trustee will be entitled to indemnification by the Issuing Entity for, and will be held harmless against, any loss, liability or expense incurred in connection with the administration of the Issuing Entity and the performance of its duties
         (including reasonable attorneys’ fees and fees
 58
+
+[PAGE 59 | printed 59]
 and expenses incurred in the enforcement of the Issuing Entity’s obligations) under the Sale and Servicing Agreement, the Trust Agreement, the Indenture, the Receivables Purchase Agreement and the Administration Agreement (collectively, the
         “Transfer and Servicing Agreements”) not resulting from its own willful misconduct, bad faith or negligence.  The Indenture Trustee will notify the Issuing Entity and the Administrator promptly of any claim for which it may seek indemnity;
         provided, that, failure by the Indenture Trustee to provide such notification will not relieve the Issuing Entity or the Administrator of its obligations under the Indenture if no prejudice to the Issuing Entity or the Administrator will have
@@ -1846,6 +1963,8 @@ The Indenture Trustee will make no representations as to the validity or suffici
         limited to the receipt of the various certificates, reports or other instruments required to be furnished to the Indenture Trustee under the Indenture, in which case it will only be required to examine them to determine whether they conform to the
         requirements of the Indenture.  The Indenture Trustee will not be charged
 59
+
+[PAGE 60 | printed 60]
 with knowledge of a failure by the Servicer to perform its duties under the Trust Agreement or Sale and Servicing Agreement or of TMCC to perform its duties under the Administration Agreement, unless the Indenture Trustee obtains actual
         knowledge of such failure as will be specified in the Indenture.
 If required under the Trust Indenture Act of 1939, as amended (the “TIA”), the Indenture Trustee will be required to, either, at its option, mail or otherwise make available (within 60 days after each December 31,
@@ -1881,6 +2000,8 @@ Indenture Trustee (2) | An annual fee equal to $5,000, payable on the Payment Da
 Owner Trustee (2) | An annual fee equal to $3,600, payable on the Payment Date occurring in July of each year, commencing in July 2025.
 [/TABLE_88]
 60
+
+[PAGE 61 | printed 61]
 [TABLE_89]
 Asset Representations Reviewer (2) | An annual fee equal to $5,000 per annum, payable on the Payment Date occurring in July of each year, commencing in July 2025. In the event of an Asset Representations Review, the Asset Representations Reviewer will also be entitled to
                 receive a fee equal to $200 for each Receivable reviewed by it.
@@ -1917,6 +2038,8 @@ The Asset Representations Reviewer may not resign unless it determines it is leg
         the Asset Representations Review Agreement, becomes the subject of a bankruptcy or similar proceeding, or no longer satisfies the applicable eligibility criteria, the Issuing Entity may remove the Asset Representations Reviewer and terminate its
         obligations under the Asset Representations Review Agreement. The Issuing Entity will be obligated to engage a successor asset representations reviewer after any such resignation or
 61
+
+[PAGE 62 | printed 62]
 removal.  No resignation or removal of the Asset Representations Reviewer will be effective, and the Asset Representations Reviewer will continue to perform its obligations under the Asset Representations Review Agreement, until a successor
         asset representations reviewer has accepted its engagement for such purpose.
 If the Asset Representations Reviewer resigns or is removed, the Asset Representations Reviewer is obligated to pay the reasonable expenses of transitioning its obligations under the Asset Representations Review
@@ -1946,6 +2069,8 @@ The Receivables will be purchased by the Issuing Entity as of the Cutoff Date.  
         pursuant to the Receivables Purchase Agreement.  The Depositor will, in turn, sell the Receivables to the Issuing Entity pursuant to the Sale and Servicing Agreement.  During the term of the Sale and Servicing Agreement, neither the Depositor nor
         TMCC may substitute any other retail installment sales contract for any Receivable sold to the Issuing Entity.
 62
+
+[PAGE 63 | printed 63]
 The Receivables were purchased by TMCC from Dealers in the ordinary course of business pursuant to Dealer Agreements.  TMCC purchases Receivables originated in accordance with its credit standards which are based upon
         the vehicle buyer’s ability and willingness to repay the obligation as well as the value of the vehicle being financed, as described under “
 The Sponsor, Administrator and Servicer—Underwriting of Motor Vehicle
@@ -1990,6 +2115,8 @@ No selection procedures believed by TMCC to be adverse to Noteholders have been 
 If the aggregate initial principal amount of the Notes is $1,350,000,000, then 51,076 Receivables, having an aggregate Principal Balance of approximately $1,390,292,457.01 (representing approximately 96.65% of the
         aggregate Principal Balance of the Receivables as of the Cutoff Date) are evidenced by electronic contracts.  If the aggregate initial principal amount of the Notes is $1,750,000,000, then 66,308 Receivables, having an aggregate
 63
+
+[PAGE 64 | printed 64]
 Principal Balance of approximately $1,802,181,107.36 (representing approximately 96.64% of the aggregate Principal Balance of the Receivables as of the Cutoff Date) are evidenced by electronic contracts.
 Based on the mailing addresses of the Obligors, the Receivables have been originated in 49 States and the District of Columbia.  Except in the case of any breach of representations and warranties by the related Dealer,
         the Receivables generally do not provide for recourse against the originating Dealer.  The composition, and the distributions by APR, geographic distribution, remaining Principal Balance, original number of Scheduled Payments, remaining number of
@@ -2050,6 +2177,8 @@ _____________________________________
                 Annex B are categorized in this table as “crossover utility vehicles.”
 [/TABLE_100]
 64
+
+[PAGE 65 | printed 65]
 Composition of the Receivables as of the Cutoff Date
 (if the Aggregate Initial Principal Amount of the Notes is $1,750,000,000)
 [TABLE_101]
@@ -2101,6 +2230,8 @@ _____________________________________
                 Annex B are categorized in this table as “crossover utility vehicles.”
 [/TABLE_105]
 65
+
+[PAGE 66 | printed 66]
 Distribution of the Receivables as of the Cutoff Date by APR
 (if the Aggregate Initial Principal Amount of the Notes is $1,350,000,000)
 [TABLE_106]
@@ -2162,6 +2293,8 @@ _____________________________________
 (1) | Percentages may not add to 100% due to rounding.
 [/TABLE_109]
 66
+
+[PAGE 67 | printed 67]
 Distribution of the Receivables as of the Cutoff Date by Geographic Distribution
 (if the Aggregate Initial Principal Amount of the Notes is $1,350,000,000)
 (1)
@@ -2227,6 +2360,8 @@ _____________________________________
 (2) | Percentages may not add to 100% due to rounding.
 [/TABLE_112]
 67
+
+[PAGE 68 | printed 68]
 Distribution of the Receivables as of the Cutoff Date by Geographic Distribution
 (if the Aggregate Initial Principal Amount of the Notes is $1,750,000,000)
 (1)
@@ -2293,6 +2428,8 @@ _____________________________________
 (2) | Percentages may not add to 100% due to rounding.
 [/TABLE_115]
 68
+
+[PAGE 69 | printed 69]
 Distribution of the Receivables as of the Cutoff Date by Remaining Principal Balance
 (if the Aggregate Initial Principal Amount of the Notes is $1,350,000,000)
 [TABLE_116]
@@ -2353,6 +2490,8 @@ _____________________________________
 (1) | Percentages may not add to 100% due to rounding.
 [/TABLE_119]
 69
+
+[PAGE 70 | printed 70]
 Distribution of the Receivables as of the Cutoff Date by Original Number of Scheduled Payments
 (if the Aggregate Initial Principal Amount of the Notes is $1,350,000,000)
 [TABLE_120]
@@ -2408,6 +2547,8 @@ _____________________________________
 (1) | Percentages may not add to 100% due to rounding.
 [/TABLE_127]
 70
+
+[PAGE 71 | printed 71]
 Distribution of the Receivables as of the Cutoff Date by Remaining Number of Scheduled Payments
 (if the Aggregate Initial Principal Amount of the Notes is $1,750,000,000)
 [TABLE_128]
@@ -2473,6 +2614,8 @@ The Depositor prepared asset-level data for the Receivables and filed it with th
         Initial Asset-Level Data is incorporated by reference into this prospectus.  The Initial Asset-Level Data contains detailed information concerning each Receivable, including data regarding its origination characteristics, contract terms,
         characteristics of the related Financed Vehicle and Obligor, contract and payment activity, servicing activity and status.  Investors should carefully review the Initial Asset-Level Data.
 71
+
+[PAGE 72 | printed 72]
 The Servicer will also prepare asset-level data with respect to the Receivables for each Collection Period and file it with the SEC on exhibits to Form ABS-EE at or before the time of filing the related Form 10-D. The
         exhibits to each Form ABS-EE filed by or on behalf of the Issuing Entity after the filing of this prospectus will be incorporated by reference into the related Form 10-D.
 POOL UNDERWRITING
@@ -2508,6 +2651,8 @@ The Receivables
         receivables in the Sample Pool.  TMCC also tested the accuracy of the data contained in TMCC’s data tape.  The data tape is an electronic record maintained by TMCC, which includes certain attributes of the Receivables and the receivables in the
         Sample Pool.  TMCC reviewed the receivable files for the Sample to confirm that the following 21 data points conformed to the applicable information on the data tape, within certain tolerance bands: account number, contract
 72
+
+[PAGE 73 | printed 73]
 date, original principal balance, original interest rate, interest rate as of May 31, 2024, interest rate for the June 2024 scheduled monthly payment, monthly payment amount, first payment due date, maturity date at origination, vehicle
         identification number, vehicle make, vehicle model, model year, state of origination, new or used, original term, FICO
 ®
@@ -2549,6 +2694,8 @@ The following tables show TMCC’s servicing experience for its entire portfolio
 Risk
           Factors—Risks Primarily Related to the Nature of the Notes and the Structure of the Transaction—
 73
+
+[PAGE 74 | printed 74]
 Prepayments on receivables may cause prepayments on the notes, resulting in reduced returns on your investment and reinvestment risk to you
 ” in this prospectus.
 Managed Portfolio
@@ -2579,6 +2726,8 @@ ___________________
 (3) | The period of delinquency is based on the number of days payments are contractually past due.  A payment is deemed to be past due if less than 90% of such payment is made.
 [/TABLE_139]
 74
+
+[PAGE 75 | printed 75]
 Managed Portfolio
 Net Loss and Repossession Experience
 (1)
@@ -2623,6 +2772,8 @@ ____________________
                 recoveries for dealer reserve charge‑offs and dealer reserve chargebacks.
 [/TABLE_146]
 75
+
+[PAGE 76 | printed 76]
 ASSET REPRESENTATIONS REVIEW
 The Asset Representations Reviewer will perform a review of certain Receivables for compliance with representations and warranties made by TMCC and the Depositor about the Receivables in the applicable Transfer and
         Servicing Agreements (an “Asset Representations Review”) if:
@@ -2667,6 +2818,8 @@ The related Form 10-D filing will specify the means by which Noteholders and Not
         date of the Form 10-D filing that first reported the occurrence of the Delinquency Trigger) that will be used to calculate whether the requisite amount of Noteholders have cast affirmative votes to direct the Indenture Trustee to notify the Asset
         Representations Reviewer to commence an Asset Representations Review.  If, by that voting deadline, (i) votes have been cast by Noteholders holding at least 5% of the aggregate outstanding principal amount
 76
+
+[PAGE 77 | printed 77]
 of the Notes (excluding, for the purpose of each such calculation of the requisite percentage of Noteholders, any Notes held by the Sponsor, the Servicer or any affiliate of either) and (ii) affirmative votes in favor of an Asset Representations
         Review have been cast by Noteholders representing at least a majority of the aggregate outstanding principal amount of the Notes held by voting Noteholders, then the Indenture Trustee will send a notice to the Asset Representations Reviewer, the
         Administrator and the Servicer informing them that the requisite Noteholders have directed the Asset Representations Reviewer to perform a review of all Receivables that are 60 days or more delinquent (the “ARR Receivables”) for the purpose of
@@ -2695,6 +2848,8 @@ The Asset Representations Reviewer will report its findings and conclusions to t
         Representations Review, but in any event, no later than five days after completion of the Asset Representations Review.  The ultimate determination as to whether the compliance or non-compliance of any representation constitutes a breach of the
         applicable agreement will not be made by the Asset Representations Reviewer, but by
 77
+
+[PAGE 78 | printed 78]
 TMCC and the Depositor, as described below. The related Form 10-D filed for the Issuing Entity will include a summary of the Asset Representations Reviewer’s report, so that Noteholders and Note Owners can form their own views of whether they
         consider any non-compliance of any representation to be a breach of the applicable agreement and, if so, what actions they intend to take.  The Form 10-D will also specify the means by which Noteholders and Verified Note Owners may notify the
         Indenture Trustee, TMCC and the Depositor in writing that they consider any non-compliance of any representation to be a breach of the applicable agreement, or may request in writing that a Receivable be repurchased.  If a Noteholder or a Verified
@@ -2731,6 +2886,8 @@ TMCC believes that the Delinquency Trigger Percentage is appropriate based on (1
 For the prior pools of receivables that were securitized by TMCC included in Annex B, the 60-Day Delinquent Receivables rate has ranged from 0.01% to 0.99% (through and including the Collection Period related to the
         June 2024 Payment Date).
 78
+
+[PAGE 79 | printed 79]
 REPURCHASES OF RECEIVABLES
 TMCC and the Depositor (each, a “Seller”), pursuant to the Receivables Purchase Agreement and the Sale and Servicing Agreement, respectively, will represent and warrant with respect to each Receivable, that as of the
         Cutoff Date and as of the Closing Date (or as of such other date specified below):
@@ -2785,6 +2942,8 @@ TMCC and the Depositor (each, a “Seller”), pursuant to the Receivables Purch
                 others (other than pursuant to the Transfer and Servicing Agreements);
 [/TABLE_166]
 79
+
+[PAGE 80 | printed 80]
 [TABLE_167]
  | • | it has not been originated in, and is not subject to the laws of, any jurisdiction under which the sale, transfer and assignment of such Receivable under the applicable Transfer and Servicing Agreement or the pledge of such Receivable
                 under the Indenture are unlawful, void or voidable, and the terms of such Receivable do not limit the right of the owner of such Receivable to sell such Receivable; and
@@ -2818,6 +2977,8 @@ In the Sale and Servicing Agreement, the Servicer will covenant that, except as 
 In the Receivables Purchase Agreement, TMCC will agree to indemnify the Depositor for any failure of a Receivable to have been originated in compliance with all applicable requirements of law.  In the Sale and
         Servicing Agreement, the depositor’s right to such indemnification will be assigned to the Issuing Entity.
 80
+
+[PAGE 81 | printed 81]
 Dispute Resolution
 The Sale and Servicing Agreement provides that if the Owner Trustee or any Noteholder or Verified Note Owner requests (by written notice to TMCC or the Depositor), that a Receivable be repurchased due to an alleged
         breach of a representation or warranty as described above, and the request has not been fulfilled or otherwise resolved to the reasonable satisfaction of the requesting party within 180 days of the receipt of such request by TMCC or the Depositor
@@ -2844,6 +3005,8 @@ After consulting with the parties, the panel will devise procedures and deadline
         the parties, each party to the arbitration will be presumptively limited to four party witness depositions not to exceed five hours, and one set of interrogatories, document requests and requests for admissions, though the panel will have the
         ability to grant additional discovery based on a determination of good cause after a showing that additional discovery is reasonable and necessary.
 81
+
+[PAGE 82 | printed 82]
 The panel will make its final determination no later than 90 days after appointment.  The panel will not have the power to award punitive damages or consequential damages.  The panel will determine and award the costs
         of the arbitration and reasonable attorneys’ fees to the parties as determined by the panel in its reasonable discretion.  The determination in any binding arbitration will be final and non-appealable and may be enforced in any court of competent
         jurisdiction.  By selecting binding arbitration, the selecting party will give up the right to sue in court, including the right to a trial by jury.  No person may bring a putative or certified class action to arbitration.
@@ -2884,6 +3047,8 @@ Distribution of the Receivables as of the Cutoff Date by APR (if the Aggregate I
 Distribution
           of the Receivables as of
 82
+
+[PAGE 83 | printed 83]
 the Cutoff Date by APR (if the Aggregate Initial Principal Amount of the Notes is $1,750,000,000)
 ” under “
 The Receivables
@@ -2928,6 +3093,8 @@ Certain events (including some that are not within the control of the Issuing En
         while liquidation of the assets is occurring.  The Issuing Entity cannot predict the length of time that will be required for liquidation of the assets of the Issuing Entity to be completed.  Even if liquidation proceeds are sufficient to repay the
         Notes in full, any liquidation that causes
 83
+
+[PAGE 84 | printed 84]
 principal of a class of Notes to be paid before the related Final Scheduled Payment Date will involve the prepayment risks described under “
 Risk Factors
 ––
@@ -2983,6 +3150,8 @@ An investor’s expected yield will be affected by:
  | • | the investor’s assumed reinvestment rate.
 [/TABLE_171]
 84
+
+[PAGE 85 | printed 85]
 These factors do not operate independently, but are interrelated. For example, if prepayments on the related Receivables are slower than anticipated, an investor’s yield may be lower if interest rates are higher than
         anticipated and higher if interest rates are lower than anticipated. Conversely, if prepayments on the related Receivables are faster than anticipated, an investor’s yield may be higher if interest rates are higher than anticipated and lower if
         interest rates are lower than anticipated.
@@ -3025,6 +3194,8 @@ Percent of Initial Note Principal Amount at Various ABS Percentages (if the Aggr
  | • | payments on the Notes are made on each Payment Date (and each Payment Date is assumed to be the 15th day of each applicable month) commencing on August 15, 2024;
 [/TABLE_175]
 85
+
+[PAGE 86 | printed 86]
 [TABLE_176]
  | • | the closing date is July 30, 2024;
 [/TABLE_176]
@@ -3068,6 +3239,8 @@ The Yield Supplement Overcollateralization Amount schedules described below are 
         prepayment model percentages in the tables below.  The actual Yield Supplement Overcollateralization Amount will be calculated for each Payment Date and may differ depending on the Receivables and the actual prepayments and losses on those
         Receivables with an APR less than the Required Rate.  For purposes of the Yield Supplement Overcollateralization Amount schedules described below, the “Required Rate” is assumed to be 9.05%.
 86
+
+[PAGE 87 | printed 87]
 If the aggregate initial principal amount of the Notes is $1,350,000,000, the following Yield Supplement Overcollateralization Amount schedule is applicable:
 [TABLE_186]
 Payment Date |  | Yield Supplement Overcollateralization Amount |  | Payment Date |  | Yield Supplement Overcollateralization Amount
@@ -3107,6 +3280,8 @@ March 2027 |  | 15,063,693.09 |  | January 2030 |  | 2.83
 April 2027 |  | 13,861,797.30 |  | February 2030 |  | 0.00
 [/TABLE_186]
 87
+
+[PAGE 88 | printed 88]
 If the aggregate initial principal amount of the Notes is $1,750,000,000, the following Yield Supplement Overcollateralization Amount schedule is applicable:
 [TABLE_187]
 Payment Date |  | Yield Supplement Overcollateralization Amount |  | Payment Date |  | Yield Supplement Overcollateralization Amount
@@ -3152,6 +3327,8 @@ The ABS Tables also assume that the Receivables have been aggregated into 12 hyp
         monthly payment for each of the pools (which is based on its aggregate Principal Balance, weighted average APR, weighted average original number of scheduled payments and weighted average remaining number of scheduled payments as of the assumed
         cutoff date) will be such that each pool will be fully amortized by the end of its remaining term to maturity.
 88
+
+[PAGE 89 | printed 89]
 If the aggregate initial principal amount of Notes issued is $1,350,000,000, the 12 hypothetical pools have the following characteristics:
 [TABLE_188]
 Pool |  | Aggregate Principal Balance |  | Weighted Average APR |  | Weighted Average Original Number of Scheduled Monthly Payments |  | Weighted Average Remaining Number of Scheduled Monthly Payments | 
@@ -3192,6 +3369,8 @@ The actual characteristics and performance of the Receivables will differ from t
         if the original and remaining terms to maturity of the Receivables are as assumed. Any difference between such assumptions and the actual characteristics and performance of the Receivables, or actual prepayment experience, will affect the
         percentages of initial amounts outstanding over time and the weighted average lives of each class of Notes.
 89
+
+[PAGE 90 | printed 90]
 Percent of Initial Note Principal Amount at Various ABS Percentages
 (if the Aggregate Initial Principal Amount of the Notes is $1,350,000,000)
 (1)
@@ -3223,6 +3402,8 @@ ____________________
                 adding the results and (z) dividing the sum by the aggregate initial principal amount of the note.
 [/TABLE_192]
 90
+
+[PAGE 91 | printed 91]
 Percent of Initial Note Principal Amount at Various ABS Percentages
 (if the Aggregate Initial Principal Amount of the Notes is $1,750,000,000)
 (1)
@@ -3254,6 +3435,8 @@ ____________________
                 adding the results and (z) dividing the sum by the aggregate initial principal amount of the note.
 [/TABLE_195]
 91
+
+[PAGE 92 | printed 92]
 Percent of Initial Note Principal Amount at Various ABS Percentages
 (if the Aggregate Initial Principal Amount of the Notes is $1,350,000,000)
 (1)
@@ -3304,6 +3487,8 @@ ____________________
                 adding the results and (z) dividing the sum by the aggregate initial principal amount of the note.
 [/TABLE_198]
 92
+
+[PAGE 93 | printed 93]
 Percent of Initial Note Principal Amount at Various ABS Percentages
 (if the Aggregate Initial Principal Amount of the Notes is $1,750,000,000)
 (1)
@@ -3354,6 +3539,8 @@ ____________________
                 adding the results and (z) dividing the sum by the aggregate initial principal amount of the note.
 [/TABLE_201]
 93
+
+[PAGE 94 | printed 94]
 Percent of Initial Note Principal Amount at Various ABS Percentages
 (if the Aggregate Initial Principal Amount of the Notes is $1,350,000,000)
 (1)
@@ -3404,6 +3591,8 @@ ____________________
                 adding the results and (z) dividing the sum by the aggregate initial principal amount of the note.
 [/TABLE_204]
 94
+
+[PAGE 95 | printed 95]
 Percent of Initial Note Principal Amount at Various ABS Percentages
 (if the Aggregate Initial Principal Amount of the Notes is $1,750,000,000)
 (1)
@@ -3454,6 +3643,8 @@ ____________________
                 adding the results and (z) dividing the sum by the aggregate initial principal amount of the note.
 [/TABLE_207]
 95
+
+[PAGE 96 | printed 96]
 Percent of Initial Note Principal Amount at Various ABS Percentages
 (if the Aggregate Initial Principal Amount of the Notes is $1,350,000,000)
 (1)
@@ -3526,6 +3717,8 @@ ____________________
                 adding the results and (z) dividing the sum by the aggregate initial principal amount of the note.
 [/TABLE_210]
 96
+
+[PAGE 97 | printed 97]
 Percent of Initial Note Principal Amount at Various ABS Percentages
 (if the Aggregate Initial Principal Amount of the Notes is $1,750,000,000)
 (1)
@@ -3598,6 +3791,8 @@ ____________________
                 adding the results and (z) dividing the sum by the aggregate initial principal amount of the note.
 [/TABLE_213]
 97
+
+[PAGE 98 | printed 98]
 Percent of Initial Note Principal Amount at Various ABS Percentages
 (if the Aggregate Initial Principal Amount of the Notes is $1,350,000,000)
 (1)
@@ -3673,6 +3868,8 @@ ____________________
                 adding the results and (z) dividing the sum by the aggregate initial principal amount of the note.
 [/TABLE_216]
 98
+
+[PAGE 99 | printed 99]
 Percent of Initial Note Principal Amount at Various ABS Percentages
 (if the Aggregate Initial Principal Amount of the Notes is $1,750,000,000)
 (1)
@@ -3748,6 +3945,8 @@ ____________________
                 adding the results and (z) dividing the sum by the aggregate initial principal amount of the note.
 [/TABLE_219]
 99
+
+[PAGE 100 | printed 100]
 Percent of Initial Note Principal Amount at Various ABS Percentages
 (if the Aggregate Initial Principal Amount of the Notes is $1,350,000,000)
 (1)
@@ -3823,6 +4022,8 @@ ____________________
                 adding the results and (z) dividing the sum by the aggregate initial principal amount of the note.
 [/TABLE_222]
 100
+
+[PAGE 101 | printed 101]
 Percent of Initial Note Principal Amount at Various ABS Percentages
 (if the Aggregate Initial Principal Amount of the Notes is $1,750,000,000)
 (1)
@@ -3898,6 +4099,8 @@ ____________________
                 adding the results and (z) dividing the sum by the aggregate initial principal amount of the note.
 [/TABLE_225]
 101
+
+[PAGE 102 | printed 102]
 The foregoing tables have been prepared on the basis of the assumptions described above under “
 Weighted Average Lives of the Notes
 ” (including the assumptions regarding the
@@ -3932,6 +4135,8 @@ Payments to Noteholders
 Under certain circumstances, the amount available for interest payments on the Notes could be less than the amount of interest payable on such class of Notes.  In such case, with respect to the Class A Notes, each
         class of Class A Noteholders will receive their pro-rata share (based upon the aggregate amount of such amounts due to such
 102
+
+[PAGE 103 | printed 103]
 class of Noteholders) of the aggregate amount available to be paid in respect of interest on the Class A Notes on such Payment Date.  For additional information, you should refer to “
 Payments to
           Noteholders—Credit and Cash Flow Enhancement” and “Transfer and Servicing Agreements—Payments
@@ -3966,6 +4171,8 @@ if the rate specified in (1) above does not so appear, the applicable compounded
         as published in respect of the first preceding U.S. Government Securities Business Day for which such rate appeared on the FRBNY’s Website.
 The specific Compounded SOFR rate is referred to by its tenor. For example, “30-day Average SOFR” refers to the compounded average SOFR over a rolling 30-calendar day period as published on the FRBNY’s Website.
 103
+
+[PAGE 104 | printed 104]
 “FRBNY” means the Federal Reserve Bank of New York.
 “FRBNY’s Website” means the website of the FRBNY, currently at https://www.newyorkfed.org/markets/reference-rates/sofr-averages-and-index or at such page as may replace this page on the FRBNY’s website.
 “SOFR Adjustment Conforming Changes” means, with respect to any SOFR Rate, any technical, administrative or operational changes (including changes to the interest period, timing and frequency of determining rates and
@@ -3994,6 +4201,8 @@ Any determination, decision or election that may be made by the Administrator or
         of a note or a beneficial interest in a note, will be deemed to waive and release any and all claims against the Issuing Entity, the Owner Trustee, the Indenture Trustee, the Administrator, the Sponsor, the Depositor and the Servicer relating to
         any such determinations.
 104
+
+[PAGE 105 | printed 105]
 With respect to a Benchmark Transition Event, the following terms will have the following respective meanings:
 “Benchmark” means, initially, the SOFR Rate; provided that if the Administrator determines prior to the relevant Reference Time that a Benchmark Transition Event and its related Benchmark Replacement Date have occurred
         with respect to the SOFR Rate or the then-current Benchmark, then “Benchmark” means the applicable Benchmark Replacement.
@@ -4018,6 +4227,8 @@ With respect to a Benchmark Transition Event, the following terms will have the 
         date on which the administrator of the Benchmark permanently or indefinitely ceases to provide the Benchmark (or such component); or
 (2) in the case of clause (3) of the definition of “Benchmark Transition Event,” the date of the public statement or publication of information referenced therein.
 105
+
+[PAGE 106 | printed 106]
 For the avoidance of doubt, if the event that gives rise to the Benchmark Replacement Date occurs on the same day as, but earlier than, the Reference Time in respect of any determination, the
         Benchmark Replacement Date will be deemed to have occurred prior to the Reference Time for such determination.
 “Benchmark Transition Event” means the occurrence of one or more of the following events with respect to the then-current Benchmark (including the daily published component used in the calculation thereof):
@@ -4043,6 +4254,8 @@ For the avoidance of doubt: (a) in no event will (x) the Indenture Trustee and t
         determinations made by the Administrator (on behalf of the Issuing Entity), as applicable, in regards to such matters and will have no liability for such actions taken at the direction of the Administrator (on behalf of the Issuing Entity).
 The Indenture Trustee, the Paying Agent and the Owner Trustee will be under no obligation (i) to monitor, determine or verify the unavailability or cessation of SOFR (or other applicable Benchmark), or whether or when
 106
+
+[PAGE 107 | printed 107]
 there has occurred, or to give notice to any other transaction party of the occurrence of, any Benchmark Transition Event or Benchmark Replacement Date, (ii) to select, determine or designate any Benchmark Replacement, or other successor or
         replacement benchmark index, or whether any conditions to the designation of such a rate have been satisfied, (iii) to select, determine or designate any Benchmark Replacement Adjustment or Unadjusted Benchmark Replacement, or other modifier to any
         replacement or successor index, or (iv) to determine whether or what Benchmark Replacement Conforming Changes are necessary or advisable, if any, in connection with any of the foregoing.
@@ -4094,6 +4307,8 @@ Prepayment and Yield Considerations
 Weighted Average Lives of the Notes
 ” in this prospectus.
 107
+
+[PAGE 108 | printed 108]
 For additional information, you should refer to “
 Payments to Noteholders—Calculation of Principal Distribution Amounts
 ” and “—
@@ -4127,6 +4342,8 @@ Additionally, the Issuing Entity and the Indenture Trustee may also enter into s
         Entity, conveying, or otherwise transferring or pledging, property to or with the Indenture Trustee, evidencing and providing for the appointment of a successor indenture trustee or adding or changing any of the provisions of the Indenture as
         necessary and permitted to facilitate the administration by more than one indenture trustee, and modifying, eliminating or adding to the provisions of the Indenture in order to comply with the TIA.
 108
+
+[PAGE 109 | printed 109]
 Subject to the terms described in the following paragraph, the Issuing Entity and the Indenture Trustee may also, with prior notice to the Rating Agencies, enter into an indenture or indentures supplemental to the
         indenture for the purpose of adding any provisions to or changing in any manner or eliminating any of the provisions of such indenture or of modifying in any manner the rights of the Noteholders under such indenture; provided, that holders of Notes
         evidencing not less than a majority of the aggregate principal amount of the Notes of the Controlling Class then outstanding, acting together as a single class, have consented to such amendment.
@@ -4158,6 +4375,8 @@ Events of Default; Rights Upon Event of Default
         respect as of the time made which materially and adversely affects the interests of the Noteholders, and such breach not having been cured within 60 days after written notice of such breach is given to the Issuing Entity by the Indenture Trustee or
         to the Issuing Entity and the Indenture Trustee by the holders of Notes evidencing not less than a majority of the aggregate principal amount of the Notes of the Controlling Class then outstanding, acting
 109
+
+[PAGE 110 | printed 110]
 together as a single class; or (v) certain events of bankruptcy, insolvency, receivership or liquidation of the Issuing Entity (which, if involuntary, remains unstayed and in effect for more than 90 days).
 Notwithstanding the foregoing, the amount of principal required to be paid to Noteholders under the Indenture will generally be limited to amounts available to be deposited in the Collection Account.  Therefore, the
         failure to pay principal on a class of Notes generally will not result in the occurrence of an Event of Default until the Final Scheduled Payment Date for such class of Notes.  Notwithstanding the foregoing, if a delay in or failure of performance
@@ -4197,6 +4416,8 @@ If an Event of Default occurs and is continuing and the Indenture Trustee has ac
 Subject to the provisions of the Indenture relating to the duties of the Indenture Trustee, if an Event of Default occurs and is continuing, the Indenture Trustee will be under no obligation to exercise any of the
         rights or
 110
+
+[PAGE 111 | printed 111]
 powers under the Indenture at the request or direction of any of the holders of such Notes if the Indenture Trustee reasonably believes it will not be adequately indemnified against the costs, expenses and liabilities which might be incurred by
         it in complying with such request.  Subject to the provisions for indemnification and certain limitations contained in the Indenture, the holders of Notes evidencing not less than a majority of the aggregate principal amount of the Notes of the
         Controlling Class then outstanding, acting together as a single class, will have the right to direct the time, method and place of conducting any proceeding for any remedy available to the Indenture Trustee or exercising of any trust or power
@@ -4227,6 +4448,8 @@ The Issuing Entity will not, among other things, (i) except as expressly permitt
         or liquidate in whole or in part, (iv) permit the validity or effectiveness of the Indenture to be impaired or permit any person to be released from any covenants or obligations with respect to the Notes under the Indenture except as may be
         expressly permitted thereby or (v) permit any lien, charge, excise,
 111
+
+[PAGE 112 | printed 112]
 claim, security interest, mortgage or other encumbrance to be created on or extend to or otherwise arise upon or burden the assets of the Issuing Entity or any part thereof, or any interest in the assets of the Issuing Entity or the proceeds
         thereof.
 The Issuing Entity may not engage in any activity other than as specified in this prospectus.  The Issuing Entity will not incur, assume or guarantee any indebtedness other than indebtedness incurred pursuant to the
@@ -4258,6 +4481,8 @@ Description of the Notes—Book-Entry Registration
 —Definitive Securities
 ” in this prospectus.
 112
+
+[PAGE 113 | printed 113]
 Book-Entry Registration
 General
 Upon issuance, all Notes in book-entry form having the same original issue date, maturity and otherwise having identical terms and provisions will be represented by one or more fully registered global notes.  Each
@@ -4287,6 +4512,8 @@ Purchases of Notes in book-entry form under DTC’s system must be made by or th
         Beneficial Owner is in turn recorded on the records of direct participants and indirect participants. Beneficial Owners of Notes in book-entry form will not receive written confirmation from DTC of their purchase, but each Beneficial Owners is
         expected to receive written confirmation providing details of the related transaction, as well as
 113
+
+[PAGE 114 | printed 114]
 periodic statements of its holdings, from the direct or indirect participant through which such Beneficial Owner entered into the related transaction. Transfers of ownership interests in a global note representing Notes in book-entry form are
         accomplished by entries made on the books of participants acting on behalf of the Beneficial Owners. Beneficial Owners of global notes representing Notes in book-entry form will not receive Notes in certificated form representing their ownership
         interests in the Notes, unless use of the book-entry system for Notes in book-entry form is discontinued.
@@ -4315,6 +4542,8 @@ We may decide (subject to the procedures of the securities depository) to discon
 If DTC is at any time unwilling or unable to continue as depository and a successor depository is not appointed by us within 90 days, we will issue Notes in certificated form in exchange for the Notes represented by
         the global notes. In addition, we may at any time and in our sole discretion determine (subject to the procedures of the securities depositary) to discontinue use of a global note and, in that event, will issue Notes in certificated form
 114
+
+[PAGE 115 | printed 115]
 in exchange for the Notes represented by the global note. The Class A Notes will be issued in U.S. Dollars in minimum denominations of $1,000 and integral multiples of $1,000 in excess thereof (except for one Note of each class which may be
         issued in a denomination other than an integral multiple of $1,000) and will be issued in registered form only, without coupons.
 Secondary Market Trading
@@ -4349,6 +4578,8 @@ DTC
         the New York Banking Law, a member of the Federal Reserve System, a “clearing corporation” within the meaning of the New York Uniform Commercial Code, and a “clearing agency” registered pursuant to the provisions of Section 17A of the Exchange
         Act.  DTC holds and provides asset servicing for over 3.5 million issues of U.S. and non-U.S. equity issues,
 115
+
+[PAGE 116 | printed 116]
 corporate and municipal debt issues, and money market instruments (from over 100 countries) that DTC Direct Participants deposit with DTC.  DTC also facilitates the post-trade settlement among DTC Direct Participants of sales and other
         securities transactions in deposited securities, through electronic computerized book-entry transfers and pledges between DTC Direct Participants’ accounts. This eliminates the need for physical movement of securities certificates.  DTC Direct
         Participants include both U.S. and non-U.S. securities brokers and dealers, banks, trust companies, clearing corporations, and certain other organizations.  DTC is a wholly-owned subsidiary of The Depository Trust & Clearing Corporation
@@ -4380,6 +4611,8 @@ Although the foregoing sets out the procedures of Euroclear, Clearstream and DTC
         or any person by whom any of the above is controlled for the purposes of the Securities Act of 1933, as amended (the “Securities Act”), will have any responsibility for the performance by DTC, Euroclear and Clearstream or their respective direct or
         indirect participants or accountholders of their respective obligations under
 116
+
+[PAGE 117 | printed 117]
 the rules and procedures governing their operations or for the sufficiency for any purpose of the arrangements described above.
 Definitive Securities
 The Certificate will be issued in fully registered, certificated form (the “Definitive Certificate”).  The Notes will be issued in fully registered, certificated form (the “Definitive Notes” and, together with the
@@ -4408,6 +4641,8 @@ Reports to Securityholders
 On or prior to each Payment Date, the Servicer will prepare and provide to the Indenture Trustee and the Owner Trustee statements to be made available to the Noteholders and Certificateholders, respectively, on such
         Payment Date.  Each such statement to be made available to Securityholders will include (to the extent applicable)
 117
+
+[PAGE 118 | printed 118]
 the following information as to the Notes and as to the Certificate with respect to such Payment Date or the period since the previous Payment Date, as applicable:
 [TABLE_235]
  | • | the amount paid or distributed in respect of interest on each class of Notes, including the Benchmark for the related Interest Period;
@@ -4471,6 +4706,8 @@ Material
 The Servicer, on behalf of the Issuing Entity, will also prepare an asset-level data file with respect to the Receivables for each calendar month and file it with the SEC on Form ABS-EE before filing the related Form
         10-D.
 118
+
+[PAGE 119 | printed 119]
 The exhibits to each Form ABS-EE filed by or on behalf of the Issuing Entity after the filing of this prospectus will be incorporated by reference into the related Form 10-D.  Each asset-level data file will contain detailed information
         concerning each Receivable, including data regarding its origination characteristics, contract terms, characteristics of the related Financed Vehicle and Obligor, contract and payment activity, servicing activity and status.  Certain asset-level
         data, such as data related to term, collections, vehicle type, repurchases, losses on the Receivables and repossessions, may not match the aggregate data provided on the monthly statements to Securityholders as a result of differences between the
@@ -4511,6 +4748,8 @@ Available Collections on any Payment Date will exclude the Supplemental Servicin
         Vehicle or (iii) repossessed and held the related Financed Vehicle in its repossession inventory for 90 days, whichever of clauses (i), (ii) or (iii) occurs first.  The Principal Balance of any Receivable that becomes a Defaulted Receivable will be
         deemed to be zero as of the date it becomes a
 119
+
+[PAGE 120 | printed 120]
 Defaulted Receivable.  The Servicer’s policy is to charge-off retail installment sales contracts as soon as disposition of the vehicle has been effected and sales proceeds have been received, and may in some circumstances charge-off an auto loan
         contract prior to repossession.  When repossession and disposition of the collateral related to a Receivable has not been effected, TMCC’s policy with respect to Receivables included in the Issuing Entity is to charge-off as soon as TMCC determines
         that the vehicle cannot be recovered, but not later than when the contract is 120 days contractually delinquent.
@@ -4539,6 +4778,8 @@ The “Regular Principal Distribution Amount” means, with respect to any Payme
         of the related Collection Period less the Overcollateralization Target Amount, minus (b) the sum of the First Priority Principal Distribution Amount and the Second Priority Principal Distribution Amount for such Payment Date.
 The “Overcollateralization Target Amount” with respect to any Payment Date is equal to 0.85% of the Adjusted Pool Balance as of the Cutoff Date.
 120
+
+[PAGE 121 | printed 121]
 Priority of Payments
 On each Payment Date, except after an Event of Default resulting in an acceleration of the Notes, the Issuing Entity will make the following payments in the following order of priority  (after payment to the Servicer
         of the Supplemental Servicing Fee, to the extent not previously retained by the Servicer) from Available Collections for the related Collection Period and, if necessary and available, from amounts withdrawn from the Reserve Account:
@@ -4588,6 +4829,8 @@ After an Event of Default that results in the acceleration of the maturity of th
  | 1. | Servicing Fee –– to the Servicer, the Servicing Fee;
 [/TABLE_267]
 121
+
+[PAGE 122 | printed 122]
 [TABLE_268]
  | 2. | Transaction Fees and Expenses ––to the Indenture Trustee, the Owner Trustee and the Asset Representations Reviewer, the amount of any fees, expenses and indemnification amounts due to each such
                 party, pro rata, based on amounts due to each such party;
@@ -4632,6 +4875,8 @@ Reserve Account
         and held by the Securities Intermediary for the benefit of the Noteholders (the “Reserve Account”).  Any amounts held on deposit in the Reserve Account will be owned by the Depositor, subject to the right of the Indenture Trustee to withdraw such
         amounts as described
 122
+
+[PAGE 123 | printed 123]
 below.  Prior to an Event of Default that results in an acceleration of the maturity of the Notes, any net investment earnings thereon will be distributed to the Depositor on each Payment Date and will be taxable to the Sponsor, for so long as
         the Sponsor is the sole member of the Depositor (and the Depositor is not treated as a corporation), for U.S. federal income tax purposes.  Except as described below, no funds will be withdrawn from, and no amounts will be deposited into, the
         Reserve Account.
@@ -4668,6 +4913,8 @@ Funds on deposit in the Reserve Account may be invested in Eligible Investments.
 After the payment in full, or the provision for such payment, of (i) all accrued and unpaid interest on the Notes and (ii) the outstanding principal amount of the Notes, any funds remaining on deposit in the Reserve
         Account, subject to certain limitations, will be paid to the Depositor.
 123
+
+[PAGE 124 | printed 124]
 Overcollateralization.
 Overcollateralization represents the amount by which the Adjusted Pool Balance exceeds the outstanding principal amount of the Notes.  The Adjusted Pool
         Balance as of the Cutoff Date is expected to be approximately equal to the aggregate principal amount of the Notes as of the Closing Date.  In addition to providing credit enhancement, overcollateralization also serves to provide limited protection
@@ -4711,6 +4958,8 @@ Excess Interest
 . More interest is expected to be paid by the Obligors in respect of the Receivables than is necessary to pay the sum of (i) the Servicing Fee, (ii) fees required
         to be paid to the Indenture Trustee, the Owner
 124
+
+[PAGE 125 | printed 125]
 Trustee and the Asset Representations Reviewer and (iii) interest on the Notes each month.  Any such excess in interest payments from Obligors will serve as additional credit enhancement.
 TRANSFER AND SERVICING AGREEMENTS
 The Transfer and Servicing Agreements
@@ -4745,6 +4994,8 @@ Certain Legal Aspects
 ” in this prospectus.  In addition, under certain circumstances the Indenture Trustee’s security interest in collections that have been received by the Servicer but not yet remitted to the Collection
         Account could be defeated.
 125
+
+[PAGE 126 | printed 126]
 Accounts
 On or prior to the Closing Date, the Servicer will establish and the Securities Intermediary will maintain an account in the name of the Indenture Trustee for the benefit of the Noteholders, into which collections on
         or in respect of the Receivables, and all amounts released from the Reserve Account, will be deposited (the “Collection Account”), together with
@@ -4777,6 +5028,8 @@ Consistent with its normal procedures, the Servicer will be authorized to grant 
         to grant such extension under law or pursuant to a court order.  However, the Servicer may, if a default, breach, violation, delinquency or event permitting acceleration under the terms of any Receivable has occurred or, in the judgment of the
         Servicer, is imminent:
 126
+
+[PAGE 127 | printed 127]
 [TABLE_276]
  | (A) | extend such Receivable for credit-related reasons that would be acceptable to the Servicer with respect to comparable Receivables that it services for itself, but only if the Final Scheduled Payment Date of such Receivable as extended
                 would not be later than the Class B Final Scheduled Payment Date; or
@@ -4817,6 +5070,8 @@ Each Receivable requires the related Obligor to possess physical damage insuranc
         coverage on behalf of the Obligor.  TMCC currently does not monitor ongoing customer insurance coverage in connection with its Customary Servicing Practices.  In the event that the failure of an Obligor to maintain any such required insurance
         results in a shortfall in amounts to be paid to Securityholders, to
 127
+
+[PAGE 128 | printed 128]
 the extent such shortfall is not covered by amounts on deposit in the Reserve Account or other methods of credit enhancement, the Securityholders could suffer a loss on their investment.
 Collections
 Except as described under “
@@ -4847,6 +5102,8 @@ Funds in the Collection Account and the Reserve Account (collectively, the “Tr
         by, any depository institution or trust company (including the Indenture Trustee or any affiliate of the Indenture Trustee) incorporated under the laws of the United States or any State and subject to supervision and examination by federal and/or
         State banking authorities
 128
+
+[PAGE 129 | printed 129]
 and the deposits of which are fully insured by the Federal Deposit Insurance Corporation (the “FDIC”), so long as at the time of such investment or contractual commitment providing for such investment, either such depository institution or trust
         company is an Eligible Institution (or if such investment will mature after more than one month, the long-term, unsecured debt of the issuer has the highest available rating from each Rating Agency) or in respect of which the Rating Agency
         Condition has been satisfied; (e) certificates of deposit issued by any bank, trust company, savings bank or other savings institution that is an Eligible Institution and is fully insured by the FDIC (or if such investment will mature after more
@@ -4876,6 +5133,8 @@ The Trust Accounts will be maintained as either (a) a segregated account with an
         as any of the securities of such depository institution have a credit rating acceptable to the Rating Agencies.  In the event that any Trust Account is no longer an Eligible Deposit Account, then the Servicer will, with the Indenture Trustee’s
         assistance as necessary, use
 129
+
+[PAGE 130 | printed 130]
 reasonable efforts to cause that Trust Account to be moved to an Eligible Institution or Eligible Trust Account Institution within 60 days.
 Payments
 Beginning on the Payment Date in August 2024, payments on each class of Notes will be made by the Indenture Trustee to the Noteholders and payments on the Certificates will be made by the Owner Trustee to the
@@ -4910,6 +5169,8 @@ Each of the following is a “Servicer Default” as specified in the Sale and S
                 the Certificateholder or Noteholders and continues unremedied for a period of 90 days after the date on which written notice of such failure is
 [/TABLE_279]
 130
+
+[PAGE 131 | printed 131]
 [TABLE_280]
  |  | received (i) by the Servicer from the Owner Trustee or the Indenture Trustee or (ii) by the Servicer and the Owner Trustee and Indenture Trustee, from the holders of Notes evidencing not less than a majority of the aggregate principal
                 amount of the Notes of the Controlling Class then outstanding (excluding for such purposes the aggregate outstanding principal amount of any Notes held of record or beneficially owned by TMCC, TAFR LLC or any of their affiliates), acting
@@ -4946,6 +5207,8 @@ The Sale and Servicing Agreement will also provide for delivery to the Issuing E
 The Sale and Servicing Agreement will require the Servicer to furnish to the Issuing Entity and the Indenture Trustee any report or information required to facilitate compliance by the Issuing Entity with Subpart
         229.1100 – Asset Backed Securities (Regulation AB), 17 C.F.R. §§229.1100-229.1125, as that regulation may be amended from time to time, and subject to such clarification and interpretation as have been provided by the SEC in
 131
+
+[PAGE 132 | printed 132]
 the related adopting releases or by the staff of the Commission, or as may be provided by the Commission or its staff from time to time.
 Copies of such statements and certificates may be obtained by Noteholders by a request in writing addressed to the Indenture Trustee.
 Certain Matters Regarding the Servicer; Servicer Liability
@@ -4975,6 +5238,8 @@ As long as a Servicer Default under the Sale and Servicing Agreement remains unr
         aggregate principal amount of the Notes of the Controlling Class then outstanding, acting together as a single class) or holders of Notes evidencing not less than a majority of the aggregate principal amount of the Notes of the Controlling Class
         then outstanding, acting together as a single class (excluding for such purposes the aggregate outstanding principal amount of any Notes held of record or beneficially owned by TMCC, TAFR LLC or any of
 132
+
+[PAGE 133 | printed 133]
 their affiliates), may terminate all the rights and obligations of the Servicer under the Sale and Servicing Agreement (except for obligations that expressly survive termination), whereupon the Indenture Trustee or a successor servicer appointed
         by the Indenture Trustee will succeed to all the responsibilities, duties and liabilities of the Servicer under the Sale and Servicing Agreement and will be entitled to similar compensation arrangements;
 provided,
@@ -5005,6 +5270,8 @@ Each Transfer and Servicing Agreement may also be amended by the parties thereto
 The Transfer and Servicing Agreements may also be amended by the parties thereto (including, in the case of the Sale and Servicing Agreement, with the consent of the Owner Trustee in the event that it would be affected
         by
 133
+
+[PAGE 134 | printed 134]
 such amendment) with the consent of the Indenture Trustee and with prior notice to the Rating Agencies, for the purpose of adding any provisions to or changing in any manner or eliminating any of the provisions of any such agreement or of
         modifying in any manner the rights of the Securityholders under such agreement; provided, that if the interests of the Noteholders are materially and adversely affected, the holders of Notes evidencing not less than a majority of the aggregate
         principal amount of the Notes of the Controlling Class then outstanding (excluding for such purposes the aggregate outstanding principal amount of any Notes held of record or beneficially owned by TMCC, TAFR LLC or any of their affiliates), acting
@@ -5034,6 +5301,8 @@ Payment of Notes
 Upon the payment in full of all outstanding Notes and the satisfaction and discharge of the Indenture, the Owner Trustee will succeed to all the rights of the Indenture Trustee, and the Certificateholders will succeed
         to all the rights of the Noteholders, under the Sale and Servicing Agreement, except as otherwise provided in the Sale and Servicing Agreement.
 134
+
+[PAGE 135 | printed 135]
 Depositor Liability
 Under the Sale and Servicing Agreement, the Depositor will agree to be liable directly to an injured party solely to the extent described in the Sale and Servicing Agreement.
 Termination
@@ -5062,6 +5331,8 @@ The Administration Agreement may be amended by a written amendment signed by the
         Certificateholders, for the purpose of adding any provisions to or modifying or changing in any manner or eliminating any of the provisions of the Administration Agreement; provided, however, that an officer’s certificate is delivered by the
         Servicer to the Indenture Trustee in connection with such amendment certifying that either (i) such officer reasonably believes such amendment will not, adversely affect in any material respect the interests of any
 135
+
+[PAGE 136 | printed 136]
 Noteholder or (ii) the Rating Agency Condition has been satisfied with respect to such amendment.  The Administration Agreement may also be amended by the parties thereto, without the consent of the Securityholders, for the purpose of conforming
         the provisions in the Administration Agreement to the descriptions thereof contained in this prospectus.
 Investor Communications
@@ -5100,6 +5371,8 @@ In states in which retail installment sales contracts such as the Receivables ev
 All retail installment sales contracts acquired by TMCC from Dealers name TMCC as obligee or assignee and as the secured party.  TMCC’s possession of tangible contracts and its control of electronic contracts perfects
         its
 136
+
+[PAGE 137 | printed 137]
 interest in the contracts against the Dealers and their creditors and also provides TMCC priority over any prior secured creditor, such as an inventory financer, that has a security interest in the contracts.  TMCC also takes all actions
         necessary under the laws of the state in which the related Financed Vehicle is located to perfect its security interest in that Financed Vehicle, including, where applicable, having a notation of its lien recorded on the related certificate of
         title or with the department of motor vehicles of such state and, where applicable, obtaining possession of that certificate of title.  Because TMCC continues to service the contracts as Servicer under the Sale and Servicing Agreement, the Obligors
@@ -5130,6 +5403,8 @@ In most states, an assignment of contracts and interests in motor vehicles such 
         the Receivables Purchase Agreement, TMCC would be required to purchase that Warranty Receivable from the Depositor, in each case unless the breach was cured by the last day of the second Collection Period following the Collection Period in which
         the
 137
+
+[PAGE 138 | printed 138]
 Depositor discovers or receives notice of such breach.  Pursuant to the Sale and Servicing Agreement, the Depositor will assign its rights to the Issuing Entity or cause TMCC to purchase the Warranty Receivable under the Receivables Purchase
         Agreement.  For additional information, you should refer to “
 Repurchases of Receivables
@@ -5167,6 +5442,8 @@ In the event of default by an Obligor, the holder of the related retail installm
         repossession, or if otherwise required by applicable state law, a court order must be obtained from the appropriate state court, and that vehicle must then be recovered in accordance with that order.  In some jurisdictions, the secured party is
         required to notify that Obligor of the default and the secured party’s intent to
 138
+
+[PAGE 139 | printed 139]
 repossess the collateral and to give that Obligor a time period within which to cure the default prior to repossession.  In some states, an Obligor has the right to reinstate its contract and recover the collateral by paying the delinquent
         installments and other amounts due.
 Notice of Sale of Financed Vehicles; Reinstatement and Redemption Rights
@@ -5195,6 +5472,8 @@ In structuring the transactions contemplated in this prospectus, the Depositor h
         Independent Manager) and the Issuing Entity as a wholly-owned, limited purpose subsidiary pursuant to the Trust Agreement containing certain limitations (including restrictions on the nature of the Issuing Entity’s business and on its ability to
         commence a voluntary case or proceeding under any Insolvency Law).  However, delays in payments on the Notes and possible reductions in the amount of those payments could occur if:
 139
+
+[PAGE 140 | printed 140]
 [TABLE_286]
  | 1. | a court were to conclude that the assets and liabilities of the Issuing Entity should be consolidated with those of TMCC or the Depositor in the event of the application of applicable Insolvency Laws to TMCC or the Depositor;
 [/TABLE_286]
@@ -5230,6 +5509,8 @@ There is uncertainty about which companies will be subject to the OLA rather tha
         proceeding would avoid or mitigate these adverse effects.  In addition, certain financial companies with $50 billion or more in assets, which could include TMCC, are potentially subject to assessments under the OLA.
 TMCC’s senior unsecured debt is currently assigned an investment grade rating.  TMCC’s business is generally limited to providing retail financing, dealer financing and certain other financial products and services to
 140
+
+[PAGE 141 | printed 141]
 vehicle and industrial equipment dealers and their customers and marketing, underwriting and administering voluntary protection product contracts related to covering certain risks of customers.  TMCC has many competitors in these businesses with
         substantial resources.  Notwithstanding the foregoing, there can be no assurance that circumstances will not change in the future or that, regardless of the nature and scope of TMCC’s business and competitive market, the Secretary of the Treasury
         would not determine that the failure of TMCC and its resolution under the Bankruptcy Code would have serious adverse effects on financial stability in the United States.
@@ -5259,6 +5540,8 @@ If the FDIC were appointed receiver of TMCC or of a covered subsidiary, includin
         subsequent FDIC actions in an OLA proceeding involving TMCC or its subsidiaries (including the Depositor or the Issuing Entity) are contrary to the FDIC Counsel Opinion, payment or distributions of principal and interest on the Securities issued by
         the Issuing Entity could be delayed or reduced.
 141
+
+[PAGE 142 | printed 142]
 As discussed above, we will structure each transfer of Receivables under the Receivables Purchase Agreement and the Sale and Servicing Agreement with the intent that it would be characterized as a legal true sale under
         applicable state law and that the Receivables would not be included in the transferor’s bankruptcy estate under the Bankruptcy Code.  If the transfers are so characterized, based on the FDIC Counsel Opinion and applicable law, the FDIC would not be
         able to recover the transferred Receivables using its repudiation power.  However, if the FDIC were to successfully assert that a transfer of Receivables was not a legal true sale and should instead be characterized as a transfer of a security
@@ -5289,6 +5572,8 @@ Consumer Finance Regulation
 Numerous federal and state consumer protection laws and related regulations impose substantial requirements upon lenders and servicers involved in consumer finance.  These laws and regulations include the Truth in
         Lending Act and its implementing regulation, Regulation Z, the Equal Credit Opportunity Act and its implementing regulation, Regulation B, the Federal Trade Commission Act, the Fair Credit Billing Act, the Fair
 142
+
+[PAGE 143 | printed 143]
 Debt Collections Practices Act, the Magnuson Moss Warranty Act, the Gramm-Leach-Bliley Act, the SCRA and similar state laws protecting servicemembers, the National Consumer Credit Protection Act, the Texas Consumer Credit Code, the Dodd-Frank
         Act, state adoptions of the National Consumer Act and of the Uniform Consumer Credit Code and state motor vehicle retail installment sales acts and other similar laws.  Many states have adopted “lemon laws” that provide redress to consumers who
         purchase a vehicle that remains out of compliance with its manufacturer’s warranty after a specified number of attempts to correct a problem or a specified time period.  Also, state laws impose finance charge ceilings and other restrictions on
@@ -5323,6 +5608,8 @@ Courts have applied general equitable principles to secured parties pursuing rep
 The Consumer Financial Protection Bureau (the “CFPB”), has broad rulemaking, supervisory and enforcement authority over entities offering consumer financial services or products, including non-bank companies, such as
         TMCC (“Covered Entities”).  The CFPB’s supervisory authority has focused on fair lending compliance,
 143
+
+[PAGE 144 | printed 144]
 repossession of motor vehicles, debt collection, the treatment of customers during the COVID-19 pandemic, credit reporting, and the marketing and sale of certain optional products, including voluntary protection products financed by TMCC or sold
         through TMIS.
 The CFPB’s supervisory authority permits it to examine Covered Entities for compliance with consumer financial protection laws, including discriminatory practices not directly covered by the Equal Credit Opportunity
@@ -5351,6 +5638,8 @@ If the FDIC were appointed receiver of TMCC, the Depositor or the Issuing Entity
         estate, including secured debt.  TMCC has structured the transfers of the Receivables to the Depositor and the Issuing Entity as a valid and perfected sale under applicable state law and under the Bankruptcy Code to mitigate the risk of the
         recharacterization of the sale as a grant of security interest to secure debt of TMCC.  Any attempt by the FDIC to recharacterize the transfer of the Receivables as a grant of a security interest to secure debt that the FDIC
 144
+
+[PAGE 145 | printed 145]
 then repudiates would cause delays in payments or losses on the Notes.  In addition, if the Issuing Entity were to become subject to the Orderly Liquidation Authority, the FDIC may repudiate the debt of the Issuing Entity and the Noteholders
         would have a secured claim in the receivership of the Issuing Entity.  Also, if the Issuing Entity were subject to Orderly Liquidation Authority, the Noteholders would not be permitted to accelerate the debt, exercise remedies against the
         collateral or replace the Servicer without the FDIC’s consent for 90 days after the receiver is appointed.  As a result of any of these events, delays in payments on the Notes would occur and possible reductions in the amount of those payments
@@ -5384,6 +5673,8 @@ Under the terms of the SCRA, an Obligor who enters the military service (includi
         U.S. Public Health Service assigned to duty with the military, on active duty or absent from duty for lawful cause) after the origination of that Obligor’s Receivable (including an Obligor who is a member of the National Guard or is in reserve
         status at the time of the origination of the Obligor’s Receivable and is later called to active duty) may not be charged interest and fees above an annual rate of 6% during the period of that Obligor’s active
 145
+
+[PAGE 146 | printed 146]
 duty status after a request for relief by the Obligor.  The SCRA provides for extension of payments during a period of service upon request of the Obligor.  Interest and fees at a rate in excess of 6% that would have been incurred but for the
         SCRA are forgiven.  The Servicer will modify any Receivable impacted by the SCRA and will be obligated to purchase any such modified Receivable by depositing an amount equal to the remaining outstanding Principal Balance of such Receivable into the
         Collection Account.  In addition, the SCRA and the laws of some states, including California, New York and New Jersey, impose limitations that would impair the ability of the Servicer to repossess the released Financed Vehicle during the Obligor’s
@@ -5420,6 +5711,8 @@ Certain transactions involving the Issuing Entity might be deemed to constitute 
         Class A Notes acquired by parties unaffiliated with the Issuing Entity should be treated as indebtedness without substantial equity features for purposes of the Regulation.  This determination is based in part upon (i) tax counsel’s opinion that
         Class A Notes held by parties unaffiliated with the Issuing Entity will be classified as debt for U.S. federal income tax purposes and (ii) the traditional debt features of
 146
+
+[PAGE 147 | printed 147]
 such Class A Notes, including the reasonable expectation of purchasers of the Notes that they will be repaid when due, as well as the absence of conversion rights, warrants and other typical equity features.  Based upon the foregoing and other
         considerations, and subject to the considerations described below, such Class A Notes may be acquired by a Plan.
 However, without regard to whether the Class A Notes are treated as indebtedness for purposes of the Regulation, the acquisition or holding of Class A Notes by or on behalf of a Plan could be considered to give rise to
@@ -5447,6 +5740,8 @@ The sale of Class A Notes to a Plan or any other plan is in no respect a represe
 Prospective Plan or other plan investors should consult with their legal advisors concerning the impact of ERISA and Section 4975 of the Code or any Similar Law, the effect of the assets of the
         Issuing Entity being deemed “plan assets” and the applicability of any applicable exemption prior to making an
 147
+
+[PAGE 148 | printed 148]
 investment in the Class A Notes.  Each Plan or other plan fiduciary should determine whether under applicable fiduciary standards of investment prudence and diversification, an investment in the Class A Notes is
         appropriate for the Plan or other plan, also taking into account the overall investment policy of the Plan or other plan and the composition of the Plan’s or other plan’s investment portfolio.
 MATERIAL U.S. FEDERAL INCOME TAX CONSIDERATIONS
@@ -5478,6 +5773,8 @@ Special rules, not addressed in this discussion, may apply to persons purchasing
         entity or arrangement treated as a partnership for U.S. federal income tax purposes) purchasing Class A Notes and persons purchasing Class A Notes through such a partnership (or entity or arrangement treated as a partnership for U.S. federal income
         tax purposes) should consult their own tax advisors in that regard.
 148
+
+[PAGE 149 | printed 149]
 On the Closing Date, Tax Counsel will deliver its opinion that under current law, assuming the execution of, and compliance with, the Indenture, the Trust Agreement and the Transfer and Servicing Agreements and subject
         to the discussion below, the Issuing Entity will not be classified as an association or a publicly traded partnership, in either case taxable as a corporation for U.S. federal income tax purposes.  Further, Tax Counsel will issue an opinion to the
         Issuing Entity that as of their issuance date, the Class A Notes that are held by parties unaffiliated with the Issuing Entity will be classified as debt for U.S. federal income tax purposes.  Note Owners of Class A Notes that are offered by this
@@ -5507,6 +5804,8 @@ Retained Notes
 .  The Retained Notes initially will be retained by the Depositor. The characterization of the Retained Notes as equity or indebtedness for U.S. federal income tax
         purposes, and the potential consequences of that characterization, will be determined only when such Retained Notes are transferred to a party unaffiliated with
 149
+
+[PAGE 150 | printed 150]
 the Issuing Entity. Therefore, as noted above, this discussion will apply only to the Class A Notes that are offered and sold, on the Closing Date, to parties unaffiliated with the Issuing Entity.
 Treatment of the Class A Notes as Indebtedness
 .  The Depositor and any Note Owners will agree by their purchase of Class A Notes, to treat the Class A Notes as debt for purposes
@@ -5542,6 +5841,8 @@ While it is anticipated that the interest formula for the Class A Notes will mee
 In the case of a debt instrument (such as a Class A Note) as to which the repayment of principal may be accelerated as a result of the prepayment of other obligations securing the debt instrument, under Section
         1272(a)(6) of the Code, the periodic accrual of OID is determined by taking into account (i) a reasonable prepayment assumption (generally, the assumption used to price the debt offering), and (ii) adjustments in the accrual of OID
 150
+
+[PAGE 151 | printed 151]
 when prepayments do not conform to the prepayment assumption.  To date, no Treasury regulations have been promulgated under Section 1272(a)(6) of the Code and it is unclear whether the provisions would be applicable to the Class A Notes in the
         absence of such regulations or whether use of a reasonable prepayment assumption may be required or permitted without reliance on these rules.  If this provision applies to the Class A Notes, the amount of OID that will accrue in any given “accrual
         period” may either increase or decrease depending upon the actual prepayment rate of the Receivables.  In the absence of such regulations (or statutory or other administrative clarification), any information reports or returns to the IRS and the
@@ -5580,6 +5881,8 @@ Amortizable Bond Premium
         year for which the election applies and is irrevocable without the consent of the IRS.  Bond premium on a Class A Note held by a U.S. Note Owner who does not elect to amortize the premium will decrease the gain or increase the loss otherwise
         recognized on the disposition of the Class A Note.
 151
+
+[PAGE 152 | printed 152]
 Acquisition Premium
 .  A U.S. Note Owner that purchases in a secondary market a Class A Note that was originally issued with OID, for an amount that is less than or equal to the
         sum of all amounts (other than payments of qualified stated interest) payable on the Class A Note after the purchase date but that is in excess of its adjusted issue price (such excess being “acquisition premium”) and that does not make the
@@ -5621,6 +5924,8 @@ Except as described below with respect to backup withholding or FATCA (defined b
 To qualify for the portfolio interest exemption, the Foreign Note Owner must provide the applicable trustee or other person who is otherwise required to withhold U.S. tax with respect to the Class A Notes with an
         appropriate statement (on IRS Form W-8BEN or IRS Form W-8BEN-E or applicable similar or successor forms), signed under penalty of perjury, certifying that the Note Owner is a Foreign Note Owner and providing the Foreign Note Owner’s
 152
+
+[PAGE 153 | printed 153]
 name and address.  Interest paid to a Foreign Note Owner is also not subject to U.S. federal withholding tax if such interest is effectively connected with the conduct of a trade or business within the United States by the Foreign Note Owner and
         such Foreign Note Owner submits a properly executed IRS Form W-8ECI (or applicable successor form).  If a Class A Note is held through a securities clearing organization or other financial institution, the organization or institution may provide
         the relevant signed statement to the withholding agent; in that case, however, the Foreign Note Owner must provide the security clearing organization or other financial institution with an IRS Form W-8BEN, IRS Form W-8BEN-E, IRS Form W-8ECI or
@@ -5654,6 +5959,8 @@ If, contrary to the opinion of Tax Counsel, the IRS successfully asserted that o
         represent debt for U.S. federal income tax purposes, the Class A Notes may be treated as equity interests in the Issuing Entity.  If so treated, the Issuing Entity may be taxable as a corporation or publicly traded partnership with the adverse
         consequences described above (and
 153
+
+[PAGE 154 | printed 154]
 the corporation or publicly traded partnership would not be able to reduce its taxable income by deductions for interest expense on Class A Notes recharacterized as equity).  Alternatively, and most likely, in the view of Tax Counsel, the
         Issuing Entity may be treated as a partnership (including a publicly traded partnership) that would not be taxable as a corporation for U.S. federal income tax purposes.  Nonetheless, treatment of the Class A Notes as equity interests in a
         partnership or publicly traded partnership could have adverse tax consequences to some Note Owners.  For example, income to some tax-exempt entities (including pension funds) may be treated as “unrelated business taxable income,” income to Foreign
@@ -5683,6 +5990,8 @@ Reportable Transactions
         an information return with the IRS with respect to a “reportable transaction” (as defined in Section 6011 of the Code). The rules defining “reportable transactions” are complex but include (and are not limited to) transactions that result in
         certain losses that exceed threshold amounts. Prospective investors are advised to consult their own tax advisers regarding any possible disclosure obligations in light of their particular circumstances.
 154
+
+[PAGE 155 | printed 155]
 CERTAIN STATE TAX CONSEQUENCES
 The above discussion does not address the tax treatment of the Issuing Entity, any Notes or any Note Owners under any state or local tax laws.  The activities to be undertaken by the Servicer in servicing and
         collecting the Receivables will take place in various states and, therefore, many different state and local tax regimes potentially apply to different portions of these transactions.  Prospective investors are urged to consult with their tax
@@ -5723,6 +6032,8 @@ For the time period that the Issuing Entity is required to report under the Exch
 [/TABLE_297]
 Unless specifically stated in such a report, neither the report nor any information included in such report will be examined or reported on by an independent public accountant.
 155
+
+[PAGE 156 | printed 156]
 The distribution and pool performance reports filed on Form 10-D will be forwarded to each Securityholder as specified under “
 Description of the Notes—Reports to Securityholders
 ”
@@ -5774,6 +6085,8 @@ ____________________
 The closing of the sale of any class of the Notes will be conditioned on the closing of the sale of all other classes of the Notes.  After the initial public offering of the Underwritten Notes, the public offering
         prices and the concessions may change.  To the extent any Underwriter that is not a United States registered broker-dealer intends
 156
+
+[PAGE 157 | printed 157]
 to effect any offers or sales of any Underwritten Notes in the United States, it will do so through one or more United States registered broker-dealers in accordance with the applicable United States securities laws and regulations.
 Until the distribution of the Underwritten Notes is completed, rules of the SEC may limit the ability of the Underwriters and certain selling group members to bid for and purchase the Underwritten Notes.  As an
         exception to these rules, the Underwriters are permitted to engage in certain transactions to stabilize the price of the Underwritten Notes.  Such transactions consist of bids or purchases for the purpose of pegging, fixing or maintaining the price
@@ -5805,6 +6118,8 @@ The Sponsor,
         otherwise at varying prices to be determined at the time of sale.  Any underwriters or placement agents that participate in the distribution of any class of Retained Notes retained or purchased by the Depositor or an affiliate of the Depositor may
         be deemed to be “underwriters” within the meaning of the Securities Act and any profit on the sale of those Notes by them and any
 157
+
+[PAGE 158 | printed 158]
 discounts, commissions, concessions or other compensation received by any of them may be deemed to be underwriting discounts and commissions under the Securities Act.
 TFSS USA is a member of the Financial Industry Regulatory Authority, Inc. (“FINRA”) (formerly known as the National Association of Securities Dealers, Inc., or NASD).  The principal business of TFSS USA is to sell
           debt securities of its affiliates, including those of TMCC.  TFSS USA is an affiliate of TMCC and may participate as a placement agent in the distribution of any Retained Notes offered pursuant to this prospectus. FINRA Rule 5121 imposes certain
@@ -5848,6 +6163,8 @@ Each Underwriter has also represented and agreed that it has not offered, sold o
                     as amended; or
 [/TABLE_312]
 158
+
+[PAGE 159 | printed 159]
 [TABLE_313]
  | (ii) | a customer within the meaning of the provisions of the FSMA and any rules or regulations made under the FSMA to implement Directive (EU) 2016/97 (such rules or regulations, as amended), where that customer would not qualify as a
                 professional client, as defined in point (8) of Article 2(1) of Regulation (EU) No 600/2014 as it forms part of the domestic law of the UK by virtue of the EUWA, and as amended; or
@@ -5862,6 +6179,8 @@ LEGAL OPINIONS
 In addition to the legal opinions described in this prospectus, certain legal matters relating to the Notes and certain U.S. federal income tax and other matters will be passed upon for the Issuing Entity by Morgan,
         Lewis & Bockius LLP.  Certain legal matters relating to the Notes will be passed upon for the Underwriters by Mayer Brown LLP.
 159
+
+[PAGE 160 | printed 160]
 INDEX OF TERMS
 [TABLE_316]
 60-Day Delinquent Receivable | 76
@@ -5976,6 +6295,8 @@ Initial Asset-Level Data | 71
 Insolvency Event | 131
 [/TABLE_317]
 160
+
+[PAGE 161 | printed 161]
 [TABLE_318]
 Insolvency Laws | 139
 Interest Period | 102
@@ -6085,6 +6406,8 @@ WTNA | 57
 Yield Supplement Overcollateralization Amount | 124
 [/TABLE_319]
 161
+
+[PAGE 162 | printed A-1]
 ANNEX A
 GLOBAL CLEARANCE, SETTLEMENT AND
 TAX DOCUMENTATION PROCEDURES
@@ -6121,6 +6444,8 @@ Trading Between DTC Depositor and Clearstream or Euroclear System Participants
 .  When Global Notes are to be transferred from the account of a DTC Participant to the account of
         a Clearstream Participant or a Euroclear System Participant, the purchaser will send instructions to Clearstream or Euroclear through a Clearstream
 A-1
+
+[PAGE 163 | printed A-2]
 Participant or Euroclear System Participant at least one business day prior to settlement. Clearstream or Euroclear will instruct the respective Depositary, as the case may be, to receive the Global Notes against payment. Payment will include
         interest accrued on the Global Notes from and including the last coupon payment date to and excluding the settlement date, on the basis of a 360-day year of twelve 30-day months or a 360-day year and the actual number of days in the Interest
         Period, as applicable. For transactions settling on the 31st of the month, payment will include interest accrued to and excluding the first day of the following month. Payment will then be made by the respective Depositary of the DTC Participant’s
@@ -6150,6 +6475,8 @@ Trading Between Clearstream or Euroclear System Depositor and DTC Purchaser
 Finally, day traders that use Clearstream or Euroclear and that purchase Global Notes from DTC Participants for delivery to Clearstream Participants or Euroclear System Participants should note that these trades would
         automatically fail on the sale side unless affirmative action were taken. At least three techniques should be readily available to eliminate this potential problem:
 A-2
+
+[PAGE 164 | printed A-3]
 (a)
 borrowing through Clearstream or Euroclear for one day (until the purchase side of the day trade is reflected in their
         Clearstream or Euroclear System accounts) in accordance with the clearing system’s customary procedures;
@@ -6186,6 +6513,8 @@ An IRS Form W-8ECI, IRS Form W-8BEN and IRS Form W-8BEN-E generally remains in e
         change in circumstances causing any information on the form to be incorrect. However, under certain conditions, an IRS Form W-8BEN or IRS Form W-8BEN-E will remain in effect indefinitely until a change in circumstances occurs.  If the information
         shown on an IRS Form W-8ECI, IRS Form W-8BEN or IRS Form W-8BEN-E changes, a new form must be filed within 30 days of the change.
 A-3
+
+[PAGE 165 | printed A-4]
 As used in the foregoing discussion, the term “U.S. Person” means (i) a citizen or resident of the United States, (ii) an entity treated as a corporation or a partnership for U.S. federal income tax purposes created or
         organized under the laws of the United States, any state thereof, or the District of Columbia, (iii) an estate, the income of which is includible in gross income for U.S. federal income tax purposes regardless of its source, or (iv) a trust, if a
         court within the United States is able to exercise primary supervision over the administration of the trust and one or more United States persons (as such term is defined in the Code and Treasury Regulations) have the authority to control all
@@ -6197,6 +6526,8 @@ Material U.S.
           Federal Income Tax Considerations─Tax Consequences to Note Owners─Foreign Account Tax Compliance
 ” in this prospectus.
 A-4
+
+[PAGE 166 | printed B-1]
 ANNEX B
 STATIC POOL INFORMATION
 [TABLE_320]
@@ -6254,6 +6585,8 @@ ________________________________________
                 securitization are categorized as “crossover utility vehicles” for each securitization after the Toyota Auto Receivables 2021-A Owner Trust securitization.
 [/TABLE_323]
 B-1
+
+[PAGE 167 | printed B-2]
 [TABLE_324]
 Original Summary Characteristics by Prior Securitization: |  | TAOT 2020-A |  | TAOT 2020-B |  | TAOT 2020-C |  | TAOT 2020-D
 Number of Pool Assets |  | 97,464 |  | 67,524 |  | 86,264 |  | 87,460
@@ -6309,6 +6642,8 @@ ________________________________________
                 Trust securitization are categorized as “crossover utility vehicles” for each securitization after the Toyota Auto Receivables 2021-A Owner Trust securitization.
 [/TABLE_327]
 B-2
+
+[PAGE 168 | printed B-3]
 [TABLE_328]
 Original Summary Characteristics by Prior Securitization: |  | TAOT 2021-A |  | TAOT 2021-B |  | TAOT 2021-C |  | TAOT 2021-D
 Number of Pool Assets |  | 89,958 |  | 78,636 |  | 75,689 |  | 75,426
@@ -6365,6 +6700,8 @@ ________________________________________
                 Trust securitization are categorized as “crossover utility vehicles” for each securitization after the Toyota Auto Receivables 2021-A Owner Trust securitization.
 [/TABLE_331]
 B-3
+
+[PAGE 169 | printed B-4]
 [TABLE_332]
 Original Summary Characteristics by Prior Securitization: |  | TAOT 2022-A |  | TAOT 2022-B |  | TAOT 2022-C |  | TAOT 2022-D
 Number of Pool Assets |  | 77,985 |  | 77,626 |  | 65,964 |  | 68,972
@@ -6421,6 +6758,8 @@ ________________________________________
                   categorized as “crossover utility vehicles” for each securitization after the Toyota Auto Receivables 2021-A Owner Trust securitization.
 [/TABLE_335]
 B-4
+
+[PAGE 170 | printed B-5]
 [TABLE_336]
 Original Summary Characteristics by Prior Securitization: |  | TAOT 2023-A |  | TAOT 2023-B |  | TAOT 2023-C |  | TAOT 2023-D
 Number of Pool Assets |  | 69,360 |  | 67,500 |  | 65,736 |  | 65,406
@@ -6477,6 +6816,8 @@ ________________________________________
                   categorized as “crossover utility vehicles” for each securitization after the Toyota Auto Receivables 2021-A Owner Trust securitization.
 [/TABLE_339]
 B-5
+
+[PAGE 171 | printed B-6]
 [TABLE_340]
 Original Summary Characteristics by Prior Securitization: |  | TAOT 2024-A |  | TAOT 2024-B | 
 Number of Pool Assets |  | 71,726 |  | 70,254 | 
@@ -6533,6 +6874,8 @@ ________________________________________
                 “crossover utility vehicles” for each securitization after the Toyota Auto Receivables 2021-A Owner Trust securitization.
 [/TABLE_343]
 B-6
+
+[PAGE 172 | printed B-7]
 TAOT 2019-A - Delinquencies
 (1)(2)
 [TABLE_344]
@@ -6594,6 +6937,8 @@ _______________
 (2) | Delinquent Receivables are charged off as soon as TMCC determines that the vehicle cannot be recovered, but not later than when the contract is 120 days contractually delinquent.
 [/TABLE_346]
 B-7
+
+[PAGE 173 | printed B-8]
 TAOT 2019-B - Delinquencies
 (1)(2)
 [TABLE_347]
@@ -6654,6 +6999,8 @@ _______________
 (2) | Delinquent Receivables are charged off as soon as TMCC determines that the vehicle cannot be recovered, but not later than when the contract is 120 days contractually delinquent.
 [/TABLE_349]
 B-8
+
+[PAGE 174 | printed B-9]
 TAOT 2019-C - Delinquencies
 (1)(2)
 [TABLE_350]
@@ -6713,6 +7060,8 @@ _______________
 (2) | Delinquent Receivables are charged off as soon as TMCC determines that the vehicle cannot be recovered, but not later than when the contract is 120 days contractually delinquent.
 [/TABLE_352]
 B-9
+
+[PAGE 175 | printed B-10]
 TAOT 2019-D - Delinquencies
 (1)(2)
 [TABLE_353]
@@ -6773,6 +7122,8 @@ _______________
 (2) | Delinquent Receivables are charged off as soon as TMCC determines that the vehicle cannot be recovered, but not later than when the contract is 120 days contractually delinquent.
 [/TABLE_355]
 B-10
+
+[PAGE 176 | printed B-11]
 TAOT 2020-A - Delinquencies
 (1)(2)
 [TABLE_356]
@@ -6833,6 +7184,8 @@ _______________
 (2) | Delinquent Receivables are charged off as soon as TMCC determines that the vehicle cannot be recovered, but not later than when the contract is 120 days contractually delinquent.
 [/TABLE_358]
 B-11
+
+[PAGE 177 | printed B-12]
 TAOT 2020-B - Delinquencies
 (1)(2)
 [TABLE_359]
@@ -6894,6 +7247,8 @@ _______________
 (2) | Delinquent Receivables are charged off as soon as TMCC determines that the vehicle cannot be recovered, but not later than when the contract is 120 days contractually delinquent.
 [/TABLE_361]
 B-12
+
+[PAGE 178 | printed B-13]
 TAOT 2020-C - Delinquencies
 (1)(2)
 [TABLE_362]
@@ -6954,6 +7309,8 @@ _______________
 (2) | Delinquent Receivables are charged off as soon as TMCC determines that the vehicle cannot be recovered, but not later than when the contract is 120 days contractually delinquent.
 [/TABLE_364]
 B-13
+
+[PAGE 179 | printed B-14]
 TAOT 2020-D - Delinquencies
 (1)(2)
 [TABLE_365]
@@ -7011,6 +7368,8 @@ _______________
 (2) | Delinquent Receivables are charged off as soon as TMCC determines that the vehicle cannot be recovered, but not later than when the contract is 120 days contractually delinquent.
 [/TABLE_367]
 B-14
+
+[PAGE 180 | printed B-15]
 TAOT 2021-A - Delinquencies
 (1)(2)
 [TABLE_368]
@@ -7064,6 +7423,8 @@ _______________
 (2) | Delinquent Receivables are charged off as soon as TMCC determines that the vehicle cannot be recovered, but not later than when the contract is 120 days contractually delinquent.
 [/TABLE_370]
 B-15
+
+[PAGE 181 | printed B-16]
 TAOT 2021-B - Delinquencies
 (1)(2)
 [TABLE_371]
@@ -7113,6 +7474,8 @@ _______________
 (2) | Delinquent Receivables are charged off as soon as TMCC determines that the vehicle cannot be recovered, but not later than when the contract is 120 days contractually delinquent.
 [/TABLE_373]
 B-16
+
+[PAGE 182 | printed B-17]
 TAOT 2021-C - Delinquencies
 (1)(2)
 [TABLE_374]
@@ -7159,6 +7522,8 @@ _______________
 (2) | Delinquent Receivables are charged off as soon as TMCC determines that the vehicle cannot be recovered, but not later than when the contract is 120 days contractually delinquent.
 [/TABLE_376]
 B-17
+
+[PAGE 183 | printed B-18]
 TAOT 2021-D - Delinquencies
 (1)(2)
 [TABLE_377]
@@ -7203,6 +7568,8 @@ _______________
 (2) | Delinquent Receivables are charged off as soon as TMCC determines that the vehicle cannot be recovered, but not later than when the contract is 120 days contractually delinquent.
 [/TABLE_379]
 B-18
+
+[PAGE 184 | printed B-19]
 TAOT 2022-A - Delinquencies
 (1)(2)
 [TABLE_380]
@@ -7245,6 +7612,8 @@ _______________
 (2) | Delinquent Receivables are charged off as soon as TMCC determines that the vehicle cannot be recovered, but not later than when the contract is 120 days contractually delinquent.
 [/TABLE_382]
 B-19
+
+[PAGE 185 | printed B-20]
 TAOT 2022-B - Delinquencies
 (1)(2)
 [TABLE_383]
@@ -7284,6 +7653,8 @@ _______________
 (2) | Delinquent Receivables are charged off as soon as TMCC determines that the vehicle cannot be recovered, but not later than when the contract is 120 days contractually delinquent.
 [/TABLE_385]
 B-20
+
+[PAGE 186 | printed B-21]
 TAOT 2022-C - Delinquencies
 (1)(2)
 [TABLE_386]
@@ -7319,6 +7690,8 @@ _______________
 (2) | Delinquent Receivables are charged off as soon as TMCC determines that the vehicle cannot be recovered, but not later than when the contract is 120 days contractually delinquent.
 [/TABLE_388]
 B-21
+
+[PAGE 187 | printed B-22]
 TAOT 2022-D - Delinquencies
 (1)(2)
 [TABLE_389]
@@ -7351,6 +7724,8 @@ _______________
 (2) | Delinquent Receivables are charged off as soon as TMCC determines that the vehicle cannot be recovered, but not later than when the contract is 120 days contractually delinquent.
 [/TABLE_391]
 B-22
+
+[PAGE 188 | printed B-23]
 TAOT 2023-A - Delinquencies
 (1)(2)
 [TABLE_392]
@@ -7381,6 +7756,8 @@ _______________
 (2) | Delinquent Receivables are charged off as soon as TMCC determines that the vehicle cannot be recovered, but not later than when the contract is 120 days contractually delinquent.
 [/TABLE_394]
 B-23
+
+[PAGE 189 | printed B-24]
 TAOT 2023-B - Delinquencies
 (1)(2)
 [TABLE_395]
@@ -7407,6 +7784,8 @@ _______________
 (2) | Delinquent Receivables are charged off as soon as TMCC determines that the vehicle cannot be recovered, but not later than when the contract is 120 days contractually delinquent.
 [/TABLE_397]
 B-24
+
+[PAGE 190 | printed B-25]
 TAOT 2023-C - Delinquencies
 (1)(2)
 [TABLE_398]
@@ -7430,6 +7809,8 @@ _______________
 (2) | Delinquent Receivables are charged off as soon as TMCC determines that the vehicle cannot be recovered, but not later than when the contract is 120 days contractually delinquent.
 [/TABLE_400]
 B-25
+
+[PAGE 191 | printed B-26]
 TAOT 2023-D - Delinquencies
 (1)(2)
 [TABLE_401]
@@ -7450,6 +7831,8 @@ _______________
 (2) | Delinquent Receivables are charged off as soon as TMCC determines that the vehicle cannot be recovered, but not later than when the contract is 120 days contractually delinquent.
 [/TABLE_403]
 B-26
+
+[PAGE 192 | printed B-27]
 TAOT 2024-A - Delinquencies
 (1)(2)
 [TABLE_404]
@@ -7468,6 +7851,8 @@ _______________
 (2) | Delinquent Receivables are charged off as soon as TMCC determines that the vehicle cannot be recovered, but not later than when the contract is 120 days contractually delinquent.
 [/TABLE_406]
 B-27
+
+[PAGE 193 | printed B-28]
 TAOT 2024-B - Delinquencies
 (1)(2)
 [TABLE_407]
@@ -7483,6 +7868,8 @@ _______________
 (2) | Delinquent Receivables are charged off as soon as TMCC determines that the vehicle cannot be recovered, but not later than when the contract is 120 days contractually delinquent.
 [/TABLE_409]
 B-28
+
+[PAGE 194 | printed B-29]
 60+ Day Delinquencies
 (1)(2)(3)
 _____________
@@ -7496,6 +7883,8 @@ _____________
 (3) | Delinquent Receivables are charged off as soon as TMCC determines that the vehicle cannot be recovered, but not later than when the contract is 120 days contractually delinquent.
 [/TABLE_412]
 B-29
+
+[PAGE 195 | printed B-30]
 Prepayment Speeds
 (1)
 [TABLE_413]
@@ -7557,6 +7946,8 @@ _______________
                 expressed as an ABS Speed by dividing (a) the product of one hundred and the SMM by (b) the sum of (i) one hundred and (ii) the SMM multiplied by the age of the pool, in months, minus one.
 [/TABLE_414]
 B-30
+
+[PAGE 196 | printed B-31]
 Prepayment Speeds
 (1)
 [TABLE_415]
@@ -7610,6 +8001,8 @@ _______________
                 expressed as an ABS Speed by dividing (a) the product of one hundred and the SMM by (b) the sum of (i) one hundred and (ii) the SMM multiplied by the age of the pool, in months, minus one.
 [/TABLE_416]
 B-31
+
+[PAGE 197 | printed B-32]
 Prepayment Speeds
 (1)
 _______________
@@ -7620,6 +8013,8 @@ _______________
                 expressed as an ABS Speed by dividing (a) the product of one hundred and the SMM by (b) the sum of (i) one hundred and (ii) the SMM multiplied by the age of the pool, in months, minus one.
 [/TABLE_417]
 B-32
+
+[PAGE 198 | printed B-33]
 Cumulative Net Losses
 (1)
 [TABLE_418]
@@ -7679,6 +8074,8 @@ The monthly net cumulative loss percent is the cumulative net
         dollars charged off, which is the net remaining principal balance, including earned but not yet received finance charges, repossession expenses and unpaid extension fees, less any proceeds from the liquidation of the related vehicle and any
         subsequent post-charge-off recoveries, divided by the original pool balance of the receivables.
 B-33
+
+[PAGE 199 | printed B-34]
 Cumulative Net Losses
 (1)
 [TABLE_419]
@@ -7730,6 +8127,8 @@ The monthly net cumulative loss percent is the cumulative net
         dollars charged off, which is the net remaining principal balance, including earned but not yet received finance charges, repossession expenses and unpaid extension fees, less any proceeds from the liquidation of the related vehicle and any
         subsequent post-charge-off recoveries, divided by the original pool balance of the receivables.
 B-34
+
+[PAGE 200 | printed B-35]
 Cumulative Net Losses
 (1)
 _______________
@@ -7738,6 +8137,8 @@ _______________
                 unpaid extension fees, less any proceeds from the liquidation of the related vehicle and any subsequent post-charge-off recoveries, divided by the original pool balance of the receivables.
 [/TABLE_420]
 B-35
+
+[PAGE 201]
 Toyota Auto Receivables 2024-C Owner Trust
 If the aggregate initial principal amount of the notes is $1,350,000,000, Toyota Auto Receivables 2024-C Owner Trust will issue the following classes of asset-backed notes:
 $295,000,000
