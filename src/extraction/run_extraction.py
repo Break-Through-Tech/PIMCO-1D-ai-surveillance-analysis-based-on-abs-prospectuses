@@ -5,7 +5,9 @@ import traceback
 from pathlib import Path
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
+from config.companies import COMPANIES
 from html_parser import extract_filing, DATA_DIR, PROJECT_ROOT
 
 DATA_DIR_PATH = Path(DATA_DIR)
@@ -14,23 +16,6 @@ TEXT_OUTPUT_DIR = os.path.join(OUTPUT_DIR, "text")
 TABLES_OUTPUT_DIR = os.path.join(OUTPUT_DIR, "tables")
 LOG_PATH = os.path.join(OUTPUT_DIR, "extraction_log.json")
 
-COMPANIES = {
-    "FORD_CREDIT": "FORD_CREDIT_AUTO_RECEIVABLES_TWO_LLC",
-    "WORLD_OMNI": "WORLD_OMNI_AUTO_RECEIVABLES_LLC",
-    "AMERICAN_HONDA": "AMERICAN_HONDA_RECEIVABLES_LLC",
-    "Ally_Auto": "Ally_Auto_Assets_LLC", 
-    "AMERICAN_EXPRESS": "AMERICAN_EXPRESS_CREDIT_ACCOUNT_MASTER_TRUST",
-    "BMW": "BMW_AUTO_LEASING_LLC",
-    "SANTANDER": "SANTANDER_DRIVE_AUTO_RECEIVABLES_LLC",
-    "VERIZON": "Verizon_ABS_II_LLC",
-    "WELLS_FARGO": "WELLS_FARGO_COMMERCIAL_MORTGAGE_SECURITIES_INC",
-    "TOYOTA": "TOYOTA_AUTO_FINANCE_RECEIVABLES_LLC",
-    "HYUNDAI": "HYUNDAI_ABS_FUNDING_LLC",
-    "CARMAX": "CARMAX_AUTO_FUNDING_LLC",
-    "HARLEY_DAVIDSON": "HARLEY-DAVIDSON_CUSTOMER_FUNDING_CORP_",
-    "BRIDGECREST": "Bridgecrest_Auto_Funding_LLC",
-    "AFS": "AFS_SENSUB_CORP",
-}
 
 def get_filing_files(company_prefix):
     #Return all .htm files matching a company prefix
