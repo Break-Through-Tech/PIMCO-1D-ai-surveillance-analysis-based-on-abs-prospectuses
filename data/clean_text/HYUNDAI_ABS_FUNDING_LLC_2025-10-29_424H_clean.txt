@@ -1,3 +1,4 @@
+[PAGE 1]
 Filed Pursuant to Rule
 424(h)
 Registration Nos. 333-284087
@@ -149,6 +150,8 @@ Co-Managers
 [/TABLE_8]
 The date of this prospectus is November 
 , 2025.
+
+[PAGE 2 | printed i]
 TABLE OF CONTENTS
 Page
 [TABLE_9]
@@ -223,6 +226,8 @@ Capitalization
 [TABLE_10]
  | i | 
 [/TABLE_10]
+
+[PAGE 3 | printed ii]
 TABLE
 OF CONTENTS
 (continued)
@@ -296,6 +301,8 @@ WEIGHTED
 [TABLE_12]
  | ii | 
 [/TABLE_12]
+
+[PAGE 4 | printed iii]
 TABLE
 OF CONTENTS
 (continued)
@@ -369,6 +376,8 @@ Evidence
 [TABLE_14]
  | iii | 
 [/TABLE_14]
+
+[PAGE 5 | printed iv]
 TABLE
 OF CONTENTS
 (continued)
@@ -444,6 +453,8 @@ MATERIAL
 [TABLE_16]
  | iv | 
 [/TABLE_16]
+
+[PAGE 6 | printed v]
 TABLE
 OF CONTENTS
 (continued)
@@ -505,6 +516,8 @@ INDEX
 [TABLE_18]
  | v | 
 [/TABLE_18]
+
+[PAGE 7 | printed vi]
 WHERE
 TO FIND INFORMATION IN THIS PROSPECTUS
 This prospectus provides
@@ -566,6 +579,8 @@ on Form 10-D, monthly asset level data files and related documents on Form
 [TABLE_19]
  | vi | 
 [/TABLE_19]
+
+[PAGE 8 | printed vii]
 ABS-EE and current reports on Form 8-K.
 Those reports will be filed with the SEC under the name “Hyundai Auto Receivables Trust 2025-D” and file number 333-284087-03.
 The Depositor
@@ -593,6 +608,8 @@ ________________________
 [TABLE_20]
  | vii | 
 [/TABLE_20]
+
+[PAGE 9 | printed viii]
 NOTICE
 TO INVESTORS: UNITED KINGDOM
 THIS
@@ -649,6 +666,8 @@ A PROSPECTUS FOR THE PURPOSES OF THE UK PROSPECTUS REGULATION.
 [TABLE_21]
  | viii | 
 [/TABLE_21]
+
+[PAGE 10 | printed ix]
 NOTICE
 TO INVESTORS: EUROPEAN ECONOMIC AREA
 The
@@ -683,6 +702,8 @@ PURPOSES OF THE EU PROSPECTUS REGULATION.
 [TABLE_22]
  | ix | 
 [/TABLE_22]
+
+[PAGE 11 | printed x]
 SUMMARY
 OF STRUCTURE AND FLOW OF FUNDS
 1
@@ -696,6 +717,8 @@ OF STRUCTURE AND FLOW OF FUNDS
 [TABLE_24]
  | x | 
 [/TABLE_24]
+
+[PAGE 12 | printed 1]
 SUMMARY
 OF TERMS
 This summary highlights
@@ -772,6 +795,8 @@ C |  |  | $ | 46,160,000 |  |  | · % |  | March 15, 2033
 [TABLE_26]
  | 1 | 
 [/TABLE_26]
+
+[PAGE 13 | printed 2]
 (1)
 All or a portion of one
 or more of the classes of notes may be initially retained by HCA or an affiliate thereof.
@@ -863,6 +888,8 @@ be a pool of retail installment sale contracts secured by new and
 [TABLE_27]
  | 2 | 
 [/TABLE_27]
+
+[PAGE 14 | printed 3]
 used automobiles, light-duty trucks and other
 types of motor vehicles.
 The issuing entity will grant a security interest
@@ -996,6 +1023,8 @@ reviewed by a credit analyst with appropriate approval
 [TABLE_52]
  | 3 | 
 [/TABLE_52]
+
+[PAGE 15 | printed 4]
 authority. If the aggregate initial principal
 amount of the notes is $1,500,000,000, approximately 86.34% of the aggregate principal balance of the receivables as of the cut-off date
 was automatically approved, while approximately 13.66% of the aggregate principal balance of the receivables as of the cut-off date was
@@ -1064,6 +1093,8 @@ the following order of priority:
 [TABLE_57]
  | 4 | 
 [/TABLE_57]
+
+[PAGE 16 | printed 5]
 [TABLE_58]
  | · | to
                                             the Class B notes, until the Class B notes are paid in full; and
@@ -1144,6 +1175,8 @@ Class B notes | Subordination of the Class C
 [TABLE_61]
  | 5 | 
 [/TABLE_61]
+
+[PAGE 17 | printed 6]
 [TABLE_62]
 Class C notes | The reserve account, the yield supplement
     overcollateralization amount, overcollateralization (in addition to the yield supplement overcollateralization amount) and excess
@@ -1228,6 +1261,8 @@ be the property of the issuing entity and shall be pledged by the issuing entity
 [TABLE_67]
  | 6 | 
 [/TABLE_67]
+
+[PAGE 18 | printed 7]
 indenture trustee for the benefit of the issuing
 entity, the noteholders and certificateholder as provided in the sale and servicing agreement. Following the payment in full of the outstanding
 principal amount of the notes and of all other amounts owing or to be distributed under the transaction documents, the indenture trustee
@@ -1290,6 +1325,8 @@ date generally in the following order of priority:
 [TABLE_69]
  | 7 | 
 [/TABLE_69]
+
+[PAGE 19 | printed 8]
 [TABLE_70]
  | 2. | To the Class A noteholders, accrued and
                                             unpaid interest on the Class A notes,
@@ -1400,6 +1437,8 @@ event of default
 [TABLE_89]
  | 8 | 
 [/TABLE_89]
+
+[PAGE 20 | printed 9]
 [TABLE_90]
  | 5. | the occurrence of a voluntary bankruptcy, insolvency,
                                             receivership or liquidation of the issuing entity or the failure of the issuing entity to
@@ -1488,6 +1527,8 @@ paid by the servicer, payments will generally be made on the notes on each payme
 [TABLE_100]
  | 9 | 
 [/TABLE_100]
+
+[PAGE 21 | printed 10]
 [TABLE_101]
  | 6. | to interest
                                             on the Class C notes;
@@ -1560,6 +1601,8 @@ Federal Income Tax Consequences
 [TABLE_104]
  | 10 | 
 [/TABLE_104]
+
+[PAGE 22 | printed 11]
 CERTAIN CONSIDERATIONS FOR BENEFIT PLANS
 Subject to the satisfaction of important conditions
 described under “
@@ -1634,6 +1677,8 @@ initial principal
 [TABLE_105]
  | 11 | 
 [/TABLE_105]
+
+[PAGE 23 | printed 12]
 amount
 of
 the notes is $1,750,000,000, at least $4,487,180 or (iii) if the aggregate initial principal amount of the notes is $1,997,330,000,
@@ -1705,6 +1750,8 @@ is structured in a way that is unlikely to allow Affected
 [TABLE_106]
  | 12 | 
 [/TABLE_106]
+
+[PAGE 24 | printed 13]
 Investors to comply with their applicable Due
 Diligence Requirements.
 REGISTRATION UNDER THE SECURITIES ACT
@@ -1732,6 +1779,8 @@ to resell your notes
 [TABLE_107]
  | 13 | 
 [/TABLE_107]
+
+[PAGE 25 | printed 14]
 SUMMARY
 OF RISK FACTORS
 The notes are subject to certain risks that
@@ -1879,6 +1928,8 @@ affect the market value of your notes and/or limit your ability to resell your n
 [TABLE_135]
  | 14 | 
 [/TABLE_135]
+
+[PAGE 26 | printed 15]
 [TABLE_136]
  | · | Marketing
                                             incentive programs may reduce the price on new vehicles and may impact the demand for used
@@ -2001,6 +2052,8 @@ limit your ability to resell your notes, including:
 [TABLE_159]
  | 15 | 
 [/TABLE_159]
+
+[PAGE 27 | printed 16]
 RISK
 FACTORS
 An investment in the notes
@@ -2057,6 +2110,8 @@ plus accrued interest through the related interest period. Because your notes
 [TABLE_160]
  | 16 | 
 [/TABLE_160]
+
+[PAGE 28 | printed 17]
 will no longer be outstanding, you will not receive
 the additional interest payments that you would have received had the notes remained outstanding. If you bought your notes at par or
 at a premium, your yield to maturity will be lower than it would have been if the optional early redemption of the notes had not been
@@ -2114,6 +2169,8 @@ to the notes following such modification.
 [TABLE_161]
  | 17 | 
 [/TABLE_161]
+
+[PAGE 29 | printed 18]
 The occurrence of a benchmark
 transition event may result in a deemed taxable exchange for noteholders for U.S. federal income tax purposes.
 As
@@ -2172,6 +2229,8 @@ reflect prices that other potential purchasers would be willing to pay, were the
 [TABLE_162]
  | 18 | 
 [/TABLE_162]
+
+[PAGE 30 | printed 19]
 If you own Class B
 notes or Class C notes, you are subject to greater credit risk because the Class B notes are subordinate to the Class A
 notes and the Class C notes are subordinate to the Class A notes and the Class B notes, and failure to pay interest on
@@ -2235,6 +2294,8 @@ outstanding senior class(es) of notes following:
 [TABLE_164]
  | 19 | 
 [/TABLE_164]
+
+[PAGE 31 | printed 20]
 [TABLE_165]
  | · | an
                                             event of default under the indenture relating to an insolvency event or a bankruptcy with
@@ -2308,6 +2369,8 @@ in accordance with the usual rules and operating
 [TABLE_171]
  | 20 | 
 [/TABLE_171]
+
+[PAGE 32 | printed 21]
 procedures of those systems. So long as the notes
 are in book-entry form, you will not be entitled to receive a definitive note representing your interest. The notes will remain in book-entry
 form except in the limited circumstances described under the caption “
@@ -2374,6 +2437,8 @@ the notes, which could adversely affect the market value of your notes and/or li
 [TABLE_174]
  | 21 | 
 [/TABLE_174]
+
+[PAGE 33 | printed 22]
 Under certain circumstances,
 an amendment may be made to certain transaction documents or other changes may be made affecting your notes by, among other things, delivering
 prior notice to the Hired Agencies. The delivery of prior notification to any Hired Agency does not imply any duty on the part of such
@@ -2427,6 +2492,8 @@ small principal amount, which may reduce the liquidity of such class of notes.
 [TABLE_175]
  | 22 | 
 [/TABLE_175]
+
+[PAGE 34 | printed 23]
 The market value, liquidity
 and voting power of your notes may be adversely impacted by the unknown aggregate initial principal amount.
 Whether the issuing entity
@@ -2474,6 +2541,8 @@ California |  |  | 8.04 | %
 [TABLE_177]
  | 23 | 
 [/TABLE_177]
+
+[PAGE 35 | printed 24]
 If the aggregate initial
 principal amount of the notes is $1,750,000,000, as of the cut-off date, the seller’s records indicate that the addresses of the
 originating dealers of the receivables were concentrated in the following states:
@@ -2532,6 +2601,8 @@ who will further assign them to the issuing entity.
 [TABLE_180]
  | 24 | 
 [/TABLE_180]
+
+[PAGE 36 | printed 25]
 Finally, the issuing entity will pledge its interest
 in the financed vehicles to the indenture trustee for the notes. Except in limited circumstances, the lien certificates or certificates
 of title relating to the financed vehicles will not be amended or reissued to identify the issuing entity or the indenture trustee as
@@ -2585,6 +2656,8 @@ Vehicles
 [TABLE_181]
  | 25 | 
 [/TABLE_181]
+
+[PAGE 37 | printed 26]
 Extensions and deferrals
 of payments on receivables could increase the weighted average life of the notes.
 In some circumstances, the
@@ -2649,6 +2722,8 @@ may adversely impact your notes by reducing the interest payments available.
 [TABLE_182]
  | 26 | 
 [/TABLE_182]
+
+[PAGE 38 | printed 27]
 RISKS
 RELATING TO THE TRANSACTION PARTIES
 Adverse events with respect
@@ -2700,6 +2775,8 @@ sale” or, in the case of a bankruptcy of the seller, that the seller should be
 [TABLE_183]
  | 27 | 
 [/TABLE_183]
+
+[PAGE 39 | printed 28]
 If a court were to reach this conclusion, you
 could experience losses or delays in payments on your notes as a result of, among other things:
 [TABLE_184]
@@ -2753,6 +2830,8 @@ might cause you to experience delays in payments or losses on your notes.
 [TABLE_190]
  | 28 | 
 [/TABLE_190]
+
+[PAGE 40 | printed 29]
 The servicer’s commingling
 of funds with its own funds could result in a loss.
 HCA, as the servicer, may
@@ -2811,6 +2890,8 @@ of the United States;
 [TABLE_192]
  | 29 | 
 [/TABLE_192]
+
+[PAGE 41 | printed 30]
 [TABLE_193]
  | · | created a new framework for the regulation of over-the-counter derivatives activities;
 [/TABLE_193]
@@ -2873,6 +2954,8 @@ by
 [TABLE_196]
  | 30 | 
 [/TABLE_196]
+
+[PAGE 42 | printed 31]
 the court, would require the NCSL Trusts and PHEAA
 to pay $400,000 and $1.75 million in penalties, respectively, and to pay an additional $3 million in redress to affected borrowers, to
 be allocated by agreement between PHEAA and the NCSL Trusts. Additionally, under the proposed final judgements and orders, the defendant
@@ -2932,6 +3015,8 @@ or to be imposed after implementing regulations are issued, by the Dodd-Frank Ac
 [TABLE_197]
  | 31 | 
 [/TABLE_197]
+
+[PAGE 43 | printed 32]
 impact on the servicing of the receivables, and
 on the regulation and supervision of the servicer, the sponsor, the originator, the depositor, the issuing entity and/or their respective
 affiliates.
@@ -2992,6 +3077,8 @@ the increase in government debt and interest payment ratios.
 [TABLE_198]
  | 32 | 
 [/TABLE_198]
+
+[PAGE 44 | printed 33]
 Previously, Fitch also downgraded the United States
 government credit rating from AAA to AA+. It is not clear if and how these downgrades will impact the market price or the marketability
 of the notes, and no assurance can be given that these ratings actions or any other ratings action on the United States government’s
@@ -3054,6 +3141,8 @@ service, including persons in reserve status who have been called or will be
 [TABLE_199]
  | 33 | 
 [/TABLE_199]
+
+[PAGE 45 | printed 34]
 called to active duty. The SCRA provides, generally,
 that an obligor who is covered by the act may not be charged interest on the related receivable in excess of 6% per annum during the period
 of the obligor’s active duty. These shortfalls are not required to be paid by the obligor at any future time. The servicer is not
@@ -3117,6 +3206,8 @@ important limitations and disclaimers,
 [TABLE_200]
  | 34 | 
 [/TABLE_200]
+
+[PAGE 46 | printed 35]
 including that the FRBNY may alter the methods
 of calculation, publication schedule, rate revision practices or availability of SOFR at any time without notice.
 Because SOFR is published
@@ -3172,6 +3263,8 @@ without limitation, as a representation of the unsecured short-term funding cost
 [TABLE_201]
  | 35 | 
 [/TABLE_201]
+
+[PAGE 47 | printed 36]
 which may, in turn, lessen market acceptance of
 SOFR. Any failure of SOFR to gain wide market acceptance could adversely affect the return on and value of the Class A-2-B notes
 and the price at which investors can sell the Class A-2-B notes in the secondary market.
@@ -3222,6 +3315,8 @@ rates would increase the amounts available to the holders of all notes.
 [TABLE_202]
  | 36 | 
 [/TABLE_202]
+
+[PAGE 48 | printed 37]
 Risks Related to Compounded
 SOFR.
 The FRBNY began to publish,
@@ -3276,6 +3371,8 @@ could
 [TABLE_203]
  | 37 | 
 [/TABLE_203]
+
+[PAGE 49 | printed 38]
 adversely affect the value of the Class A-2-B
 notes, the return on the Class A-2-B notes and the price at which Class A-2-B noteholders can sell such Class A-2-B notes.
 Additionally, the issuing
@@ -3300,6 +3397,8 @@ is chosen, the market value and/or liquidity of the Class A-2-B notes could be a
 [TABLE_204]
  | 38 | 
 [/TABLE_204]
+
+[PAGE 50 | printed 39]
 USE
 OF PROCEEDS
 The depositor will use the
@@ -3356,6 +3455,8 @@ engage in any activity other than:
 [TABLE_214]
  | 39 | 
 [/TABLE_214]
+
+[PAGE 51 | printed 40]
 transactions are
 to be made only after all required payments to the Noteholders and deposits to the Reserve Account on such Payment Date; and
 [TABLE_215]
@@ -3415,6 +3516,8 @@ the Notes
 [TABLE_220]
  | 40 | 
 [/TABLE_220]
+
+[PAGE 52 | printed 41]
 The depositor or its affiliate
 may retain all or a portion of a class or classes of Notes for its own account. Some or all of such retained Notes may be resold by the
 depositor or its affiliate at any time on or after the Closing Date in one or more negotiated transactions at varying prices to be determined
@@ -3471,6 +3574,8 @@ amount may be adjusted upward.
 [TABLE_224]
  | 41 | 
 [/TABLE_224]
+
+[PAGE 53 | printed 42]
 If the aggregate initial principal
 amount of the notes is $1,750,000,000, the following table illustrates the expected capitalization and/or liabilities of the issuing entity
 as of the Closing Date as if the issuance and sale of the Notes
@@ -3546,6 +3651,8 @@ amount may be adjusted upward.
 [TABLE_231]
  | 42 | 
 [/TABLE_231]
+
+[PAGE 54 | printed 43]
 THE
 DEPOSITOR
 The depositor, Hyundai ABS
@@ -3608,6 +3715,8 @@ for facilities refurbishment, real estate purchases, construction and working ca
 [TABLE_236]
  | 43 | 
 [/TABLE_236]
+
+[PAGE 55 | printed 44]
 HCA will be the sponsor of
 this transaction and the seller under the receivables purchase agreement. HCA also will be the servicer of the Receivables and the administrator
 for the issuing entity. HCA will be responsible for paying the costs of forming the issuing entity, legal fees of certain transaction
@@ -3669,6 +3778,8 @@ obligation as expected.
 [TABLE_237]
  | 44 | 
 [/TABLE_237]
+
+[PAGE 56 | printed 45]
 HCA also evaluates credit
 applications using proprietary credit scoring algorithms referred to as scorecards. The scorecards are used to assess the creditworthiness
 of each applicant using the information provided on the credit application, the proposed terms of the retail installment sale contract
@@ -3723,6 +3834,8 @@ consistent with the servicer’s customary servicing practices and its credit an
 [TABLE_242]
  | 45 | 
 [/TABLE_242]
+
+[PAGE 57 | printed 46]
 Each of the issuing entity,
 the depositor, the servicer and the indenture trustee has agreed to inform each other party in writing promptly upon the discovery of
 any unfulfilled servicer obligations listed above; provided, that delivery of a Servicer’s Certificate will be deemed to be prompt
@@ -3775,6 +3888,8 @@ due to certain world events including pandemics and natural disasters.
 [TABLE_243]
  | 46 | 
 [/TABLE_243]
+
+[PAGE 58 | printed 47]
 Insurance
 Each applicant for a contract
 is required to maintain specific levels and types of insurance with respect to the financed vehicle. The issuing entity will be entitled
@@ -3828,6 +3943,8 @@ the issuing entity, in the case of the
 [TABLE_244]
  | 47 | 
 [/TABLE_244]
+
+[PAGE 59 | printed 48]
 indenture trustee, will be obligated to appoint
 a successor thereto. The administrator or the holders of a majority of the Controlling Class of Notes then outstanding may also remove
 the owner trustee or indenture trustee, respectively, that becomes insolvent or otherwise ceases to be eligible to continue in that capacity
@@ -3886,6 +4003,8 @@ expenses
 [TABLE_245]
  | 48 | 
 [/TABLE_245]
+
+[PAGE 60 | printed 49]
 (but not fees) will be payable out of transaction
 cash flows as set forth under “
 The Notes—Payment of Distributable Amounts
@@ -3950,6 +4069,8 @@ or discretion.
 [TABLE_246]
  | 49 | 
 [/TABLE_246]
+
+[PAGE 61 | printed 50]
 OVERVIEW
 OF HCA RETAIL LOAN FINANCING OPERATIONS
 Securitization
@@ -4012,6 +4133,8 @@ functions under the sale and servicing agreement.
 [TABLE_247]
  | 50 | 
 [/TABLE_247]
+
+[PAGE 62 | printed 51]
 Servicer Advances.
 The
 servicer may make advances if payment on retail installment sale contracts has not been identified in full by the end of the month and
@@ -4078,6 +4201,8 @@ Noteholders.
 [TABLE_248]
  | 51 | 
 [/TABLE_248]
+
+[PAGE 63 | printed 52]
 Additionally, on or prior
 to the Closing Date, HCA (by itself or through a majority-owned affiliate) will cause to be established and maintained a Reserve Account,
 structured to qualify as an “eligible horizontal cash reserve account” in accordance with Regulation RR. The Reserve Account
@@ -4143,6 +4268,8 @@ table may not sum due to rounding.
 [TABLE_250]
  | 52 | 
 [/TABLE_250]
+
+[PAGE 64 | printed 53]
 [TABLE_251]
  |  | Fair Value (in millions) |  | Fair Value (as a percentage)
 Class A-1 Notes |  | $363.640 |  | 19.57% - 19.49%
@@ -4204,6 +4331,8 @@ Note Rate is only applicable if the balance of the Class A-2-B Notes is greater 
 [TABLE_257]
  | 53 | 
 [/TABLE_257]
+
+[PAGE 65 | printed 54]
 These interest rates are estimated
 based on recent pricing of Notes issued in similar securitization transactions and market-based expectations for interest rates and credit
 risk applicable to the Notes.
@@ -4270,6 +4399,8 @@ market rates of return
 [TABLE_271]
  | 54 | 
 [/TABLE_271]
+
+[PAGE 66 | printed 55]
 for similar instruments,
 and qualitative factors that consider the equity-like component of the first-loss exposure.
 HCA believes that the inputs
@@ -4339,6 +4470,8 @@ under the sale and servicing agreement and the rights of the depositor under the
 [TABLE_278]
  | 55 | 
 [/TABLE_278]
+
+[PAGE 67 | printed 56]
 [TABLE_279]
  | 7. | all right, title and interest
 in the Collection Account, Reserve Account and any amounts deposited therein and all securities or other assets credited thereto and
@@ -4419,6 +4552,8 @@ the Simple Interest Method. For these
 [TABLE_291]
  | 56 | 
 [/TABLE_291]
+
+[PAGE 68 | printed 57]
 receivables, the obligor’s payment is first
 applied to interest accrued and then the remaining payment is applied to the unpaid outstanding principal balance due and then to other
 charges. Accordingly, if an obligor pays the fixed monthly installment in advance of the due date, the portion of the payment allocable
@@ -4498,6 +4633,8 @@ score for the same applicant.
 [TABLE_292]
  | 57 | 
 [/TABLE_292]
+
+[PAGE 69 | printed 58]
 Representations, Warranties and Covenants
 In the receivables purchase
 agreement, HCA as seller will make representations and warranties with respect to each Receivable as described below and under “
@@ -4532,6 +4669,8 @@ not total 100% due to rounding.
 [TABLE_293]
  | 58 | 
 [/TABLE_293]
+
+[PAGE 70 | printed 59]
 THE
 RECEIVABLES POOL
 Composition of the Receivables if the Aggregate
@@ -4600,6 +4739,8 @@ table are weighted by Principal Balance as of the Cut-off Date.
 [TABLE_299]
  | 59 | 
 [/TABLE_299]
+
+[PAGE 71 | printed 60]
 Composition of the Receivables if the Aggregate
 Initial Principal Amount of the Notes is $1,750,000,000
 as of the Cut-off Date
@@ -4666,6 +4807,8 @@ table are weighted by Principal Balance as of the Cut-off Date.
 [TABLE_305]
  | 60 | 
 [/TABLE_305]
+
+[PAGE 72 | printed 61]
 Composition of
 the Receivables if the
 Aggregate Initial Principal Amount of the Notes
@@ -4734,6 +4877,8 @@ table are weighted by Principal Balance as of the Cut-off Date.
 [TABLE_311]
  | 61 | 
 [/TABLE_311]
+
+[PAGE 73 | printed 62]
 Distribution of
 the Receivables if the Aggregate Initial Principal Amount of the Notes
 is $1,500,000,000
@@ -4760,6 +4905,8 @@ Total |  |  | 55,421 |  |  | $ | 1,630,971,479.93 |  |  |  | 100.00 | %
 [TABLE_313]
  | 62 | 
 [/TABLE_313]
+
+[PAGE 74 | printed 63]
 Distribution of
 the Receivables if the Aggregate Initial Principal Amount
 of the Notes is $1,750,000,000
@@ -4786,6 +4933,8 @@ Total |  |  | 64,635 |  |  | $ | 1,902,896,010.63 |  |  |  | 100.00 | %
 [TABLE_315]
  | 63 | 
 [/TABLE_315]
+
+[PAGE 75 | printed 64]
 Distribution of
 the Receivables if the Aggregate Initial Principal Amount
 of the Notes is $1,997,330,000
@@ -4812,6 +4961,8 @@ Total |  |  | 73,726 |  |  | $ | 2,171,902,248.61 |  |  |  | 100.00 | %
 [TABLE_317]
  | 64 | 
 [/TABLE_317]
+
+[PAGE 76 | printed 65]
 Geographic Distribution
 of the Receivables
 if the Aggregate Initial Principal Amount of the Notes is $1,500,000,000 as of the Cut-off Date by State
@@ -4874,6 +5025,8 @@ Total |  |  | 55,421 |  |  | $ | 1,630,971,479.93 |  |  |  | 100.00 | %
 [TABLE_320]
  | 65 | 
 [/TABLE_320]
+
+[PAGE 77 | printed 66]
 Geographic Distribution
 of the Receivables
 if the Aggregate Initial Principal Amount of the Notes is $1,750,000,000 as of the Cut-off Date by State
@@ -4936,6 +5089,8 @@ Total |  |  | 64,635 |  |  | $ | 1,902,896,010.63 |  |  |  | 100.00 | %
 [TABLE_323]
  | 66 | 
 [/TABLE_323]
+
+[PAGE 78 | printed 67]
 Geographic Distribution
 of the Receivables
 if the Aggregate Initial Principal Amount of the Notes is $1,997,330,000 as of the Cut-off Date by State
@@ -4998,6 +5153,8 @@ Total |  |  | 73,726 |  |  | $ | 2,171,902,248.61 |  |  |  | 100.00 | %
 [TABLE_326]
  | 67 | 
 [/TABLE_326]
+
+[PAGE 79 | printed 68]
 Distribution of
 the Receivables
 if the Aggregate Initial Principal Amount of the Notes is $1,500,000,000
@@ -5043,6 +5200,8 @@ Total |  |  | 73,726 |  |  | $ | 2,171,902,248.61 |  |  |  | 100.00 | %
 [TABLE_330]
  | 68 | 
 [/TABLE_330]
+
+[PAGE 80 | printed 69]
 Distribution of
 the Receivables
 if the Aggregate Initial Principal Amount of the Notes is $1,500,000,000
@@ -5091,6 +5250,8 @@ Total |  |  | 73,726 |  |  | $ | 2,171,902,248.61 |  |  |  | 100.00 | %
 [TABLE_334]
  | 69 | 
 [/TABLE_334]
+
+[PAGE 81 | printed 70]
 Distribution of
 the Receivables
 if the Aggregate Initial Principal Amount of the Notes is $1,500,000,000
@@ -5138,6 +5299,8 @@ Total |  |  | 64,635 |  |  | $ | 1,902,896,010.63 |  |  |  | 100.00 | %
 [TABLE_337]
  | 70 | 
 [/TABLE_337]
+
+[PAGE 82 | printed 71]
 Distribution of
 the Receivables
 if the Aggregate Initial Principal Amount of the Notes is $1,997,330,000
@@ -5163,6 +5326,8 @@ Total |  |  | 73,726 |  |  | $ | 2,171,902,248.61 |  |  |  | 100.00 | %
 [TABLE_339]
  | 71 | 
 [/TABLE_339]
+
+[PAGE 83 | printed 72]
 Distribution
 of the Receivables
 if the Aggregate Initial Principal Amount of the Notes is $1,500,000,000
@@ -5210,6 +5375,8 @@ Total |  |  | 73,726 |  |  | $ | 2,171,902,248.61 |  |  |  | 100.00 | %
 [TABLE_343]
  | 72 | 
 [/TABLE_343]
+
+[PAGE 84 | printed 73]
 Distribution of the Receivables if the Aggregate
 Initial Principal Amount of the Notes is $1,500,000,000
 as of the Cut-off Date by Vehicle Type
@@ -5243,6 +5410,8 @@ Total |  |  | 73,726 |  |  | $ | 2,171,902,248.61 |  |  |  | 100.00 | %
 [TABLE_347]
  | 73 | 
 [/TABLE_347]
+
+[PAGE 85 | printed 74]
 Distribution of
 the Receivables
 if the Aggregate Initial Principal Amount of the Notes is $1,500,000,000
@@ -5286,6 +5455,8 @@ Total |  |  | 73,726 |  |  | $ | 2,171,902,248.61 |  |  |  | 100.00 | %
 [TABLE_354]
  | 74 | 
 [/TABLE_354]
+
+[PAGE 86 | printed 75]
 DELINQUENCIES,
 REPOSSESSIONS AND CREDIT LOSS INFORMATION
 Set forth below is information
@@ -5330,6 +5501,8 @@ Receivables will be comparable to HCA’s experience shown in the following tabl
 [TABLE_355]
  | 75 | 
 [/TABLE_355]
+
+[PAGE 87 | printed 76]
 Serviced
 Portfolio Delinquency Experience
 [TABLE_356]
@@ -5371,6 +5544,8 @@ Total Delinquencies 30+ days (%) |  |  | 2.66 | % |  |  | 2.55 | % |  |  | 1.87 
 [TABLE_359]
  | 76 | 
 [/TABLE_359]
+
+[PAGE 88 | printed 77]
 Hyundai
 Delinquency Experience
 [TABLE_360]
@@ -5416,6 +5591,8 @@ which account for less than 1% of the portfolio.
 [TABLE_364]
  | 77 | 
 [/TABLE_364]
+
+[PAGE 89 | printed 78]
 Kia
 Delinquency Experience
 [TABLE_365]
@@ -5476,6 +5653,8 @@ period less any reinstatements in the period.
 [TABLE_369]
  | 78 | 
 [/TABLE_369]
+
+[PAGE 90 | printed 79]
 Serviced
 Portfolio Loss Experience
 [TABLE_370]
@@ -5547,6 +5726,8 @@ of active accounts in the period.
 [TABLE_375]
  | 79 | 
 [/TABLE_375]
+
+[PAGE 91 | printed 80]
 Hyundai
 Loss Experience
 [TABLE_376]
@@ -5622,6 +5803,8 @@ of active accounts in the period.
 [TABLE_382]
  | 80 | 
 [/TABLE_382]
+
+[PAGE 92 | printed 81]
 Kia
 Loss Experience
 [TABLE_383]
@@ -5700,6 +5883,8 @@ of the Transaction Documents
 [TABLE_389]
  | 81 | 
 [/TABLE_389]
+
+[PAGE 93 | printed 82]
 NOTE
 FACTORS AND POOL INFORMATION
 Each month the servicer will
@@ -5774,6 +5959,8 @@ to provide the depositor with reasonable assurance that the Rule 193 Information
 [TABLE_390]
  | 82 | 
 [/TABLE_390]
+
+[PAGE 94 | printed 83]
 As
 part of the review, HCA identified the Rule 193 Information to be covered and identified the review procedures for each portion
 of the Rule 193 Information. Descriptions consisting of factual information were reviewed and approved
@@ -5843,6 +6030,8 @@ respect to the Receivables or purchases made by the servicer as a result of an u
 [TABLE_391]
  | 83 | 
 [/TABLE_391]
+
+[PAGE 95 | printed 84]
 servicing duties in the transaction documents.
 In addition, early retirement of the Notes may be effected at the option of the servicer or the depositor, as described in this prospectus,
 to purchase the remaining Receivables included in the issuing entity property when the outstanding balance of the Receivables has declined
@@ -5923,6 +6112,8 @@ Tables
 [TABLE_398]
  | 84 | 
 [/TABLE_398]
+
+[PAGE 96 | printed 85]
 [TABLE_399]
  | · | the
                                             Servicing Fee for any Payment Date will be an amount equal to the product of (1) 1.00%
@@ -5977,6 +6168,8 @@ Total |  | $ | 1,630,971,479.93 |  |  |  |  |  |  |  |  |  |  |  |  |
 [TABLE_402]
  | 85 | 
 [/TABLE_402]
+
+[PAGE 97 | printed 86]
 If the aggregate initial
 principal amount of the notes is $1,750,000,000:
 [TABLE_403]
@@ -6013,6 +6206,8 @@ Total |  | $ | 1,902,896,010.63 |  |  |  |  |  |  |  |  |  |  |  |  |
 [TABLE_404]
  | 86 | 
 [/TABLE_404]
+
+[PAGE 98 | printed 87]
 If the aggregate initial
 principal amount of the notes is $1,997,330,000:
 [TABLE_405]
@@ -6073,6 +6268,8 @@ Weighted Average Life
 [TABLE_409]
  | 87 | 
 [/TABLE_409]
+
+[PAGE 99 | printed 88]
 Percentage of
 Class A-1 Notes Principal at Various ABS Percentages
 if the
@@ -6111,6 +6308,8 @@ will differ from the actual characteristics and performance of the Receivables) 
 [TABLE_411]
  | 88 | 
 [/TABLE_411]
+
+[PAGE 100 | printed 89]
 Percentage of
 Class A-1 Notes Principal at Various ABS Percentages
 if the
@@ -6149,6 +6348,8 @@ will differ from the actual characteristics and performance of the Receivables) 
 [TABLE_413]
  | 89 | 
 [/TABLE_413]
+
+[PAGE 101 | printed 90]
 Percentage of
 Class A-1 Notes Principal at Various ABS Percentages
 if the
@@ -6187,6 +6388,8 @@ will differ from the actual characteristics and performance of the Receivables) 
 [TABLE_415]
  | 90 | 
 [/TABLE_415]
+
+[PAGE 102 | printed 91]
 Percentage of
 Class A-2-A Notes Principal at Various ABS Percentages
 if the
@@ -6245,6 +6448,8 @@ will differ from the actual characteristics and performance of the Receivables) 
 [TABLE_417]
  | 91 | 
 [/TABLE_417]
+
+[PAGE 103 | printed 92]
 Percentage of
 Class A-2-A Notes Principal at Various ABS Percentages
 if the
@@ -6302,6 +6507,8 @@ will differ from the actual characteristics and performance of the Receivables) 
 [TABLE_419]
  | 92 | 
 [/TABLE_419]
+
+[PAGE 104 | printed 93]
 Percentage of
 Class A-2-A Notes Principal at Various ABS Percentages
 if the
@@ -6359,6 +6566,8 @@ will differ from the actual characteristics and performance of the Receivables) 
 [TABLE_421]
  | 93 | 
 [/TABLE_421]
+
+[PAGE 105 | printed 94]
 Percentage of
 Class A-2-B Notes Principal at Various ABS Percentages
 if the
@@ -6416,6 +6625,8 @@ will differ from the actual characteristics and performance of the Receivables) 
 [TABLE_423]
  | 94 | 
 [/TABLE_423]
+
+[PAGE 106 | printed 95]
 Percentage of
 Class A-2-B Notes Principal at Various ABS Percentages
 if the
@@ -6473,6 +6684,8 @@ will differ from the actual characteristics and performance of the Receivables) 
 [TABLE_425]
  | 95 | 
 [/TABLE_425]
+
+[PAGE 107 | printed 96]
 Percentage of
 Class A-2-B Notes Principal at Various ABS Percentages
 if the
@@ -6530,6 +6743,8 @@ will differ from the actual characteristics and performance of the Receivables) 
 [TABLE_427]
  | 96 | 
 [/TABLE_427]
+
+[PAGE 108 | printed 97]
 Percentage of
 Class A-3 Notes Principal at Various ABS Percentages
 if the
@@ -6609,6 +6824,8 @@ will differ from the actual characteristics and performance of the Receivables) 
 [TABLE_429]
  | 97 | 
 [/TABLE_429]
+
+[PAGE 109 | printed 98]
 Percentage of
 Class A-3 Notes Principal at Various ABS Percentages
 if the
@@ -6688,6 +6905,8 @@ will differ from the actual characteristics and performance of the Receivables) 
 [TABLE_431]
  | 98 | 
 [/TABLE_431]
+
+[PAGE 110 | printed 99]
 Percentage of
 Class A-3 Notes Principal at Various ABS Percentages
 if the
@@ -6767,6 +6986,8 @@ will differ from the actual characteristics and performance of the Receivables) 
 [TABLE_433]
  | 99 | 
 [/TABLE_433]
+
+[PAGE 111 | printed 100]
 Percentage of
 Class A-4 Notes Principal at Various ABS Percentages
 if the
@@ -6851,6 +7072,8 @@ will differ from the actual characteristics and performance of the Receivables) 
 [TABLE_435]
  | 100 | 
 [/TABLE_435]
+
+[PAGE 112 | printed 101]
 Percentage of
 Class A-4 Notes Principal at Various ABS Percentages
 if the
@@ -6935,6 +7158,8 @@ will differ from the actual characteristics and performance of the Receivables) 
 [TABLE_437]
  | 101 | 
 [/TABLE_437]
+
+[PAGE 113 | printed 102]
 Percentage of
 Class A-4 Notes Principal at Various ABS Percentages
 if the
@@ -7019,6 +7244,8 @@ will differ from the actual characteristics and performance of the Receivables) 
 [TABLE_439]
  | 102 | 
 [/TABLE_439]
+
+[PAGE 114 | printed 103]
 Percentage of
 Class B Notes Principal at Various ABS Percentages
 if the
@@ -7104,6 +7331,8 @@ will differ from the actual characteristics and performance of the Receivables) 
 [TABLE_441]
  | 103 | 
 [/TABLE_441]
+
+[PAGE 115 | printed 104]
 Percentage of
 Class B Notes Principal at Various ABS Percentages
 if the
@@ -7189,6 +7418,8 @@ will differ from the actual characteristics and performance of the Receivables) 
 [TABLE_443]
  | 104 | 
 [/TABLE_443]
+
+[PAGE 116 | printed 105]
 Percentage of
 Class B Notes Principal at Various ABS Percentages
 if the
@@ -7274,6 +7505,8 @@ will differ from the actual characteristics and performance of the Receivables) 
 [TABLE_445]
  | 105 | 
 [/TABLE_445]
+
+[PAGE 117 | printed 106]
 Percentage of
 Class C Notes Principal at Various ABS Percentages
 if the
@@ -7360,6 +7593,8 @@ will differ from the actual characteristics and performance of the Receivables) 
 [TABLE_447]
  | 106 | 
 [/TABLE_447]
+
+[PAGE 118 | printed 107]
 Percentage of
 Class C Notes Principal at Various ABS Percentages
 if the
@@ -7446,6 +7681,8 @@ will differ from the actual characteristics and performance of the Receivables) 
 [TABLE_449]
  | 107 | 
 [/TABLE_449]
+
+[PAGE 119 | printed 108]
 Percentage of
 Class C Notes Principal at Various ABS Percentages
 if the
@@ -7532,6 +7769,8 @@ will differ from the actual characteristics and performance of the Receivables) 
 [TABLE_451]
  | 108 | 
 [/TABLE_451]
+
+[PAGE 120 | printed 109]
 THE
 NOTES
 The following information
@@ -7594,6 +7833,8 @@ amounts on deposit in the Reserve Account, after the Servicing Fee and unreimbur
 [TABLE_452]
  | 109 | 
 [/TABLE_452]
+
+[PAGE 121 | printed 110]
 amounts on deposit in the Reserve Account may
 not be used to pay the Servicing Fee so long as the servicer is HCA or an affiliate thereof and may not be used to reimburse for advances).
 Under specified circumstances,
@@ -7668,6 +7909,8 @@ manner as the administrator determines is reasonably necessary).
 [TABLE_453]
  | 110 | 
 [/TABLE_453]
+
+[PAGE 122 | printed 111]
 “
 U.S. Government
 Securities Business Day
@@ -7724,6 +7967,8 @@ Distribution Amount with respect to any Payment Date equals the sum of:
 [TABLE_456]
  | 111 | 
 [/TABLE_456]
+
+[PAGE 123 | printed 112]
 [TABLE_457]
  | · | the
                                             Regular Principal Distribution Amount.
@@ -7810,6 +8055,8 @@ of priority:
 [TABLE_471]
  | 112 | 
 [/TABLE_471]
+
+[PAGE 124 | printed 113]
 [TABLE_472]
  | 7. | to the principal amount of the Class C Notes until such principal amount is paid in full; and
 [/TABLE_472]
@@ -7880,6 +8127,8 @@ and allocable to principal allocable to each class of Notes on such Payment Date
 [TABLE_482]
  | 113 | 
 [/TABLE_482]
+
+[PAGE 125 | printed 114]
 [TABLE_483]
  | · | the amount of Collections identified with respect to the Receivables during the related Collection Period
 and allocable to interest allocable to each class of Notes on such Payment Date;
@@ -7968,6 +8217,8 @@ review to determine whether the asset representations reviewer will conduct an a
 [TABLE_505]
  | 114 | 
 [/TABLE_505]
+
+[PAGE 126 | printed 115]
 [TABLE_506]
  | · | whether and when the requisite percentage of Investors have voted to direct an asset representations review
 of the applicable Subject Receivables;
@@ -8038,6 +8289,8 @@ above. The depositor will include in
 [TABLE_514]
  | 115 | 
 [/TABLE_514]
+
+[PAGE 127 | printed 116]
 each Form 10-D disclosure regarding any request
 received during the related Collection Period from an Investor to communicate with other Investors related to the Investors exercising
 their rights under the terms of the transaction documents. The disclosure in the Form 10-D regarding the request to communicate will
@@ -8099,6 +8352,8 @@ at the Interest Rate on the Class B Notes on the principal amount outstanding as
 [TABLE_522]
  | 116 | 
 [/TABLE_522]
+
+[PAGE 128 | printed 117]
 [TABLE_523]
  |  | preceding Payment
 Date after giving effect to all payments of principal to the Class B Noteholders on the preceding Payment Date; and
@@ -8170,6 +8425,8 @@ outstanding principal amount of such Class A Notes to zero.
 [TABLE_533]
  | 117 | 
 [/TABLE_533]
+
+[PAGE 129 | printed 118]
 “
 Interest
 Period
@@ -8239,6 +8496,8 @@ Co., as the
 [TABLE_536]
  | 118 | 
 [/TABLE_536]
+
+[PAGE 130 | printed 119]
 registered holder of the Notes, for distribution
 to Noteholders in accordance with DTC procedures. Therefore, it is anticipated that the only Noteholder will be Cede & Co., the
 nominee of DTC. Noteholders will not be recognized by the owner trustee or indenture trustee as Noteholders as those terms will be used
@@ -8309,6 +8568,8 @@ on behalf of their customers.
 [TABLE_537]
  | 119 | 
 [/TABLE_537]
+
+[PAGE 131 | printed 120]
 Conveyance of notices and
 other communications by DTC to Direct Participants, by Direct Participants to Indirect Participants, and by Direct Participants and Indirect
 Participants to Beneficial Owners will be governed by arrangements among them, subject to any statutory or regulatory requirements as
@@ -8366,6 +8627,8 @@ Reporting (Individuals)) or Form W-8BEN-E (Certificate of Status of Beneficial O
 [TABLE_540]
  | 120 | 
 [/TABLE_540]
+
+[PAGE 132 | printed 121]
 Exemption
 for non-U.S. Persons with effectively connected income (Form W-8ECI)
 . A non-U.S. Person, including a non-U.S. corporation
@@ -8433,6 +8696,8 @@ the administrator is unable to locate a qualified successor; or
 [TABLE_546]
  | 121 | 
 [/TABLE_546]
+
+[PAGE 133 | printed 122]
 [TABLE_547]
  | · | after a default under the transaction documents,
 beneficial owners representing in the aggregate not less than a majority of the aggregate outstanding principal amount of the Notes, voting
@@ -8488,6 +8753,8 @@ this prospectus. In addition, if a form of credit enhancement covers more than o
 [TABLE_548]
  | 122 | 
 [/TABLE_548]
+
+[PAGE 134 | printed 123]
 class will be subject to the risk that the credit
 enhancement will be exhausted by the claims of Noteholders of other classes.
 The
@@ -8550,6 +8817,8 @@ As of any Payment Date, the
 [TABLE_549]
  | 123 | 
 [/TABLE_549]
+
+[PAGE 135 | printed 124]
 amount of funds actually on deposit in the Reserve
 Account may, in certain circumstances, be less than the Reserve Account Required Amount.
 Except
@@ -8606,6 +8875,8 @@ support such Notes.
 [TABLE_550]
  | 124 | 
 [/TABLE_550]
+
+[PAGE 136 | printed 125]
 Yield Supplement Overcollateralization Amount
 On
 the Closing Date, in addition to the Overcollateralization Amount, if the
@@ -8674,6 +8945,8 @@ April 2029 |  |  | 9,265,449.32 |
 [TABLE_552]
  | 125 | 
 [/TABLE_552]
+
+[PAGE 137 | printed 126]
 [TABLE_553]
 Payment Date |  | Yield Supplement Overcollateralization Amount | 
 May 2029 |  |  | 8,447,991.68 | 
@@ -8747,6 +9020,8 @@ March 2027 |  |  | 55,835,552.00 |
 [TABLE_555]
  | 126 | 
 [/TABLE_555]
+
+[PAGE 138 | printed 127]
 [TABLE_556]
 Payment Date |  | Yield Supplement Overcollateralization Amount | 
 April 2027 |  |  | 53,252,508.51 | 
@@ -8819,6 +9094,8 @@ September 2032 (and thereafter) |  |  | 0.00 |
 [TABLE_557]
  | 127 | 
 [/TABLE_557]
+
+[PAGE 139 | printed 128]
 With respect to any
 Payment Date, the “
 Yield Supplement Overcollateralization Amount
@@ -8892,6 +9169,8 @@ November 2030 |  |  | 852,467.88 |
 [TABLE_559]
  | 128 | 
 [/TABLE_559]
+
+[PAGE 140 | printed 129]
 [TABLE_560]
 Payment Date |  | Yield Supplement Overcollateralization Amount | 
 December 2030 |  |  | 653,015.11 | 
@@ -8953,6 +9232,8 @@ by the servicer with respect to any Receivable will be repaid,
 [TABLE_561]
  | 129 | 
 [/TABLE_561]
+
+[PAGE 141 | printed 130]
 if not otherwise
 reimbursed, from available amounts in the Collection Account and any amounts available from the Reserve Account. The servicer will not
 charge interest on amounts advanced. Advances are designed to increase the likelihood of timely payment of amounts due on the Notes by
@@ -9014,6 +9295,8 @@ to the satisfaction of one of the following conditions: (a) the depositor or the
 [TABLE_565]
  | 130 | 
 [/TABLE_565]
+
+[PAGE 142 | printed 131]
 an officer’s certificate to the indenture
 trustee to the effect that such amendment will not materially and adversely affect the interest of any Noteholder (and, if the Certificate
 is then held by anyone other than the depositor or a U.S. affiliate of the depositor, the Certificateholder) or (b) the Rating Agency
@@ -9067,6 +9350,8 @@ Conforming Changes or any such
 [TABLE_566]
  | 131 | 
 [/TABLE_566]
+
+[PAGE 143 | printed 132]
 Benchmark Replacement Conforming Changes shall
 not affect the owner trustee and indenture trustee’s rights, indemnities or obligations without the owner trustee and indenture
 trustee’s consent, respectively. For the avoidance of doubt, any SOFR Adjustment Conforming Changes or any Benchmark Replacement
@@ -9134,6 +9419,8 @@ a default under the Receivable by the obligor.
 [TABLE_576]
  | 132 | 
 [/TABLE_576]
+
+[PAGE 144 | printed 133]
 As of the Payment Date following
 the end of the Collection Period, which includes the 60
 th
@@ -9208,6 +9495,8 @@ Delinquent
 [TABLE_579]
  | 133 | 
 [/TABLE_579]
+
+[PAGE 145 | printed 134]
 Receivables
 ”
 means all Receivables outstanding and held by the issuing entity (other than repurchased Receivables, charged-off Receivables and Receivables
@@ -9249,6 +9538,8 @@ related Review Satisfaction Date. However, any Receivable that
 [TABLE_580]
  | 134 | 
 [/TABLE_580]
+
+[PAGE 146 | printed 135]
 becomes a repurchased
 Receivable or is paid off after the Review Satisfaction Date will no longer be a
 Subject Receivable.
@@ -9324,6 +9615,8 @@ days if missing or additional review materials are provided
 [TABLE_581]
  | 135 | 
 [/TABLE_581]
+
+[PAGE 147 | printed 136]
 to the asset representations reviewer. Upon completion
 of its review, the asset representations reviewer will provide a report to the indenture trustee, the servicer and the issuer of the findings
 and conclusions of the review of the Subject Receivables, and the Form 10-D filed by the depositor with respect to the Collection
@@ -9391,6 +9684,8 @@ certain confidentiality restrictions and additional terms,
 [TABLE_582]
  | 136 | 
 [/TABLE_582]
+
+[PAGE 148 | printed 137]
 which will not prevent disclosure of information
 required by any applicable securities law, set forth in the receivables purchase agreement. Any settlement agreement reached in a mediation
 and any decision by an arbitrator in binding arbitration will be binding upon the requesting party, the depositor, the issuing entity,
@@ -9445,6 +9740,8 @@ to be moved to an eligible institution.
 [TABLE_583]
  | 137 | 
 [/TABLE_583]
+
+[PAGE 149 | printed 138]
 Collection Account
 The servicer will be entitled
 to withhold, or to be reimbursed from amounts otherwise payable into or on deposit in the Collection Account, amounts previously deposited
@@ -9498,6 +9795,8 @@ on the date of the clean-up call. The exercise of the clean-up call by the Servi
 [TABLE_584]
  | 138 | 
 [/TABLE_584]
+
+[PAGE 150 | printed 139]
 but not in part, of all outstanding Notes and
 all such Notes will be deemed to be due and payable on such date. The issuing entity is not obligated to pay any redemption premium or
 make-whole amount. In the event that the servicer exercises the clean-up call, the indenture trustee will, upon the written direction
@@ -9550,6 +9849,8 @@ termination event if such delay or failure was caused by force majeure or other 
 [TABLE_585]
  | 139 | 
 [/TABLE_585]
+
+[PAGE 151 | printed 140]
 The indenture trustee or Noteholders
 evidencing more than 50% of the voting interests of the Controlling Class may terminate the rights and obligations of the servicer
 under the sale and servicing agreement upon the occurrence of a servicer termination event, which termination and removal will be the
@@ -9599,6 +9900,8 @@ as have been provided by the SEC in the adopting release (Asset-Backed Securitie
 [TABLE_586]
  | 140 | 
 [/TABLE_586]
+
+[PAGE 152 | printed 141]
 The Owner Trustee and the Indenture Trustee
 For the purpose of meeting
 the legal requirements of some jurisdictions, the administrator and the owner trustee, acting jointly, (or, in some instances, the owner
@@ -9654,6 +9957,8 @@ Rating Agency Notification, in the case of S&P. The administration
 [TABLE_587]
  | 141 | 
 [/TABLE_587]
+
+[PAGE 153 | printed 142]
 agreement may also be amended with the consent
 of the indenture trustee and holders of the Notes evidencing at least a majority of the Controlling Class, to add any provisions to or
 change or eliminate any of the provisions of the administration agreement or modify the rights of the Noteholders or the Certificateholder;
@@ -9712,6 +10017,8 @@ documents cannot be modified or waived without the consent of the holder of each
 [TABLE_593]
  | 142 | 
 [/TABLE_593]
+
+[PAGE 154 | printed 143]
 [TABLE_594]
  | · | modify any of the provisions of the indenture
 in such manner as to affect the calculation of the amount of any payment of interest or principal due on any Note on any Payment Date
@@ -9773,6 +10080,8 @@ receivership or liquidation of the issuing entity or the failure of the issuing 
 [TABLE_601]
  | 143 | 
 [/TABLE_601]
+
+[PAGE 155 | printed 144]
 provided, however, that a delay in or failure
 of performance referred to in the first, second or third bullet above for a period of an additional sixty (60) days will not constitute
 an Event of Default if that delay or failure was caused by force majeure or other similar occurrence.
@@ -9836,6 +10145,8 @@ the accrued interest on all outstanding Notes and the Certificate at the date of
 [TABLE_611]
  | 144 | 
 [/TABLE_611]
+
+[PAGE 156 | printed 145]
 [TABLE_612]
  | 2. | with respect to the events of default described in the fifth bullet under the definition of “event
 of default” above:
@@ -9893,6 +10204,8 @@ on the Notes or for the agreements of the issuing entity contained in the indent
 [TABLE_620]
  | 145 | 
 [/TABLE_620]
+
+[PAGE 157 | printed 146]
 Duties of the Indenture Trustee
 The indenture trustee will
 make no representations as to the validity or sufficiency of the indenture, the Notes (other than authentication of the Notes) or of any
@@ -9952,6 +10265,8 @@ trustee:
 [TABLE_625]
  | 146 | 
 [/TABLE_625]
+
+[PAGE 158 | printed 147]
 [TABLE_626]
  | 5. | breaches any representation, warranty or covenant made by it under any transaction document.
 [/TABLE_626]
@@ -10015,6 +10330,8 @@ engage in any activity other than as specified in the indenture.
 [TABLE_634]
  | 147 | 
 [/TABLE_634]
+
+[PAGE 159 | printed 148]
 Annual Compliance Statement
 The issuing entity will be
 required to file annually with the indenture trustee a written statement as to the fulfillment of its obligations under the indenture.
@@ -10061,6 +10378,8 @@ of Notes as of such Record Date.
 [TABLE_635]
  | 148 | 
 [/TABLE_635]
+
+[PAGE 160 | printed 149]
 Governing Law
 The indenture and the Notes
 will be governed by and shall be construed in accordance with the laws of the State of New York applicable to agreements made in and to
@@ -10118,6 +10437,8 @@ to be filed under applicable law);
 [TABLE_639]
  | 149 | 
 [/TABLE_639]
+
+[PAGE 161 | printed 150]
 [TABLE_640]
  | 4. | amend the indenture where Noteholder consent is not required if such amendment materially adversely affects
 the Certificateholder;
@@ -10189,6 +10510,8 @@ of the issuing entity or a substantial portion of the property of the issuing en
 [TABLE_654]
  | 150 | 
 [/TABLE_654]
+
+[PAGE 162 | printed 151]
 the issuing entity’s creditors, (vii) cause
 the issuing entity to admit in writing its inability to pay its debts generally as they become due, (viii) take any action, or cause
 the issuing entity to take any action, in furtherance of any of the foregoing (any of the above, a “
@@ -10245,6 +10568,8 @@ of the owner trustee or its property
 [TABLE_659]
  | 151 | 
 [/TABLE_659]
+
+[PAGE 163 | printed 152]
 is appointed, or any public officer takes charge
 or control of the owner trustee or its property for the purpose of rehabilitation, conservation or liquidation, or becomes legally unable
 to act. Upon removal of the owner trustee, the administrator will appoint a successor owner trustee. The administrator will be required
@@ -10280,6 +10605,8 @@ of the limitations of the Certificateholder to direct the owner trustee with res
 [TABLE_664]
  | 152 | 
 [/TABLE_664]
+
+[PAGE 164 | printed 153]
 FEES AND EXPENSES
 Set forth below is a list
 of all fees and expenses payable on each Payment Date out of Available Amounts and amounts on deposit in the Reserve Account (except that
@@ -10304,6 +10631,8 @@ owed will be paid as described under “ The Notes—Payment of Distributable Am
 [TABLE_667]
  | 153 | 
 [/TABLE_667]
+
+[PAGE 165 | printed 154]
 AFFILIATED ENTITIES PARTY
 TO TRANSACTION
 The
@@ -10375,6 +10704,8 @@ Description of the Transaction Documents—Evidence as to
 [TABLE_668]
  | 154 | 
 [/TABLE_668]
+
+[PAGE 166 | printed 155]
 Compliance
 ” to the
 extent required by Regulation AB. There will not otherwise be any general periodic evidence of the absence of a default or compliance
@@ -10456,6 +10787,8 @@ UK Due
 [TABLE_669]
  | 155 | 
 [/TABLE_669]
+
+[PAGE 167 | printed 156]
 Diligence Requirements
 ”
 and together with the EU Due Diligence Requirements, the “
@@ -10517,6 +10850,8 @@ adversely affected.
 [TABLE_670]
  | 156 | 
 [/TABLE_670]
+
+[PAGE 168 | printed 157]
 Prospective investors are
 responsible for analyzing their own legal and regulatory position and should consult with their own investment and legal advisors regarding
 the application of the EU Securitization Regulation, the UK Securitization Framework and other applicable regulations and the suitability
@@ -10579,6 +10914,8 @@ against the dealers and their respective creditors. Under the UCC, a
 [TABLE_673]
  | 157 | 
 [/TABLE_673]
+
+[PAGE 169 | printed 158]
 purchaser of tangible chattel paper who takes
 physical possession (or, in the case of electronic chattel paper, takes control) of the chattel paper has priority over the seller and
 its creditors in the event of the seller’s bankruptcy. If a retail installment sale contract is amended and the purchaser does not
@@ -10632,6 +10969,8 @@ security interest
 [TABLE_674]
  | 158 | 
 [/TABLE_674]
+
+[PAGE 170 | printed 159]
 assigned to the issuing entity, that security
 interest would be subordinate to, among others, subsequent purchasers of the financed vehicles and holders of perfected security interests.
 Under the laws of most states,
@@ -10684,6 +11023,8 @@ exercised on a limited number of
 [TABLE_675]
  | 159 | 
 [/TABLE_675]
+
+[PAGE 171 | printed 160]
 occasions during the term of the related receivable.
 Other jurisdictions permit repossession without prior notice if it can be accomplished without a breach of the peace (although in some
 states, a course of conduct in which the creditor has accepted late payments has been held to create a right by the obligor to receive
@@ -10732,6 +11073,8 @@ including requirements regarding the adequate
 [TABLE_676]
  | 160 | 
 [/TABLE_676]
+
+[PAGE 172 | printed 161]
 disclosure of credit terms and limitations on
 credit terms, collection practices and creditor remedies. These laws include the Truth-in-Lending Act, the Equal Credit Opportunity Act,
 the Federal Trade Commission Act, the Fair Credit Reporting Act, the Fair Debt Collection Practices Act, the Magnuson-Moss Warranty Act,
@@ -10789,6 +11132,8 @@ may have the effect of relieving an obligor from some or all of the legal conseq
 [TABLE_677]
  | 161 | 
 [/TABLE_677]
+
+[PAGE 173 | printed 162]
 In several cases, consumers
 have asserted that the self-help remedies of secured parties under the UCC and related laws violate the due process protections provided
 under the 14th Amendment to the Constitution of the United States. Courts have generally upheld the notice provisions of the UCC and related
@@ -10845,6 +11190,8 @@ to comply with consumer protection laws may result in losses on your investment
 [TABLE_678]
  | 162 | 
 [/TABLE_678]
+
+[PAGE 174 | printed 163]
 Certain Matters Relating to Bankruptcy
 In structuring the transactions
 contemplated by this prospectus, the depositor has taken steps that are intended to make it unlikely that the voluntary or involuntary
@@ -10897,6 +11244,8 @@ of the United States Bankruptcy Code should not apply to the receivables if HCA 
 [TABLE_682]
  | 163 | 
 [/TABLE_682]
+
+[PAGE 175 | printed 164]
 Dodd Frank Orderly Liquidation Framework
 General
 .
@@ -10962,6 +11311,8 @@ opinion
 [TABLE_683]
  | 164 | 
 [/TABLE_683]
+
+[PAGE 176 | printed 165]
 does not bind the FDIC or its Board of Directors,
 and could be modified or withdrawn in the future, it remains in effect as of the date of this prospectus. To the extent any future regulations
 or subsequent FDIC actions in an OLA proceeding involving HCA or its subsidiaries (including the depositor or the issuing entity), are
@@ -11023,6 +11374,8 @@ exercise
 [TABLE_689]
  | 165 | 
 [/TABLE_689]
+
+[PAGE 177 | printed 166]
 control over any property of HCA or any covered
 subsidiary or affect any contractual rights of HCA or a covered subsidiary (including the depositor or the issuing entity) that is subject
 to OLA, without the consent of the FDIC for 90 days after appointment of FDIC as receiver.
@@ -11073,6 +11426,8 @@ who is a member of the National Guard or is in reserve
 [TABLE_690]
  | 166 | 
 [/TABLE_690]
+
+[PAGE 178 | printed 167]
 status at the time of the origination of the obligor’s
 receivable and is later called to active duty) may not be charged interest above an annual rate of 6% during the period of that obligor’s
 active duty status after a request for relief by the obligor. In addition, some states, including California, allow members of the National
@@ -11145,6 +11500,8 @@ a “functional currency” other than the U.S. dollar; and
 [TABLE_700]
  | 167 | 
 [/TABLE_700]
+
+[PAGE 179 | printed 168]
 [TABLE_701]
  | · | investors in pass-through entities.
 [/TABLE_701]
@@ -11197,6 +11554,8 @@ state or local
 [TABLE_702]
  | 168 | 
 [/TABLE_702]
+
+[PAGE 180 | printed 169]
 income tax consequences of the purchase, ownership
 and disposition of a beneficial interest in the Notes. See “
 —State and Local Tax Consequences
@@ -11263,6 +11622,8 @@ OID that has
 [TABLE_707]
  | 169 | 
 [/TABLE_707]
+
+[PAGE 181 | printed 170]
 not been allocated to prior payments, or as a
 repayment of principal. Even if a Note has OID that is subject to the
 de minimis
@@ -11316,6 +11677,8 @@ the Code and are encouraged to consult their own tax advisors regarding the amor
 [TABLE_708]
  | 170 | 
 [/TABLE_708]
+
+[PAGE 182 | printed 171]
 Sale or other Taxable
 Disposition of Notes
 If a United States Holder
@@ -11376,6 +11739,8 @@ intermediary” and certain conditions are satisfied.
 [TABLE_712]
  | 171 | 
 [/TABLE_712]
+
+[PAGE 183 | printed 172]
 Even if the above conditions are not met, a Non-United
 States Holder may be entitled to an exemption from withholding tax if the interest is effectively connected to a United States trade or
 business as described below, or to a reduction in, or an exemption from, withholding tax on interest under a tax treaty between the United
@@ -11429,6 +11794,8 @@ that information reporting (but generally not backup withholding) may apply to t
 [TABLE_715]
  | 172 | 
 [/TABLE_715]
+
+[PAGE 184 | printed 173]
 [TABLE_716]
  | · | a United States person;
 [/TABLE_716]
@@ -11489,6 +11856,8 @@ the Notes. If the issuing entity were to become liable for any such withholding 
 [TABLE_720]
  | 173 | 
 [/TABLE_720]
+
+[PAGE 185 | printed 174]
 withhold, the resulting impositions could reduce
 the cash flow that would otherwise be available to make payments on all Notes. In addition, when a recharacterized Note is acquired by
 a beneficial owner that is not an applicable related party, that Note is generally treated as reissued for U.S. federal income tax purposes
@@ -11542,6 +11911,8 @@ is treated as a partnership. As such, holders of
 [TABLE_721]
  | 174 | 
 [/TABLE_721]
+
+[PAGE 186 | printed 175]
 equity (including holders of Notes recharacterized
 as equity) could be obligated to pay any such taxes and other costs, and may have to take the adjustment into account for the taxable
 year in which the adjustment is made rather than for the audited taxable year. Prospective investors are urged to consult with their tax
@@ -11605,6 +11976,8 @@ Similar Law
 [TABLE_722]
  | 175 | 
 [/TABLE_722]
+
+[PAGE 187 | printed 176]
 Certain
 transactions involving the issuing entity might be deemed to constitute prohibited transactions under ERISA and the Code with respect
 to a benefit plan that acquired Notes if assets of the issuing entity were deemed to be assets of the benefit plan. Under a regulation
@@ -11665,6 +12038,8 @@ agree that benefit plans and Plans
 [TABLE_723]
  | 176 | 
 [/TABLE_723]
+
+[PAGE 188 | printed 177]
 that are subject to Similar Law may not acquire
 such Note (or any interest therein) at any time that such Note does not have an investment grade rating from at least one nationally recognized
 statistical rating organization.
@@ -11719,6 +12094,8 @@ Notes. The underwriters may act through one or more of their affiliates when sel
 [TABLE_726]
  | 177 | 
 [/TABLE_726]
+
+[PAGE 189 | printed 178]
 The underwriters may engage
 in over-allotment transactions, stabilizing transactions, syndicate covering transactions and penalty bids with respect to the Notes in
 accordance with Regulation M under the Securities Exchange Act of 1934 (as amended, the “
@@ -11775,6 +12152,8 @@ of the Notes.
 [TABLE_727]
  | 178 | 
 [/TABLE_727]
+
+[PAGE 190 | printed 179]
 It is expected that delivery
 of the notes will be made against payment therefor on or about the closing date. Rule 15c6-1 of the SEC under the Exchange Act generally
 requires trades in the secondary market to settle in one business day, unless the parties to any such trade expressly agree otherwise.
@@ -11836,6 +12215,8 @@ by it in relation to any Notes in, from or otherwise involving the UK.
 [TABLE_734]
  | 179 | 
 [/TABLE_734]
+
+[PAGE 191 | printed 180]
 European Economic Area
 Each
 underwriter has severally, but not jointly,
@@ -11894,6 +12275,8 @@ with the SEC will automatically update the
 [TABLE_740]
  | 180 | 
 [/TABLE_740]
+
+[PAGE 192 | printed 181]
 information in this prospectus. In all cases,
 you should rely on the most recently filed information rather than contradictory information included in this prospectus.
 As a recipient of this prospectus,
@@ -11909,6 +12292,8 @@ passed upon for the underwriters by Morgan, Lewis & Bockius LLP.
 [TABLE_741]
  | 181 | 
 [/TABLE_741]
+
+[PAGE 193 | printed 182]
 GLOSSARY
 “
 APR
@@ -11971,6 +12356,8 @@ Benchmark Replacement in a manner
 [TABLE_742]
  | 182 | 
 [/TABLE_742]
+
+[PAGE 194 | printed 183]
 substantially consistent with market practice
 (or, if the administrator decides that adoption of any portion of such market practice is not administratively feasible or if the administrator
 determines that no market practice for use of the Benchmark Replacement exists, in such other manner as the administrator determines is
@@ -12036,6 +12423,8 @@ means the Class A-2-A Notes and the Class A-2-B Notes.
 [TABLE_743]
  | 183 | 
 [/TABLE_743]
+
+[PAGE 195 | printed 184]
 “
 Class A
 Noteholders
@@ -12129,6 +12518,8 @@ Notes.
 [TABLE_744]
  | 184 | 
 [/TABLE_744]
+
+[PAGE 196 | printed 185]
 “
 ISDA Definitions
 ”
@@ -12210,6 +12601,8 @@ at the applicable APR accrued to and including the last day of the
 [TABLE_749]
  | 185 | 
 [/TABLE_749]
+
+[PAGE 197 | printed 186]
 Collection Period preceding the date that such
 Purchased Receivable was purchased by the seller or the servicer, as applicable.
 “
@@ -12280,6 +12673,8 @@ Replacement
 [TABLE_750]
  | 186 | 
 [/TABLE_750]
+
+[PAGE 198 | printed 187]
 INDEX OF PRINCIPAL TERMS
 [TABLE_751]
 61-Day Delinquent Receivables | 134 |  | Defaulted Receivable | 184
@@ -12339,6 +12734,8 @@ Dealers | 43 |  | IRS | 167
 [TABLE_752]
  | 187 | 
 [/TABLE_752]
+
+[PAGE 199 | printed 188]
 [TABLE_753]
 ISDA Definitions | 185 |  | requesting party | 136
 ISDA Fallback Adjustment | 185 |  | Reserve Account | 123
@@ -12400,6 +12797,8 @@ Relevant Persons | viii |  | United States person | 169
 [TABLE_754]
  | 188 | 
 [/TABLE_754]
+
+[PAGE 200 | printed 189]
 [TABLE_755]
 Volcker Rule | 11, 157
 Weighted Average APR | 59, 60
@@ -12414,6 +12813,8 @@ Yield Supplement Overcollateralization Amount | 125, 126, 128
 [TABLE_757]
  | 189 | 
 [/TABLE_757]
+
+[PAGE 201 | printed A-1]
 APPENDIX A
 STATIC POOL INFORMATION REGARDING CERTAIN PREVIOUS
 SECURITIZATIONS
@@ -12426,6 +12827,8 @@ installment sale contracts in the securitized portfolios consisted of the charac
 [TABLE_758]
  | A- 1 | 
 [/TABLE_758]
+
+[PAGE 202 | printed A-2]
 Hyundai Auto Receivables Trust 2020-A (“HART
 2020-A”)
 Characteristics of the Receivables at the Cut-off Date
@@ -12485,6 +12888,8 @@ Illinois |  |  | 5.76 | %
 [TABLE_762]
  | A- 2 | 
 [/TABLE_762]
+
+[PAGE 203 | printed A-3]
 Distribution of the HART 2020-A Receivables
 by APR
 [TABLE_763]
@@ -12526,6 +12931,8 @@ as of the cut-off date.
 [TABLE_765]
  | A- 3 | 
 [/TABLE_765]
+
+[PAGE 204 | printed A-4]
 Hyundai Auto Receivables Trust 2020-B (“HART
 2020-B”)
 Characteristics of the Receivables at the Cut-off Date
@@ -12586,6 +12993,8 @@ Illinois |  |  | 5.98 | %
 [TABLE_769]
  | A- 4 | 
 [/TABLE_769]
+
+[PAGE 205 | printed A-5]
 Distribution of the HART 2020-B Receivables
 by APR
 [TABLE_770]
@@ -12627,6 +13036,8 @@ as of the cut-off date.
 [TABLE_772]
  | A- 5 | 
 [/TABLE_772]
+
+[PAGE 206 | printed A-6]
 Hyundai Auto Receivables Trust 2020-C (“HART
 2020-C”)
 Characteristics of the Receivables at the Cut-off Date
@@ -12687,6 +13098,8 @@ Illinois |  |  | 5.85 | %
 [TABLE_776]
  | A- 6 | 
 [/TABLE_776]
+
+[PAGE 207 | printed A-7]
 Distribution of the HART 2020-C Receivables
 by APR
 [TABLE_777]
@@ -12728,6 +13141,8 @@ as of the cut-off date.
 [TABLE_779]
  | A- 7 | 
 [/TABLE_779]
+
+[PAGE 208 | printed A-8]
 Hyundai Auto Receivables Trust 2021-A (“HART
 2021-A”)
 Characteristics of the Receivables at the Cut-off Date
@@ -12788,6 +13203,8 @@ Illinois |  |  | 5.65 | %
 [TABLE_783]
  | A- 8 | 
 [/TABLE_783]
+
+[PAGE 209 | printed A-9]
 Distribution of the HART 2021-A Receivables
 by APR
 [TABLE_784]
@@ -12832,6 +13249,8 @@ than 5% of the aggregate principal balance as of the cut-off date.
 [TABLE_786]
  | A- 9 | 
 [/TABLE_786]
+
+[PAGE 210 | printed A-10]
 Hyundai Auto Receivables Trust 2021-B (“HART
 2021-B”)
 Characteristics of the Receivables at the Cut-off Date
@@ -12887,6 +13306,8 @@ Illinois |  |  | 5.74 | %
 [TABLE_790]
  | A- 10 | 
 [/TABLE_790]
+
+[PAGE 211 | printed A-11]
 Distribution of the HART 2021-B Receivables
 by APR
 [TABLE_791]
@@ -12928,6 +13349,8 @@ than 5% of the aggregate principal balance as of the cut-off date.
 [TABLE_793]
  | A- 11 | 
 [/TABLE_793]
+
+[PAGE 212 | printed A-12]
 Hyundai Auto Receivables Trust 2021-C (“HART
 2021-C”)
 Characteristics of the Receivables at the Cut-off Date
@@ -12984,6 +13407,8 @@ Illinois |  |  | 5.50 | %
 [TABLE_797]
  | A- 12 | 
 [/TABLE_797]
+
+[PAGE 213 | printed A-13]
 Distribution of the HART 2021-C Receivables
 by APR
 [TABLE_798]
@@ -13022,6 +13447,8 @@ as of the cut-off date.
 [TABLE_800]
  | A- 13 | 
 [/TABLE_800]
+
+[PAGE 214 | printed A-14]
 Hyundai Auto Receivables Trust 2022-A (“HART
 2022-A”)
 Characteristics of the Receivables at the Cut-off Date
@@ -13082,6 +13509,8 @@ Illinois |  |  | 5.29 | %
 [TABLE_804]
  | A- 14 | 
 [/TABLE_804]
+
+[PAGE 215 | printed A-15]
 Distribution of the HART 2022-A Receivables
 by APR
 [TABLE_805]
@@ -13120,6 +13549,8 @@ as of the cut-off date.
 [TABLE_807]
  | A- 15 | 
 [/TABLE_807]
+
+[PAGE 216 | printed A-16]
 Hyundai Auto Receivables Trust 2022-B (“HART
 2022-B”)
 Characteristics of the Receivables at the Cut-off Date
@@ -13180,6 +13611,8 @@ Illinois |  |  | 5.55 | %
 [TABLE_811]
  | A- 16 | 
 [/TABLE_811]
+
+[PAGE 217 | printed A-17]
 Distribution of the HART 2022-B Receivables
 by APR
 [TABLE_812]
@@ -13218,6 +13651,8 @@ as of the cut-off date.
 [TABLE_814]
  | A- 17 | 
 [/TABLE_814]
+
+[PAGE 218 | printed A-18]
 Hyundai Auto Receivables Trust 2022-C (“HART
 2022-C”)
 Characteristics of the Receivables at the Cut-off Date
@@ -13278,6 +13713,8 @@ Illinois |  |  | 5.88 | %
 [TABLE_818]
  | A- 18 | 
 [/TABLE_818]
+
+[PAGE 219 | printed A-19]
 Distribution of the HART 2022-C Receivables
 by APR
 [TABLE_819]
@@ -13316,6 +13753,8 @@ as of the cut-off date.
 [TABLE_821]
  | A- 19 | 
 [/TABLE_821]
+
+[PAGE 220 | printed A-20]
 Hyundai Auto Receivables Trust 2023-A (“HART
 2023-A”)
 Characteristics of the Receivables at the Cut-off Date
@@ -13377,6 +13816,8 @@ Illinois |  |  | 5.46 | %
 [TABLE_825]
  | A- 20 | 
 [/TABLE_825]
+
+[PAGE 221 | printed A-21]
 Distribution of the HART 2023-A Receivables
 by APR
 [TABLE_826]
@@ -13427,6 +13868,8 @@ as of the cut-off date.
 [TABLE_834]
  | A- 21 | 
 [/TABLE_834]
+
+[PAGE 222 | printed A-22]
 Hyundai Auto Receivables Trust 2023-B (“HART
 2023-B”)
 Characteristics of the Receivables at the Cut-off Date
@@ -13487,6 +13930,8 @@ Illinois |  |  |  | 5.17 | %
 [TABLE_838]
  | A- 22 | 
 [/TABLE_838]
+
+[PAGE 223 | printed A-23]
 Distribution of the HART 2023-B Receivables
 by APR
 [TABLE_839]
@@ -13537,6 +13982,8 @@ as of the cut-off date.
 [TABLE_847]
  | A- 23 | 
 [/TABLE_847]
+
+[PAGE 224 | printed A-24]
 Hyundai Auto Receivables Trust 2023-C (“HART
 2023-C”)
 Characteristics of the Receivables at the Cut-off Date
@@ -13599,6 +14046,8 @@ California |  |  |  | 10.96 | %
 [TABLE_851]
  | A- 24 | 
 [/TABLE_851]
+
+[PAGE 225 | printed A-25]
 Distribution of the HART 2023-C Receivables
 by APR
 [TABLE_852]
@@ -13649,6 +14098,8 @@ as of the cut-off date.
 [TABLE_860]
  | A- 25 | 
 [/TABLE_860]
+
+[PAGE 226 | printed A-26]
 Hyundai Auto Receivables Trust 2024-A (“HART
 2024-A”)
 Characteristics of the Receivables at the Cut-off Date
@@ -13711,6 +14162,8 @@ California |  |  |  | 6.37 | %
 [TABLE_864]
  | A- 26 | 
 [/TABLE_864]
+
+[PAGE 227 | printed A-27]
 Distribution of the HART 2024-A Receivables
 by APR
 [TABLE_865]
@@ -13761,6 +14214,8 @@ as of the cut-off date.
 [TABLE_873]
  | A- 27 | 
 [/TABLE_873]
+
+[PAGE 228 | printed A-28]
 Hyundai Auto Receivables Trust 2024-B (“HART
 2024-B”)
 Characteristics of the Receivables at the Cut-off Date
@@ -13820,6 +14275,8 @@ Florida |  |  |  | 10.48 | %
 [TABLE_877]
  | A- 28 | 
 [/TABLE_877]
+
+[PAGE 229 | printed A-29]
 Distribution of the HART 2024-B Receivables
 by APR
 [TABLE_878]
@@ -13870,6 +14327,8 @@ as of the cut-off date.
 [TABLE_886]
  | A- 29 | 
 [/TABLE_886]
+
+[PAGE 230 | printed A-30]
 Hyundai Auto Receivables Trust 2024-C (“HART
 2024-C”)
 Characteristics of the Receivables at the Cut-off Date
@@ -13929,6 +14388,8 @@ California |  |  |  | 9.00 | %
 [TABLE_890]
  | A- 30 | 
 [/TABLE_890]
+
+[PAGE 231 | printed A-31]
 Distribution of the HART 2024-C Receivables
 by APR
 [TABLE_891]
@@ -13979,6 +14440,8 @@ as of the cut-off date.
 [TABLE_899]
  | A- 31 | 
 [/TABLE_899]
+
+[PAGE 232 | printed A-32]
 Hyundai Auto Receivables Trust 2025-A (“HART
 2025-A”)
 Characteristics of the Receivables at the Cut-off Date
@@ -14038,6 +14501,8 @@ Florida |  |  |  | 9.53 | %
 [TABLE_903]
  | A- 32 | 
 [/TABLE_903]
+
+[PAGE 233 | printed A-33]
 Distribution of the HART 2025-A Receivables
 by APR
 [TABLE_904]
@@ -14088,6 +14553,8 @@ as of the cut-off date.
 [TABLE_912]
  | A- 33 | 
 [/TABLE_912]
+
+[PAGE 234 | printed A-34]
 Hyundai Auto Receivables Trust 2025-B (“HART
 2025-B”)
 Characteristics of the Receivables at the Cut-off Date
@@ -14147,6 +14614,8 @@ Florida |  |  |  | 9.32 | %
 [TABLE_916]
  | A- 34 | 
 [/TABLE_916]
+
+[PAGE 235 | printed A-35]
 Distribution of the HART 2025-B Receivables
 by APR
 [TABLE_917]
@@ -14197,6 +14666,8 @@ as of the cut-off date.
 [TABLE_925]
  | A- 35 | 
 [/TABLE_925]
+
+[PAGE 236 | printed A-36]
 Hyundai Auto Receivables Trust 2025-C (“HART
 2025-C”)
 Characteristics of the Receivables at the Cut-off Date
@@ -14259,6 +14730,8 @@ California |  |  |  | 8.21 | %
 [TABLE_929]
  | A- 36 | 
 [/TABLE_929]
+
+[PAGE 237 | printed A-37]
 Distribution of the HART 2025-C Receivables
 by APR
 [TABLE_930]
@@ -14309,6 +14782,8 @@ as of the cut-off date.
 [TABLE_938]
  | A- 37 | 
 [/TABLE_938]
+
+[PAGE 238 | printed A-38]
 Prepayment Speed Information
 Set forth below is prepayment
 speed information relating to HCA’s securitized portfolios of retail installment sale contracts for the past five years. Prepayment
@@ -14377,6 +14852,8 @@ Period |  | 2020-A |  |  | 2020-B |  |  | 2020-C |  |  | 2021-A |  |  | 2021-B |
 [TABLE_940]
  | A- 38 | 
 [/TABLE_940]
+
+[PAGE 239 | printed A-39]
 [TABLE_941]
  | (1) | Pool characteristics will vary from series to series and investors are encouraged to carefully review
 the characteristics of the receivables for the series represented in the above chart beginning on page A-1 of this prospectus under
@@ -14397,6 +14874,8 @@ at cut-off date minus the number of months since the cut-off-date.
 [TABLE_943]
  | A- 39 | 
 [/TABLE_943]
+
+[PAGE 240 | printed A-40]
 Delinquency Experience
 Set forth below is delinquency
 information relating to HCA’s securitized portfolios of retail installment sale contracts for new and used automobiles for the past
@@ -14477,6 +14956,8 @@ the related due date. See “Delinquencies, Repossessions and Credit Loss Inform
 [TABLE_947]
  | A- 40 | 
 [/TABLE_947]
+
+[PAGE 241 | printed A-41]
 HART 2020-B
 (1)(2)
 [TABLE_948]
@@ -14548,6 +15029,8 @@ the related due date. See “Delinquencies, Repossessions and Credit Loss Inform
 [TABLE_951]
  | A- 41 | 
 [/TABLE_951]
+
+[PAGE 242 | printed A-42]
 HART 2020-C
 (1)(2)
 [TABLE_952]
@@ -14620,6 +15103,8 @@ the related due date. See “Delinquencies, Repossessions and Credit Loss Inform
 [TABLE_955]
  | A- 42 | 
 [/TABLE_955]
+
+[PAGE 243 | printed A-43]
 HART 2021-A
 (1)(2)
 [TABLE_956]
@@ -14698,6 +15183,8 @@ the related due date. See “Delinquencies, Repossessions and Credit Loss Inform
 [TABLE_959]
  | A- 43 | 
 [/TABLE_959]
+
+[PAGE 244 | printed A-44]
 HART 2021-B
 (1)(2)
 [TABLE_960]
@@ -14775,6 +15262,8 @@ the related due date. See “Delinquencies, Repossessions and Credit Loss Inform
 [TABLE_963]
  | A- 44 | 
 [/TABLE_963]
+
+[PAGE 245 | printed A-45]
 HART 2021-C
 (1)(2)
 [TABLE_964]
@@ -14848,6 +15337,8 @@ the related due date. See “Delinquencies, Repossessions and Credit Loss Inform
 [TABLE_967]
  | A- 45 | 
 [/TABLE_967]
+
+[PAGE 246 | printed A-46]
 HART 2022-A
 (1)(2)
 [TABLE_968]
@@ -14909,6 +15400,8 @@ the related due date. See “Delinquencies, Repossessions and Credit Loss Inform
 [TABLE_971]
  | A- 46 | 
 [/TABLE_971]
+
+[PAGE 247 | printed A-47]
 HART 2022-B
 (1)(2)
 [TABLE_972]
@@ -14966,6 +15459,8 @@ the related due date. See “Delinquencies, Repossessions and Credit Loss Inform
 [TABLE_975]
  | A- 47 | 
 [/TABLE_975]
+
+[PAGE 248 | printed A-48]
 HART 2022-C
 (1)(2)
 [TABLE_976]
@@ -15019,6 +15514,8 @@ the related due date. See “Delinquencies, Repossessions and Credit Loss Inform
 [TABLE_979]
  | A- 48 | 
 [/TABLE_979]
+
+[PAGE 249 | printed A-49]
 HART 2023-A
 (1)(2)
 [TABLE_980]
@@ -15067,6 +15564,8 @@ the related due date. See “Delinquencies, Repossessions and Credit Loss Inform
 [TABLE_983]
  | A- 49 | 
 [/TABLE_983]
+
+[PAGE 250 | printed A-50]
 HART 2023-B
 (1)(2)
 [TABLE_984]
@@ -15112,6 +15611,8 @@ the related due date. See “Delinquencies, Repossessions and Credit Loss Inform
 [TABLE_987]
  | A- 50 | 
 [/TABLE_987]
+
+[PAGE 251 | printed A-51]
 HART 2023-C
 (1)(2)
 [TABLE_988]
@@ -15153,6 +15654,8 @@ the related due date. See “Delinquencies, Repossessions and Credit Loss Inform
 [TABLE_991]
  | A- 51 | 
 [/TABLE_991]
+
+[PAGE 252 | printed A-52]
 HART 2024-A
 (1)(2)
 [TABLE_992]
@@ -15190,6 +15693,8 @@ the related due date. See “Delinquencies, Repossessions and Credit Loss Inform
 [TABLE_995]
  | A- 52 | 
 [/TABLE_995]
+
+[PAGE 253 | printed A-53]
 HART 2024-B
 (1)(2)
 [TABLE_996]
@@ -15223,6 +15728,8 @@ the related due date. See “Delinquencies, Repossessions and Credit Loss Inform
 [TABLE_999]
  | A- 53 | 
 [/TABLE_999]
+
+[PAGE 254 | printed A-54]
 HART
 2024-C
 (1)(2)
@@ -15262,6 +15769,8 @@ the related due date. See “Delinquencies, Repossessions and Credit Loss Inform
 [TABLE_1003]
  | A- 54 | 
 [/TABLE_1003]
+
+[PAGE 255 | printed A-55]
 HART 2025-A
 (1)(2)
 [TABLE_1004]
@@ -15287,6 +15796,8 @@ the related due date. See “Delinquencies, Repossessions and Credit Loss Inform
 [TABLE_1007]
  | A- 55 | 
 [/TABLE_1007]
+
+[PAGE 256 | printed A-56]
 HART 2025-B
 (1)(2)
 [TABLE_1008]
@@ -15309,6 +15820,8 @@ the related due date. See “Delinquencies, Repossessions and Credit Loss Inform
 [TABLE_1011]
  | A- 56 | 
 [/TABLE_1011]
+
+[PAGE 257 | printed A-57]
 HART 2025-C
 (1)(2)
 [TABLE_1012]
@@ -15328,6 +15841,8 @@ the related due date. See “Delinquencies, Repossessions and Credit Loss Inform
 [TABLE_1015]
  | A- 57 | 
 [/TABLE_1015]
+
+[PAGE 258 | printed A-58]
 Credit Loss Experience
 Set forth below is credit
 loss information relating to HCA’s securitized portfolios of retail installment sale contracts for new and used automobiles for
@@ -15335,6 +15850,8 @@ the past five years presented on a year-by-year basis.
 [TABLE_1016]
  | A- 58 | 
 [/TABLE_1016]
+
+[PAGE 259 | printed A-59]
 HART 2020-A
 (1)
 [TABLE_1017]
@@ -15399,6 +15916,8 @@ of the prior series will correspond to or be an accurate predictor of the perfor
 [TABLE_1019]
  | A- 59 | 
 [/TABLE_1019]
+
+[PAGE 260 | printed A-60]
 HART 2020-B
 (1)
 [TABLE_1020]
@@ -15464,6 +15983,8 @@ of the prior series will correspond to or be an accurate predictor of the perfor
 [TABLE_1022]
  | A- 60 | 
 [/TABLE_1022]
+
+[PAGE 261 | printed A-61]
 HART 2020-C
 (1)
 [TABLE_1023]
@@ -15532,6 +16053,8 @@ of the prior series will correspond to or be an accurate predictor of the perfor
 [TABLE_1025]
  | A- 61 | 
 [/TABLE_1025]
+
+[PAGE 262 | printed A-62]
 HART 2021-A
 (1)
 [TABLE_1026]
@@ -15599,6 +16122,8 @@ of the prior series will correspond to or be an accurate predictor of the perfor
 [TABLE_1028]
  | A- 62 | 
 [/TABLE_1028]
+
+[PAGE 263 | printed A-63]
 HART 2021-B
 (1)
 [TABLE_1029]
@@ -15665,6 +16190,8 @@ of the prior series will correspond to or be an accurate predictor of the perfor
 [TABLE_1031]
  | A- 63 | 
 [/TABLE_1031]
+
+[PAGE 264 | printed A-64]
 HART 2021-C
 (1)
 [TABLE_1032]
@@ -15726,6 +16253,8 @@ of the prior series will correspond to or be an accurate predictor of the perfor
 [TABLE_1034]
  | A- 64 | 
 [/TABLE_1034]
+
+[PAGE 265 | printed A-65]
 HART 2022-A
 (1)
 [TABLE_1035]
@@ -15786,6 +16315,8 @@ of the prior series will correspond to or be an accurate predictor of the perfor
 [TABLE_1037]
  | A- 65 | 
 [/TABLE_1037]
+
+[PAGE 266 | printed A-66]
 HART 2022-B
 (1)
 [TABLE_1038]
@@ -15843,6 +16374,8 @@ of the prior series will correspond to or be an accurate predictor of the perfor
 [TABLE_1040]
  | A- 66 | 
 [/TABLE_1040]
+
+[PAGE 267 | printed A-67]
 HART 2022-C
 (1)
 [TABLE_1041]
@@ -15892,6 +16425,8 @@ of the prior series will correspond to or be an accurate predictor of the perfor
 [TABLE_1043]
  | A- 67 | 
 [/TABLE_1043]
+
+[PAGE 268 | printed A-68]
 HART 2023-A
 (1)
 [TABLE_1044]
@@ -15937,6 +16472,8 @@ of the prior series will correspond to or be an accurate predictor of the perfor
 [TABLE_1046]
  | A- 68 | 
 [/TABLE_1046]
+
+[PAGE 269 | printed A-69]
 HART 2023-B
 (1)
 [TABLE_1047]
@@ -15979,6 +16516,8 @@ of the prior series will correspond to or be an accurate predictor of the perfor
 [TABLE_1049]
  | A- 69 | 
 [/TABLE_1049]
+
+[PAGE 270 | printed A-70]
 HART 2023-C
 (1)
 [TABLE_1050]
@@ -16016,6 +16555,8 @@ of the prior series will correspond to or be an accurate predictor of the perfor
 [TABLE_1052]
  | A- 70 | 
 [/TABLE_1052]
+
+[PAGE 271 | printed A-71]
 HART 2024-A
 (1)
 [TABLE_1053]
@@ -16053,6 +16594,8 @@ of the prior series will correspond to or be an accurate predictor of the perfor
 [TABLE_1055]
  | A- 71 | 
 [/TABLE_1055]
+
+[PAGE 272 | printed A-72]
 HART 2024-B
 (1)
 [TABLE_1056]
@@ -16086,6 +16629,8 @@ of the prior series will correspond to or be an accurate predictor of the perfor
 [TABLE_1058]
  | A- 72 | 
 [/TABLE_1058]
+
+[PAGE 273 | printed A-73]
 HART 2024-C
 (1)
 [TABLE_1059]
@@ -16112,6 +16657,8 @@ of the prior series will correspond to or be an accurate predictor of the perfor
 [TABLE_1061]
  | A- 73 | 
 [/TABLE_1061]
+
+[PAGE 274 | printed A-74]
 HART 2025-A
 (1)
 [TABLE_1062]
@@ -16133,6 +16680,8 @@ of the prior series will correspond to or be an accurate predictor of the perfor
 [TABLE_1064]
  | A- 74 | 
 [/TABLE_1064]
+
+[PAGE 275 | printed A-75]
 HART 2025-B
 (1)
 [TABLE_1065]
@@ -16151,6 +16700,8 @@ of the prior series will correspond to or be an accurate predictor of the perfor
 [TABLE_1067]
  | A- 75 | 
 [/TABLE_1067]
+
+[PAGE 276 | printed A-76]
 HART 2025-C
 (1)
 [TABLE_1068]
@@ -16166,6 +16717,8 @@ of the prior series will correspond to or be an accurate predictor of the perfor
 [TABLE_1070]
  | A- 76 | 
 [/TABLE_1070]
+
+[PAGE 277 | printed A-77]
 Prepayment Speed Information
 The graph below shows prepayment speed information for each of HCA’s
 retail installment sale contract securitizations in 2020, 2021, 2022, 2023, 2024, 2025-A, 2025-B and 2025-C.
@@ -16173,6 +16726,8 @@ retail installment sale contract securitizations in 2020, 2021, 2022, 2023, 2024
 [TABLE_1071]
  | A- 77 | 
 [/TABLE_1071]
+
+[PAGE 278 | printed A-78]
 61+ Day Delinquency Percentage
 The graph below shows cumulative 61+ day delinquency information for
 each of HCA’s retail installment sale contract securitizations in 2020, 2021, 2022, 2023, 2024, 2025-A, 2025-B and 2025-C.
@@ -16180,6 +16735,8 @@ each of HCA’s retail installment sale contract securitizations in 2020, 2021, 
 [TABLE_1072]
  | A- 78 | 
 [/TABLE_1072]
+
+[PAGE 279 | printed A-79]
 Cumulative Net Losses
 The graph below shows cumulative net loss information for each of HCA’s
 retail installment sale contract securitizations in 2020, 2021, 2022, 2023, 2024, 2025-A, 2025-B and 2025-C.
@@ -16187,6 +16744,8 @@ retail installment sale contract securitizations in 2020, 2021, 2022, 2023, 2024
 [TABLE_1073]
  | A- 79 | 
 [/TABLE_1073]
+
+[PAGE 280]
 No dealer, salesperson or
     other person has been authorized to give any information or to make any representations not contained in this prospectus and, if given
     or made, such information or representations must not be relied upon as having been authorized by the depositor, the servicer or the underwriters.

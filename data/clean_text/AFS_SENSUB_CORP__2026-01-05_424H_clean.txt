@@ -1,3 +1,4 @@
+[PAGE 1]
 Filed pursuant to Rule 424(h)
 Registration Statement No. 333-275606
 Information contained herein is subject to
@@ -71,6 +72,8 @@ Co-Managers for the Class A Notes
 Academy Securities |  | CIBC Capital Markets |  | MUFG |  | RBC Capital Markets
 [/TABLE_8]
 Prospectus dated January __, 2026.
+
+[PAGE 2]
 This document is not an offer to sell these securities, and it is not soliciting an offer to
 buy these securities, in any state where the offer or sale is not permitted.
 We do not claim the accuracy of the information in this prospectus as of any date other than the date stated on the cover of this prospectus.
@@ -119,13 +122,15 @@ A NNEX B C LEARANCE , S ETTLEMENT A ND T AX D OCUMENTATION P ROCEDURES |  |  | B
 Until ninety
 (90) days after the date of this prospectus, all dealers that buy, sell or trade the notes may be required to deliver a prospectus, regardless of whether they are participating in the offer. This is in addition to the obligation of dealers to
 deliver a prospectus when acting as underwriters and with respect to their unsold allotments or subscriptions.
+
+[PAGE 3 | printed 1]
 Important Notice about the Information Presented in this Prospectus
 [TABLE_11]
- |  | You should rely only on information provided or referenced in this prospectus. We have not authorized anyone
+• |  | You should rely only on information provided or referenced in this prospectus. We have not authorized anyone
 to provide you with different information.
 [/TABLE_11]
 [TABLE_12]
- |  | We include cross-references in this prospectus to captions in these
+• |  | We include cross-references in this prospectus to captions in these
 materials where you can find further related discussions. The table of contents on the previous page provides the pages on which these captions are located.
 [/TABLE_12]
 Where You Can Find More Information
@@ -182,6 +187,8 @@ any of the filings incorporated by reference into this prospectus by writing or 
 You may obtain more
 information about GM Financial at https://www.gmfinancial.com. The information about GM Financial’s website in the immediately preceding sentence and its content is not incorporated by reference into this prospectus.
 1
+
+[PAGE 4 | printed 2]
 Notice to Investors: United Kingdom
 PROHIBITION ON SALES TO U.K. RETAIL INVESTORS
 THE NOTES ARE NOT INTENDED TO BE OFFERED, SOLD OR OTHERWISE MADE AVAILABLE TO, AND SHOULD NOT BE OFFERED, SOLD OR OTHERWISE
@@ -228,6 +235,8 @@ PERSONS
 ”). IN THE U.K., THIS PROSPECTUS MUST NOT BE ACTED ON OR RELIED ON BY PERSONS WHO ARE NOT RELEVANT PERSONS. IN THE U.K., ANY INVESTMENT OR INVESTMENT ACTIVITY TO WHICH THIS PROSPECTUS RELATES, INCLUDING THE NOTES, IS AVAILABLE
 ONLY TO RELEVANT PERSONS AND
 2
+
+[PAGE 5 | printed 3]
 WILL BE ENGAGED IN ONLY WITH RELEVANT PERSONS. THE COMMUNICATION OF THIS PROSPECTUS TO ANY PERSON IN THE U.K. OTHER THAN A RELEVANT PERSON IS UNAUTHORIZED AND MAY CONTRAVENE FSMA.
 POTENTIAL INVESTORS IN THE U.K. ARE ADVISED THAT ALL, OR MOST, OF THE PROTECTIONS AFFORDED BY THE U.K. REGULATORY SYSTEM WILL
 NOT APPLY TO AN INVESTMENT IN THE NOTES AND THAT COMPENSATION WILL NOT BE AVAILABLE UNDER THE U.K. FINANCIAL SERVICES COMPENSATION SCHEME.
@@ -263,76 +272,82 @@ Any projections, expectations and estimates in this prospectus are not historica
 information and assumptions the sponsor and the depositor consider reasonable. Forward-looking statements are about circumstances and events that have not yet taken place, so they are uncertain and may vary materially from actual events. Neither the
 sponsor nor the depositor is obligated to update or revise any forward-looking statements, including changes in economic conditions, portfolio or asset pool performance or other circumstances or developments, after the date of this prospectus.
 3
+
+[PAGE 6 | printed 4]
 Summary of Risk Factors
 The following is only a limited summary of the risks related to this transaction. You should carefully read and consider the risk factors set
 forth under “
 Risk Factors
 ,” as well as all other information contained in this prospectus.
 [TABLE_13]
- |  |  | High unemployment, lack of available credit and the occurrence of other significant global or regional events
+ | • |  | High unemployment, lack of available credit and the occurrence of other significant global or regional events
 that impact consumer confidence and disposable income, including a financial crisis, economic downturn or recession, a public health crisis, epidemic or pandemic, a natural disaster or geopolitical conflict, war or other military conflict, are
 likely to lead to increased delinquencies, defaults, repossessions and losses on the automobile loan contracts and could result in losses on the notes.
 [/TABLE_13]
 [TABLE_14]
- |  |  | There are only limited assets supporting the notes. If there are losses on the notes, the subordinate classes of
+ | • |  | There are only limited assets supporting the notes. If there are losses on the notes, the subordinate classes of
 notes are more sensitive to losses than more senior classes of notes. Noteholders will not have recourse against the sponsor or any other party for losses on the notes.
 [/TABLE_14]
 [TABLE_15]
- |  |  | A variety of factors can affect the rate at which your notes amortize, including the rate at which obligors
+ | • |  | A variety of factors can affect the rate at which your notes amortize, including the rate at which obligors
 prepay their automobile loan contracts, repurchases by the sponsor or the depositor for breaches of representations or warranties, repurchases by the servicer for breaches of certain servicing covenants, acceleration of the notes upon the occurrence
 of an event of default or exercise by the servicer or the depositor of its right to redeem the notes, which could cause repayment of principal on the notes at a different rate than you expect.
 [/TABLE_15]
 [TABLE_16]
- |  |  | There may not be a secondary market for the notes and you may not be able to sell your notes even though you may
+ | • |  | There may not be a secondary market for the notes and you may not be able to sell your notes even though you may
 want to sell.
 [/TABLE_16]
 [TABLE_17]
- |  |  | SOFR is a relatively new reference rate which could have an adverse impact on the Floating Rate Notes.
+ | • |  | SOFR is a relatively new reference rate which could have an adverse impact on the Floating Rate Notes.
 [/TABLE_17]
 [TABLE_18]
- |  |  | Even though the Class A-2-B Notes are floating-rate notes, the issuing entity will not enter into any interest rate hedges to mitigate the interest rate risk. An increase in SOFR (or any alternative benchmark rate adopted by the sponsor) will increase the amount due as
+ | • |  | Even though the Class A-2-B Notes are floating-rate notes, the issuing entity will not enter into any interest rate hedges to mitigate the interest rate risk. An increase in SOFR (or any alternative benchmark rate adopted by the sponsor) will increase the amount due as
 interest payments on the Floating Rate Notes without any corresponding increase in the interest due on the automobile loan contracts which may cause you to experience delays or reductions in the payments on your notes.
 [/TABLE_18]
 [TABLE_19]
- |  |  | There are risks associated with the characteristics and performance of the automobile loan contracts. Adverse
+ | • |  | There are risks associated with the characteristics and performance of the automobile loan contracts. Adverse
 events in geographic areas where there is a high concentration of automobile loan contracts may increase the losses and delinquencies on automobile loan contracts in those areas, which may cause losses on the notes.
 [/TABLE_19]
 [TABLE_20]
- |  |  | Any adverse change in the value of a specific vehicle model, including due to a vehicle recall by the
+ | • |  | Any adverse change in the value of a specific vehicle model, including due to a vehicle recall by the
 manufacturer, could increase the delinquency or loss experience of related automobile loan contracts and could cause losses on the notes, especially if there is a high concentration of the specific vehicle model in the pool of automobile loan
 contracts.
 [/TABLE_20]
 [TABLE_21]
- |  |  | Losses and delinquencies on the automobile loan contracts in the pool may differ from the sponsor’s
+ | • |  | Losses and delinquencies on the automobile loan contracts in the pool may differ from the sponsor’s
 historical loss and delinquency levels.
 [/TABLE_21]
 4
+
+[PAGE 7 | printed 5]
 [TABLE_22]
- |  |  | An insolvency of the sponsor, the depositor or the issuing entity may cause payments on the notes to be reduced
+ | • |  | An insolvency of the sponsor, the depositor or the issuing entity may cause payments on the notes to be reduced
 or delayed.
 [/TABLE_22]
 [TABLE_23]
- |  |  | The sponsor, in its capacity as servicer, will commingle collections with the sponsor’s general corporate
+ | • |  | The sponsor, in its capacity as servicer, will commingle collections with the sponsor’s general corporate
 funds. If a bankruptcy proceeding is commenced with respect to the servicer, the trust collateral agent may not have a perfected security interest in those collections and they may be unavailable to noteholders.
 [/TABLE_23]
 [TABLE_24]
- |  |  | Federal and state laws may prohibit, limit, or delay repossession and sale of the vehicles to recover losses on
+ | • |  | Federal and state laws may prohibit, limit, or delay repossession and sale of the vehicles to recover losses on
 defaulted automobile loan contracts. As a result, you may experience delays in receiving payments and suffer losses on your notes.
 [/TABLE_24]
 [TABLE_25]
- |  |  | The sponsor is subject to a wide variety of laws and regulations, including supervision by the Consumer Financial
+ | • |  | The sponsor is subject to a wide variety of laws and regulations, including supervision by the Consumer Financial
 Protection Bureau, and various legal and regulatory proceedings and governmental investigations in the ordinary course of the sponsor’s business. An adverse outcome in one or more proceedings or investigations could result in substantial
 damages, settlements, fines, penalties, diminished income or reputational harm.
 [/TABLE_25]
 [TABLE_26]
- |  |  | A reduction, withdrawal or qualification of the ratings on your notes, or the issuance of unsolicited ratings on
+ | • |  | A reduction, withdrawal or qualification of the ratings on your notes, or the issuance of unsolicited ratings on
 your notes, may adversely affect the market value of your notes and/or limit your ability to resell your notes.
 [/TABLE_26]
 [TABLE_27]
- |  |  | The effects of climate change and the ongoing efforts to mitigate its impact, including through climate
+ | • |  | The effects of climate change and the ongoing efforts to mitigate its impact, including through climate
 change-related legislation and regulation, may have a negative effect on the issuing entity and may cause losses on the notes.
 [/TABLE_27]
 5
+
+[PAGE 8 | printed 6]
 Summary of Transaction Parties
 (1)
 [TABLE_28]
@@ -342,6 +357,8 @@ Summary of Transaction Parties
  |  | Refer to this prospectus for a further description of the relationships between the key parties.
 [/TABLE_29]
 6
+
+[PAGE 9 | printed 7]
 Flow of Funds
 (1)
 [TABLE_30]
@@ -350,17 +367,19 @@ flow each month as indicated above is applicable for so long as no event of defa
 prospectus for a further description.
 [/TABLE_30]
 7
+
+[PAGE 10 | printed 8]
 Summary of Prospectus
 [TABLE_31]
- |  | This summary highlights selected information from this prospectus and does not contain all of the information
+• |  | This summary highlights selected information from this prospectus and does not contain all of the information
 that you need to consider in making your investment decision. To understand all of the terms of the offering of the notes, carefully read this entire prospectus.
 [/TABLE_31]
 [TABLE_32]
- |  | This summary provides an overview of certain calculations, cashflows and other information to aid your
+• |  | This summary provides an overview of certain calculations, cashflows and other information to aid your
 understanding and is qualified by the full description of these calculations, cashflows and other information in this prospectus.
 [/TABLE_32]
 [TABLE_33]
- |  | There are material risks associated with an investment in the notes. You should read the section entitled
+• |  | There are material risks associated with an investment in the notes. You should read the section entitled
 “ Risk Factors ” beginning on page 20 of this prospectus and consider the risk factors described in that section before making a decision to invest in the notes.
 [/TABLE_33]
 The Issuing Entity
@@ -433,6 +452,8 @@ December 8, 2025. The issuing entity will receive amounts collected on the autom
 Closing Date
 On or about January 14, 2026.
 8
+
+[PAGE 11 | printed 9]
 Description of the Securities
 The issuing entity will issue the asset-backed notes pursuant to the indenture. The notes are designated as the “
 Class A
@@ -564,6 +585,8 @@ Class A-2-B
 Notes for such
 interest period will be deemed to be 0.00%.
 9
+
+[PAGE 12 | printed 10]
 Non-Offered
 Notes
 [TABLE_35]
@@ -605,22 +628,22 @@ The Trust Property
 .”
 Distribution Dates
 [TABLE_36]
- |  | For as long as the sponsor is the servicer, the distribution date will be the sixteenth day of each month, subject to the business day rule set forth below, commencing on February 17, 2026. If the sponsor is no
+• |  | For as long as the sponsor is the servicer, the distribution date will be the sixteenth day of each month, subject to the business day rule set forth below, commencing on February 17, 2026. If the sponsor is no
 longer acting as servicer, the distribution date may be a different day of the month, subject to the business day rule set forth below.
 [/TABLE_36]
 [TABLE_37]
- |  | Business day rule:
+• |  | Business day rule:
 [/TABLE_37]
 If any distribution date is not a business day, then the distribution due
 on that date will be made on the next business day.
 [TABLE_38]
- |  | Record dates:
+• |  | Record dates:
 [/TABLE_38]
 The record date for each distribution date is the close of business on the
 business day immediately preceding that distribution date. The record date is the date as of which the trust collateral agent will fix the identity of noteholders. Noteholders whose identities are fixed on a record date will receive payments on the
 related distribution date.
 [TABLE_39]
- |  | Collection periods:
+• |  | Collection periods:
 [/TABLE_39]
 The collection period for each distribution date is the calendar month
 immediately preceding the calendar month in which that distribution date occurs or, for the first distribution date, the period after the cutoff date through and including January 31, 2026. Amounts received on the trust property during each
@@ -628,6 +651,8 @@ collection period will be used to make the payments described under “—
 Payments
 ” on the related distribution date.
 10
+
+[PAGE 13 | printed 11]
 Payments
 As further described under the section of this prospectus entitled “
 Description of the Transaction Documents
@@ -681,6 +706,8 @@ Notes (before giving effect to any principal payments made on such distribution 
 principal distribution amount for such distribution date; provided, that, for the final scheduled distribution date of the Class C Notes, the third priority principal distribution amount will not be less than the amount necessary to reduce
 [/TABLE_48]
 11
+
+[PAGE 14 | printed 12]
 [TABLE_49]
  | the outstanding principal amount of the Class C Notes to zero;
 [/TABLE_49]
@@ -759,49 +786,51 @@ would be borne in reverse order of payment priority (i.e. beginning with the mos
 The outstanding principal amount of any
 class of notes, if not previously paid, will be payable on
 12
+
+[PAGE 15 | printed 13]
 the final scheduled distribution date for that class of notes.
 The Trust Property
 The issuing entity’s assets will principally include:
 [TABLE_60]
- |  | a pool consisting of automobile loan contracts, which are secured by new and used automobiles, light duty trucks and utility vehicles;
+• |  | a pool consisting of automobile loan contracts, which are secured by new and used automobiles, light duty trucks and utility vehicles;
 [/TABLE_60]
 [TABLE_61]
- |  | collections on the automobile loan contracts received after the cutoff date;
+• |  | collections on the automobile loan contracts received after the cutoff date;
 [/TABLE_61]
 [TABLE_62]
- |  | the security interests in the financed vehicles securing the automobile loan contracts;
+• |  | the security interests in the financed vehicles securing the automobile loan contracts;
 [/TABLE_62]
 [TABLE_63]
- |  | the automobile loan contract files;
+• |  | the automobile loan contract files;
 [/TABLE_63]
 [TABLE_64]
- |  | an assignment of all rights to proceeds from claims on insurance policies covering the financed vehicles or the obligors;
+• |  | an assignment of all rights to proceeds from claims on insurance policies covering the financed vehicles or the obligors;
 [/TABLE_64]
 [TABLE_65]
- |  | an assignment of all rights to proceeds from liquidating the automobile loan contracts;
+• |  | an assignment of all rights to proceeds from liquidating the automobile loan contracts;
 [/TABLE_65]
 [TABLE_66]
- |  | an assignment of the proceeds received from dealers under agreements between the sponsor and the dealers;
+• |  | an assignment of the proceeds received from dealers under agreements between the sponsor and the dealers;
 [/TABLE_66]
 [TABLE_67]
- |  | amounts held in the collection account, the note distribution account and the reserve account;
+• |  | amounts held in the collection account, the note distribution account and the reserve account;
 [/TABLE_67]
 [TABLE_68]
- |  | other rights under the transaction documents; and
+• |  | other rights under the transaction documents; and
 [/TABLE_68]
 [TABLE_69]
- |  | all proceeds from the items described above.
+• |  | all proceeds from the items described above.
 [/TABLE_69]
 Each Automobile Loan Contract Pool
 [TABLE_70]
- |  | The automobile loan contracts consist of motor vehicle retail installment sale contracts originated by dealers for assignment to the sponsor and automobile loan contracts originated directly by the sponsor. All of the
+• |  | The automobile loan contracts consist of motor vehicle retail installment sale contracts originated by dealers for assignment to the sponsor and automobile loan contracts originated directly by the sponsor. All of the
 automobile loan contracts were originated in accordance with the sponsor’s credit policies.
 [/TABLE_70]
 [TABLE_71]
- |  | The automobile loan contracts consist of simple interest automobile loan contracts, which provide for equal monthly payments.
+• |  | The automobile loan contracts consist of simple interest automobile loan contracts, which provide for equal monthly payments.
 [/TABLE_71]
 [TABLE_72]
- |  | Upon discovery of a breach by the depositor of certain of the representations and
+• |  | Upon discovery of a breach by the depositor of certain of the representations and
 [/TABLE_72]
 [TABLE_73]
  |  | warranties with respect to the automobile loan contracts under the sale and servicing agreement, the depositor shall have the obligation to repurchase from the issuing entity any automobile loan
@@ -809,26 +838,28 @@ contract in which the interests of the noteholders are materially and adversely 
 been cured by that time.
 [/TABLE_73]
 [TABLE_74]
- |  | Upon either (i) the discovery of a breach by the sponsor of certain of the representations and warranties with respect to the automobile loan contracts under the purchase agreement in which the interests of the
+• |  | Upon either (i) the discovery of a breach by the sponsor of certain of the representations and warranties with respect to the automobile loan contracts under the purchase agreement in which the interests of the
 noteholders are materially and adversely affected by the breach, or (ii) any other event which requires the repurchase of an automobile loan contract by the depositor under the sale and servicing agreement, the sponsor shall have the obligation
 to repurchase from the issuing entity any related automobile loan contract affected by the breach by no later than the end of the second calendar month after the calendar month in which the breach was first discovered, unless the breach has been
 cured by that time.
 [/TABLE_74]
 [TABLE_75]
- |  | Upon discovery of a breach by the servicer of certain covenants with respect to its servicing of the automobile loan contracts under the sale and servicing agreement, the sponsor shall purchase from the issuing entity
+• |  | Upon discovery of a breach by the servicer of certain covenants with respect to its servicing of the automobile loan contracts under the sale and servicing agreement, the sponsor shall purchase from the issuing entity
 the automobile loan contracts affected by such breach if the interests of the noteholders are materially and adversely affected by such breach.
 [/TABLE_75]
 Servicing Fee
 The servicer will be paid on each
 distribution date from available funds prior to any payments on the notes. The servicer will receive the following fees as payment for its services on each distribution date:
 [TABLE_76]
- |  | For so long as the sponsor is the servicer:
+• |  | For so long as the sponsor is the servicer:
 [/TABLE_76]
 [TABLE_77]
  | – | A servicing fee, generally equal to (1) one-twelfth (or in the
 case of the first
 [/TABLE_77]
 13
+
+[PAGE 16 | printed 14]
 [TABLE_78]
  | distribution date, a fraction equal to the number of days from and including December 9, 2025 through and including January 31, 2026, over 360) times (2) 1.00% times (3) the aggregate principal balance of the automobile loan contracts (but excluding any automobile loan contract that, prior to the end of the last day of the related collection period, related to a liquidated or repurchased vehicle) as of the
 opening of business on the first day of the related collection period (or in the case of the first distribution date, as of the opening of business on December 9, 2025); and
@@ -838,15 +869,15 @@ opening of business on the first day of the related collection period (or in the
 obligors, including late fees, prepayment fees and liquidation fees collected on the automobile loan contracts during the related collection period (but excluding any fees or expenses related to extensions).
 [/TABLE_79]
 [TABLE_80]
- |  | If any entity other than the sponsor becomes the servicer, the servicing fee may be adjusted as agreed upon by the majority noteholders of the most senior class outstanding and the successor servicer as set forth in the
+• |  | If any entity other than the sponsor becomes the servicer, the servicing fee may be adjusted as agreed upon by the majority noteholders of the most senior class outstanding and the successor servicer as set forth in the
 sale and servicing agreement.
 [/TABLE_80]
 Pool Information
 [TABLE_81]
- |  | The statistical information in this prospectus is based on the automobile loan contracts as of December 8, 2025, or the “ cutoff date ”.
+• |  | The statistical information in this prospectus is based on the automobile loan contracts as of December 8, 2025, or the “ cutoff date ”.
 [/TABLE_81]
 [TABLE_82]
- |  | One pool was produced that relates to the notes if the aggregate initial principal amount of the notes is $1,000,130,000 and, as of the cutoff date, the automobile loan contracts in such pool had:
+• |  | One pool was produced that relates to the notes if the aggregate initial principal amount of the notes is $1,000,130,000 and, as of the cutoff date, the automobile loan contracts in such pool had:
 [/TABLE_82]
 [TABLE_83]
  | – | an aggregate principal balance of $1,054,072,631.09;
@@ -870,7 +901,7 @@ Pool Information
  | – | a weighted average credit bureau score of 779.
 [/TABLE_89]
 [TABLE_90]
- |  | One pool was produced that relates to the notes if the aggregate initial principal amount of the notes is $1,250,150,000 and, as of the cutoff date, the automobile loan contracts in such pool had:
+• |  | One pool was produced that relates to the notes if the aggregate initial principal amount of the notes is $1,250,150,000 and, as of the cutoff date, the automobile loan contracts in such pool had:
 [/TABLE_90]
 [TABLE_91]
  | – | an aggregate principal balance of $1,317,621,312.63;
@@ -894,9 +925,11 @@ Pool Information
  | – | a weighted average credit bureau score of 779.
 [/TABLE_97]
 [TABLE_98]
- |  | Additional statistical information about the automobile loan contracts is provided under “ The Automobile Loan Contracts. ”
+• |  | Additional statistical information about the automobile loan contracts is provided under “ The Automobile Loan Contracts. ”
 [/TABLE_98]
 14
+
+[PAGE 17 | printed 15]
 Credit Enhancement
 Credit enhancement for the notes will consist of excess cashflow, overcollateralization, the yield supplement overcollateralization amount, subordination and a
 reserve account.
@@ -946,6 +979,8 @@ Class A-2-B
 Notes are issued on the closing date, the Required Rate will step down from 6.45% to 5.45% on the first
 distribution date and remain at this level for each period
 15
+
+[PAGE 18 | printed 16]
 thereafter. See “
 Description of the Transaction Documents
 —
@@ -958,13 +993,13 @@ Subordination
 A class of notes that is lower in priority of payment provides credit support to those classes of notes having higher priority of payment relative to that
 class. To the extent that the trust property does not generate enough cashflow in a particular month to satisfy the issuing entity’s obligations on the related distribution date, any shortfalls or losses will be absorbed as follows:
 [TABLE_99]
- |  | first, by the holders of the Class C Notes, to the extent amounts are due to them;
+• |  | first, by the holders of the Class C Notes, to the extent amounts are due to them;
 [/TABLE_99]
 [TABLE_100]
- |  | second, by the holders of the Class B Notes, to the extent amounts are due to them; and
+• |  | second, by the holders of the Class B Notes, to the extent amounts are due to them; and
 [/TABLE_100]
 [TABLE_101]
- |  | third, by the holders of the Class A Notes, to the extent amounts are due to them, in reverse order of payment priority (except as described under “— Events of Default ”).
+• |  | third, by the holders of the Class A Notes, to the extent amounts are due to them, in reverse order of payment priority (except as described under “— Events of Default ”).
 [/TABLE_101]
 Reserve Account
 On the closing date, an amount
@@ -1008,17 +1043,19 @@ Events of Default
 The following are events of
 default under the indenture:
 [TABLE_102]
- |  |  | default in the payment of any interest on any note of the controlling class when it becomes due and payable, and such default continues for five business days;
+ | • |  | default in the payment of any interest on any note of the controlling class when it becomes due and payable, and such default continues for five business days;
 [/TABLE_102]
 16
+
+[PAGE 19 | printed 17]
 [TABLE_103]
- |  |  | default in the payment of the principal of any note on its final scheduled distribution date;
+ | • |  | default in the payment of the principal of any note on its final scheduled distribution date;
 [/TABLE_103]
 [TABLE_104]
- |  |  | certain breaches of representations, warranties and covenants by the issuing entity (subject to any applicable cure period); and
+ | • |  | certain breaches of representations, warranties and covenants by the issuing entity (subject to any applicable cure period); and
 [/TABLE_104]
 [TABLE_105]
- |  |  | certain events of bankruptcy relating to the issuing entity (subject to any applicable cure period).
+ | • |  | certain events of bankruptcy relating to the issuing entity (subject to any applicable cure period).
 [/TABLE_105]
 Notwithstanding the foregoing, if a delay in or failure of performance referred to under the first three bullet points above was caused by a force majeure
 event (as certified to in an officer’s certificate of the issuing entity), then the applicable cure periods described in those bullet points will be extended by an additional 10 days; provided, that if there is no cure period, then such cure
@@ -1072,6 +1109,8 @@ LLP, tax counsel to the depositor, is of the opinion that, for U.S. federal inco
 treated as beneficially owned by a person other than the depositor and its affiliates for such purposes and (ii) the issuing entity will not be characterized as an association or publicly traded partnership taxable as a corporation. By your
 acceptance of a publicly offered note, you agree to treat the
 17
+
+[PAGE 20 | printed 18]
 note as indebtedness for U.S. federal, state and local income and franchise tax purposes.
 Katten
 Muchin Rosenman LLP has prepared the discussion under “
@@ -1131,6 +1170,8 @@ loan contracts as of the closing date. The sponsor intends to satisfy this credi
 necessary, the Class C Notes to be issued by the issuing entity. Should retention of the “eligible horizontal residual interest” fail to satisfy the sponsor’s risk retention obligations under Regulation RR as determined by the
 sponsor at or prior to the time of pricing, the depositor would also expect to retain an “eligible vertical interest” in the form of a percentage in
 18
+
+[PAGE 21 | printed 19]
 each class of notes in an amount necessary for the sum of the fair value of the “eligible horizontal residual interest” and the amount of the “eligible vertical interest”
 to at least equal the required risk retention amount. See “
 Credit Risk Retention
@@ -1143,6 +1184,8 @@ The depositor met the registrant requirements set forth in paragraph I.A. of the
 SF-3
 at the time the registration statement was filed.
 19
+
+[PAGE 22 | printed 20]
 Risk Factors
 You should consider the following factors in connection with the purchase of the notes:
 [TABLE_115]
@@ -1162,6 +1205,8 @@ automobile loan contracts remaining in the automobile loan contract pool when th
 cutoff date. If this right is exercised by the servicer or the
 [/TABLE_115]
 20
+
+[PAGE 23 | printed 21]
 [TABLE_116]
  |  | depositor, you may be paid principal on the notes earlier than you expected. In any of these cases, you may be repaid principal on the notes at a different rate
 than you expect and you may not be able to reinvest the principal repaid to you at a rate of return that is at least equal to the rate of return on your notes.
@@ -1180,6 +1225,8 @@ property, will be made only once payments of principal have been made in full to
 acceleration of the notes or
 [/TABLE_116]
 21
+
+[PAGE 24 | printed 22]
 [TABLE_117]
  |  | upon liquidation of the trust property, will be made only once payments of interest have been made in full to all classes of notes senior to those classes. The Class A Notes have the highest priority of payment, followed in
 priority of payment by the Class B Notes. Therefore, if there are insufficient amounts available to pay all classes of notes the amounts they are owed on any distribution date or following acceleration of the notes, delays in payment or losses
@@ -1199,6 +1246,8 @@ and/or limit your ability to resell your notes. We note that a NRSRO may have a
 conflict of interest where, as is the industry standard and the case with the ratings of the notes, the sponsor, the depositor or the issuing entity pays the
 [/TABLE_117]
 22
+
+[PAGE 25 | printed 23]
 [TABLE_118]
  |  | fees charged by the engaged NRSRO for their ratings services. The sponsor has not engaged any other NRSRO to assign ratings on the notes
 and is not aware that any other NRSRO has assigned ratings on the notes. However, under effective SEC rules, information provided by or on behalf of the sponsor to an engaged NRSRO for the purpose of assigning or monitoring the ratings on the notes
@@ -1216,6 +1265,8 @@ although no underwriter will be obligated to do so. In addition, the underwriter
 developments or
 [/TABLE_118]
 23
+
+[PAGE 26 | printed 24]
 [TABLE_119]
  |  | otherwise. The notes are not expected to be listed on any securities exchange or quoted in the automated quotation system of a registered
 securities association. No party to the securitization transaction described in
@@ -1235,6 +1286,8 @@ FRBNY may alter the methods of calculation, publication schedule, rate revision 
 cannot assure you that SOFR will not be discontinued or
 [/TABLE_119]
 24
+
+[PAGE 27 | printed 25]
 [TABLE_120]
  |  | fundamentally altered in a manner that is materially adverse to the interests of investors in the Floating Rate Notes. If the manner in which SOFR is calculated is changed or if SOFR is discontinued, that change or discontinuance
 may result in a reduction of the amount of interest payable on the Floating Rate Notes and the trading prices of the Floating Rate Notes.
@@ -1252,6 +1305,8 @@ balance of the Floating Rate Notes and the availability of comparable instrument
 comparable to similar investments that have a developed secondary market,
 [/TABLE_120]
 25
+
+[PAGE 28 | printed 26]
 [TABLE_121]
  |  | and may consequently suffer from increased pricing volatility and market risk.
  |  | The FRBNY began publishing SOFR in April 2018. Although the FRBNY has also published historical indicative SOFR going back to 2014, such prepublication historical data inherently involves assumptions, estimates and approximations.
@@ -1271,6 +1326,8 @@ spread. Decreases in SOFR (or any alternative benchmark adopted by the sponsor) 
 the
 [/TABLE_121]
 26
+
+[PAGE 29 | printed 27]
 [TABLE_122]
  |  | applicable spread set forth on the cover page of this prospectus is less than 0.00% for any interest period, then the interest rate for the Class A-2-B Notes for such interest period will be deemed to be 0.00%.
 We cannot predict the allocation of the aggregate principal amount of the Class A-2 Notes. |  | The allocation of the aggregate principal amount of the Class A-2 Notes between the Class A-2-A Notes
@@ -1289,6 +1346,8 @@ aggregate principal balance of the pool of automobile loan contracts as of the c
 vehicle models
 [/TABLE_122]
 27
+
+[PAGE 30 | printed 28]
 [TABLE_123]
  |  | represent 27.94%, 19.12% and 7.63%, respectively, of the aggregate principal balance of the pool of automobile loan contracts as of the cutoff date. No other vehicle model accounts for more than 5.00% of the aggregate principal
 balance of either pool of automobile loan contracts as of the cutoff date. Any adverse change in the value of a specific vehicle model could increase the delinquency or loan loss experience of a related automobile loan contract. If this occurs, you
@@ -1296,14 +1355,16 @@ may incur a loss on your investment if the reduced proceeds are insufficient to 
 Interests of other persons in the automobile loan contracts or the related financed vehicles could reduce funds available to pay the notes. |  | If another person acquires an interest in an automobile loan contract or a related financed vehicle that is superior to the issuing
 entity’s interest, the collections on that automobile loan contract or the proceeds from the sale of that financed vehicle may not be available which could reduce or delay the funds available to make payments on your notes. If the issuing
 entity does not have a perfected security interest in an automobile loan contract or a financed vehicle, its ability to repossess and sell the financed vehicle securing a defaulted automobile loan contract may be adversely affected. Another person
-could acquire an interest in an automobile loan contract or a financed vehicle that is superior to the issuing entity’s interest if:  the issuing entity does not have a perfected security interest in the automobile loan contract or the financed vehicle because GM Financial’s
-security interest in the automobile loan contract or in the financed vehicle was not properly perfected,  the issuing entity does not have a perfected security interest in the financed vehicle in some states because the servicer will not amend the
-certificate of title to identify the issuing entity as the new secured party,  the issuing entity’s security interest in the automobile loan contract or the financed vehicle is impaired because holders of some types of
-liens, such as tax liens or mechanics’ liens, may have priority over the issuing entity’s security interest or a financed vehicle is confiscated by a government agency, or  the issuing entity does not have a perfected security interest in the automobile loan contract because GM Financial did not maintain physical
+could acquire an interest in an automobile loan contract or a financed vehicle that is superior to the issuing entity’s interest if: • the issuing entity does not have a perfected security interest in the automobile loan contract or the financed vehicle because GM Financial’s
+security interest in the automobile loan contract or in the financed vehicle was not properly perfected, • the issuing entity does not have a perfected security interest in the financed vehicle in some states because the servicer will not amend the
+certificate of title to identify the issuing entity as the new secured party, • the issuing entity’s security interest in the automobile loan contract or the financed vehicle is impaired because holders of some types of
+liens, such as tax liens or mechanics’ liens, may have priority over the issuing entity’s security interest or a financed vehicle is confiscated by a government agency, or • the issuing entity does not have a perfected security interest in the automobile loan contract because GM Financial did not maintain physical
 possession, in the case of a tangible contract, or “control,” in the case of an electronic contract. See “ Material Legal Aspects of the Automobile Loan Contracts—Security Interests in the Financed Vehicles ” for more information about
 the security interests in the automobile
 [/TABLE_123]
 28
+
+[PAGE 31 | printed 29]
 [TABLE_124]
  |  | loan contracts and financed vehicles.
 Losses and delinquencies on the automobile loan contracts may differ from the sponsor’s historical portfolio or prior securitization pool loss and delinquency levels. |  | The delinquency and loss levels of the automobile loan contracts owned by the issuing entity may not correspond to the historical levels the sponsor experienced on its automobile loan contract portfolio or in prior securitized
@@ -1322,6 +1383,8 @@ Vehicle recalls may result in losses on your notes. |  | General Motors Company,
 financed vehicles may result in increased delinquencies and loan loss experience of the related automobile loan contracts. The demand for vehicles subject to a recall may decrease and the amount of proceeds received
 [/TABLE_124]
 29
+
+[PAGE 32 | printed 30]
 [TABLE_125]
  |  | upon the liquidation or other disposition of financed vehicles may decrease. As a result, there may be significant increases in the inventory of used motor vehicles subject to a recall which may also depress the prices at which
 repossessed vehicles may be sold, or may delay the timing of those sales in the used car market. If the price at which the related financed vehicle may be sold declines, you may incur a loss on your investment if the reduced proceeds are
@@ -1335,12 +1398,14 @@ be consolidated with the sponsor in the event of the sponsor’s bankruptcy. The
 unconditional assignment and transfer under bankruptcy law and that the automobile loan contracts should not, in the event that the sponsor were to become bankrupt, become property of the sponsor’s bankruptcy estate. Furthermore, the sponsor
 believes that it, the depositor and the issuing entity are, and will be, operated in a manner that minimizes the likelihood that the assets of the depositor or the issuing entity would be consolidated with those of the sponsor in the event of the
 sponsor’s bankruptcy. However, in the event of an insolvency of the sponsor,
-a court or bankruptcy trustee could attempt to:  recharacterize the transfer of the automobile loan contracts by the sponsor to the depositor and/or by the depositor to the issuing entity as a
+a court or bankruptcy trustee could attempt to: • recharacterize the transfer of the automobile loan contracts by the sponsor to the depositor and/or by the depositor to the issuing entity as a
 borrowing by the sponsor from the depositor, the issuing entity or the
 [/TABLE_125]
 30
+
+[PAGE 33 | printed 31]
 [TABLE_126]
- |  | noteholders, secured by a pledge of the automobile loan contracts; or  consolidate the assets of the depositor and/or the issuing entity with those of the sponsor. If a recharacterization attempt is successful, a court could elect to accelerate
+ |  | noteholders, secured by a pledge of the automobile loan contracts; or • consolidate the assets of the depositor and/or the issuing entity with those of the sponsor. If a recharacterization attempt is successful, a court could elect to accelerate
 payment of the notes and liquidate the automobile loan contracts, in which case you may only be entitled to the outstanding principal amount and interest on the notes at the interest rate on the date of payment. A recharacterization attempt, even if
 unsuccessful, could result in delays in payments to you. If either attempt were
 successful, an event of default would occur with respect to the notes, the notes would be accelerated and the trustee’s or the trust collateral agent’s recovery on your behalf could be limited to the then-current value of the automobile
@@ -1355,6 +1420,8 @@ Transfer of servicing may delay payments to you. |  | The transaction documents 
 automobile loan contracts and information regarding automobile loan contract
 [/TABLE_126]
 31
+
+[PAGE 34 | printed 32]
 [TABLE_127]
  |  | payments could occur. This could delay payments to you. Furthermore, the transaction documents require that the terminated servicer pay the reasonable costs and expenses of transferring servicing to a successor servicer. If the
 terminated servicer were unable or unwilling to pay such costs and expenses, the transition of servicing responsibilities could be disrupted, which could further delay payments to you. There is no guarantee that a replacement servicer would be able
@@ -1373,6 +1440,8 @@ weaken collateral coverage and increase the amount of a loss in the event of a d
 repossessed
 [/TABLE_127]
 32
+
+[PAGE 35 | printed 33]
 [TABLE_128]
  |  | automobiles may be sold. Additionally, higher gasoline prices, unstable real estate values, declining stock market values, increased inflation and other factors can impact consumer
 confidence and disposable income. These conditions increased loss frequency, decreased consumer demand for automobiles and weakened collateral values on certain types of vehicles during economic slowdowns or recessions in the past and may have
@@ -1392,6 +1461,8 @@ The regulatory environment in which the consumer finance industry operates could
 constraints on the sponsor’s operations and result in significant costs related to compliance. Failure to comply with these laws and
 [/TABLE_128]
 33
+
+[PAGE 36 | printed 34]
 [TABLE_129]
  |  | regulations could impair the ability of the sponsor to continue operating and result in substantial civil and criminal penalties, monetary damages, attorneys’ fees and costs, possible revocation of licenses, and damage to
 reputation, brand and valued customer relationships.
@@ -1410,6 +1481,8 @@ servicer’s ability to collect full amounts of interest on some of the automobi
 the obligor’s period of active duty status. Thus, in the event that these automobile loan contracts go into
 [/TABLE_129]
 34
+
+[PAGE 37 | printed 35]
 [TABLE_130]
  |  | default, there may be delays in receiving payments and you could suffer losses on your investment in the notes.
 Recent changes to U.S. federal tax laws may result in a delay in payments to noteholders and a loss of your investment. |  | P.L. 119-21, otherwise known as the “One Big Beautiful Bill Act of 2025,” permanently
@@ -1427,19 +1500,23 @@ industry or economy due to the interdependence of market actors. If such extreme
 change (including laws which may adversely impact the automobile industry in particular as a result of efforts to mitigate the factors contributing to climate change, as well as constraints related to lending on greenhouse
 [/TABLE_130]
 35
+
+[PAGE 38 | printed 36]
 [TABLE_131]
  |  | gas-emitting products) could have an adverse impact on the servicer, the sponsor, the depositor or
 the issuing entity and could adversely affect the timing and amount of payments on your notes. Any of these effects, or their confluence, could adversely affect the performance of the automobile loan contracts, or the market value of the vehicles
 securing the automobile loan contracts, which could result in losses or affect the timing of payments on your notes.
 [/TABLE_131]
 36
+
+[PAGE 39 | printed 37]
 Use of Proceeds
 The depositor will use the proceeds from offering the notes to:
 [TABLE_132]
- |  |  | pay the sponsor the purchase price for the automobile loan contracts; and
+ | • |  | pay the sponsor the purchase price for the automobile loan contracts; and
 [/TABLE_132]
 [TABLE_133]
- |  |  | fund the initial deposit to the reserve account, on behalf of the issuing entity.
+ | • |  | fund the initial deposit to the reserve account, on behalf of the issuing entity.
 [/TABLE_133]
 The depositor or its affiliates may use the net proceeds from the issuance of the notes to pay their debt, including “warehouse”
 debt secured by some or all of the automobile loan contracts prior to their sale to the issuing entity. This “warehouse” debt may be owed to one or more of the underwriters or their affiliates, so a portion of the proceeds that is used
@@ -1476,6 +1553,8 @@ Automobile Loan Contracts—Repurchase Obligations
 ” for more information regarding the representations and warranties that the sponsor will make regarding the automobile loan contracts and its repurchase obligations under the purchase
 agreement.
 37
+
+[PAGE 40 | printed 38]
 The transaction documents for prior pools of automobile loan contracts that were securitized
 by the sponsor under any automobile loan securitization program contain covenants requiring the repurchase of automobile loan contracts for the breach of a related representation or warranty. During the three-year period ended December 31,
 2025, none of the sponsor or the depositor, or the trust collateral agent or the owner trustee for any of those prior securitizations, received a demand to repurchase any automobile loan contracts underlying a securitization sponsored by the
@@ -1521,6 +1600,8 @@ Sponsor’s Automobile Financing Program—Automobile Loan Contract Servicing.
 servicing through its other servicing centers. GMF of Canada is operated as a separate legal entity from the sponsor due solely to the location of its servicing center in a foreign jurisdiction, despite being operated identically to the
 sponsor’s other servicing centers and not as a stand-alone entity (other than as is required for regulatory and corporate governance purposes).
 38
+
+[PAGE 41 | printed 39]
 GMF of Canada will service a portion of the automobile loan contracts on behalf of the
 issuing entity. GMF of Canada will service these automobile loan contracts pursuant to the Amended and Restated Servicing Agreement between GMF of Canada, as successor by merger to AmeriCredit Service Center Ltd., and the sponsor, as amended as
 of January 1, 2006, in accordance with the sale and servicing agreement and in accordance with the sponsor’s customary servicing policies and procedures, using the degree of skill and attention that the sponsor exercises with respect to
@@ -1562,6 +1643,8 @@ of the sponsor. However, there can be no assurance that a court would not conclu
 distribution amounts could occur if a court decided to consolidate the depositor’s assets with those of the sponsor, or if a filing were made under any bankruptcy or insolvency law by or against the depositor, or if an attempt were made to
 litigate any of those issues.
 39
+
+[PAGE 42 | printed 40]
 In connection with the offering of the notes, the chief executive officer of the depositor
 will make the certifications required under the Securities Act about this prospectus, the disclosures made about the characteristics of the automobile loan contracts and the structure of this securitization transaction, the risks of owning the notes
 and whether the securitization transaction is structured to produce sufficient cashflows to make interest and principal payments on the notes when due. This certification will be filed by the depositor with the SEC at the time of filing of this
@@ -1578,23 +1661,23 @@ The depositor will, on or prior to the closing date, transfer to the issuing ent
 initial capitalization of the trust. In addition, the depositor will pay organizational expenses of the issuing entity as they may arise.
 The issuing entity will not engage in any activities other than:
 [TABLE_134]
- |  |  | acquiring, holding and managing the automobile loan contracts and its other assets and proceeds from its assets;
+ | • |  | acquiring, holding and managing the automobile loan contracts and its other assets and proceeds from its assets;
 [/TABLE_134]
 [TABLE_135]
- |  |  | selling automobile loan contracts from time to time, in accordance with the provisions of the sale and servicing
+ | • |  | selling automobile loan contracts from time to time, in accordance with the provisions of the sale and servicing
 agreement;
 [/TABLE_135]
 [TABLE_136]
- |  |  | issuing the notes and the residual certificate (which represents the residual interest in the issuing entity);
+ | • |  | issuing the notes and the residual certificate (which represents the residual interest in the issuing entity);
 [/TABLE_136]
 [TABLE_137]
- |  |  | making payments on the notes and the residual certificate;
+ | • |  | making payments on the notes and the residual certificate;
 [/TABLE_137]
 [TABLE_138]
- |  |  | entering into and performing its obligations under the Transaction Documents to which it is a party; and
+ | • |  | entering into and performing its obligations under the Transaction Documents to which it is a party; and
 [/TABLE_138]
 [TABLE_139]
- |  |  | engaging in other activities that are necessary, suitable or convenient to accomplish these activities.
+ | • |  | engaging in other activities that are necessary, suitable or convenient to accomplish these activities.
 [/TABLE_139]
 Modifications to the trust agreement, including to the foregoing permissible activities, may be made by the depositor
 and the owner trustee, upon notice by the depositor to the engaged NRSROs and with the consent of, in certain cases, the holder of the residual certificate and holders of a majority of the then-outstanding principal amount of the notes, and in all
@@ -1607,6 +1690,8 @@ Property.
 The sale of the automobile loan contracts by the depositor to the issuing entity will be treated as a financing
 rather than as a sale for accounting purposes. The depositor will represent and warrant that the
 40
+
+[PAGE 43 | printed 41]
 trust collateral agent, acting on behalf of the noteholders, will have a first priority perfected security interest in the automobile loan contracts by reason of the indenture and the filing of a
 UCC-1
 financing statement by the issuing entity in the State of Delaware which will give notice of the security interest in favor of the trust collateral agent. The issuing entity will be required to maintain
@@ -1636,6 +1721,8 @@ residual interest” under Regulation RR of the Exchange Act because it is an in
 pay all contractual interest or principal due, any resulting shortfall will reduce amounts payable to the residual certificate prior to any reduction in the amounts payable to any class of notes and (ii) that has the most subordinated claim to
 payments of both principal and interest by the issuing entity.
 41
+
+[PAGE 44 | printed 42]
 Capitalization and Liabilities of the Issuing Entity
 If the aggregate initial principal amount of the notes is $1,000,130,000, the expected assets of the issuing entity as of the closing date
 will be as follows:
@@ -1673,6 +1760,8 @@ Total |  | $ | 1,250,150,000 |
 [/TABLE_143]
 The issuing entity’s fiscal year ends on December 31.
 42
+
+[PAGE 45 | printed 43]
 The Owner Trustee
 Wilmington Trust Company, or “
 WTC
@@ -1713,6 +1802,8 @@ exchange, depositary and escrow services. As of the end of the third quarter of 
 Since 1987, Citibank Agency and Trust has provided corporate trust services for asset-backed securities containing pool assets consisting of airplane leases, auto loans and leases, boat loans, commercial loans, commodities, credit cards, durable
 goods, equipment leases, foreign securities, funding agreement backed note programs,
 43
+
+[PAGE 46 | printed 44]
 truck loans, utilities, student loans and commercial and residential mortgages. As of the end of the third quarter of 2025, Citibank, N.A. acts as indenture trustee and/or paying agent for
 approximately 340 various asset backed trusts supported by either auto loans or leases or equipment loans or leases. The servicer, the depositor and their respective affiliates may maintain normal commercial banking relationships with Citibank, N.A.
 and its affiliates. The fees, expenses and indemnities of the trustee and trust collateral agent will be paid by the servicer under the sale and servicing agreement and to the extent not paid thereunder, will be paid by the issuing entity in
@@ -1749,6 +1840,8 @@ procedures of originators and servicers to assess compliance with representation
 reviews and provided ongoing oversight on over $2 trillion of securitization transactions on behalf of investors, sponsors, issuers and originators, including government sponsored enterprises and other governmental agencies. These services have been
 performed primarily on residential mortgage loan and residential mortgage-backed security transactions, although Clayton and its affiliates have also performed these services for transactions involving auto loans, equipment loans and
 44
+
+[PAGE 47 | printed 45]
 leases, credit cards, commercial mortgage loans, student loans, timeshare loans and boat and recreational vehicle loans.
 The asset representations reviewer is an “
 eligible asset representations reviewer
@@ -1760,10 +1853,10 @@ due diligence work on the automobile loan contracts. The asset representations r
 representations under the Transaction Documents, except in connection with a review under the asset representations review agreement, or for determining whether noncompliance with any representation is a breach of the Transaction Documents.
 The asset representations reviewer’s main duties will be:
 [TABLE_144]
- |  |  | reviewing certain automobile loan contracts following receipt of a review notice from the trustee, and
+ | • |  | reviewing certain automobile loan contracts following receipt of a review notice from the trustee, and
 [/TABLE_144]
 [TABLE_145]
- |  |  | providing a report on the results of the review to the issuing entity, the servicer and the trustee.
+ | • |  | providing a report on the results of the review to the issuing entity, the servicer and the trustee.
 [/TABLE_145]
 See “
 Description of the Transaction Documents—
@@ -1792,6 +1885,8 @@ the resignation. The issuing entity may remove the asset representations reviewe
 reviewer if it no longer is an eligible asset representations reviewer. No resignation or removal of the asset representations reviewer will be effective until a successor asset representations reviewer is in place. Any successor asset
 representations reviewer must be an eligible asset representations reviewer.
 45
+
+[PAGE 48 | printed 46]
 If during any collection period the asset representations reviewer resigns or is removed,
 replaced or substituted, or if a new asset representations reviewer is appointed, the date on which such event occurred and the circumstances surrounding the change will be indicated on the distribution report filed on Form
 10-D
@@ -1834,6 +1929,8 @@ relationships with dealers, when a customer seeks to purchase a vehicle, the dea
 source. GM Financial’s dealer account representatives regularly contact and visit dealers to solicit new business, explain GM Financial’s underwriting philosophy, and answer any questions regarding GM Financial’s financing
 programs. To increase the effectiveness of these contacts, dealer account representatives have access to GM Financial’s management
 46
+
+[PAGE 49 | printed 47]
 information systems, which detail current information regarding the number of applications submitted by a dealer, GM Financial’s responses and the reasons for rejection of any particular
 application.
 GM Financial generally purchases automobile loan contracts without recourse to the dealer. Accordingly, the dealer has no
@@ -1870,6 +1967,8 @@ relationships with the dealers in their geographic vicinity, but do not have res
 concerns and local market conditions. Applications solicited by the dealer account representatives are underwritten at the credit centers. The dealer account representatives are compensated with base salaries and incentives based on automobile loan
 contract
 47
+
+[PAGE 50 | printed 48]
 dealer penetration rates and volume objectives. The dealer account representatives report to regional sales managers, who report to sales vice presidents. The sales vice presidents report to a
 senior vice president in GM Financial’s corporate office.
 Manufacturer Relationship
@@ -1897,6 +1996,8 @@ contracts.
 GM Financial’s credit scorecards are monitored for design stability and effectiveness on an ongoing basis. Periodically,
 GM Financial refines its scorecards based on new information, including but not limited to changing applicant demographics, credit trends and identified correlations between expected and actual performance.
 48
+
+[PAGE 51 | printed 49]
 While GM Financial employs a credit scoring system in the credit approval process, credit
 scoring does not eliminate the risk that some portion of the obligors will default on their payment obligations under their automobile loan contracts. Adverse changes in certain macroeconomic factors after origination could also negatively impact
 credit performance of GM Financial’s automobile loan contract portfolio.
@@ -1922,6 +2023,8 @@ Once the final terms are established, the application is assigned a final credit
 approve or reject the application is made, either by an automated system or by a credit underwriter or personnel with the required level of authority. Dealers are contacted electronically regarding credit decisions. Declined applicants are also
 provided with appropriate notification of the decision.
 49
+
+[PAGE 52 | printed 50]
 Completed automobile loan contract packages are sent to GM Financial by the related dealer.
 Automobile loan contract documentation is scanned to create electronic images and electronically forwarded to GM Financial’s centralized automobile loan contract processing department. A processing representative verifies certain application
 information as appropriate. Automobile loan contract terms, insurance coverage and other information may then be verified or confirmed with the customer. GM Financial contracts with a third party to maintain the original automobile loan contract and
@@ -1949,6 +2052,8 @@ covered by a comprehensive and collision insurance policy in accordance with GM 
 Documents do not allow or require the servicer to make advances with respect to the automobile loan contracts owned by the issuing entity. However, obligors participating in reward or loyalty programs sponsored by GM Financial or any of its
 affiliates may use points accrued under the program to offset a limited amount of their monthly payment, in which case GM Financial shall remit the offset amount out of its own funds to the servicer.
 50
+
+[PAGE 53 | printed 51]
 Collections
 GM Financial services the automobile loan contract portfolio through regional centers located in San Antonio, Texas; Chandler, Arizona;
 Charlotte, North Carolina; and Peterborough, Ontario. A predictive dialing system is utilized to make telephone calls to customers in the early stages of delinquency. The predictive dialer is a computer-controlled telephone dialing system that
@@ -1975,6 +2080,8 @@ under the related automobile loan contract, and the resulting deficiency is
 written-off.
 GM Financial pursues collection of deficiencies when it deems such action to be appropriate.
 51
+
+[PAGE 54 | printed 52]
 GM Financial’s policy is to charge off an automobile loan contract in the month in
 which the automobile loan contract becomes
 one-hundred
@@ -2020,6 +2127,8 @@ GFORT
 Each of the sponsor’s previous securitizations of automobile loan contracts had a similar legal structure to the current transaction. In
 each of those securitizations, the sponsor and/or originating affiliates of the sponsor either purchased automobile loan contracts from automobile dealers and other
 52
+
+[PAGE 55 | printed 53]
 third-party lenders or originated the automobile loan contracts directly with consumers and the sponsor then sold those automobile loan contracts to a wholly-owned subsidiary that served as
 depositor for the related transaction. The related depositor then resold the automobile loan contracts to a newly-created statutory trust that issued asset-backed securities that were backed by the automobile loan contracts. The sponsor served as
 and, with respect to the outstanding transactions, continues to serve as, servicer on each transaction.
@@ -2037,39 +2146,41 @@ information.
 The Trust Property
 The trust property will include, among other things:
 [TABLE_146]
- |  |  | a pool consisting of automobile loan contracts, which are secured by new and used automobiles, light duty trucks
+ | • |  | a pool consisting of automobile loan contracts, which are secured by new and used automobiles, light duty trucks
 and utility vehicles;
 [/TABLE_146]
 [TABLE_147]
- |  |  | moneys received with respect to the automobile loan contracts, after the cutoff date;
+ | • |  | moneys received with respect to the automobile loan contracts, after the cutoff date;
 [/TABLE_147]
 [TABLE_148]
- |  |  | amounts that are held in the collection account, the note distribution account and the reserve account;
+ | • |  | amounts that are held in the collection account, the note distribution account and the reserve account;
 [/TABLE_148]
 [TABLE_149]
- |  |  | the security interests in the financed vehicles granted by obligors;
+ | • |  | the security interests in the financed vehicles granted by obligors;
 [/TABLE_149]
 [TABLE_150]
- |  |  | an assignment of the proceeds received from dealers under agreements between the sponsor and dealers;
+ | • |  | an assignment of the proceeds received from dealers under agreements between the sponsor and dealers;
 [/TABLE_150]
 [TABLE_151]
- |  |  | an assignment of the right to receive proceeds from claims on physical damage, credit life and disability
+ | • |  | an assignment of the right to receive proceeds from claims on physical damage, credit life and disability
 insurance policies covering the financed vehicles or the obligors;
 [/TABLE_151]
 [TABLE_152]
- |  |  | an assignment of all rights to proceeds from liquidating the automobile loan contracts;
+ | • |  | an assignment of all rights to proceeds from liquidating the automobile loan contracts;
 [/TABLE_152]
 [TABLE_153]
- |  |  | the automobile loan contract files;
+ | • |  | the automobile loan contract files;
 [/TABLE_153]
 [TABLE_154]
- |  |  | other rights under the Transaction Documents, including an assignment of the depositor’s rights against the
+ | • |  | other rights under the Transaction Documents, including an assignment of the depositor’s rights against the
 sponsor for breaches of representations and warranties under the purchase agreement; and
 [/TABLE_154]
 [TABLE_155]
- |  |  | all proceeds from the items described above.
+ | • |  | all proceeds from the items described above.
 [/TABLE_155]
 53
+
+[PAGE 56 | printed 54]
 The automobile loan contracts will be purchased by the depositor from the sponsor under the
 purchase agreement, and will then be purchased by the issuing entity from the depositor under the sale and servicing agreement, in each case on or about the closing date.
 The automobile loan contracts were originated by the sponsor through dealers or were originated directly with consumers by the sponsor
@@ -2118,6 +2229,8 @@ the obligor thereunder, and does not contain a confidentiality provision that pu
 contract;
 [/TABLE_165]
 54
+
+[PAGE 57 | printed 55]
 [TABLE_166]
  | (k) | each automobile loan contract arose under a contract with respect to which the sponsor has performed all
 obligations required to be performed by it thereunder;
@@ -2146,6 +2259,8 @@ geographic location, wholesale
 loan-to-value
 (LTV) ratio, vehicle make, vehicle model and vehicle segment as of the cutoff date are detailed in the following tables:
 55
+
+[PAGE 58 | printed 56]
 Composition of the Automobile Loan Contracts
 as of the Cutoff Date for the Pool Related to Notes with an Aggregate Initial Principal Amount of $1,000,130,000
 (1)
@@ -2186,6 +2301,8 @@ Notes with an Aggregate Initial Principal Amount of $1,000,130,000
 (5) Proprietary credit score developed and utilized by the
 sponsor to support the credit approval and pricing process. The scale of the proprietary score is not comparable to a credit bureau score.
 56
+
+[PAGE 59 | printed 57]
 Distribution of the Automobile Loan Contracts by Credit Bureau Score
 as of the Cutoff Date for the Pool Related to Notes with an Aggregate Initial Principal Amount of $1,000,130,000
 (1)
@@ -2235,6 +2352,8 @@ Depositor Review of Automobile Loan Contracts
 ”
 (2) Percentages may not add to 100% because of rounding.
 57
+
+[PAGE 60 | printed 58]
 Distribution of the Automobile Loan Contracts by APR
 as of the Cutoff Date for the Pool Related to Notes with an Aggregate Initial Principal Amount of $1,000,130,000
 (1)
@@ -2296,6 +2415,8 @@ plug-in
 hybrid electric power source.
 (4) Vehicle powertrain was not available for certain accounts at the time the pool was selected.
 58
+
+[PAGE 61 | printed 59]
 Distribution of the Automobile Loan Contracts by Geographic Location of Obligor
 as of the Cutoff Date for the Pool Related to Notes with an Aggregate Initial Principal Amount of $1,000,130,000
 (1)
@@ -2365,6 +2486,8 @@ Data About the Automobile Loan Contracts.
 (2) Percentages may not add to 100% because of rounding.
 (3) States and Territories with aggregate principal balances less than $1,000,000 each.
 59
+
+[PAGE 62 | printed 60]
 Distribution of the Automobile Loan Contracts by Wholesale LTV
 as of the Cutoff Date for the Pool Related to Notes with an Aggregate Initial Principal Amount of $1,000,130,000
 (1)
@@ -2412,6 +2535,8 @@ Depositor Review of Automobile Loan Contracts—Asset-Level Data About the Autom
 (3)
 Vehicle makes with an aggregate principal balance of less than 1% of the aggregate principal balance of the pool.
 60
+
+[PAGE 63 | printed 61]
 Distribution of the Automobile Loan Contracts by Vehicle Model
 as of the Cutoff Date
 for the Pool Related to Notes with an Aggregate Initial Principal
@@ -2471,6 +2596,8 @@ Data About the Automobile Loan Contracts.
 (2) Percentages may not add to 100% because of rounding.
 (3) Vehicle segmentation was not available for certain accounts at the time the pool was selected.
 61
+
+[PAGE 64 | printed 62]
 Composition of the Automobile Loan Contracts
 as of the Cutoff Date for the Pool Related to Notes with an Aggregate Initial Principal Amount of $1,250,150,000
 (1)
@@ -2511,6 +2638,8 @@ Notes with an Aggregate Initial Principal Amount of $1,250,150,000
 (5) Proprietary credit score developed and utilized by the
 sponsor to support the credit approval and pricing process. The scale of the proprietary score is not comparable to a credit bureau score.
 62
+
+[PAGE 65 | printed 63]
 Distribution of the Automobile Loan Contracts by Credit Bureau Score
 as of the Cutoff Date for the Pool Related to Notes with an Aggregate Initial Principal Amount of $1,250,150,000
 (1)
@@ -2560,6 +2689,8 @@ Depositor Review of Automobile Loan Contracts—Asset-Level Data About the Autom
 ”
 (2) Percentages may not add to 100% because of rounding.
 63
+
+[PAGE 66 | printed 64]
 Distribution of the Automobile Loan Contracts by APR
 as of the Cutoff Date for the Pool Related to Notes with an Aggregate Initial Principal Amount of $1,250,150,000
 (1)
@@ -2620,6 +2751,8 @@ plug-in
 hybrid electric power source.
 (4) Vehicle powertrain was not available for certain accounts at the time the pool was selected.
 64
+
+[PAGE 67 | printed 65]
 Distribution of the Automobile Loan Contracts by Geographic Location of Obligor
 as of the Cutoff Date for the Pool Related to Notes with an Aggregate Initial Principal Amount of $1,250,150,000
 (1)
@@ -2690,6 +2823,8 @@ Data About the Automobile Loan Contracts.
 (2) Percentages may not add to 100% because of rounding.
 (3) States and Territories with aggregate principal balances less than $1,000,000 each.
 65
+
+[PAGE 68 | printed 66]
 Distribution of the Automobile Loan Contracts by Wholesale LTV
 as of the Cutoff Date for the Pool Related to Notes with an Aggregate Initial Principal Amount of $1,250,150,000
 (1)
@@ -2737,6 +2872,8 @@ Depositor Review of Automobile Loan Contracts—Asset-Level Data About the Autom
 (3)
 Vehicle makes with an aggregate principal balance of less than 1% of the aggregate principal balance of the pool.
 66
+
+[PAGE 69 | printed 67]
 Distribution of the Automobile Loan Contracts by Vehicle Model
 as of the Cutoff Date
 for the Pool Related to Notes with an Aggregate Initial Principal
@@ -2797,6 +2934,8 @@ Data About the Automobile Loan Contracts.
 (2) Percentages may not add to 100% because of rounding.
 (3) Vehicle segmentation was not available for certain accounts at the time the pool was selected.
 67
+
+[PAGE 70 | printed 68]
 Simple Interest Automobile Loan Contract
 The obligor under each automobile loan contract is required to pay a specified total amount of payments, in substantially equal monthly
 installments on each due date under the automobile loan contract. Each obligor’s total payment amount equals the amount financed plus interest charges for the related automobile loan contract’s entire term. The interest charges on the
@@ -2819,21 +2958,23 @@ assisted by, responsible personnel of the sponsor in performing the review. In a
 contracts that are included in the trust property. The depositor determined the nature, extent and timing of the review and level of assistance provided by the third party. In addition, the depositor assumes the responsibility for the review and the
 findings and conclusions of the review and attributes all findings and conclusions to itself. The review performed consisted of:
 [TABLE_190]
- |  | Process and Systems Review : Personnel of the sponsor confirmed by conducting a review of its loan
+ | • | Process and Systems Review : Personnel of the sponsor confirmed by conducting a review of its loan
 origination, underwriting, funding and servicing processes and systems that the descriptions contained in this prospectus of how the automobile loan contracts in each pool were originated and how they are serviced are accurate.
 [/TABLE_190]
 [TABLE_191]
- |  | Forms Review : Personnel of the sponsor confirmed that the forms of contracts that were used to originate
+ | • | Forms Review : Personnel of the sponsor confirmed that the forms of contracts that were used to originate
 the automobile loan contracts in each pool conform in all material respects to the descriptions of those contracts in this prospectus. Personnel of the sponsor also confirmed that forms of dealer agreements pursuant to which it acquired automobile
 loan contracts from dealers conform in all material respects to the descriptions of those dealer agreements in this prospectus. Appropriate internal legal personnel confirmed that the descriptions of legal and regulatory considerations relating to
 the origination, ownership and
 [/TABLE_191]
 68
+
+[PAGE 71 | printed 69]
 [TABLE_192]
  | servicing of the automobile loan contracts reflect current federal and state laws and regulations.
 [/TABLE_192]
 [TABLE_193]
- |  | Internal Reviews : Several departments within the sponsor perform initial and on-going reviews of the origination and servicing processes.
+ | • | Internal Reviews : Several departments within the sponsor perform initial and on-going reviews of the origination and servicing processes.
 [/TABLE_193]
 [TABLE_194]
  | ○ |  | Funding ensures all information is complete and accurate on the loan documentation package, confirms the loan
@@ -2854,7 +2995,7 @@ quality and tracks delinquency and loss trends for the entire portfolio.
 throughout the organization. These reviews are conducted on a regular and recurring basis determined by the risk assessment of the specific operational area.
 [/TABLE_197]
 [TABLE_198]
- |  | Sample Automobile Loan Contract Review : For each securitization trust, the depositor selects automobile
+ | • | Sample Automobile Loan Contract Review : For each securitization trust, the depositor selects automobile
 loan contracts for inclusion based on set eligibility criteria described in the related prospectus. The depositor uses information from the servicing system or origination system as well as databases housing additional origination and consumer
 details to assemble a “loan data file.” The loan data file for the current transaction is the basis for the disclosure regarding the automobile loan contracts contained in each pool described in this prospectus. The depositor also uses
 such systems and databases to assemble the asset-level data filings.
@@ -2871,11 +3012,13 @@ file (and compared to the corresponding contract package or origination or servi
 receivables were made available in electronic copy for
 [/TABLE_200]
 69
+
+[PAGE 72 | printed 70]
 [TABLE_201]
  | comparison to the applicable characteristics in the asset-level data file to determine whether any inaccuracies existed.
 [/TABLE_201]
 [TABLE_202]
- |  | Underwriting Review : Underwriting automobile loan contracts by the sponsor is supported by a proprietary
+ | • | Underwriting Review : Underwriting automobile loan contracts by the sponsor is supported by a proprietary
 credit scoring system. Management establishes minimum custom score cutoff levels based on, among other items, the sponsor’s strategic objectives, economic and competitive environments, access to and cost of financing and volatility in used car
 pricing. The minimum custom score cutoff level is set on a state, regional or dealer level based on the above factors. The proprietary custom score cutoff levels for prime obligors are reviewed and refined by the sponsor’s senior management on
 a regular basis. When a loan application is received, the first step in the approval process is to generate a custom score. If a loan application meets or exceeds the minimum custom score cutoff level it may be automatically approved or instead may
@@ -2904,6 +3047,8 @@ origination, contract terms, financed vehicle, obligor, contract activity, servi
 asset-level data presented in the initial asset-level data filings may have been calculated as of a different date. Further, certain characteristics of the automobile loan contracts are required to be calculated differently in the asset-level data
 filing than how they are calculated in this prospectus. As a result, certain asset-level data presented in this prospectus, including, but not limited to, such data related to principal balances, APRs, original terms, remaining
 70
+
+[PAGE 73 | printed 71]
 terms, weighted averages, FICO
 ®
 Auto Scores and geographic locations of obligors may not match the data presented in the initial
@@ -2943,6 +3088,8 @@ The servicer is also obligated under the sale and servicing agreement to ensure 
 each financed vehicle are obtained. However, the servicer will not be required to repurchase an automobile loan contract due solely to the servicer not having received lien certificates that have been properly applied for from the applicable
 governmental authority in the applicable state for such automobile loan contract.
 71
+
+[PAGE 74 | printed 72]
 Yield and Prepayment Considerations
 Prepayments can be made on any of the automobile loan contracts at any time. If prepayments are received on the automobile loan
 contracts, their actual weighted average life may be shorter than their weighted average life would be if all payments were made as scheduled and no prepayments were made. Prepayments on the automobile loan contracts may include moneys received from
@@ -2977,6 +3124,8 @@ automobile loan contract will either be made as scheduled or the automobile loan
 that would mean that 100 automobile loan contracts would prepay in full each month. The percentage of prepayments that is assumed for ABS is not a historical description of prepayment experience on pools of automobile loan contracts or a prediction
 of the anticipated rate of prepayment on either the pool of automobile loan contracts involved in this transaction or on any pool of automobile loan contracts. It should not be assumed that the actual rate of prepayments on the automobile
 72
+
+[PAGE 75 | printed 73]
 loan contracts will be in any way related to the percentage of prepayments that are assumed for ABS in this prospectus.
 The tables below which are captioned “
 Percent of Aggregate Initial Principal Amount at Various ABS Percentages
@@ -3043,6 +3192,8 @@ $15,430,000;
 the Class A-2-B Notes at a fixed rate of 4.42030% per annum, on an “actual/360” basis;
 [/TABLE_215]
 73
+
+[PAGE 76 | printed 74]
 [TABLE_216]
  | (xiv) | interest accrues on the Class A-2-A Notes at 4.05% per annum, the Class A-3 Notes at 4.09% per annum, the Class A-4 Notes at 4.21% per annum, the Class B Notes at 4.44% per annum and the Class C Notes at 4.68% per annum, on a “30/360” basis; and
 [/TABLE_216]
@@ -3098,6 +3249,8 @@ the Class A-2-B Notes at a fixed rate of 4.42030% per annum, on an “actual/360
 following table:
 [/TABLE_222]
 74
+
+[PAGE 77 | printed 75]
 [TABLE_223]
 Pool |  | Aggregate Principal Balance |  |  | Gross APR |  | Assumed Cutoff Date |  | Remaining Term to Maturity (in Months) |  | Seasoning (in Months)
 1 |  | $ | 67,294.10 |  |  | 2.344% |  | 1/1/2026 |  | 11 |  | 29
@@ -3138,6 +3291,8 @@ Notes are paid in full, and
 Class A-2-B
 Notes are paid in full.
 75
+
+[PAGE 78 | printed 76]
 The Yield Supplement Overcollateralization Amount for each distribution date is the amount
 set forth in the table immediately below if the aggregate initial principal amount of the notes is $1,000,130,000.
 [TABLE_225]
@@ -3212,6 +3367,8 @@ Closing Date |  |  | $ 25,655,163.61 |  |  |  |  |  | $  17,462,643.60 |  
 7/16/2031 |  |  | 84,449.22 |  |  |  |  |  | 24,808.45 |  |  | 
 [/TABLE_225]
 76
+
+[PAGE 79 | printed 77]
 [TABLE_226]
  |  | Yield Supplement Overcollateralization Amount Required Rate
 Distribution Date |  | 6.45% |  | 5.45%
@@ -3233,6 +3390,8 @@ Distribution Date |  | 6.45% |  | 5.45%
 11/16/2032 |  |  | 0.00 |  |  |  |  |  | 0.00 |  |  | 
 [/TABLE_226]
 77
+
+[PAGE 80 | printed 78]
 The Yield Supplement Overcollateralization Amount for each distribution date is the amount
 set forth in the table immediately below if the aggregate initial principal amount of the notes is $1,250,150,000.
 [TABLE_227]
@@ -3307,6 +3466,8 @@ Closing Date |  |  | $  32,104,575.56 |  |  |  |  |  | $  21,865,879.09 
 7/16/2031 |  |  | 104,767.14 |  |  |  |  |  | 30,791.08 |  |  | 
 [/TABLE_227]
 78
+
+[PAGE 81 | printed 79]
 [TABLE_228]
  |  | Yield Supplement Overcollateralization Amount Required Rate
 Distribution Date |  | 6.45% |  | 5.45%
@@ -3328,6 +3489,8 @@ Distribution Date |  | 6.45% |  | 5.45%
 11/16/2032 |  |  | 0.00 |  |  |  |  |  | 0.00 |  |  | 
 [/TABLE_228]
 79
+
+[PAGE 82 | printed 80]
 The following tables were created relying on the applicable assumptions listed above. The
 tables below indicate the percentages of the initial principal amount of each class of publicly offered notes that would be outstanding after each of the listed distribution dates if certain percentages of ABS are assumed. The tables below also
 indicate the corresponding weighted average lives of each class of publicly offered notes if the same percentages of ABS are assumed. The assumptions used to construct the tables are hypothetical and have been provided only to give a general sense
@@ -3341,16 +3504,18 @@ the tables have been rounded to two decimal places. As used in the tables which 
 weighted average life
 ” of a class of publicly offered notes is determined by:
 [TABLE_229]
- |  | multiplying the amount of each principal payment on a publicly offered note by the number of years from the date
+• |  | multiplying the amount of each principal payment on a publicly offered note by the number of years from the date
 of the issuance of the publicly offered note to the related distribution date;
 [/TABLE_229]
 [TABLE_230]
- |  | adding the results; and
+• |  | adding the results; and
 [/TABLE_230]
 [TABLE_231]
- |  | dividing the sum by the related initial principal amount of the publicly offered note.
+• |  | dividing the sum by the related initial principal amount of the publicly offered note.
 [/TABLE_231]
 80
+
+[PAGE 83 | printed 81]
 Percent of Aggregate Initial Principal Amount at Various ABS Percentages
 ($1,000,130,000)
 [TABLE_232]
@@ -3420,6 +3585,8 @@ Weighted Average Life to Call (Years) |  |  | 0.36 |  |  |  | 0.28 |  |  |  | 0.
 Weighted Average Life to Maturity (Years) |  |  | 0.36 |  |  |  | 0.28 |  |  |  | 0.25 |  |  |  | 0.23 |  |  |  | 0.21 |  |  |  | 0.19 | 
 [/TABLE_232]
 81
+
+[PAGE 84 | printed 82]
 Percent of Aggregate Initial Principal Amount at Various ABS Percentages
 ($1,000,130,000)
 [TABLE_233]
@@ -3489,6 +3656,8 @@ Weighted Average Life to Call (Years) |  |  | 1.55 |  |  |  | 1.25 |  |  |  | 1.
 Weighted Average Life to Maturity (Years) |  |  | 1.55 |  |  |  | 1.25 |  |  |  | 1.10 |  |  |  | 1.01 |  |  |  | 0.93 |  |  |  | 0.83 | 
 [/TABLE_233]
 82
+
+[PAGE 85 | printed 83]
 Percent of Aggregate Initial Principal Amount at Various ABS Percentages
 ($1,000,130,000)
 [TABLE_234]
@@ -3558,6 +3727,8 @@ Weighted Average Life to Call (Years) |  |  | 3.48 |  |  |  | 2.94 |  |  |  | 2.
 Weighted Average Life to Maturity (Years) |  |  | 3.48 |  |  |  | 2.94 |  |  |  | 2.61 |  |  |  | 2.41 |  |  |  | 2.22 |  |  |  | 1.96 | 
 [/TABLE_234]
 83
+
+[PAGE 86 | printed 84]
 Percent of Aggregate Initial Principal Amount at Various ABS Percentages
 ($1,000,130,000)
 [TABLE_235]
@@ -3627,6 +3798,8 @@ Weighted Average Life to Call (Years) |  |  | 4.88 |  |  |  | 4.31 |  |  |  | 3.
 Weighted Average Life to Maturity (Years) |  |  | 5.01 |  |  |  | 4.46 |  |  |  | 4.01 |  |  |  | 3.68 |  |  |  | 3.35 |  |  |  | 2.90 | 
 [/TABLE_235]
 84
+
+[PAGE 87 | printed 85]
 Percent of Aggregate Initial Principal Amount at Various ABS Percentages
 ($1,000,130,000)
 [TABLE_236]
@@ -3696,6 +3869,8 @@ Weighted Average Life to Call (Years) |  |  | 4.92 |  |  |  | 4.34 |  |  |  | 3.
 Weighted Average Life to Maturity (Years) |  |  | 5.42 |  |  |  | 4.95 |  |  |  | 4.46 |  |  |  | 4.08 |  |  |  | 3.69 |  |  |  | 3.17 | 
 [/TABLE_236]
 85
+
+[PAGE 88 | printed 86]
 Percent of Aggregate Initial Principal Amount at Various ABS Percentages
 ($1,250,150,000)
 [TABLE_237]
@@ -3765,6 +3940,8 @@ Weighted Average Life to Call (Years) |  |  | 0.36 |  |  |  | 0.28 |  |  |  | 0.
 Weighted Average Life to Maturity (Years) |  |  | 0.36 |  |  |  | 0.28 |  |  |  | 0.25 |  |  |  | 0.23 |  |  |  | 0.21 |  |  |  | 0.19 | 
 [/TABLE_237]
 86
+
+[PAGE 89 | printed 87]
 Percent of Aggregate Initial Principal Amount at Various ABS Percentages
 ($1,250,150,000)
 [TABLE_238]
@@ -3834,6 +4011,8 @@ Weighted Average Life to Call (Years) |  |  | 1.55 |  |  |  | 1.25 |  |  |  | 1.
 Weighted Average Life to Maturity (Years) |  |  | 1.55 |  |  |  | 1.25 |  |  |  | 1.10 |  |  |  | 1.01 |  |  |  | 0.93 |  |  |  | 0.83 | 
 [/TABLE_238]
 87
+
+[PAGE 90 | printed 88]
 Percent of Aggregate Initial Principal Amount at Various ABS Percentages
 ($1,250,150,000)
 [TABLE_239]
@@ -3903,6 +4082,8 @@ Weighted Average Life to Call (Years) |  |  | 3.48 |  |  |  | 2.94 |  |  |  | 2.
 Weighted Average Life to Maturity (Years) |  |  | 3.48 |  |  |  | 2.94 |  |  |  | 2.61 |  |  |  | 2.41 |  |  |  | 2.21 |  |  |  | 1.96 | 
 [/TABLE_239]
 88
+
+[PAGE 91 | printed 89]
 Percent of Aggregate Initial Principal Amount at Various ABS Percentages
 ($1,250,150,000)
 [TABLE_240]
@@ -3972,6 +4153,8 @@ Weighted Average Life to Call (Years) |  |  | 4.88 |  |  |  | 4.31 |  |  |  | 3.
 Weighted Average Life to Maturity (Years) |  |  | 5.01 |  |  |  | 4.46 |  |  |  | 4.01 |  |  |  | 3.68 |  |  |  | 3.35 |  |  |  | 2.90 | 
 [/TABLE_240]
 89
+
+[PAGE 92 | printed 90]
 Percent of Aggregate Initial Principal Amount at Various ABS Percentages
 ($1,250,150,000)
 [TABLE_241]
@@ -4041,6 +4224,8 @@ Weighted Average Life to Call (Years) |  |  | 4.92 |  |  |  | 4.34 |  |  |  | 3.
 Weighted Average Life to Maturity (Years) |  |  | 5.42 |  |  |  | 4.95 |  |  |  | 4.46 |  |  |  | 4.08 |  |  |  | 3.69 |  |  |  | 3.17 | 
 [/TABLE_241]
 90
+
+[PAGE 93 | printed 91]
 Delinquency and Loan Loss Information
 The following tables provide information relating to the sponsor’s total North American portfolio delinquency and loan loss experience
 for each period indicated with respect to all automobile loan contracts the sponsor has originated or purchased and serviced. This information includes the experience with respect to all automobile loan contracts in the sponsor’s portfolio of
@@ -4067,6 +4252,8 @@ The following tables reflect the sponsor’s entire North American portfolio of 
 loan contracts, therefore, the levels of delinquency and loss experience reflected in the following tables may not be indicative of the performance of the automobile loan contracts owned by the issuing entity. For information about prime automobile
 loan contracts previously securitized by GM Financial, refer to Annex A of this prospectus.
 91
+
+[PAGE 94 | printed 92]
 Delinquency Experience
 (dollars in thousands)
 (3)
@@ -4124,6 +4311,8 @@ and financed in connection with the vehicle financing and refunds of unearned pr
 (3) | Results for the nine months ended September 30, 2025 and September 30, 2024 are annualized.
 [/TABLE_249]
 92
+
+[PAGE 95 | printed 93]
 Description of the Notes
 General
 The issuing entity will
@@ -4154,32 +4343,34 @@ A business day is a day other than a Saturday, Sunday, or any other day on which
 the location in which the corporate trust office of either the trustee under the indenture or the owner trustee under the trust agreement are authorized or obligated to be closed.
 The final scheduled distribution dates are as follows:
 [TABLE_250]
- |  | for the Class A-1 Notes, January 19, 2027;
+ | • | for the Class A-1 Notes, January 19, 2027;
 [/TABLE_250]
 [TABLE_251]
- |  | for the Class A-2-A Notes,
+ | • | for the Class A-2-A Notes,
 March 16, 2029;
 [/TABLE_251]
 [TABLE_252]
- |  | for the Class A-2-B Notes,
+ | • | for the Class A-2-B Notes,
 March 16, 2029;
 [/TABLE_252]
 [TABLE_253]
- |  | for the Class A-3 Notes, May 16, 2031;
+ | • | for the Class A-3 Notes, May 16, 2031;
 [/TABLE_253]
 [TABLE_254]
- |  | for the Class A-4 Notes, June 16, 2032;
+ | • | for the Class A-4 Notes, June 16, 2032;
 [/TABLE_254]
 [TABLE_255]
- |  | for the Class B Notes, June 16, 2032; and
+ | • | for the Class B Notes, June 16, 2032; and
 [/TABLE_255]
 [TABLE_256]
- |  | for the Class C Notes, July 18, 2033.
+ | • | for the Class C Notes, July 18, 2033.
 [/TABLE_256]
 Payments of Interest
 Interest on
 each class of notes will accrue during each interest period at the applicable interest rate from and including the immediately preceding distribution date—or, in the case of the first
 93
+
+[PAGE 96 | printed 94]
 distribution date, from and including the closing date—to but excluding the following distribution date. Interest on the
 Class A-1
 Notes and the
@@ -4264,6 +4455,8 @@ collateral agent and will have no obligation to determine any alternative benchm
 error and will be made in the sponsor’s sole discretion and will become effective without the consent of any other person (including any noteholder). The holders of notes will not have any right to approve or disapprove such election by the
 sponsor and will be deemed to have waived and released any and all claims against any transaction party relating to any such election by the sponsor.
 94
+
+[PAGE 97 | printed 95]
 Payments of Principal
 On each distribution date, payments of principal will be distributed to the noteholders in an amount generally equal to the excess, if any, of
 (i) the aggregate outstanding principal amount of the notes (before giving effect to any principal payments made on such distribution date) over (ii) the Adjusted Pool Balance less the overcollateralization target amount for that
@@ -4320,13 +4513,15 @@ distribution date for that class. The actual date on which the aggregate outstan
 Termination and Optional Redemption
 The obligations of the servicer, the sponsor, the trust collateral agent and the trustee will terminate upon the earlier to occur of:
 [TABLE_263]
- |  |  | the maturity or other liquidation of the last automobile loan contract and the disposition of any amounts
+ | • |  | the maturity or other liquidation of the last automobile loan contract and the disposition of any amounts
 received upon liquidation of any remaining automobile loan contracts; and
 [/TABLE_263]
 [TABLE_264]
- |  |  | the final payment to noteholders.
+ | • |  | the final payment to noteholders.
 [/TABLE_264]
 95
+
+[PAGE 98 | printed 96]
 On any distribution date on which the Pool Balance (measured as of the last day of the
 related collection period) has declined to 10% or less of the aggregate principal balance of the automobile loan contracts as of the cutoff date, any notes that are still outstanding may be redeemed in whole, but not in part. This redemption will
 cause the early retirement of the redeemed notes. The redemption price will equal the unpaid principal amount of the notes being redeemed, plus accrued and unpaid interest. Notice of any such redemption will be given by the servicer or the issuing
@@ -4339,22 +4534,22 @@ default
 ”
 under the indenture:
 [TABLE_265]
- |  |  | default in the payment of interest when it becomes due and payable on the Controlling Class, which default, in
+ | • |  | default in the payment of interest when it becomes due and payable on the Controlling Class, which default, in
 each case, remains uncured for five business days;
 [/TABLE_265]
 [TABLE_266]
- |  |  | default in the payment of principal on any note when the same becomes due and payable on its final scheduled
+ | • |  | default in the payment of principal on any note when the same becomes due and payable on its final scheduled
 distribution date;
 [/TABLE_266]
 [TABLE_267]
- |  |  | failure to observe or perform any covenant or agreement of the issuing entity made in the indenture (other than a
+ | • |  | failure to observe or perform any covenant or agreement of the issuing entity made in the indenture (other than a
 default in the payment of the interest or principal on any note when due), which failure materially and adversely affects the rights of the noteholders, or any representation or warranty of the issuing entity made in the indenture, in any
 Transaction Document or in any certificate or other writing delivered pursuant to or in connection with the indenture proves to have been incorrect in any material respect as of the time when it was made, and such failure to observe or perform shall
 continue or is not cured, or the circumstance or condition in respect of which the misrepresentation or warranty was incorrect is not eliminated or otherwise cured, for 60 days after the giving of written notice of the failure of observance or
 performance or incorrect representation or warranty to the issuing entity and the trustee, by the holders of at least 25% of the aggregate outstanding principal amount of the notes or to the issuing entity by the trustee; and
 [/TABLE_267]
 [TABLE_268]
- |  |  | events of bankruptcy, insolvency, receivership or liquidation of the issuing entity (subject to certain cure
+ | • |  | events of bankruptcy, insolvency, receivership or liquidation of the issuing entity (subject to certain cure
 periods).
 [/TABLE_268]
 Notwithstanding the foregoing, if a delay in or failure of performance referred to under the first three
@@ -4368,6 +4563,8 @@ Upon the occurrence of an event of default, the trustee will have the right, but
 conditions, cause the trust collateral agent to liquidate the trust property in whole or in part, on any date or dates following the event of default. The trustee may not cause the liquidation of the trust property unless (i) the event of
 default is a default in the payment of principal of or interest on any of the notes or (ii) either (a) noteholders representing 100% of the
 96
+
+[PAGE 99 | printed 97]
 aggregate principal amount of the Outstanding notes consent thereto, or (b) the proceeds of such sale or liquidation distributable to the noteholders will be sufficient to discharge in full
 all amounts then due and unpaid on such notes for principal and interest or (c) the trust property will not continue to provide sufficient funds for the payment of principal of and interest on the notes and they would have become due if the
 notes had not been accelerated and the trustee provides written notice to the issuing entity (who shall deliver such notice to the engaged NRSROs) and obtains the consent of noteholders representing at least
@@ -4405,6 +4602,8 @@ DTC’s records. The ownership interest of each actual purchaser of each note, o
 confirmation from DTC of their purchase. Beneficial owners are, however, expected to receive written confirmations providing details of the transaction, as well as periodic statements of their holdings, from the participant through which the
 beneficial owner entered into the transaction. Transfers of ownership interests in the notes are to be accomplished by
 97
+
+[PAGE 100 | printed 98]
 entries made on the books of participants acting on behalf of beneficial owners. Beneficial owners will not receive definitive notes representing their ownership interests in notes, except in the
 event that use of the book-entry system for the notes is discontinued.
 To facilitate subsequent transfers, all notes deposited by DTC
@@ -4432,6 +4631,8 @@ beneficial owner shall give notice to elect to have its notes purchased or sold,
 records. The requirement for physical delivery of the notes in connection with a sale will be deemed satisfied when the ownership rights in the notes are transferred by DTC participants on DTC’s records and followed by a book-entry credit of
 sold notes to the purchaser’s account.
 98
+
+[PAGE 101 | printed 99]
 Clearstream Banking, société anonyme, Luxembourg, formerly Cedelbank, or
 “
 Clearstream, Luxembourg
@@ -4447,11 +4648,11 @@ Definitive Notes
 The notes will be issued in fully registered, certificated form, commonly called “definitive notes,” to the noteholders or their
 nominees, rather than to DTC or its nominee, only if:
 [TABLE_269]
- |  |  | DTC or the issuing entity advises the trustee or trust collateral agent in writing that DTC is no longer willing
+ | • |  | DTC or the issuing entity advises the trustee or trust collateral agent in writing that DTC is no longer willing
 or able to discharge properly its responsibilities as nominee and depositary with respect to the book-entry notes and the servicer is unable to locate a qualified successor; or
 [/TABLE_269]
 [TABLE_270]
- |  |  | After the occurrence of an event of default, at least 50% of the beneficial owners of the notes advise the
+ | • |  | After the occurrence of an event of default, at least 50% of the beneficial owners of the notes advise the
 trustee through DTC participants in the manner specified in indenture that the continuation of a book-entry system with respect to the notes through DTC is no longer in the best interest of the note owners.
 [/TABLE_270]
 Upon the occurrence of any event described in the immediately preceding paragraph, the trustee will notify all affected noteholders through
@@ -4465,6 +4666,8 @@ distribution.
 Definitive notes will be transferable and exchangeable at the offices of the trust collateral agent. No service charge will
 be imposed for any registration of transfer or exchange, but the trust collateral agent may require payment of a sum sufficient to cover any tax or other governmental charge imposed in connection therewith.
 99
+
+[PAGE 102 | printed 100]
 Description of the Transaction Documents
 The following summary describes material terms of the purchase agreement, the sale and servicing agreement, the indenture, the asset
 representations review agreement and the trust agreement. The depositor has filed forms of these Transaction Documents as exhibits to the registration statement. On or prior to the filing of the final prospectus, the issuing entity will also file
@@ -4495,6 +4698,8 @@ will deposit all obligor payments received on the automobile loan contracts afte
 will be maintained with the trust collateral agent so long as the trust collateral agent’s deposits have a rating acceptable to the engaged NRSROs. If the deposits of the trust collateral agent or its corporate parent no longer have an
 acceptable
 100
+
+[PAGE 103 | printed 101]
 rating, the servicer shall, with the trust collateral agent’s assistance if necessary, transfer the collection account within 30 days to a bank whose deposits have the proper rating.
 The trust collateral agent will establish and maintain a note distribution account in its own name, on the noteholders’ behalf. Amounts
 that are released from the collection account for distribution to noteholders will be deposited to the note distribution account and all distributions to the noteholders will be made from the note distribution account.
@@ -4530,47 +4735,49 @@ charges and other administrative fees or similar charges allowed by applicable l
 reimbursement from the issuing entity for various expenses. The servicer will allocate obligor payments to scheduled payments due from obligors, late fees and other charges, and principal and interest in accordance with the servicer’s normal
 practices and procedures.
 101
+
+[PAGE 104 | printed 102]
 The servicing fee will compensate the servicer for performing the functions of a third-party
 servicer of automobile loan contracts as an agent for their beneficial owner. These servicer functions will include:
 [TABLE_271]
- |  | collecting and posting all payments;
+ | • | collecting and posting all payments;
 [/TABLE_271]
 [TABLE_272]
- |  | responding to obligor inquiries on the related automobile loan contracts;
+ | • | responding to obligor inquiries on the related automobile loan contracts;
 [/TABLE_272]
 [TABLE_273]
- |  | investigating delinquencies;
+ | • | investigating delinquencies;
 [/TABLE_273]
 [TABLE_274]
- |  | sending billing statements to obligors;
+ | • | sending billing statements to obligors;
 [/TABLE_274]
 [TABLE_275]
- |  | reporting tax information to obligors;
+ | • | reporting tax information to obligors;
 [/TABLE_275]
 [TABLE_276]
- |  | paying collection and disposition costs with respect to defaulted accounts;
+ | • | paying collection and disposition costs with respect to defaulted accounts;
 [/TABLE_276]
 [TABLE_277]
- |  | monitoring the collateral;
+ | • | monitoring the collateral;
 [/TABLE_277]
 [TABLE_278]
- |  | administering the automobile loan contracts;
+ | • | administering the automobile loan contracts;
 [/TABLE_278]
 [TABLE_279]
- |  | accounting for collections and furnishing statements to the trustee or the trust collateral agent with respect
+ | • | accounting for collections and furnishing statements to the trustee or the trust collateral agent with respect
 to distributions;
 [/TABLE_279]
 [TABLE_280]
- |  | paying certain taxes;
+ | • | paying certain taxes;
 [/TABLE_280]
 [TABLE_281]
- |  | paying accounting fees;
+ | • | paying accounting fees;
 [/TABLE_281]
 [TABLE_282]
- |  | paying outside auditor fees; and
+ | • | paying outside auditor fees; and
 [/TABLE_282]
 [TABLE_283]
- |  | paying data processing costs.
+ | • | paying data processing costs.
 [/TABLE_283]
 The servicer will also be reimbursed for repossession and recovery fees and costs associated with maintaining bank accounts that are necessary
 to service the automobile loan contracts.
@@ -4590,16 +4797,18 @@ On each determination date, the servicer will deliver the servicer’s certifica
 trust collateral agent. The servicer will also deliver the servicer’s certificate to each engaged NRSRO on the same date the servicer’s certificate is publicly available; however, if such servicer’s certificate is not made publicly
 available, the servicer will deliver it to each engaged NRSRO, no later than the twenty-fifth day of each month (or if not a business day, the next succeeding business day). The servicer’s certificate will specify, among other things:
 [TABLE_284]
- |  | all information necessary to enable the trust collateral agent to make the distributions required by the sale
+ | • | all information necessary to enable the trust collateral agent to make the distributions required by the sale
 and servicing agreement and the indenture, as applicable;
 [/TABLE_284]
 [TABLE_285]
- |  | the aggregate principal balance of all automobile loan contracts purchased by the depositor and the servicer
+ | • | the aggregate principal balance of all automobile loan contracts purchased by the depositor and the servicer
 during the preceding calendar month and all Sold Receivables sold by the issuing entity during the preceding calendar month; and
 [/TABLE_285]
 102
+
+[PAGE 105 | printed 103]
 [TABLE_286]
- |  |  | all information necessary to enable the trust collateral agent to make the servicer’s certificate available
+ | • |  | all information necessary to enable the trust collateral agent to make the servicer’s certificate available
 to noteholders as required by the sale and servicing agreement.
 [/TABLE_286]
 The “
@@ -4654,6 +4863,8 @@ out as described above under “ Description of the Notes—Payments of Principa
 reserve account amount;
 [/TABLE_295]
 103
+
+[PAGE 106 | printed 104]
 [TABLE_296]
  | 10. | to the note distribution account, to make a payment of the Noteholders’ Principal Distributable Amount,
 which amount will be paid out as described above under “ Description of the Notes—Payments of Principal ”;
@@ -4708,6 +4919,8 @@ Class C Notes are paid off; and
  | 8. | to pay all remaining amounts to the certificateholder.
 [/TABLE_306]
 104
+
+[PAGE 107 | printed 105]
 Fees and Expenses
 The following table provides an itemized list of the fees and expenses that will be paid on each distribution date from the Available Funds in
 order of priority as set forth under “
@@ -4739,6 +4952,8 @@ as an exhibit to a Form
 10-D
 filed by the issuing
 105
+
+[PAGE 108 | printed 106]
 entity and will include at least the following information regarding the notes on the related distribution date to the extent such information has been received from the servicer:
 [TABLE_308]
  | (a) | the amount of the distribution(s) allocable to interest;
@@ -4794,6 +5009,8 @@ After the end of each calendar year, within the
 required time period, the trustee will furnish to each person who at any time during the calendar year was a noteholder that requests it in writing a statement as to the aggregate amounts of interest and principal paid to the noteholder and any
 other information as the trustee deems necessary to enable the noteholder to prepare its tax returns.
 106
+
+[PAGE 109 | printed 107]
 Compliance Statements
 The sale and servicing agreement provides for the delivery of an annual statement, on or before March 31 of each calendar year, signed by
 an officer of the servicer to the effect that the servicer has fulfilled its obligations under the sale and servicing agreement in all material respects throughout the preceding calendar year, except as specified in the statement, to the trustee,
@@ -4809,22 +5026,22 @@ Credit Enhancement
 Credit
 enhancement for the notes is provided by:
 [TABLE_318]
- |  |  | the application of excess cashflow , which represents the excess of collections on the trust property
+ | • |  | the application of excess cashflow , which represents the excess of collections on the trust property
 during a collection period after payment of the issuing entity’s expenses and required payments of principal and interest on the notes on the related distribution date;
 [/TABLE_318]
 [TABLE_319]
- |  |  | overcollateralization , which is the excess of the Adjusted Pool Balance over the outstanding principal
+ | • |  | overcollateralization , which is the excess of the Adjusted Pool Balance over the outstanding principal
 amount of the notes;
 [/TABLE_319]
 [TABLE_320]
- |  |  | a yield supplement overcollateralization amount , which is intended to compensate for the low APRs
+ | • |  | a yield supplement overcollateralization amount , which is intended to compensate for the low APRs
 on some of the automobile loan contracts;
 [/TABLE_320]
 [TABLE_321]
- |  |  | amounts on deposit in the reserve account ; and
+ | • |  | amounts on deposit in the reserve account ; and
 [/TABLE_321]
 [TABLE_322]
- |  |  | the subordination of each class, if any, that is junior in its right to receive payments of principal and
+ | • |  | the subordination of each class, if any, that is junior in its right to receive payments of principal and
 interest to the related class of notes.
 [/TABLE_322]
 Credit enhancement is intended to increase the likelihood that noteholders will
@@ -4836,6 +5053,8 @@ Because it is anticipated that in certain circumstances more interest will be pa
 earned on the notes and the issuing entity’s monthly fees and expenses, there is expected to be excess cashflow each month. To the extent that the collections in any month are greater than the amount necessary to pay trust expenses and
 required principal and interest on the notes, the remaining amount will be available to make additional principal payments on the notes to
 107
+
+[PAGE 110 | printed 108]
 build and maintain overcollateralization at a targeted amount and to maintain the reserve account at its required level.
 Overcollateralization
 Overcollateralization will exist whenever the Adjusted Pool Balance as of the last day of the calendar month immediately preceding a
@@ -4864,6 +5083,8 @@ Other than as
 permitted by the engaged NRSROs, amounts on deposit in the reserve account will be invested in certain eligible investments at the written direction of the servicer that mature not later than the business day prior to the following distribution
 date. Any net income from those investments will be deposited into the collection account.
 108
+
+[PAGE 111 | printed 109]
 On each distribution date, the amount on deposit in the reserve account will be withdrawn,
 to the extent necessary, to fund any deficiencies in the payments of trust expenses, interest payments on the notes, and principal payments on the notes that are necessary to prevent the aggregate principal amount of the notes from exceeding the
 Adjusted Pool Balance and principal payments on each class of notes that are necessary to pay off each class of notes on its final scheduled distribution date. See “
@@ -4888,13 +5109,13 @@ A class of notes that is lower in priority of payment provides credit support to
 relative to that class. Consequently, to the extent that the trust assets do not generate enough cash in a collection period to satisfy the issuing entity’s obligations, including the obligations on the related distribution date to make
 payments to noteholders, payments that would otherwise be made to the holder of the certificate representing the residual interest in the issuing entity will first be eliminated and any shortfalls or losses will then be absorbed as follows:
 [TABLE_323]
- |  |  | first, by the holders of the Class C Notes, to the extent amounts are due to them;
+ | • |  | first, by the holders of the Class C Notes, to the extent amounts are due to them;
 [/TABLE_323]
 [TABLE_324]
- |  |  | then, by the holders of the Class B Notes, to the extent amounts are due to them; and
+ | • |  | then, by the holders of the Class B Notes, to the extent amounts are due to them; and
 [/TABLE_324]
 [TABLE_325]
- |  |  | finally, by the holders of the Class A-4 Notes, Class A-3 Notes, Class A-2 Notes and Class A-1 Notes, to the extent amounts are due to them, in that order (except as
+ | • |  | finally, by the holders of the Class A-4 Notes, Class A-3 Notes, Class A-2 Notes and Class A-1 Notes, to the extent amounts are due to them, in that order (except as
 described under “ —Distributions—Distribution Date Payment Priorities Will Change After Certain Events ”).
 [/TABLE_325]
 Matters Regarding the Servicer
@@ -4904,6 +5125,8 @@ The servicer will not be liable to the noteholders for taking any action, except
 provided, however, that the servicer will not be protected against any liability that would otherwise be imposed by reason of a breach of the sale and servicing agreement by the servicer, willful misfeasance, bad faith or negligence (excluding
 errors in judgment) in the performance of
 109
+
+[PAGE 112 | printed 110]
 its duties. The servicer will be under no obligation to appear in, prosecute, or defend any legal action that is not incidental to its servicing responsibilities and that, in its opinion, may
 cause it to incur any expense or liability.
 Subject to certain conditions precedent, any entity into which the servicer may be merged or
@@ -4927,23 +5150,25 @@ servicer termination event
 ” under the sale and servicing
 agreement:
 [TABLE_326]
- |  |  | the servicer’s failure to deliver any required proceeds or payment to the trust collateral agent for
+ | • |  | the servicer’s failure to deliver any required proceeds or payment to the trust collateral agent for
 distribution to the noteholders, which failure continues unremedied for five business days after written notice is received by the servicer from the trust collateral agent (at the direction of the Majority Noteholders) or actual knowledge of such
 failure by a responsible officer of the servicer;
 [/TABLE_326]
 [TABLE_327]
- |  |  | the servicer’s failure duly to observe or perform in any respect any other covenant or agreement under the
+ | • |  | the servicer’s failure duly to observe or perform in any respect any other covenant or agreement under the
 sale and servicing agreement, which failure (i) materially and adversely affects the rights of the noteholders and (ii) continues unremedied for 60 days after actual knowledge thereof by a responsible officer of the servicer or after the
 trust collateral agent (at the direction of the Majority Noteholders) gives the servicer written notice of such failure; or
 [/TABLE_327]
 [TABLE_328]
- |  |  | events of bankruptcy, insolvency, receivership or liquidation, or similar proceedings regarding the servicer
+ | • |  | events of bankruptcy, insolvency, receivership or liquidation, or similar proceedings regarding the servicer
 (subject to certain cure periods).
 [/TABLE_328]
 Notwithstanding the foregoing, if any delay or failure of performance referred to
 (i) in the first bullet point above shall have been caused by a Force Majeure Event or other similar occurrence, the five business day grace period shall be extended for an additional 60 calendar days and (ii) in the second bullet point
 above shall have been caused by a Force Majeure Event or other similar occurrence, the 60 day grace period will be extended for an additional 90 calendar days.
 110
+
+[PAGE 113 | printed 111]
 Rights Upon Servicer Termination Event
 If a servicer termination event has occurred and remains unremedied, the trust collateral agent may, or at the direction of the Majority
 Noteholders shall, terminate all of the servicer’s rights and obligations under the sale and servicing agreement.
@@ -4974,25 +5199,27 @@ Replacement of Trustee
 Under the indenture, the trustee may resign at any time upon notice to the issuing entity. Additionally, the issuing entity may and shall
 remove the trustee if:
 [TABLE_329]
- |  |  | at any time, the trustee shall cease to be eligible under the indenture;
+ | • |  | at any time, the trustee shall cease to be eligible under the indenture;
 [/TABLE_329]
 111
+
+[PAGE 114 | printed 112]
 [TABLE_330]
- |  |  | a court of competent jurisdiction shall have entered a decree or order granting relief or appointing a receiver,
+ | • |  | a court of competent jurisdiction shall have entered a decree or order granting relief or appointing a receiver,
 liquidator, assignee, custodian, trustee, conservator or sequestrator for the trustee or for any substantial part of the trustee’s property, or ordering the winding-up or liquidation of the
 trustee’s affairs;
 [/TABLE_330]
 [TABLE_331]
- |  |  | an involuntary case under the federal bankruptcy laws or another present or future federal or state bankruptcy,
+ | • |  | an involuntary case under the federal bankruptcy laws or another present or future federal or state bankruptcy,
 insolvency or similar law is commenced with respect to the trustee and such case is not dismissed within 60 days;
 [/TABLE_331]
 [TABLE_332]
- |  |  | the trustee commences a voluntary case under any federal or state banking or bankruptcy laws, or consents to the
+ | • |  | the trustee commences a voluntary case under any federal or state banking or bankruptcy laws, or consents to the
 appointment of or taking possession by a receiver, liquidator, assignee, custodian, trustee, conservator, sequestrator for the trustee or for any substantial part of the trustee’s property, or makes any assignment for the benefit of creditors
 or fails generally to pay its debts as such debts become due or takes any action in the furtherance of the foregoing; or
 [/TABLE_332]
 [TABLE_333]
- |  |  | the trustee otherwise becomes incapable of acting.
+ | • |  | the trustee otherwise becomes incapable of acting.
 [/TABLE_333]
 Any resignation or removal of the trustee will also serve as a resignation or removal of the trustee in its capacities as trust collateral
 agent under the Transaction Documents. If the trustee resigns or is removed, the issuing entity shall promptly appoint a successor trustee and shall promptly transfer all trust accounts to an institution that meets the eligibility requirements set
@@ -5013,6 +5240,8 @@ respect to matters or questions arising under the agreement or affecting the rig
 contracts or distributions that are required to be made for the benefit of the noteholders or reduce the percentage of the noteholders required to consent to any amendment, unless the holders of all notes affected by the amendment provide their
 consent.
 112
+
+[PAGE 115 | printed 113]
 The depositor and servicer must deliver to the owner trustee and the trustee, upon the
 execution and delivery of the sale and servicing agreement and any amendment to the sale and servicing agreement, an opinion of counsel, satisfactory to the trustee, which states that all financing statements and continuation statements have been
 filed.
@@ -5048,6 +5277,8 @@ relating to that collection period. The second trigger is
 a voting trigger that will be met if, following the occurrence of the delinquency trigger, first, the noteholders of at least 5% of the aggregate outstanding principal amount of the Outstanding notes demand a vote about whether an asset
 representations review should be conducted and,
 113
+
+[PAGE 116 | printed 114]
 second, if such a vote is demanded, the noteholders of a majority of the aggregate outstanding principal amount of the Outstanding notes that participate in the resulting vote are in favor of
 conducting an asset representations review. The review fees that will be payable to the asset representations reviewer will be up to $250 for each automobile loan contract tested as part of the asset representations review.
 Delinquency Trigger
@@ -5087,6 +5318,8 @@ is filed that reports the occurrence of the
 related delinquency trigger, noteholders of at least 5% of the outstanding principal amount of the notes as of the date on which such delinquency trigger occurred (exclusive of the outstanding principal amount of any notes that are held by the
 sponsor or any of its affiliates) contact the trustee to demand a vote of all noteholders regarding whether an asset representations review should be conducted, then the trustee will
 114
+
+[PAGE 117 | printed 115]
 submit the matter to a vote of all noteholders (through DTC in the case of any book-entry notes). If the trustee submits the matter to a vote of all noteholders during a collection period, then
 that will be reported in the Form
 10-D
@@ -5127,6 +5360,8 @@ contract was not in compliance with the related representations made in the Tran
 multiple tests specified in the asset representations review agreement for each such representation. The asset representations review agreement describes what conditions will constitute a test failure with respect to any automobile loan contract
 that is reviewed as part of an asset representations review.
 115
+
+[PAGE 118 | printed 116]
 The tests that are conducted as part of an asset representations review are not designed to
 determine why an obligor is delinquent or the creditworthiness of the obligor, either at the time of the review or at origination. The tests are not designed to determine whether the servicer serviced the related automobile loan contract in
 compliance with the sale and servicing agreement after the cutoff date. The tests are not designed to establish cause, materiality or recourse for any failed test. The review is not designed to determine whether the sponsor’s origination,
@@ -5158,6 +5393,8 @@ Any demand to
 repurchase an automobile loan contract will be resolved if the related automobile loan contract is repurchased in accordance with the Transaction Documents, if the condition that led to the related breach is remedied, or if the requesting party
 withdraws its demand to repurchase the affected automobile loan contract. The status of all outstanding repurchase demands will be reported quarterly on
 116
+
+[PAGE 119 | printed 117]
 Form
 ABS-15G
 filings that are made pursuant to Rule
@@ -5203,6 +5440,8 @@ than 90 days after its appointment. The arbitrator will resolve the dispute acco
 The arbitrator will not have the power to award punitive or consequential damages. In its final determination, the arbitrator will determine and award the expenses of the arbitration to the parties in its reasonable discretion. The final
 determination of the arbitrator will be final and non-
 117
+
+[PAGE 120 | printed 118]
 appealable, except for actions to confirm or vacate the determination that are permitted under law, and may be entered and enforced in any court with jurisdiction over the parties and the matter.
 By selecting arbitration, the requesting party is forfeiting its right to sue in court, including the right to a trial by jury, with respect to the subject matter of the arbitration.
 No personally identifiable customer information will be produced for purposes of any mediation or arbitration. Each party will agree to keep
@@ -5221,20 +5460,20 @@ any such request that it receives to the servicer. On receipt of a communication
 filed in the next month
 the following information:
 [TABLE_335]
- |  |  | a statement that the issuing entity received a communication request,
+ | • |  | a statement that the issuing entity received a communication request,
 [/TABLE_335]
 [TABLE_336]
- |  |  | the date the request was received,
+ | • |  | the date the request was received,
 [/TABLE_336]
 [TABLE_337]
- |  |  | the name of the requesting noteholder,
+ | • |  | the name of the requesting noteholder,
 [/TABLE_337]
 [TABLE_338]
- |  |  | a statement that the requesting noteholder is interested in communication with other noteholders about the
+ | • |  | a statement that the requesting noteholder is interested in communication with other noteholders about the
 possible exercise of rights under the Transaction Documents, and
 [/TABLE_338]
 [TABLE_339]
- |  |  | a description of the method by which the other noteholders may contact the requesting noteholder.
+ | • |  | a description of the method by which the other noteholders may contact the requesting noteholder.
 [/TABLE_339]
 Any expenses of the issuing entity or the servicer relating to an investor communication, including any review of
 documents evidencing ownership of a note and the inclusion of the investor communication information in the related Form
@@ -5247,6 +5486,8 @@ automobile loan contracts by the sponsor to the depositor and by the depositor t
 to a number of federal and state laws, including the UCC as codified in various states. The servicer will take necessary actions to perfect the trust collateral agent’s rights in the automobile loan contracts. If, through inadvertence or
 otherwise, a third party were to purchase — including the taking of a security interest in — an automobile loan
 118
+
+[PAGE 121 | printed 119]
 contract for new value in the ordinary course of its business, without actual knowledge of the issuing entity’s interest, and then were to take possession of the automobile loan contract,
 that purchaser would acquire an interest in the automobile loan contract superior to the issuing entity’s interest. No entity will take any action to perfect the trust collateral agent’s right in proceeds of any insurance policies
 covering individual vehicles or obligors. Therefore, the rights of a third party with an interest in these proceeds could prevail against the rights of the issuing entity prior to the time the servicer deposits the proceeds into a trust account.
@@ -5274,21 +5515,23 @@ that their security interest is perfected by possession.
 In most states, a secured creditor can perfect its security interest in a motor
 vehicle against creditors and subsequent purchasers who do not have notice of the secured creditor’s interest only by one or more of the following methods:
 119
+
+[PAGE 122 | printed 120]
 [TABLE_340]
- |  |  | depositing with the related Department of Motor Vehicles or analogous state office a properly endorsed
+ | • |  | depositing with the related Department of Motor Vehicles or analogous state office a properly endorsed
 certificate of title for the vehicle showing the secured party as legal owner or lienholder on the vehicle;
 [/TABLE_340]
 [TABLE_341]
- |  |  | in those states that permit electronic recordation of liens, submitting for an electronic recordation, by either
+ | • |  | in those states that permit electronic recordation of liens, submitting for an electronic recordation, by either
 a third-party service provider or the relevant state registrar of titles, which indicates that the lien of the secured party on the vehicle is recorded on the original certificate of title on the electronic lien and title system of the applicable
 state;
 [/TABLE_341]
 [TABLE_342]
- |  |  | filing a sworn notice of lien with the related Department of Motor Vehicles or analogous state office and noting
+ | • |  | filing a sworn notice of lien with the related Department of Motor Vehicles or analogous state office and noting
 the lien on the certificate of title; or
 [/TABLE_342]
 [TABLE_343]
- |  |  | if the vehicle has not been previously registered, filing an application in usual form for an original
+ | • |  | if the vehicle has not been previously registered, filing an application in usual form for an original
 registration together with an application for registration of the secured party as legal owner or lienholder, as the case may be.
 [/TABLE_343]
 However, under the laws of most states, a transferee of a security interest in a motor vehicle is not required to reapply to the related
@@ -5330,6 +5573,8 @@ could defeat perfection. The Transaction Documents require the servicer to take 
 re-perfect
 the security
 120
+
+[PAGE 123 | printed 121]
 interest in financed vehicles upon receiving notice of
 re-registration
 or information from the obligor that it relocated. Similarly, when an obligor sells
@@ -5339,19 +5584,19 @@ Priority of Certain Liens Arising by Operation of Law
 Under the laws of most states, statutory liens take priority over even a first priority perfected security interest in a vehicle. These
 statutory liens include:
 [TABLE_344]
- |  |  | mechanic’s, repairmen’s and garagemen’s liens;
+ | • |  | mechanic’s, repairmen’s and garagemen’s liens;
 [/TABLE_344]
 [TABLE_345]
- |  |  | motor vehicle accident liens;
+ | • |  | motor vehicle accident liens;
 [/TABLE_345]
 [TABLE_346]
- |  |  | towing and storage liens;
+ | • |  | towing and storage liens;
 [/TABLE_346]
 [TABLE_347]
- |  |  | liens arising under various state and federal criminal statutes; and
+ | • |  | liens arising under various state and federal criminal statutes; and
 [/TABLE_347]
 [TABLE_348]
- |  |  | liens for unpaid taxes.
+ | • |  | liens for unpaid taxes.
 [/TABLE_348]
 The UCC also grants certain federal tax liens priority over a secured party’s lien. Additionally, the laws of most states and federal
 law permit governmental authorities to confiscate motor vehicles under certain circumstances if used in or acquired with the proceeds of unlawful activities. Confiscation may result in the loss of the perfected security interest in the vehicle. The
@@ -5370,21 +5615,23 @@ Notice of Sale; Redemption Rights
 The UCC and other state laws require a secured party to provide an obligor with reasonable notice of the date, time and place of any public
 sale and/or the date after which any private sale of the
 121
+
+[PAGE 124 | printed 122]
 collateral may be held. In addition, some states also impose substantive timing requirements on the sale of repossessed vehicles and/or various substantive timing and content requirements on the
 notices. In some states, after a financed vehicle has been repossessed, the obligor may reinstate the contract by paying the delinquent installments and other amounts due. In all states, the obligor typically has the right to redeem the collateral
 prior to actual sale or entry by the secured party into a contract for sale of the collateral by paying the secured party:
 [TABLE_349]
- |  |  | the unpaid principal balance of the automobile loan contract;
+ | • |  | the unpaid principal balance of the automobile loan contract;
 [/TABLE_349]
 [TABLE_350]
- |  |  | accrued interest on the automobile loan contract;
+ | • |  | accrued interest on the automobile loan contract;
 [/TABLE_350]
 [TABLE_351]
- |  |  | the secured party’s reasonable expenses for repossessing, holding, and preparing the collateral for sale
+ | • |  | the secured party’s reasonable expenses for repossessing, holding, and preparing the collateral for sale
 and arranging for its sale (where allowed by law), plus, in some jurisdictions, reasonable attorneys’ fees and legal expenses; or
 [/TABLE_351]
 [TABLE_352]
- |  |  | in some other states, by paying the delinquent installments on the unpaid principal balance on the automobile
+ | • |  | in some other states, by paying the delinquent installments on the unpaid principal balance on the automobile
 loan contracts.
 [/TABLE_352]
 Deficiency Judgments and Excess Proceeds
@@ -5405,54 +5652,56 @@ Occasionally, after a secured party sells a vehicle and uses the sale proceeds t
 funds. In that case, the UCC requires the creditor to remit the surplus to any holder of a subordinate lien with respect to the vehicle or if no subordinate lienholder exists or if there are remaining funds after the subordinate lienholder is paid,
 the UCC requires the creditor to remit the surplus to the obligor.
 122
+
+[PAGE 125 | printed 123]
 Consumer Protection Laws
 Numerous federal and state consumer protection laws and related regulations impose substantial requirements upon creditors and servicers
 involved in consumer finance. These laws include:
 [TABLE_353]
- |  |  | the Truth-in-Lending Act and
+ | • |  | the Truth-in-Lending Act and
 Regulation Z;
 [/TABLE_353]
 [TABLE_354]
- |  |  | the Equal Credit Opportunity Act and Regulation B;
+ | • |  | the Equal Credit Opportunity Act and Regulation B;
 [/TABLE_354]
 [TABLE_355]
- |  |  | the Federal Trade Commission (FTC) Act;
+ | • |  | the Federal Trade Commission (FTC) Act;
 [/TABLE_355]
 [TABLE_356]
- |  |  | the Fair Credit Reporting Act, as amended by the Fair and Accurate Credit Transactions Act, and Regulation V;
+ | • |  | the Fair Credit Reporting Act, as amended by the Fair and Accurate Credit Transactions Act, and Regulation V;
 [/TABLE_356]
 [TABLE_357]
- |  |  | the Telephone Consumer Protection Act (TCPA);
+ | • |  | the Telephone Consumer Protection Act (TCPA);
 [/TABLE_357]
 [TABLE_358]
- |  |  | the Fair Debt Collection Practices Act and Regulation F;
+ | • |  | the Fair Debt Collection Practices Act and Regulation F;
 [/TABLE_358]
 [TABLE_359]
- |  |  | the Dodd-Frank Wall Street Reform and Consumer Protection Act;
+ | • |  | the Dodd-Frank Wall Street Reform and Consumer Protection Act;
 [/TABLE_359]
 [TABLE_360]
- |  |  | the Magnuson-Moss Warranty Act;
+ | • |  | the Magnuson-Moss Warranty Act;
 [/TABLE_360]
 [TABLE_361]
- |  |  | the Gramm-Leach-Bliley Act;
+ | • |  | the Gramm-Leach-Bliley Act;
 [/TABLE_361]
 [TABLE_362]
- |  |  | state adaptations of the Uniform Consumer Credit Code;
+ | • |  | state adaptations of the Uniform Consumer Credit Code;
 [/TABLE_362]
 [TABLE_363]
- |  |  | state motor vehicle retail installment sale and loan acts;
+ | • |  | state motor vehicle retail installment sale and loan acts;
 [/TABLE_363]
 [TABLE_364]
- |  |  | state servicing laws;
+ | • |  | state servicing laws;
 [/TABLE_364]
 [TABLE_365]
- |  |  | state insurance laws;
+ | • |  | state insurance laws;
 [/TABLE_365]
 [TABLE_366]
- |  |  | state “lemon laws”; and
+ | • |  | state “lemon laws”; and
 [/TABLE_366]
 [TABLE_367]
- |  |  | other similar laws and regulations.
+ | • |  | other similar laws and regulations.
 [/TABLE_367]
 In addition, the laws of some states impose finance charge ceilings and other restrictions on consumer transactions and require other
 disclosures in addition to those required under federal law. These requirements impose specific statutory liabilities upon creditors who fail to comply with their provisions. In some cases, this liability could affect the trust collateral
@@ -5472,6 +5721,8 @@ holder-in-due-course
 rule, the trust collateral agent or the trustee, as holder of the automobile loan contracts, will be subject to any claims or defenses that the purchaser of the related vehicle may assert against the related retail seller. These claims will be
 limited to a maximum liability equal to the amounts paid by the obligor under the related automobile loan contract.
 123
+
+[PAGE 126 | printed 124]
 Under most state vehicle dealer licensing laws, sellers of automobiles must be licensed to
 sell vehicles at retail sale. In addition, the FTC’s rule on sale of used vehicles requires that all sellers of used vehicles prepare, complete and display a “Buyer’s Guide” explaining the warranty coverage for the vehicles.
 Furthermore, federal odometer regulations and the motor vehicle title laws of most states require that all sellers of used vehicles furnish a written statement signed by the seller certifying the accuracy of the odometer reading. If a seller is not
@@ -5500,6 +5751,8 @@ impair the ability of the servicer to repossess an automobile loan contract duri
 which goes into default, there may be delays in payment and losses on the notes. Any other interest shortfalls, deferrals or forgiveness of payments on the automobile loan contracts resulting from similar legislation or regulations may result in
 delays in payments or losses to noteholders.
 124
+
+[PAGE 127 | printed 125]
 Other Limitations
 In addition to the laws limiting or prohibiting deficiency judgments, numerous other statutory provisions, including federal bankruptcy laws
 and related state laws, may interfere with or affect the ability of the issuing entity, the depositor or the servicer to repossess a vehicle or enforce a deficiency judgment. For example, in a Chapter 13 proceeding under the federal bankruptcy law,
@@ -5532,6 +5785,8 @@ There can be no assurance that the Secretary of the Treasury would not determine
 subsidiary thereof would have serious adverse effects on financial stability in the United States. In addition, no assurance can be given that OLA would not apply to the sponsor, the depositor or the issuing entity or, if it were to apply, that the
 timing and amounts of payments to the noteholders would not be less favorable than under the Bankruptcy Code.
 125
+
+[PAGE 128 | printed 126]
 FDIC’s Avoidance Power Under OLA
 The provisions of OLA relating to preferential transfers differ from those of the U.S. federal bankruptcy laws. If the sponsor were to become
 subject to OLA, there is an interpretation under OLA that previous transfers of automobile loan contracts by the sponsor perfected for purposes of state law and the U.S. federal bankruptcy laws could nevertheless be avoided by the FDIC as
@@ -5555,6 +5810,8 @@ If the issuing entity were placed in receivership under OLA, the FDIC would have
 would be required to pay compensatory damages that are no less than the principal amount of the notes plus accrued interest as of the date the FDIC was appointed receiver and, to the extent that the value of the property that secured the notes is
 greater than the principal amount of the notes and any accrued interest through the date of repudiation or disaffirmance, such accrued interest.
 126
+
+[PAGE 129 | printed 127]
 Material U.S. Federal Income Tax Consequences
 General
 Below is a description
@@ -5573,26 +5830,26 @@ organizations, regulated investment companies, financial institutions or broker-
 minimum tax, holders that will hold the notes as part of a hedge, straddle, appreciated financial position or conversion transaction, sovereign wealth funds that may rely on Section 892 of the Code, and holders that will hold the notes as other
 than capital assets. This description is directed only to prospective noteholders who:
 [TABLE_368]
- |  |  | purchase notes in the initial distribution of the notes, and
+ | • |  | purchase notes in the initial distribution of the notes, and
 [/TABLE_368]
 [TABLE_369]
- |  |  | hold the notes as “capital assets” within the meaning of Section 1221 of the Internal Revenue
+ | • |  | hold the notes as “capital assets” within the meaning of Section 1221 of the Internal Revenue
 Code.
 [/TABLE_369]
 As used in this section of the prospectus, the term “U.S. noteholder” means a beneficial owner of a
 note that is for U.S. federal income tax purposes:
 [TABLE_370]
- |  |  | a citizen or resident of the United States,
+ | • |  | a citizen or resident of the United States,
 [/TABLE_370]
 [TABLE_371]
- |  |  | a corporation created or organized in or under the laws of the United States, any state of the United States or
+ | • |  | a corporation created or organized in or under the laws of the United States, any state of the United States or
 the District of Columbia,
 [/TABLE_371]
 [TABLE_372]
- |  |  | an estate whose income is subject to U.S. federal income tax regardless of its source, or
+ | • |  | an estate whose income is subject to U.S. federal income tax regardless of its source, or
 [/TABLE_372]
 [TABLE_373]
- |  |  | a trust if a court within the United States is able to exercise primary supervision over the administration of
+ | • |  | a trust if a court within the United States is able to exercise primary supervision over the administration of
 the trust and one or more “United States persons” (within the meaning of Section 7701(a)(30) of the Code) have the authority to control all substantial decisions of the trust or that has made a valid election under applicable
 Treasury Regulations to be treated as a United States person.
 [/TABLE_373]
@@ -5604,6 +5861,8 @@ If a partnership
 (including any entity treated as a partnership for U.S. federal income tax purposes) owns a note, the tax treatment of a partner in the partnership will depend on the status of the partner and the activities of the partnership. Partners in such a
 partnership are encouraged to consult their tax advisors as to the particular U.S. federal income tax consequences applicable to them.
 127
+
+[PAGE 130 | printed 128]
 Prospective noteholders are encouraged to consult with their tax advisors as to the U.S.
 federal, state and local, foreign and any other tax consequences to them of the purchase, ownership and disposition of notes.
 Tax Characterization
@@ -5633,6 +5892,8 @@ substance of the contemplated transaction, tax counsel is of the opinion that, f
 notes are treated as beneficially owned by a person other than the depositor and its affiliates for such purposes. The depositor, the servicer, the trustee, and each noteholder, by acquiring an interest in a note, will agree to treat the notes as
 debt for U.S. federal, state and local income and franchise tax purposes. Neither the opinion of tax counsel nor the agreement to treat the notes as debt is binding on the IRS or the courts.
 128
+
+[PAGE 131 | printed 129]
 For a description of the potential U.S. federal income tax consequences to noteholders if
 the IRS were successful in challenging the characterization of the notes for U.S. federal income tax purposes, you should read “
 — Tax Characterization of the Issuing Entity
@@ -5667,6 +5928,8 @@ Notes
 If a noteholder sells or disposes of a note, the holder will recognize gain or loss in an amount equal to
 the difference between the amount realized on the sale or disposition and the holder’s adjusted tax basis in the note. The holder’s adjusted tax basis will equal the holder’s cost for the note, increased by any
 129
+
+[PAGE 132 | printed 130]
 OID and market discount previously included by the noteholder in income on the note and decreased by any bond premium previously amortized and any payments of principal and OID previously
 received by the noteholder on the note. Any gain or loss on sale or disposition will be capital gain or loss if the note was held as a capital asset, except for gain representing accrued interest or accrued market discount not previously included in
 income. Capital gain or loss will be long-term if the note was held by the holder for more than one year and otherwise will be short-term.
@@ -5696,13 +5959,13 @@ non-U.S.
 noteholder is a direct or indirect 10% or greater owner of the issuing entity or a controlled foreign corporation related to the
 issuing entity. To qualify for the exemption from taxation, the withholding agent must have received a statement from the individual or corporation that:
 [TABLE_374]
- |  |  | is signed under penalties of perjury by the beneficial owner of the note,
+ | • |  | is signed under penalties of perjury by the beneficial owner of the note,
 [/TABLE_374]
 [TABLE_375]
- |  |  | certifies that the beneficial owner is not a U.S. noteholder, and
+ | • |  | certifies that the beneficial owner is not a U.S. noteholder, and
 [/TABLE_375]
 [TABLE_376]
- |  |  | provides the beneficial owner’s name and address.
+ | • |  | provides the beneficial owner’s name and address.
 [/TABLE_376]
 A “withholding agent” is the last U.S. payor (or a
 non-U.S.
@@ -5738,6 +6001,8 @@ organizations, and other entities who are not beneficial owners, may be able to 
 W-8IMY
 (or the appropriate substitute form) to the withholding agent.
 130
+
+[PAGE 133 | printed 131]
 However, in this case, the IRS Form
 W-8IMY
 may require a copy of the beneficial owner’s IRS Form
@@ -5750,10 +6015,10 @@ Any capital gain realized on the sale, redemption, retirement or other taxable d
 non-U.S.
 noteholder will be exempt from U.S. federal income and withholding tax so long as:
 [TABLE_377]
- |  |  | the gain is not effectively connected with the conduct of a trade or business in the United States by the non-U.S. noteholder, and
+ | • |  | the gain is not effectively connected with the conduct of a trade or business in the United States by the non-U.S. noteholder, and
 [/TABLE_377]
 [TABLE_378]
- |  |  | in the case of a foreign individual, the non-U.S. noteholder is not
+ | • |  | in the case of a foreign individual, the non-U.S. noteholder is not
 present in the United States for 183 days or more in the taxable year.
 [/TABLE_378]
 If the interest, gain or income on a note held
@@ -5797,6 +6062,8 @@ ERISA
 duties and requirements on employee benefit plans and other retirement plans and arrangements (such as individual retirement accounts and Keogh plans) that are subject to the fiduciary responsibility provisions of Title I of ERISA and/or
 Section 4975 of the Internal Revenue Code,
 131
+
+[PAGE 134 | printed 132]
 referred to as “plans,” and some entities (including insurance company general accounts) whose assets are deemed to include assets of plans, and on persons who are fiduciaries of
 plans.
 Plans that are subject to Title I of ERISA and/or Section 4975 of the Internal Revenue Code generally may purchase the
@@ -5804,31 +6071,31 @@ offered notes. Although it is not certain, the publicly offered notes are expect
 Section 2510.3-101,
 as modified by Section 3(42) of ERISA, or the “plan asset regulations,” because the publicly offered notes:
 [TABLE_379]
- |  |  | are expected to be treated as debt for U.S. federal income tax purposes, and
+ | • |  | are expected to be treated as debt for U.S. federal income tax purposes, and
 [/TABLE_379]
 [TABLE_380]
- |  |  | should not be deemed to have “substantial equity features.”
+ | • |  | should not be deemed to have “substantial equity features.”
 [/TABLE_380]
 Any person who exercises authority or control over the management or disposition of a plan’s assets is considered to be a fiduciary of
 that plan. Under ERISA’s general fiduciary standards, before investing in the publicly offered notes, a plan fiduciary should determine, among other factors:
 [TABLE_381]
- |  |  | whether the investment is permitted under the plan’s governing documents,
+ | • |  | whether the investment is permitted under the plan’s governing documents,
 [/TABLE_381]
 [TABLE_382]
- |  |  | whether the fiduciary has the authority to make the investment,
+ | • |  | whether the fiduciary has the authority to make the investment,
 [/TABLE_382]
 [TABLE_383]
- |  |  | whether the investment is consistent with the plan’s funding objectives,
+ | • |  | whether the investment is consistent with the plan’s funding objectives,
 [/TABLE_383]
 [TABLE_384]
- |  |  | the tax effects of the investment,
+ | • |  | the tax effects of the investment,
 [/TABLE_384]
 [TABLE_385]
- |  |  | whether under the general fiduciary standards of investment prudence and diversification an investment in the
+ | • |  | whether under the general fiduciary standards of investment prudence and diversification an investment in the
 publicly offered notes is appropriate for the plan, taking into account the overall investment policy of the plan and the composition of the plan’s investment portfolio, and
 [/TABLE_385]
 [TABLE_386]
- |  |  | whether the investment is prudent, including considering the factors described in this prospectus.
+ | • |  | whether the investment is prudent, including considering the factors described in this prospectus.
 [/TABLE_386]
 In addition, ERISA and Section 4975 of the Internal Revenue Code prohibit a broad range of transactions involving
 assets of a plan and persons who are “parties in interest” under ERISA or “disqualified persons” under Section 4975 of the Internal Revenue Code. A violation of these rules may result in the imposition of significant
@@ -5845,6 +6112,8 @@ Internal Revenue Code will depend on whether the assets of the issuing entity wi
 assets may be deemed to include an interest in the underlying assets of the issuing entity if the plan acquires an “equity interest” in the issuing entity and none of the exceptions in the plan asset regulations are applicable. In
 general, an “equity interest” is defined under the plan asset regulations as any interest in an entity other than an instrument which is treated as indebtedness under applicable local law and which has no substantial equity features.
 132
+
+[PAGE 135 | printed 133]
 As described above, the depositor believes that the publicly offered notes will be treated
 as indebtedness without substantial equity features for purposes of the plan asset regulations. This assessment is based on the traditional debt features of the publicly offered notes, including the reasonable expectation of purchasers of the
 publicly offered notes that the publicly offered notes will be repaid when due, traditional default remedies, and on the absence of conversion rights, warrants and other typical equity features.
@@ -5854,23 +6123,23 @@ trustee, the trustee, any underwriter or any of their affiliates, including the 
 plan. In this case, administrative exemptions from the prohibited transaction rules could apply to the acquisition, continued holding and disposition of publicly offered notes by, on behalf of, or with the assets of, a plan depending on the type and
 circumstances of the plan fiduciary making the decision to acquire a publicly offered note and the relationship of the party in interest and the plan. Included among these exemptions are:
 [TABLE_387]
- |  |  | prohibited transaction class exemption 84-14, regarding transactions
+ | • |  | prohibited transaction class exemption 84-14, regarding transactions
 effected by qualified professional asset managers,
 [/TABLE_387]
 [TABLE_388]
- |  |  | prohibited transaction class exemption 90-1, regarding transactions
+ | • |  | prohibited transaction class exemption 90-1, regarding transactions
 entered into by insurance company pooled separate accounts,
 [/TABLE_388]
 [TABLE_389]
- |  |  | prohibited transaction class exemption 91-38, regarding transactions
+ | • |  | prohibited transaction class exemption 91-38, regarding transactions
 entered into by bank collective investment funds,
 [/TABLE_389]
 [TABLE_390]
- |  |  | prohibited transaction class exemption 95-60, regarding transactions
+ | • |  | prohibited transaction class exemption 95-60, regarding transactions
 entered into by insurance company general accounts, and
 [/TABLE_390]
 [TABLE_391]
- |  |  | prohibited transaction class exemption 96-23, regarding transactions
+ | • |  | prohibited transaction class exemption 96-23, regarding transactions
 effected by in-house asset managers.
 [/TABLE_391]
 In addition, Section 408(b)(17) of
@@ -5890,6 +6159,8 @@ investment advice for a fee with respect to the assets of the plan, or is the em
 the offered notes may not be acquired or held by, on behalf of, or with the assets of, any plan if the issuing entity, depositor, sponsor, trustee, underwriters or any of their respective affiliates has investment authority, or renders investment
 advice for a fee with respect to the assets of the plan, or is the employer
 133
+
+[PAGE 136 | printed 134]
 or other sponsor of the plan, unless an applicable prohibited transaction exemption is available to cover the acquisition, holding and disposition of the offered notes or the transaction is not
 otherwise prohibited.
 Benefit Plans Not Subject to ERISA or the Internal Revenue Code
@@ -5909,23 +6180,23 @@ decline to reflect reductions in the outstanding principal amount of the applica
 A noteholder’s portion of the aggregate
 outstanding principal amount of the related note is the product of:
 [TABLE_392]
- |  |  | the original aggregate principal amount of the notes purchased by that noteholder; and
+ | • |  | the original aggregate principal amount of the notes purchased by that noteholder; and
 [/TABLE_392]
 [TABLE_393]
- |  |  | the applicable pool factor.
+ | • |  | the applicable pool factor.
 [/TABLE_393]
 The noteholders of record will receive reports on or about each distribution date concerning:
 [TABLE_394]
- |  |  | the payments received on the automobile loan contracts;
+ | • |  | the payments received on the automobile loan contracts;
 [/TABLE_394]
 [TABLE_395]
- |  |  | the Pool Balance;
+ | • |  | the Pool Balance;
 [/TABLE_395]
 [TABLE_396]
- |  |  | each pool factor; and
+ | • |  | each pool factor; and
 [/TABLE_396]
 [TABLE_397]
- |  |  | other items of information.
+ | • |  | other items of information.
 [/TABLE_397]
 In addition, noteholders of record during any calendar year will be furnished information for tax reporting purposes not later than the latest
 date permitted by law.
@@ -5944,6 +6215,8 @@ Notes under, and compliance with, these other requirements of Rule
 are solely the responsibility of each money market fund and its investment
 advisor.
 134
+
+[PAGE 137 | printed 135]
 A money market fund should consider whether an investment by the money market fund in the
 Class A-1
 Notes satisfies the money market fund’s investment policies and objectives, and should consult its own legal advisors in determining whether and to what extent the
@@ -5982,6 +6255,8 @@ the Dodd-Frank Act (such statutory provision together with such implementing reg
 Volcker Rule
 ”).
 135
+
+[PAGE 138 | printed 136]
 Legal Proceedings
 The Sponsor and the Servicer
 The
@@ -6017,6 +6292,8 @@ Retained Eligible Vertical Interest
 ”, an “eligible vertical interest” in each
 class of notes, to satisfy the sponsor’s obligations under Regulation RR. As described further below, should retention of the “eligible horizontal residual interest” fail to satisfy
 136
+
+[PAGE 139 | printed 137]
 the sponsor’s risk retention obligations under Regulation RR as determined by the sponsor at or prior to the time of pricing, the depositor would also expect to retain an “eligible
 vertical interest” in the form of a percentage of each class of notes in an amount necessary for the sum of the fair value of the “eligible horizontal residual interest” and the amount of the “eligible vertical
 interest” to at least equal the required risk retention amount.
@@ -6069,6 +6346,8 @@ Residual Interest |  | $ | 64.1 – $70.9 |  |  |  | 6.0% – 6.6% |
 Total |  | $ | 1,064.2 – $1,071.0 |  |  |  | 100.0% | 
 [/TABLE_398]
 137
+
+[PAGE 140 | printed 138]
 For purposes of determining compliance with Regulation RR, the estimated fair values of the
 notes and the residual interest are as follows if the aggregate initial principal amount of the notes is $1,250,150,000. The totals in the table may not sum due to rounding:
 [TABLE_399]
@@ -6083,14 +6362,14 @@ The expected range of the fair values of the residual interest was determined us
 unobservable inputs within a discounted cashflow model in accordance with the fair value assessment under generally accepted accounting principles. In assessing fair value, the use of observable and unobservable inputs and their significance in
 measuring fair value are reflected in the fair value hierarchy assessment, with Level 1 inputs favored over Level 3 inputs.
 [TABLE_400]
- |  | Level 1 – inputs include quoted prices for identical instruments and are the most observable,
+• |  | Level 1 – inputs include quoted prices for identical instruments and are the most observable,
 [/TABLE_400]
 [TABLE_401]
- |  | Level 2 – inputs include quoted prices for similar instruments and observable inputs such as interest
+• |  | Level 2 – inputs include quoted prices for similar instruments and observable inputs such as interest
 rates and yield curves, and
 [/TABLE_401]
 [TABLE_402]
- |  | Level 3 – inputs include data not observable in the market and reflect management judgment about the
+• |  | Level 3 – inputs include data not observable in the market and reflect management judgment about the
 assumptions market participants would use in pricing the instrument.
 [/TABLE_402]
 The fair value of the notes is categorized within
@@ -6127,24 +6406,26 @@ Yield and Prepayment Considerations
 ,”
 except with respect to clauses (i), (xii), (xiii), (xiv), (xvi), (xvii) and (xviii), the sponsor made the following assumptions in the discounted cashflow model:
 138
+
+[PAGE 141 | printed 139]
 [TABLE_404]
- |  |  | Note interest accrues at the rates described above. In determining the interest payments on the floating rate Class A-2-B Notes, 30-day average SOFR is assumed to reset consistent with the applicable forward rate curve as of
+ | • |  | Note interest accrues at the rates described above. In determining the interest payments on the floating rate Class A-2-B Notes, 30-day average SOFR is assumed to reset consistent with the applicable forward rate curve as of
 December 30, 2025.
 [/TABLE_404]
 [TABLE_405]
- |  |  | The automobile loan contracts prepay at a rate of 1.3% ABS. This prepayment rate includes both voluntary
+ | • |  | The automobile loan contracts prepay at a rate of 1.3% ABS. This prepayment rate includes both voluntary
 prepayments by obligors and automobile loan contracts becoming Liquidated Receivables. See “ Yield and Prepayment Considerations ” in this prospectus for a description of the ABS prepayment standard .
 [/TABLE_405]
 [TABLE_406]
- |  |  | If the aggregate initial principal amount of the notes is $1,000,130,000, the fair value calculation assumed that
+ | • |  | If the aggregate initial principal amount of the notes is $1,000,130,000, the fair value calculation assumed that
 when the allocation between the Class A-2 Notes is determined on or before the date of pricing, the maximum amount of Class A-2-A Notes that would be issued is $364,890,000 (in which case, $0 of Class A-2-B Notes would be issued) and the minimum amount of the Class A-2-A Notes that would be issued is $91,230,000 (in which case $273,660,000 of Class A-2-B Notes would be issued).
 [/TABLE_406]
 [TABLE_407]
- |  |  | If the aggregate initial principal amount of the notes is $1,250,150,000, the fair value calculation assumed that
+ | • |  | If the aggregate initial principal amount of the notes is $1,250,150,000, the fair value calculation assumed that
 when the allocation between the Class A-2 Notes is determined on or before the date of pricing, the maximum amount of Class A-2-A Notes that would be issued is $456,110,000 (in which case, $0 of Class A-2-B Notes would be issued) and the minimum amount of the Class A-2-A Notes that would be issued is $114,030,000 (in which case $342,080,000 of Class A-2-B Notes would be issued).
 [/TABLE_407]
 [TABLE_408]
- |  |  | The pool experiences a lifetime cumulative net loss rate of 1.20% and these losses are incurred based on the
+ | • |  | The pool experiences a lifetime cumulative net loss rate of 1.20% and these losses are incurred based on the
 following timing curve:
 [/TABLE_408]
 [TABLE_409]
@@ -6154,26 +6435,28 @@ following timing curve:
  |  |  |  | Months 37 – 48: |  | 10%
 [/TABLE_409]
 [TABLE_410]
- |  |  | The recovery rate assumes a recovery of 50% of the outstanding principal balance of defaulted automobile
+ | • |  | The recovery rate assumes a recovery of 50% of the outstanding principal balance of defaulted automobile
 loan contracts as of the date they were charged off, with a delay between default and recovery of three months.
 [/TABLE_410]
 [TABLE_411]
- |  |  | Cashflows received on the residual interest are discounted at 14%.
+ | • |  | Cashflows received on the residual interest are discounted at 14%.
 [/TABLE_411]
 The sponsor developed these inputs and assumptions considering the following factors:
 [TABLE_412]
- |  |  | The assumed ABS rate was estimated considering the prepayment experience on prime loan securitized pools
+ | • |  | The assumed ABS rate was estimated considering the prepayment experience on prime loan securitized pools
 in general, the prepayment rate experience on the sponsor’s prime loan vintages, as well the prepayment rate that is expected to be assumed when the interest rates on the notes are established on the date of pricing.
 [/TABLE_412]
 [TABLE_413]
- |  |  | The lifetime cumulative net loss was determined by the sponsor based on the sponsor’s historical
+ | • |  | The lifetime cumulative net loss was determined by the sponsor based on the sponsor’s historical
 performance of prime loan vintages and prior securitized pools, the composition of the pool for this securitization, trends in used motor vehicle values, economic conditions and the loss assumptions employed by the engaged NRSROs. The cumulative net
 loss assumption represents the expected cumulative defaults reduced by expected recoveries.
 [/TABLE_413]
 [TABLE_414]
- |  |  | The discount rate was determined based on an unobservable pre-tax cost of equity capital of GM Financial. The discount rate was not determined based on sales of similar residual interests due to the lack of an actively-traded market for such residual interests.
+ | • |  | The discount rate was determined based on an unobservable pre-tax cost of equity capital of GM Financial. The discount rate was not determined based on sales of similar residual interests due to the lack of an actively-traded market for such residual interests.
 [/TABLE_414]
 139
+
+[PAGE 142 | printed 140]
 The sponsor believes that the inputs and assumptions described above are all of the inputs
 and assumptions that could have a significant impact on the fair value calculations described above and provide a prospective noteholder with information that is sufficient to evaluate the fair value calculation. The fair value of the notes and the
 residual interest was calculated based on the assumptions described above, including the assumptions regarding the characteristics and performance of the automobile loan contracts, that will likely differ from the actual characteristics and
@@ -6211,6 +6494,8 @@ rating may have an adverse effect on the liquidity and market price of the publi
 noteholders are entitled by their respective final scheduled distribution dates. The ratings assigned to the publicly offered notes do not represent any assessment of the likelihood that principal prepayments might differ from those originally
 anticipated or address the possibility that noteholders might suffer a lower than anticipated yield.
 140
+
+[PAGE 143 | printed 141]
 Underwriting
 Under the terms and subject to the conditions set forth in the underwriting agreement for the sale of the publicly offered notes, each of the
 underwriters has agreed, severally and not jointly, subject to the terms and conditions set forth therein, to purchase the principal amount of the publicly offered notes set forth opposite its name below:
@@ -6278,6 +6563,8 @@ depositor or through underwriters, broker-dealers or agents who may receive comp
 broker-dealers, the depositor will be responsible for discounts or commissions or agent’s commissions. The retained notes may be sold in one or more transactions at fixed prices, prevailing market prices at the time of sale, varying prices
 determined at the time of sale or negotiated prices.
 141
+
+[PAGE 144 | printed 142]
 The underwriting agreement provides that the sponsor will reimburse the underwriters for
 certain expenses and the sponsor and the depositor will indemnify the underwriters against certain liabilities, including liabilities under the Securities Act.
 No action has been taken by the issuing entity or the underwriters which would or is intended to permit an offer of notes to the public in any
@@ -6306,6 +6593,8 @@ There is currently no secondary market for the publicly offered notes and it sho
 currently expect (based on capabilities), but are not obligated, to make a market in the publicly offered notes. In addition, the underwriters may be unable to make a market in the notes due to regulatory developments. It should not be assumed that
 any such market will develop, or if one does develop, that it will continue or provide sufficient liquidity.
 142
+
+[PAGE 145 | printed 143]
 In the ordinary course of their respective businesses, the underwriters and their respective
 affiliates have engaged and may in the future engage in investment banking or commercial banking transactions with the sponsor, General Motors Financial and their respective affiliates.
 United Kingdom
@@ -6348,6 +6637,8 @@ E.U. Retail Investor
 client as defined in point (10) of Article 4(1) of MiFID II; or
 (3)  not an E.U. Qualified Investor.
 143
+
+[PAGE 146 | printed 144]
 In addition, for purposes of this provision, the expression “offer” includes the
 communication in any form and by any means of sufficient information on the terms of the offer and the notes to be offered so as to enable an investor to decide to purchase or subscribe for the notes.
 Legal Opinions
@@ -6366,6 +6657,8 @@ Financial Information
 The trust property will secure the notes, however, the issuing entity will not engage in any business activities or have any assets or
 obligations prior to the issuance of the notes.
 144
+
+[PAGE 147 | printed 145]
 Glossary
 “
 Adjusted Pool Balance
@@ -6382,19 +6675,19 @@ Amount Financed
 means, for any automobile loan contract, the aggregate amount loaned toward the purchase price of the
 financed vehicle and any related costs, including amounts advanced at the time the automobile loan contract is originated for:
 [TABLE_420]
- |  |  | accessories;
+ | • |  | accessories;
 [/TABLE_420]
 [TABLE_421]
- |  |  | insurance premiums;
+ | • |  | insurance premiums;
 [/TABLE_421]
 [TABLE_422]
- |  |  | service contracts;
+ | • |  | service contracts;
 [/TABLE_422]
 [TABLE_423]
- |  |  | car club and warranty contracts; and
+ | • |  | car club and warranty contracts; and
 [/TABLE_423]
 [TABLE_424]
- |  |  | other items customarily financed as part of motor vehicle retail installment sale contracts or promissory notes,
+ | • |  | other items customarily financed as part of motor vehicle retail installment sale contracts or promissory notes,
 and related costs.
 [/TABLE_424]
 “
@@ -6436,6 +6729,8 @@ Collected Funds
 means, for any calendar month, the amount of funds in the
 collection account representing automobile loan contract collections during the calendar month, including all Net Liquidation Proceeds collected during the calendar month, but excluding any Purchase Amounts.
 145
+
+[PAGE 148 | printed 146]
 “
 Controlling Class
 ” means, (i) the Class A Notes so long as any class of
@@ -6480,18 +6775,18 @@ Liquidated Receivable
 ” means, for any calendar month, an automobile loan contract for which, as of the last day of the calendar
 month:
 [TABLE_434]
- |  |  | 90 days have elapsed since the servicer repossessed the related financed vehicle; provided, however , that
+ | • |  | 90 days have elapsed since the servicer repossessed the related financed vehicle; provided, however , that
 in no case shall 10% or more of a scheduled automobile loan contract payment have become 210 or more days delinquent in the case of a repossessed financed vehicle;
 [/TABLE_434]
 [TABLE_435]
- |  |  | the servicer has determined in good faith that it has received all amounts it expects to recover;
+ | • |  | the servicer has determined in good faith that it has received all amounts it expects to recover;
 [/TABLE_435]
 [TABLE_436]
- |  |  | 10% or more of a scheduled payment became 120 or more days delinquent, except in the case of repossessed financed
+ | • |  | 10% or more of a scheduled payment became 120 or more days delinquent, except in the case of repossessed financed
 vehicles; or
 [/TABLE_436]
 [TABLE_437]
- |  |  | that is, without duplication, a Sold Receivable.
+ | • |  | that is, without duplication, a Sold Receivable.
 [/TABLE_437]
 “
 Majority Noteholders
@@ -6510,6 +6805,8 @@ Net Liquidation Proceeds
  | (2) | any related insurance proceeds;
 [/TABLE_440]
 146
+
+[PAGE 149 | printed 147]
 [TABLE_441]
  | plus | 
 [/TABLE_441]
@@ -6575,6 +6872,8 @@ provided, however,
 that in determining whether the noteholders have given
 any request, demand,
 147
+
+[PAGE 150 | printed 148]
 authorization, direction, notice, consent or waiver under any Transaction Document, notes owned by the issuing entity, any other obligor upon the notes, the depositor or any affiliate of any of
 the foregoing entities shall be disregarded and deemed not to be Outstanding.
 “
@@ -6644,6 +6943,8 @@ Notes are paid in full, or, in each case, such other percentage approved by the 
 Class A-2-B
 Notes are issued, the Required Rate will step down from 6.45% to 5.45% on the first distribution date and remain at this level for each period thereafter.
 148
+
+[PAGE 151 | printed 149]
 “
 Second Priority Principal Distribution Amount
 ” means, with respect to any
@@ -6674,6 +6975,8 @@ distribution date, or with respect to the cutoff date, the aggregate amount by w
 percentage rate as stated in the related contract of less than the Required Rate as of such date, other than a defaulted automobile loan contract, exceeds the present value, calculated using a discount rate equal to the Required Rate as of such
 date, of each scheduled payment of each such automobile loan contract assuming such scheduled payment is made on the last day of each month and each month has 30 days.
 149
+
+[PAGE 152 | printed A-1]
 Annex A
 Static Pool Information
 TABLE OF CONTENTS FOR ANNEX A
@@ -6716,6 +7019,8 @@ days and
 91-120
 days past due.
 A-1
+
+[PAGE 153 | printed A-2]
 A securitization’s “
 Pool Factor
 ” represents the aggregate
@@ -6752,6 +7057,8 @@ Contracts – Composition of Each Pool
 have performed. There can be no assurance that the performance of automobile loan contracts in prior securitization transactions as outlined in this Annex A will correspond to, or be an accurate predictor of, the performance of this securitization
 transaction.
 A-2
+
+[PAGE 154 | printed A-3]
 GM Financial Consumer Automobile Receivables Trust (GMCAR) ABS Information
 Original Pool Characteristics
 [TABLE_460]
@@ -6806,6 +7113,8 @@ be included in the tables above.
 2
 Percentages may not add to 100% due to rounding.
 A-3
+
+[PAGE 155 | printed A-4]
 GM Financial Consumer Automobile Receivables Trust (GMCAR) ABS Information
 Original Pool Characteristics (Continued)
 [TABLE_461]
@@ -6860,6 +7169,8 @@ be included in the tables above.
 2
 Percentages may not add to 100% due to rounding.
 A-4
+
+[PAGE 156 | printed A-5]
 GM Financial Consumer Automobile Receivables Trust (GMCAR) ABS Information
 Original Pool Characteristics (Continued)
 [TABLE_462]
@@ -6914,6 +7225,8 @@ be included in the tables above.
 2
 Percentages may not add to 100% due to rounding.
 A-5
+
+[PAGE 157 | printed A-6]
 GM Financial Consumer Automobile Receivables Trust (GMCAR) ABS Information
 Original Pool Characteristics (Continued)
 [TABLE_463]
@@ -6968,6 +7281,8 @@ be included in the tables above.
 2
 Percentages may not add to 100% due to rounding.
 A-6
+
+[PAGE 158 | printed A-7]
 GM Financial Consumer Automobile Receivables Trust (GMCAR) ABS Information
 Distribution of the Automobile Loan Contracts by Geographic Location of the Obligor
 Top 5 States as a Percentage of Original Pool Balance
@@ -7008,6 +7323,8 @@ NY |  | 4.79% |  | NY |  | 4.61%
 MI |  | 4.28% |  | MI |  | 4.48%
 [/TABLE_467]
 A-7
+
+[PAGE 159 | printed A-8]
 GM Financial Consumer Automobile Receivables Trust (GMCAR) ABS Information
 Cumulative Net Loss
 As
@@ -7084,6 +7401,8 @@ The calculation of Cumulative Net Losses is described on page
 A-1
 of this Annex A.
 A-8
+
+[PAGE 160 | printed A-9]
 GM Financial Consumer Automobile Receivables Trust (GMCAR) ABS Information
 Cumulative Net Loss
 As
@@ -7160,6 +7479,8 @@ The calculation of Cumulative Net Losses is described on page
 A-1
 of this Annex A.
 A-9
+
+[PAGE 161 | printed A-10]
 GM Financial Consumer Automobile Receivables Trust (GMCAR) ABS Information
 31-60
 Day Delinquencies
@@ -7239,6 +7560,8 @@ of this Annex A.
 (1) Automobile loan contracts with
 respect to which the servicer has repossessed the related financed vehicle or that are classified as Liquidated Receivables, including automobile loan contracts that reach 120 days past due, are not included in this delinquency table.
 A-10
+
+[PAGE 162 | printed A-11]
 GM Financial Consumer Automobile Receivables Trust (GMCAR) ABS Information
 31-60
 Day Delinquencies
@@ -7318,6 +7641,8 @@ of this Annex A.
 (1) Automobile loan contracts with
 respect to which the servicer has repossessed the related financed vehicle or that are classified as Liquidated Receivables, including automobile loan contracts that reach 120 days past due, are not included in this delinquency table.
 A-11
+
+[PAGE 163 | printed A-12]
 GM Financial Consumer Automobile Receivables Trust (GMCAR) ABS Information
 61-90
 Day Delinquencies
@@ -7397,6 +7722,8 @@ of this Annex A.
 (1) Automobile loan contracts with
 respect to which the servicer has repossessed the related financed vehicle or that are classified as Liquidated Receivables, including automobile loan contracts that reach 120 days past due, are not included in this delinquency table.
 A-12
+
+[PAGE 164 | printed A-13]
 GM Financial Consumer Automobile Receivables Trust (GMCAR) ABS Information
 61-90
 Day Delinquencies
@@ -7476,6 +7803,8 @@ of this Annex A.
 (1) Automobile loan contracts with
 respect to which the servicer has repossessed the related financed vehicle or that are classified as Liquidated Receivables, including automobile loan contracts that reach 120 days past due, are not included in this delinquency table.
 A-13
+
+[PAGE 165 | printed A-14]
 GM Financial Consumer Automobile Receivables Trust (GMCAR) ABS Information
 91-120
 Day Delinquencies
@@ -7555,6 +7884,8 @@ of this Annex A.
 (1) Automobile loan contracts with
 respect to which the servicer has repossessed the related financed vehicle or that are classified as Liquidated Receivables, including automobile loan contracts that reach 120 days past due, are not included in this delinquency table.
 A-14
+
+[PAGE 166 | printed A-15]
 GM Financial Consumer Automobile Receivables Trust (GMCAR) ABS Information
 91-120
 Day Delinquencies
@@ -7634,6 +7965,8 @@ of this Annex A.
 (1) Automobile loan contracts with
 respect to which the servicer has repossessed the related financed vehicle or that are classified as Liquidated Receivables, including automobile loan contracts that reach 120 days past due, are not included in this delinquency table.
 A-15
+
+[PAGE 167 | printed A-16]
 GM Financial Consumer Automobile Receivables Trust (GMCAR) ABS Information
 Prepayment (ABS) Speed
 As of October 31, 2025
@@ -7709,6 +8042,8 @@ The calculation of Prepayment (ABS) Speeds is described on page
 A-2
 of this Annex A.
 A-16
+
+[PAGE 168 | printed A-17]
 GM Financial Consumer Automobile Receivables Trust (GMCAR) ABS Information
 Prepayment (ABS) Speed
 As of October 31, 2025 (Continued)
@@ -7784,6 +8119,8 @@ The calculation of Prepayment (ABS) Speeds is described on page
 A-2
 of this Annex A.
 A-17
+
+[PAGE 169 | printed A-18]
 GM Financial Consumer Automobile Receivables Trust (GMCAR) ABS Information
 Pool Factor
 As of
@@ -7860,6 +8197,8 @@ The calculation of Pool Factors is described on page
 A-2
 of this Annex A.
 A-18
+
+[PAGE 170 | printed A-19]
 GM Financial Consumer Automobile Receivables Trust (GMCAR) ABS Information
 Pool Factor
 As of
@@ -7936,6 +8275,8 @@ The calculation of Pool Factors is described on page
 A-2
 of this Annex A.
 A-19
+
+[PAGE 171 | printed A-20]
 Cumulative Net Loss
 The graphs below depict Cumulative Net Losses for each month after closing for each of the sponsor’s securitizations related to its GMCAR platform for
 the past five years.
@@ -7945,11 +8286,17 @@ of this Annex A.
 2021 GMCAR Securitized Pools
 2022 GMCAR Securitized Pools
 A-20
+
+[PAGE 172 | printed A-21]
 2023 GMCAR Securitized Pools
 2024 GMCAR Securitized Pools
 A-21
+
+[PAGE 173 | printed A-22]
 2025 GMCAR Securitized Pools
 A-22
+
+[PAGE 174 | printed A-23]
 61+ Delinquencies
 The graphs below depict 61+ Delinquencies for each month after closing for each of the sponsor’s securitizations related to its GMCAR platform for the
 past five years.
@@ -7959,11 +8306,17 @@ of this Annex A.
 2021 GMCAR Securitized Pools
 2022 GMCAR Securitized Pools
 A-23
+
+[PAGE 175 | printed A-24]
 2023 GMCAR Securitized Pools
 2024 GMCAR Securitized Pools
 A-24
+
+[PAGE 176 | printed A-25]
 2025 GMCAR Securitized Pools
 A-25
+
+[PAGE 177 | printed A-26]
 Prepayment (ABS) Speeds
 The graphs below depict Prepayment (ABS) Speeds for each month after closing for each of the sponsor’s securitizations related to its GMCAR platform for
 the past five years.
@@ -7973,11 +8326,17 @@ of this Annex A.
 2021 GMCAR Securitized Pools
 2022 GMCAR Securitized Pools
 A-26
+
+[PAGE 178 | printed A-27]
 2023 GMCAR Securitized Pools
 2024 GMCAR Securitized Pools
 A-27
+
+[PAGE 179 | printed A-28]
 2025 GMCAR Securitized Pools
 A-28
+
+[PAGE 180 | printed B-1]
 Annex B
 Clearance, Settlement and Tax Documentation Procedures
 NOTICE TO INVESTORS: THIS ANNEX B IS AN INTEGRAL PART OF
@@ -8014,6 +8373,8 @@ Secondary Market Trading
 Since the purchaser determines the place of delivery, it is important to establish at the time of the trade where both the purchaser’s
 and seller’s accounts are located to ensure that settlement can be made on the desired value date.
 B-1
+
+[PAGE 181 | printed B-2]
 Trading between DTC Participants
 Secondary market trading between DTC participants will be settled using the procedures applicable to asset-backed notes issues in
 same-day
@@ -8043,6 +8404,8 @@ Since the settlement is taking place during New York business hours, DTC partici
 notes to the European depository for the benefit of Clearstream participants. The sale proceeds will be available to the DTC seller on the settlement date. Thus, to the DTC participants a cross-market transaction will settle no differently than a
 trade between two DTC participants.
 B-2
+
+[PAGE 182 | printed B-3]
 Trading between Clearstream Seller and DTC Purchaser
 Due to time zone differences in their favor, Clearstream participants may employ their customary procedures for transactions in which publicly
 offered notes are to be transferred by the respective clearing system, through the respective depository, to a DTC participant. The seller will send instructions to Clearstream through a Clearstream participant at least one business day prior to
@@ -8093,6 +8456,8 @@ course of its trade or business in the chain of intermediaries between such bene
 forms described below.
 [/TABLE_484]
 B-3
+
+[PAGE 183 | printed B-4]
 This summary does not deal with all aspects of U.S. federal income tax withholding that may
 be relevant to foreign holders of the publicly offered notes, including U.S. federal withholding tax under FATCA, as well as the application of the withholding tax regulations. You are encouraged to consult your own tax advisors for specific advice
 regarding the holding and disposing of the publicly offered notes. For further discussion of U.S. federal withholding tax under FATCA, see “
@@ -8199,6 +8564,8 @@ is
  | (1) | a citizen or resident of the United States;
 [/TABLE_485]
 B-4
+
+[PAGE 184 | printed B-5]
 [TABLE_486]
  | (2) | a corporation (or other entity treated as a corporation for U.S. federal income tax purposes) organized in or
 under the laws of the United States or any political subdivision thereof;
@@ -8216,6 +8583,8 @@ Person
 ” is any person other than a U.S. Person or other than a
 partnership (including any entity treated as a partnership for U.S. federal income tax purposes).
 B-5
+
+[PAGE 185]
 Dealer Prospectus Delivery Obligation
 Until 90 days after the date of this prospectus dealers that effect transactions in these securities, whether or not participating in the offering,
 may be required to deliver a prospectus. This is in addition to the dealers’ obligation to deliver a prospectus when acting as underwriters and for their unsold allotments or subscriptions.

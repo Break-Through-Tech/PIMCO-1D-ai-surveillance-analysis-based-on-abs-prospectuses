@@ -4,6 +4,7 @@ Extracts structured metadata from clean text files and builds the index DataFram
 """
 
 import re
+import sys
 import pandas as pd
 from pathlib import Path
 from datetime import datetime
@@ -14,6 +15,8 @@ OUTPUT_DIR = Path(__file__).parent.parent / "data"
 # ---------------------------------------------------------------------------
 # Company config: label, filename prefix, asset_type group
 # ---------------------------------------------------------------------------
+# config/ lives under src/, which is not on the path when run from notebooks/
+sys.path.insert(0, str(Path(__file__).parent.parent / "src"))
 from config.companies import COMPANIES, ASSET_TYPES
 
 

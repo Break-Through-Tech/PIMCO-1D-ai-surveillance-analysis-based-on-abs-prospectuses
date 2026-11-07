@@ -5,6 +5,7 @@ Extracts clean text and structured table content from semi-structured HTML.
 """
 
 import re
+import sys
 import glob
 import json
 import traceback
@@ -16,6 +17,8 @@ DATA_DIR = Path(__file__).parent.parent / "data"
 OUTPUT_DIR = Path(__file__).parent.parent / "data" / "clean_text"
 LOG_PATH = OUTPUT_DIR / "parse_log.json"
 
+# config/ lives under src/, which is not on the path when run from notebooks/
+sys.path.insert(0, str(Path(__file__).parent.parent / "src"))
 from config.companies import COMPANIES
 from page_markers import insert_page_boundaries, number_pages
 
@@ -109,6 +112,7 @@ def clean_html(html: str) -> dict:
         "clean_text": clean_text,
         "tables": tables_data,
         "num_pages": num_pages,
+        "page_style": page_style,
     }
 
 
@@ -203,15 +207,19 @@ def main():
         all_dfs.append(df)
         all_log_entries.extend(log_entries)
  
+    with open(LOG_PATH, "w", encoding="utf-8") as f:
+        json.dump(all_log_entries, f, indent=2)
+
+    n_ok = sum(1 for e in all_log_entries if e["status"] == "ok")
+    n_err = sum(1 for e in all_log_entries if e["status"] == "error")
+ 
+    # Stop before the summary is written, so a failed run can't blank it
+    if n_ok == 0:
+        raise SystemExit(f"Parsing failed: 0 succeeded, {n_err} failed. See {LOG_PATH}")
+
     summary = pd.concat(all_dfs, ignore_index=True) if all_dfs else pd.DataFrame()
     summary_path = OUTPUT_DIR / "parsed_filings_summary.csv"
     summary.to_csv(summary_path, index=False)
- 
-    with open(LOG_PATH, "w", encoding="utf-8") as f:
-        json.dump(all_log_entries, f, indent=2)
- 
-    n_ok = sum(1 for e in all_log_entries if e["status"] == "ok")
-    n_err = sum(1 for e in all_log_entries if e["status"] == "error")
  
     print(f"\n{'='*60}")
     print(f"Parsing complete. {n_ok} succeeded, {n_err} failed.")

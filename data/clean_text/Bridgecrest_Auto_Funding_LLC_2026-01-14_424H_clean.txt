@@ -1,3 +1,4 @@
+[PAGE 1 | printed i]
 Filed Pursuant to Rule 424(h)
 Registration No. 333-271899 and 333-271899-10
 ​
@@ -133,6 +134,8 @@ ORIGINATION | 47
  | ANCILLARY PRODUCTS | 50
 [/TABLE_6]
 i
+
+[PAGE 2 | printed ii]
 TABLE OF CONTENTS
 (continued)
 Page
@@ -185,6 +188,8 @@ THE TRANSFER AGREEMENTS AND THE ADMINISTRATION AGREEMENT | 114
  | ACCOUNTS | 124
 [/TABLE_7]
 ii
+
+[PAGE 3 | printed iii]
 TABLE OF CONTENTS
 (continued)
 Page
@@ -238,6 +243,8 @@ LEGAL INVESTMENT | 156
 MATERIAL FEDERAL INCOME TAX CONSIDERATIONS | 158
 [/TABLE_8]
 iii
+
+[PAGE 4 | printed iv]
 TABLE OF CONTENTS
 (continued)
 Page
@@ -261,6 +268,8 @@ INDEX | I-1
 APPENDIX A Static Pool Information Regarding Prior Securitized Pools | A-1
 [/TABLE_9]
 iv
+
+[PAGE 5 | printed v]
 WHERE TO FIND INFORMATION IN THIS PROSPECTUS
 This prospectus provides information about the
 issuing entity, Bridgecrest Lending Auto Securitization Trust 2026-1, including terms and conditions that apply to the notes offered by
@@ -291,6 +300,8 @@ the depositor or from the underwriters upon request.
 In this prospectus, the terms “we,”
  “us” and “our” refer to Bridgecrest Auto Funding LLC.
 v
+
+[PAGE 6 | printed vi]
 REPORTS TO NOTEHOLDERS
 After the notes are issued, unaudited monthly reports
 containing information concerning the issuing entity, the notes and the receivables will be prepared by Bridgecrest Acceptance Corporation
@@ -326,6 +337,8 @@ relating to the offering of the notes described herein. This prospectus does not
 The SEC maintains a website (http://www.sec.gov) that contains reports, registration statements, proxy and information statements, and
 other information regarding issuers that file electronically with the SEC.
 vi
+
+[PAGE 7 | printed vii]
 NOTICE TO INVESTORS: UNITED KINGDOM
 PROHIBITION ON SALES TO UK RETAIL INVESTORS
 The
@@ -392,6 +405,8 @@ UNAUTHORIZED AND MAY CONTRAVENE THE FINANCIAL SERVICES AND MARKETS ACT 2000 (AS 
 FSMA
 ”).
 vii
+
+[PAGE 8 | printed viii]
 NOTICE TO INVESTORS: EUROPEAN ECONOMIC AREA
 PROHIBITION ON SALES TO EU RETAIL INVESTORS
 THE NOTES ARE NOT INTENDED
@@ -426,6 +441,8 @@ SUBJECT OF THE OFFERING CONTEMPLATED IN THIS PROSPECTUS MAY ONLY DO SO TO ONE OR
 ENTITY, THE DEPOSITOR OR ANY OF THE UNDERWRITERS HAS AUTHORIZED, NOR DO THEY AUTHORIZE, THE MAKING OF ANY OFFER OF NOTES IN THE EEA OTHER
 THAN TO EU QUALIFIED INVESTORS.
 viii
+
+[PAGE 9 | printed ix]
 SUMMARY OF STRUCTURE AND FLOW OF FUNDS
 This structural summary briefly describes certain
 major structural components, the relationship among the parties, the flow of funds prior to an acceleration after an event of default
@@ -442,6 +459,8 @@ by the depositor or an affiliate thereof.
 an equity interest in the grantor trust, are being offered hereby.
 [/TABLE_13]
 ix
+
+[PAGE 10 | printed x]
 Flow of Funds
 (1)
 (Prior to an Acceleration after an Event of Default)
@@ -450,6 +469,8 @@ Flow of Funds
 Agreement—Priority of Payments ” in this prospectus.
 [/TABLE_14]
 x
+
+[PAGE 11 | printed 1]
 SUMMARY OF TERMS
 This summary provides an overview of selected
 information from this prospectus and does not contain all of the information that you need to consider in making your investment decision.
@@ -523,6 +544,8 @@ of the receivables in the receivables pool
 date) primarily through its relationship with DriveTime Car Sales Company, LLC, and approximately 7.97% of the receivables in the receivables
 pool (as a percentage of the aggregate
 1
+
+[PAGE 12 | printed 2]
 principal balance of the receivables as of the cut-off date) were acquired by BAC from an affiliated
 finance company. If the Upsize Transaction is issued, BAC or an affiliate thereof originated approximately 92.03% of the receivables in
 the receivables pool (as a percentage of the aggregate principal balance of the receivables as of the cut-off date) primarily through
@@ -601,6 +624,8 @@ offered
 notes
 ,” are the only securities that are being offered by this prospectus.
 2
+
+[PAGE 13 | printed 3]
 The offered notes are issuable in a minimum denomination of $1,000
 and in integral multiples of $1,000 in excess thereof (except for one note of each class which may be issued in a denomination other than
 an integral multiple of $1,000). See “
@@ -673,6 +698,8 @@ reviewer pursuant to this clause second will be limited to $150,000 per annum in
  | · | sixth, to the noteholders, the Second Allocation of Principal, if any;
 [/TABLE_24]
 3
+
+[PAGE 14 | printed 4]
 [TABLE_25]
  | · | seventh , to the Class C noteholders, interest on the Class C notes;
 [/TABLE_25]
@@ -748,6 +775,8 @@ Class A-3 notes, the Class B notes, the Class C notes, the Class D notes and the
 a 360-day year consisting of twelve 30-day months. This means that the interest due on each payment date for the Class A-2 notes,
 the Class A-3 notes, the Class B notes, the Class C notes,
 4
+
+[PAGE 15 | printed 5]
 the Class D notes and the Class E notes will be the
 product of (i) the outstanding principal amount of the related class of notes, (ii) the related interest rate and (iii) 30
 (or, in the case of the first payment date, the number of days from and including the closing date to but excluding the 15th day of the
@@ -822,6 +851,8 @@ asset representations reviewer, interest on the Class A notes will be paid ratab
 payments will be made first to the Class A-1 noteholders until the Class A-1 notes are paid in full. Next, the noteholders of
 the Class A-2 notes and the Class A-3 notes will receive principal payments, ratably, based
 5
+
+[PAGE 16 | printed 6]
 on the outstanding principal amount
 of the Class A-2 notes and the Class A-3 notes until each such class of notes is paid in full. After interest on and principal
 of all of the Class A notes are paid in full, interest and principal payments will be made to noteholders of the Class B notes.
@@ -884,6 +915,8 @@ set forth in “—
 Priority of Payments
 ” above would be sufficient to
 6
+
+[PAGE 17 | printed 7]
 pay in full the aggregate unpaid
 note balance of all of the outstanding notes as determined by the servicer. On such payment date, the outstanding notes will be redeemed
 in whole, but not in part. Following such redemption, any funds remaining in the reserve account will be distributed to or at the direction
@@ -947,6 +980,8 @@ receivables
 pool
 ” and to the persons who financed their purchases or refinanced existing obligations with these contracts as
 7
+
+[PAGE 18 | printed 8]
 “
 obligors
 .”
@@ -1022,6 +1057,8 @@ The Transfer
 Agreements and the Administration Agreement—Asset Representations Review
 ” in this prospectus.
 8
+
+[PAGE 19 | printed 9]
 STATISTICAL INFORMATION
 The statistical information in this prospectus is based on the pool
 of receivables as of the cut-off date.
@@ -1115,6 +1152,8 @@ date.
 see “Origination—Underwriting and Credit Scoring Models” in this prospectus.
 [/TABLE_73]
 9
+
+[PAGE 20 | printed 10]
 its designee’s) exercise of the “clean-up call” option as described above
 under “—
 Interest and Principal—Optional Redemption of the Notes
@@ -1178,6 +1217,8 @@ The Indenture—Priority of Payments Will Change Upon Events of Default that Res
 in Acceleration
 .”
 10
+
+[PAGE 21 | printed 11]
 Subordination of Payments on the Class D Notes
 As long as the Class A notes, the Class B notes and the Class C
 notes remain outstanding, payments of interest on any payment date on the Class D notes will be subordinated to payments of interest
@@ -1254,6 +1295,8 @@ directions from the servicer, distribute any amount then on deposit in the reser
 All amounts on deposit in the reserve account on any payment date serve
 as credit enhancement since those amounts will be available to make up shortfalls in the
 11
+
+[PAGE 22 | printed 12]
 amounts payable to the noteholders on such payment
 date to the extent described herein. With respect to each collection period, the indenture trustee will, upon direction of the servicer,
 withdraw any investment earnings (net of investment losses and expenses) from amounts on deposit in the reserve account and distribute
@@ -1313,6 +1356,8 @@ for ERISA and Other U.S. Benefit Plans
 other retirement accounts. An employee benefit plan, any other retirement plan and any entity deemed to hold “plan assets”
 of any employee benefit plan or other plan should consult with its counsel before purchasing the offered notes.
 12
+
+[PAGE 23 | printed 13]
 See “
 Certain Considerations for ERISA and Other U.S. Benefit
 Plans
@@ -1384,6 +1429,8 @@ The Sponsor—Credit Risk Retention
 ” in
 this prospectus.
 13
+
+[PAGE 24 | printed 14]
 EU SECURITIZATION REGULATION AND UK SECURITIZATION FRAMEWORK
 None of BAC, the servicer, the depositor, the issuing entity, the underwriters,
 nor any other party to the transaction or any of their respective affiliates will retain or commit to retain a 5% material net economic
@@ -1445,6 +1492,8 @@ REGISTRATION UNDER THE SECURITIES ACT
 The depositor has filed a registration statement relating to the notes
 with the SEC on Form SF-3. The depositor has met the registrant requirements contained in General Instruction I.A.1 to Form SF-3.
 14
+
+[PAGE 25 | printed 15]
 SUMMARY OF RISK FACTORS
 The notes are subject to certain risks that you should consider
 before making a decision to purchase any notes. This summary is included to provide an overview of the potential risks. It does not contain
@@ -1534,6 +1583,8 @@ on your notes.
 could result in delays in payments or losses on your notes.
 [/TABLE_91]
 15
+
+[PAGE 26 | printed 16]
 [TABLE_92]
  | · | Temporary commingling of assets by the servicer could reduce or delay payments
 on the notes.
@@ -1605,6 +1656,8 @@ States trade or business for United States federal income tax purposes on accoun
  | · | The notes may be issued with original issue discount.
 [/TABLE_104]
 16
+
+[PAGE 27 | printed 17]
 RISK FACTORS
 An investment in the notes involves significant
 risks. Before you decide to invest, we recommend that you carefully consider the following risk factors.
@@ -1661,6 +1714,8 @@ may have a greater effect on the performance of the receivables than if the conc
 risk of loss on your notes. In particular, climate change may lead to an increase in the frequency of natural disasters and extreme weather
 conditions (such as multistate hurricanes and tornadoes), with certain states bearing a greater risk
 17
+
+[PAGE 28 | printed 18]
 of the adverse effects of climate
 change, which could increase the risks related to geographic concentration in the pool.
 The
@@ -1718,6 +1773,8 @@ balance of the related receivable, which can increase the likelihood that the pr
 of the related financed vehicle during the early years of a receivable’s term. The lack of any significant equity in their vehicles
 may make it more likely that the related obligors will default in their payment obligations if their personal
 18
+
+[PAGE 29 | printed 19]
 financial conditions change.
 A default during the earlier years of a receivable’s term is more likely to result in losses because the proceeds of repossession
 of the related financed vehicle are less likely to pay the full amount of interest and principal owed on that receivable. Further, the
@@ -1774,6 +1831,8 @@ Servicing by BAC
 ” in this prospectus. Payment deferrals or extensions or delays in initiating repossession activity
 may extend the maturity of the receivables, increase the weighted average life of any class of notes and reduce the yield on your notes.
 19
+
+[PAGE 30 | printed 20]
 In addition, the servicer’s customary servicing practices may
 change from time to time and those changes could reduce collections on the receivables. Although the servicer’s customary servicing
 practices at any time will apply to all comparable motor vehicle receivables serviced by the servicer, without regard to whether a receivable
@@ -1831,6 +1890,8 @@ the prices of used vehicles, including the prices at which the servicer is able 
 in used vehicle prices will result in increased losses on defaulted receivables. In addition, future delinquency rates, rates of repossession,
 recovery rates on
 20
+
+[PAGE 31 | printed 21]
 repossessed vehicles or loss experience of the servicer with respect to the receivables may be better or worse than
 that set forth in the static pool information and historical delinquency and loss information contained in this prospectus.
 In addition, the servicer’s customary
@@ -1881,6 +1942,8 @@ an obligor’s period of active military duty. These laws, together with the ser
 legislation, as well as give additional benefits to active military personnel (and, in some circumstances, their family members and certain
 other related parties, even
 21
+
+[PAGE 32 | printed 22]
 where not required by law), could adversely affect the ability of the servicer to collect full amounts of
 interest on a receivable, as well as limit the ability of the servicer to repossess the financed vehicle related to an affected receivable
 during and, for a certain time after, the obligor’s period of active military duty.
@@ -1935,6 +1998,8 @@ from the reserve account. These amounts, together with other payments and collec
 to make full and timely distributions on your notes. If delinquencies and losses create shortfalls which exceed the available credit enhancement,
 you may experience delays or reductions in payments on your notes and you could suffer a loss.
 22
+
+[PAGE 33 | printed 23]
 You may experience a loss or a delay in receiving payments on the
 notes if the issuing entity property is liquidated.
 If an event of default under the indenture occurs and the notes are
@@ -1983,6 +2048,8 @@ trust as the new secured party. In the absence of an amendment or reissuance, th
 in the financed vehicles securing the receivables in some states. Additionally, the grantor trust could lose the priority of its security
 interest in a financed vehicle due to, among other things, liens for repairs or
 23
+
+[PAGE 34 | printed 24]
 storage of a financed vehicle or for unpaid taxes of an
 obligor. None of the servicer, the sponsor, the seller, the depositor or any other person will have any obligation to purchase or repurchase
 a receivable if liens for repairs or storage of a financed vehicle or for unpaid taxes of an obligor result in the loss of the priority
@@ -2032,6 +2099,8 @@ servicer, there may be some disruption of the collection activity with respect t
 to increased delinquencies, defaults and losses on the receivables. Any such disruptions may cause you to experience delays in payments
 or losses on your notes.
 24
+
+[PAGE 35 | printed 25]
 BAC, and its affiliates, rely on its
 ability to sell securities in the asset-backed securities market and upon its ability to access various credit facilities to fund their
 operations. As of September 30, 2025, BAC and DriveTime Car Sales Company, LLC (“
@@ -2087,6 +2156,8 @@ involved in, reviews, investigations, examinations and proceedings (both formal 
 government and self-regulatory agencies and various state regulatory and enforcement agencies. Investigations, litigation, regulatory
 proceedings and/or information-gathering requests that the sponsor or
 25
+
+[PAGE 36 | printed 26]
 any of its subsidiaries or affiliates are involved in, or may become
 involved in, have resulted in and may in the future result in (individually or in the aggregate) adverse consequences to the sponsor including,
 without limitation, adverse judgments, settlements, fines, penalties, restitution, alterations in the sponsor’s business practices,
@@ -2137,6 +2208,8 @@ for, and placed limits on pricing of consumer products with respect to finance c
 imposed by the Dodd-Frank Act may have a significant future impact on the servicing of the receivables, or on the regulation and supervision
 of the servicer, the sponsor, the depositor, the issuing entity, the grantor trust and/or their respective affiliates.
 26
+
+[PAGE 37 | printed 27]
 The CFPB has successfully asserted the
 power to investigate and bring enforcement actions directly against securitization special purpose entities. On December 13, 2021,
 in an action brought by the CFPB, the U.S. District Court for the District of Delaware denied a motion to dismiss filed by securitization
@@ -2193,6 +2266,8 @@ or become insolvent or bankrupt, there could be a delay in payments or losses on
 these credits to the obligor’s account or the issuing entity or the grantor trust, as
 applicable.
 27
+
+[PAGE 38 | printed 28]
 In
 addition, the framework for
 the liquidation of “covered financial companies” or their “covered subsidiaries” may apply to the sponsor or its
@@ -2252,6 +2327,8 @@ payments on the notes; or
 receivables held by the servicer at the time that a bankruptcy proceeding begins.
 [/TABLE_110]
 28
+
+[PAGE 39 | printed 29]
 Additionally, if an affiliate of BAC, the seller or the depositor were
 to become subject to a bankruptcy or insolvency, it is possible that there may be delays in payment or losses on your notes as a result
 of, among other things, the disruptive effects of such an event generally on the business, financial condition or operations of BAC or
@@ -2300,6 +2377,8 @@ and interest on more junior classes of notes (with the Class A notes being the m
 junior). As a result, a more junior class of notes is more likely to suffer the consequences of delinquent payments and defaults on the
 receivables than the more senior classes of notes.
 29
+
+[PAGE 40 | printed 30]
 Additionally, if there are insufficient amounts available to pay all
 classes of notes the amounts they are owed on any payment date or following an acceleration of the notes, delays in payments or losses
 will be suffered by the most junior outstanding class or classes of notes even as payment is made in full to more senior classes of notes.
@@ -2350,6 +2429,8 @@ applicable final scheduled payment date set forth in this prospectus generally w
 Therefore, the failure to pay principal of a note generally will not result in an event of default under the indenture until the applicable
 final scheduled payment date or redemption date for the related class of notes.
 30
+
+[PAGE 41 | printed 31]
 The market value, liquidity and voting power of your notes may be
 adversely impacted by retention of notes by the depositor or its affiliates or by the unknown aggregate initial principal amount of the
 notes.
@@ -2398,6 +2479,8 @@ and the case with the ratings of the notes, the sponsor, the depositor or the is
 its rating services. The perceived conflict of interest may have an adverse effect on the market value of your notes and the ability to
 resell your notes.
 31
+
+[PAGE 42 | printed 32]
 Returns on your notes may be reduced by prepayments on the receivables,
 events of default, optional redemption of the notes, repurchases of receivables from the grantor trust and indemnification payments.
 You may receive payments on your notes earlier or later than you expected,
@@ -2462,6 +2545,8 @@ of reduced liquidity, which may occur rapidly and persist for extended periods o
 on the prices of securities that are especially sensitive to prepayment, credit or interest rate risk, such as the notes. As a result,
 you may not be able to sell your notes when you want to do so or you may not be able to obtain the price that you wish to receive.
 32
+
+[PAGE 43 | printed 33]
 CERTAIN TAX ASPECTS RELATING TO THE ISSUING ENTITY, THE GRANTOR
 TRUST AND THE NOTES MAY ADVERSELY AFFECT THE RETURN ON YOUR NOTES AND THE MARKET VALUE AND LIQUIDITY OF YOUR NOTES.
 The issuing entity or the grantor trust could be subject to tax.
@@ -2514,6 +2599,8 @@ herein provides any advice or assurance concerning the tax treatment with respec
 in any way the facts unique to any particular person that acquires a note.  Therefore, you are urged to consult your own tax advisors
 to determine your
 33
+
+[PAGE 44 | printed 34]
 treatment under these rules in respect of the acquisition of a note and taking into account your own particular
 facts relating to such acquisition.
 The notes may be issued with original issue discount.
@@ -2523,6 +2610,8 @@ A U.S. noteholder generally will be required to accrue OID on a current basis as
 ordinary income and pay tax accordingly, even before such U.S. noteholder receives cash attributable to that income and regardless of
 such U.S. noteholder’s method of tax accounting.
 34
+
+[PAGE 45 | printed 35]
 USE OF PROCEEDS
 The depositor will use the net proceeds from the
 offering of the notes to:
@@ -2585,6 +2674,8 @@ terms thereof;
  | · | paying the organizational, start-up and transactional expenses of the issuing entity;
 [/TABLE_119]
 35
+
+[PAGE 46 | printed 36]
 [TABLE_120]
  | · | forming the grantor trust, entering into, executing, delivering and performing its obligations under the grantor trust agreement and
 conveying the receivables to the grantor trust pursuant to the receivables contribution agreement;
@@ -2655,6 +2746,8 @@ transaction documents;
 or are incidental thereto or connected therewith, including entering into an accession agreement; and
 [/TABLE_131]
 36
+
+[PAGE 47 | printed 37]
 [TABLE_132]
  | • | subject to compliance with the transaction documents, engaging in such other activities as may be required in connection with conservation
 of the receivables and other assets of the grantor trust and the making of distributions to the grantor trust certificateholders.
@@ -2724,6 +2817,8 @@ Reserve Account – Initial Balance (2) |  | $ | 11,399,759.52 |
  | (2) | This amount may be adjusted upward. To be an amount not less than 1.50% of the Pool Balance as of the cut-off date.
 [/TABLE_141]
 37
+
+[PAGE 48 | printed 38]
 If the Upsize Transaction is issued, the expected
 liabilities of the issuing entity as of the closing date will be as follows
 (1)
@@ -2787,6 +2882,8 @@ agreement; and
  | · | the proceeds of any and all of the above.
 [/TABLE_152]
 38
+
+[PAGE 49 | printed 39]
 The issuing entity and the grantor trust will pledge
 the issuing entity property to the indenture trustee under the indenture. For a description of the sale and transfer of the issuing entity
 property as well as the creation, perfection and priority status of the security interest in that property in favor of the issuing entity
@@ -2849,6 +2946,8 @@ or the grantor trust trustee and appointment of a successor owner trustee or gra
 of the appointment by the successor owner trustee or grantor trust trustee and payment of all fees and expenses owed to the outgoing owner
 trustee or grantor trust trustee.
 39
+
+[PAGE 50 | printed 40]
 The Indenture Trustee
 Computershare Trust
 Company, National Association
@@ -2915,6 +3014,8 @@ Agreement
 —Role of the Owner Trustee, Grantor Trust Trustee and Indenture Trustee
 ” in this prospectus.
 40
+
+[PAGE 51 | printed 41]
 Role of the Owner Trustee, Grantor Trust Trustee and Indenture Trustee
 None of the owner trustee, the grantor trust trustee
 or the indenture trustee will make any representations as to the validity or sufficiency of the sale and servicing agreement, trust agreement,
@@ -2975,6 +3076,8 @@ Agreement
 Fees and Expenses
 ” in this prospectus.
 41
+
+[PAGE 52 | printed 42]
 The owner trustee, the grantor trust trustee and
 the indenture trustee will be entitled to certain fees and indemnities described under “
 The Transfer Agreements and the Administration
@@ -3027,6 +3130,8 @@ extensions and/or delinquencies) and/or financial covenants that were negotiated
 of exceeding those thresholds have been waived and/or cured and/or the triggers or covenants have been modified, in each case by the applicable
 bond insurer.
 42
+
+[PAGE 53 | printed 43]
 Credit Risk Retention
 Pursuant to Regulation
 RR, BAC is required to retain an economic interest in the credit risk of the receivables, either directly or through a majority-owned
@@ -3076,6 +3181,8 @@ risks of the receivables.
 In connection with the discounted cash flow calculation
 with respect to the certificates described above, BAC made the following additional assumptions:
 43
+
+[PAGE 54 | printed 44]
 [TABLE_153]
  | · | interest accrues on the notes at the rates described above;
 [/TABLE_153]
@@ -3123,6 +3230,8 @@ Month |  | Cumulative Net Loss |  | Month |  | Cumulative Net Loss |  | Month | 
 20 |  | 12.47% |  | 40 |  | 23.18% |  | 60 |  | 27.50%
 [/TABLE_159]
 44
+
+[PAGE 55 | printed 45]
 [TABLE_160]
  | · | if the Upsize Transaction is issued, cumulative net losses on the receivables from the cut-off date through maturity of the receivables,
 as a percentage of the initial pool balance, equal 27.50%, and from the cut-off date through the optional redemption of the notes, as
@@ -3180,6 +3289,8 @@ Hired Agencies. In determining the cumulative net loss rate and cumulative net l
 considers trends in, and future estimates of, used vehicle values; and
 [/TABLE_166]
 45
+
+[PAGE 56 | printed 46]
 [TABLE_167]
  | · | a loss timing curve based on the shape of historical securitization transactions sponsored by BAC under
 the “DTAOT” platform and the “BLAST” platform, and taking into account the composition of the underlying pool
@@ -3235,6 +3346,8 @@ the methodology or inputs and assumptions described above. The fair value of the
 of the notes and the certificates and as a dollar amount, in each case, as of the closing date, will be included in the first periodic
 report on Form 10-D filed by the depositor after the closing date, together with a description of any material changes in the
 46
+
+[PAGE 57 | printed 47]
 method or inputs and assumptions used to calculate the fair value.
 Because all of the issuing entity’s certificates are expected to be retained by the depositor or another majority-owned affiliate
 of BAC on the closing date, the first periodic report on Form 10-D filed by the depositor after the closing date will also disclose
@@ -3299,6 +3412,8 @@ company and affiliate of BAC that operates 149 dealerships and 17 reconditioning
 30 states as of September 30, 2025. BAC originates substantially all of its retail installment sales contracts from the financing
 of vehicles sold by DriveTime Car Sales. For the nine months ended September 30, 2025, DriveTime Car Sales sold over 96,000
 47
+
+[PAGE 58 | printed 48]
 vehicles, which was 4.2% fewer units and 4.0% fewer same store sales
 (for stores open at least 15 months) than the same period of the previous year. For the nine months ended September 30, 2025, this
 resulted in an average of approximately 72 vehicles sold per month per store and led to new originations of $2.2 billion.
@@ -3344,6 +3459,8 @@ The seller has dedicated, and expects to continue
 to dedicate, substantial resources to developing, maintaining, and updating its proprietary credit scoring, deal structure, and pricing
 models that are focused on predicting the credit risk of its customers and the overall risk of the customer, deal terms, and vehicle combinations.
 48
+
+[PAGE 59 | printed 49]
 The seller uses experienced data scientists
 and risk analysts to develop its credit scoring models, deal structures, and pricing models used in different aspects of its business.
 While many companies use third-party credit scores (such as FICO
@@ -3411,6 +3528,8 @@ a subjective determination of the customer’s qualifications and the use of alt
 do not change the seller’s initial decision to extend credit to a customer and are not considered underwriting exceptions (although
 such manual review and intervention
 49
+
+[PAGE 60 | printed 50]
 is tracked by the seller in connection with its review and improvement
 of the seller’s proprietary credit scoring model and portfolio performance).
 The seller controls
@@ -3471,6 +3590,8 @@ has been servicing sub-prime motor vehicle installment sale contracts for more t
 originated by BAC and affiliates, including receivables securitized or sold in whole-loan purchases by BAC or its affiliates. Bridgecrest
 also services receivables originated and owned by third parties. Since 1996, Bridgecrest has serviced over 120
 50
+
+[PAGE 61 | printed 51]
 securitizations of motor vehicle receivables. As of September 30,
 2025, Bridgecrest serviced approximately $26.6 billion of motor vehicle receivables, which consisted of $6.6 billion of motor vehicle
 receivables owned by BAC and $20.0 billion of motor vehicle receivables originated and owned by third parties. BAC applies the fair value
@@ -3522,6 +3643,8 @@ debit card, check (through mail) and automated clearing house (“
 ACH
 ”) payments are accepted through these payment
 51
+
+[PAGE 62 | printed 52]
 avenues. The servicer continually evaluates emerging trends and payment
 technologies and may modify its accepted payment methods from those described above.
 Payment Application
@@ -3577,6 +3700,8 @@ Factors—The characteristics, servicing and performance of the receivables pool
 notes—The servicer’s discretion over the servicing of the receivables may impact the amount and timing of funds available
 to make payments on the notes.”
 52
+
+[PAGE 63 | printed 53]
 Under the servicer's customary servicing practices,
 the servicer may also offer a mature payment plan to obligors who are within six months of the maturity date and have a higher last payment
 in excess of their contractual payment.  A mature payment plan extends the term of the receivable based on the obligor's payment
@@ -3625,6 +3750,8 @@ receivable. If the net liquidation proceeds exceed the outstanding balance, then
 the net liquidation proceeds are less than the outstanding balance, then the obligor will remain liable for the Deficiency Balance after
 rebates and credits, if any, are applied to the account.
 53
+
+[PAGE 64 | printed 54]
 Bankruptcy
 The servicer’s bankruptcy department is assigned
 to manage all receivables with obligors that have filed for bankruptcy. Once notice is received that an obligor has filed for bankruptcy,
@@ -3670,6 +3797,8 @@ the servicing obligations. If the initial servicer is terminated or resigns as s
 servicer, unless the indenture trustee, as directed by the noteholders representing at least a majority of the Note Balance of the Controlling
 Class, appoints another successor servicer.
 54
+
+[PAGE 65 | printed 55]
 THE ASSET REPRESENTATIONS REVIEWER
 Clayton Fixed Income
 Services LLC, a Delaware limited liability company (“
@@ -3726,6 +3855,8 @@ reviewer which is an eligible asset representations reviewer pursuant to the ass
 Delinquency Percentage has not exceeded the Delinquency Trigger as of the most recent payment date, the sponsor, will appoint a successor
 asset representations reviewer. If
 55
+
+[PAGE 66 | printed 56]
 the asset representations reviewer has resigned or has been removed,
 replaced or substituted, or if a new asset representations reviewer has been appointed, then the depositor will specify on the Form 10-D
 filed after the Collection Period in which the event occurred the date of the event and the circumstances surrounding the resignation,
@@ -3794,6 +3925,8 @@ that were not known or intended by BAC to be adverse to the issuing entity or th
 No expenses incurred in connection with the selection
 and acquisition of the receivables are to be payable from the offering proceeds.
 56
+
+[PAGE 67 | printed 57]
 Calculation Methods
 Each of the receivables included in the issuing
 entity property will be a Simple Interest Receivable, with respect to which the allocation of each payment between interest and principal
@@ -3835,6 +3968,8 @@ Total |  |  | 501 |  |  | $ | 10,160,361.85 |  |  |  | 1.56 | %
  | (1) | Greater than 0.00% but less than 0.005%.
 [/TABLE_172]
 57
+
+[PAGE 68 | printed 58]
 As of the cut-off date, if the Upsize Transaction
 is issued, 574 of the receivables (approximately 1.69% of the receivables in the receivables pool as of the cut-off date), having an aggregate
 outstanding principal balance of $11,682,354.00 (approximately 1.54% of the principal balance of the receivables in the receivables pool
@@ -3884,6 +4019,8 @@ payment-to-income ratio, down payment, monthly equivalent payment and monthly in
 of the cut-off date if the Base Transaction is issued and in the pool as of the cut-off date if the Upsize Transaction is issued, are
 set forth in the tables below.
 58
+
+[PAGE 69 | printed 59]
 Composition of the Pool of Receivables if the
 Base Transaction is Issued
 As of the Cut-off Date
@@ -3959,6 +4096,8 @@ data.
 Score is available.
 [/TABLE_184]
 59
+
+[PAGE 70 | printed 60]
 Distribution of the Pool of Receivables by Loan-to-Value
 Ratio (Including Ancillary Products)
 if the Base Transaction is Issued
@@ -4010,6 +4149,8 @@ Guide.
  | (2) | Sum of percentages may not equal 100% due to rounding.
 [/TABLE_190]
 60
+
+[PAGE 71 | printed 61]
 Distribution of the Pool of Receivables by Loan-to-Value
 Ratio (Excluding Ancillary Products)
 if the Base Transaction is Issued
@@ -4059,6 +4200,8 @@ Guide.
  | (2) | Sum of percentages may not equal 100% due to rounding.
 [/TABLE_196]
 61
+
+[PAGE 72 | printed 62]
 Distribution of the Pool of Receivables by Credit
 Bureau Score
 if the Base Transaction is Issued
@@ -4096,6 +4239,8 @@ to obtaining a VantageScore ® for an obligor.
  | (3) | Greater than 0.00% but less than 0.005%.
 [/TABLE_200]
 62
+
+[PAGE 73 | printed 63]
 Distribution of the Pool of Receivables by Credit
 Bureau Score
 if the Upsize Transaction is Issued
@@ -4133,6 +4278,8 @@ to obtaining a VantageScore ® for an obligor.
  | (3) | Greater than 0.00% but less than 0.005%.
 [/TABLE_204]
 63
+
+[PAGE 74 | printed 64]
 Distribution of the Pool of Receivables by Annual
 Percentage Rate
 if the Base Transaction is Issued
@@ -4170,6 +4317,8 @@ Total |  |  | 29,036 |  |  |  | 100.00 | % |  | $ | 649,980,653.22 |  |  |  | 10
  | (1) | Sum of percentages may not equal 100% due to rounding.
 [/TABLE_206]
 64
+
+[PAGE 75 | printed 65]
 Distribution of the Pool of Receivables by Annual
 Percentage Rate
 if the Upsize Transaction is Issued
@@ -4207,6 +4356,8 @@ Total |  |  | 33,934 |  |  |  | 100.00 | % |  | $ | 759,983,967.85 |  |  |  | 10
  | (1) | Sum of percentages may not equal 100% due to rounding.
 [/TABLE_208]
 65
+
+[PAGE 76 | printed 66]
 Geographic Distribution of the Pool of Receivables
 by State of Residence
 if the Base Transaction is Issued
@@ -4253,6 +4404,8 @@ and how state of residence is required to be populated for asset-level data.
 balance of the receivables.
 [/TABLE_212]
 66
+
+[PAGE 77 | printed 67]
 Geographic Distribution of the Pool of Receivables
 by State of Residence
 if the Upsize Transaction is Issued
@@ -4299,6 +4452,8 @@ and how state of residence is required to be populated for asset-level data.
 balance of the receivables.
 [/TABLE_216]
 67
+
+[PAGE 78 | printed 68]
 Distribution of the Pool of Receivables by Model
 Year
 if the Base Transaction is Issued
@@ -4332,6 +4487,8 @@ Total |  |  | 29,036 |  |  |  | 100.00 | % |  | $ | 649,980,653.22 |  |  |  | 10
  | (2) | Greater than 0.00% but less than 0.005%.
 [/TABLE_219]
 68
+
+[PAGE 79 | printed 69]
 Distribution of the Pool of Receivables by Model
 Year
 if the Upsize Transaction is Issued
@@ -4365,6 +4522,8 @@ Total |  |  | 33,934 |  |  |  | 100.00 | % |  | $ | 759,983,967.85 |  |  |  | 10
  | (2) | Greater than 0.00% but less than 0.005%.
 [/TABLE_222]
 69
+
+[PAGE 80 | printed 70]
 Distribution of the Pool of Receivables by Original
 Term to Maturity
 if the Base Transaction is Issued
@@ -4416,6 +4575,8 @@ to be calculated for asset-level data.
  | (3) | Greater than 0.00% but less than 0.005%.
 [/TABLE_230]
 70
+
+[PAGE 81 | printed 71]
 Distribution of
 the Pool of Receivables
 by Remaining Term to Maturity
@@ -4469,6 +4630,8 @@ Total |  |  | 33,934 |  |  |  | 100.00 | % |  | $ | 759,983,967.85 |  |  |  | 10
  | (2) | Greater than 0.00% but less than 0.005%.
 [/TABLE_236]
 71
+
+[PAGE 82 | printed 72]
 Distribution of the Pool of Receivables by Original
 Principal Balance
 if the Base Transaction is Issued
@@ -4518,6 +4681,8 @@ Total |  |  | 33,934 |  |  |  | 100.00 | % |  | $ | 759,983,967.85 |  |  |  | 10
  | (2) | Greater than 0.00% but less than 0.005%.
 [/TABLE_242]
 72
+
+[PAGE 83 | printed 73]
 Distribution of the Pool of Receivables by Outstanding
 Principal Balance
 if the Base Transaction is Issued
@@ -4563,6 +4728,8 @@ Total |  |  | 33,934 |  |  |  | 100.00 | % |  | $ | 759,983,967.85 |  |  |  | 10
  | (1) | Sum of percentages may not equal 100% due to rounding.
 [/TABLE_246]
 73
+
+[PAGE 84 | printed 74]
 Distribution of the Pool of Receivables by Grade
 Mix
 if the Base Transaction is Issued
@@ -4628,6 +4795,8 @@ defaults and losses on the receivables .”
  | (4) | Greater than 0.00% but less than 0.005%.
 [/TABLE_256]
 74
+
+[PAGE 85 | printed 75]
 Distribution of the Pool of Receivables by Quarter
 of Origination
 if the Base Transaction is Issued
@@ -4666,6 +4835,8 @@ Total |  |  | 29,036 |  |  |  | 100.00 | % |  | $ | 649,980,653.22 |  |  |  | 10
  | (2) | Greater than 0.00% but less than 0.005%.
 [/TABLE_259]
 75
+
+[PAGE 86 | printed 76]
 Distribution of the Pool of Receivables by Quarter
 of Origination
 if the Upsize Transaction is Issued
@@ -4704,6 +4875,8 @@ Total |  |  | 33,934 |  |  |  | 100.00 | % |  | $ | 759,983,967.85 |  |  |  | 10
  | (2) | Greater than 0.00% but less than 0.005%.
 [/TABLE_262]
 76
+
+[PAGE 87 | printed 77]
 Distribution of the Pool of Receivables by Payment-to-Income
 Ratio
 if the Base Transaction is Issued
@@ -4753,6 +4926,8 @@ Total |  |  | 33,934 |  |  |  | 100.00 | % |  | $ | 759,983,967.85 |  |  |  | 10
  | (1) | Sum of percentages may not equal 100% due to rounding.
 [/TABLE_266]
 77
+
+[PAGE 88 | printed 78]
 Distribution of the Pool of Receivables by Down
 Payment
 if the Base Transaction is Issued
@@ -4794,6 +4969,8 @@ Total |  |  | 33,934 |  |  |  | 100.00 | % |  | $ | 759,983,967.85 |  |  |  | 10
  | (1) | Sum of percentages may not equal 100% due to rounding.
 [/TABLE_270]
 78
+
+[PAGE 89 | printed 79]
 Distribution of the Pool of Receivables by Monthly
 Equivalent Payment
 if the Base Transaction is Issued
@@ -4839,6 +5016,8 @@ Total |  |  | 33,934 |  |  |  | 100.00 | % |  | $ | 759,983,967.85 |  |  |  | 10
  | (2) | Sum of percentages may not equal 100% due to rounding.
 [/TABLE_276]
 79
+
+[PAGE 90 | printed 80]
 Distribution of the Pool of Receivables by Monthly
 Income
 if the Base Transaction is Issued
@@ -4882,6 +5061,8 @@ Total |  |  | 33,934 |  |  |  | 100.00 | % |  | $ | 759,983,967.85 |  |  |  | 10
  | (1) | Sum of percentages may not equal 100% due to rounding.
 [/TABLE_280]
 80
+
+[PAGE 91 | printed 81]
 Delinquencies and Net Losses
 The following tables
 provide information relating to delinquency and net loss experience for each period indicated with respect to the servicer’s entire
@@ -4929,6 +5110,8 @@ notes—Recent and future economic developments may adversely affect the perform
 or delayed payments on your notes
 ”.
 81
+
+[PAGE 92 | printed 82]
 Delinquency Experience
 ($ in thousands)
 [TABLE_281]
@@ -4975,6 +5158,8 @@ date, as determined in accordance with BAC’s customary servicing practices.
  | (3) | The sum of the delinquencies may not equal the Total Delinquencies due to rounding.
 [/TABLE_286]
 82
+
+[PAGE 93 | printed 83]
 Net Loss Experience
 ($ in thousands)
 [TABLE_287]
@@ -5025,6 +5210,8 @@ in effect at the time the obligor made the scheduled payment.
 As of the cut-off date, none of the receivables in the pool were
 delinquent by more than 30 days.
 83
+
+[PAGE 94 | printed 84]
 The following table sets forth the delinquency
 experience regarding the receivables in the pool as of the cut-off date if the Base Transaction is issued.
 [TABLE_290]
@@ -5075,6 +5262,8 @@ securitized pool
 refers to the securitized pool of receivables as of the related cut-off date. Appendix A and all of the information therein is incorporated
 into, and deemed to be part of, this prospectus and the registration statement to which this prospectus relates.
 84
+
+[PAGE 95 | printed 85]
 The characteristics of receivables included in
 the static pool data presented in Appendix A to this prospectus, as well as the social, economic and other conditions existing at the
 time when those receivables were originated and repaid, may vary materially from the characteristics of the receivables in the transaction
@@ -5138,6 +5327,8 @@ BAC’s internal control procedures, which include regular quality assurance and
 funding and data systems to ensure accuracy of data and that previously originated receivables complied with underwriting guidelines.
 In addition, 150 receivable files, (i) 129 of which relate to the receivables in the
 85
+
+[PAGE 96 | printed 86]
 receivables pool if the Base Transaction
 is issued and (ii) 129 of which relate to the receivables in the receivables pool if the Upsize Transaction is issued, described
 in this prospectus, were randomly selected in order to compare certain receivable characteristics selected by the depositor to the applicable
@@ -5196,6 +5387,8 @@ included in the issuing entity property in either
 stable or changing interest rate environments. Noteholders will bear all reinvestment risk resulting from the rate of prepayment of the
 receivables included in the issuing entity property.
 86
+
+[PAGE 97 | printed 87]
 The following information is provided solely to
 illustrate the effect of prepayments of the receivables on the unpaid principal amounts of the notes and the weighted average life of
 each class of notes under the assumptions stated below and is not a prediction of the prepayment rates that might actually be experienced
@@ -5241,6 +5434,8 @@ Pool |  | Aggregate Outstanding Principal Balance |  |  | Annual Percentage Rate
 Total |  | $ | 649,980,653.22 |  |  |  |  |  |  |  |  |  |  |  |  |  | 
 [/TABLE_298]
 87
+
+[PAGE 98 | printed 88]
 [TABLE_299]
  | · | the issuing entity holds 11 pools of receivables with the following characteristics, if the Upsize Transaction is issued:
 [/TABLE_299]
@@ -5298,6 +5493,8 @@ fees and expenses equal zero;
 is payable and a 360-day year;
 [/TABLE_308]
 88
+
+[PAGE 99 | printed 89]
 [TABLE_309]
  | · | the Class A-2 notes, the Class A-3 notes, the Class B notes, the Class C notes, the Class D notes and the
 Class E notes will be paid interest on the basis of a 360-day year consisting of twelve 30-day months;
@@ -5349,6 +5546,8 @@ related payment date;
  | · | dividing the sum by the related initial Note Balance of the note.
 [/TABLE_318]
 89
+
+[PAGE 100 | printed 90]
 Percent of the Initial Note Balance at Various
 ABS Percentages (Base Transaction)
 Class A-1 Notes
@@ -5363,6 +5562,8 @@ Weighted Average Life (Years) to Call |  |  | 0.13 |  |  |  | 0.11 |  |  |  | 0.
 Weighted Average Life (Years) to Maturity |  |  | 0.13 |  |  |  | 0.11 |  |  |  | 0.09 |  |  |  | 0.08 |  |  |  | 0.07 | 
 [/TABLE_319]
 90
+
+[PAGE 101 | printed 91]
 Percent of the Initial Note Balance at Various
 ABS Percentages (Upsize Transaction)
 Class A-1 Notes
@@ -5377,6 +5578,8 @@ Weighted Average Life (Years) to Call |  |  | 0.13 |  |  |  | 0.11 |  |  |  | 0.
 Weighted Average Life (Years) to Maturity |  |  | 0.13 |  |  |  | 0.11 |  |  |  | 0.09 |  |  |  | 0.08 |  |  |  | 0.07 | 
 [/TABLE_320]
 91
+
+[PAGE 102 | printed 92]
 Percent of the Initial Note Balance at Various
 ABS Percentages (Base Transaction)
 Class A-2 Notes
@@ -5402,6 +5605,8 @@ Weighted Average Life (Years) to Call |  |  | 0.71 |  |  |  | 0.55 |  |  |  | 0.
 Weighted Average Life (Years) to Maturity |  |  | 0.71 |  |  |  | 0.55 |  |  |  | 0.48 |  |  |  | 0.44 |  |  |  | 0.37 | 
 [/TABLE_321]
 92
+
+[PAGE 103 | printed 93]
 Percent of the Initial Note Balance at Various
 ABS Percentages (Upsize Transaction)
 Class A-2 Notes
@@ -5427,6 +5632,8 @@ Weighted Average Life (Years) to Call |  |  | 0.71 |  |  |  | 0.55 |  |  |  | 0.
 Weighted Average Life (Years) to Maturity |  |  | 0.71 |  |  |  | 0.55 |  |  |  | 0.48 |  |  |  | 0.44 |  |  |  | 0.37 | 
 [/TABLE_322]
 93
+
+[PAGE 104 | printed 94]
 Percent of the Initial Note Balance at Various
 ABS Percentages (Base Transaction)
 Class A-3 Notes
@@ -5465,6 +5672,8 @@ Weighted Average Life (Years) to Call |  |  | 1.77 |  |  |  | 1.40 |  |  |  | 1.
 Weighted Average Life (Years) to Maturity |  |  | 1.77 |  |  |  | 1.40 |  |  |  | 1.26 |  |  |  | 1.14 |  |  |  | 0.96 | 
 [/TABLE_323]
 94
+
+[PAGE 105 | printed 95]
 Percent of the Initial Note Balance at Various
 ABS Percentages (Upsize Transaction)
 Class A-3 Notes
@@ -5503,6 +5712,8 @@ Weighted Average Life (Years) to Call |  |  | 1.77 |  |  |  | 1.40 |  |  |  | 1.
 Weighted Average Life (Years) to Maturity |  |  | 1.77 |  |  |  | 1.40 |  |  |  | 1.26 |  |  |  | 1.14 |  |  |  | 0.96 | 
 [/TABLE_324]
 95
+
+[PAGE 106 | printed 96]
 Percent of the Initial Note Balance at Various
 ABS Percentages (Base Transaction)
 Class B Notes
@@ -5549,6 +5760,8 @@ Weighted Average Life (Years) to Call |  |  | 2.63 |  |  |  | 2.11 |  |  |  | 1.
 Weighted Average Life (Years) to Maturity |  |  | 2.63 |  |  |  | 2.11 |  |  |  | 1.90 |  |  |  | 1.73 |  |  |  | 1.45 | 
 [/TABLE_325]
 96
+
+[PAGE 107 | printed 97]
 Percent of the Initial Note Balance at Various
 ABS Percentages (Upsize Transaction)
 Class B Notes
@@ -5595,6 +5808,8 @@ Weighted Average Life (Years) to Call |  |  | 2.63 |  |  |  | 2.11 |  |  |  | 1.
 Weighted Average Life (Years) to Maturity |  |  | 2.63 |  |  |  | 2.11 |  |  |  | 1.90 |  |  |  | 1.73 |  |  |  | 1.45 | 
 [/TABLE_326]
 97
+
+[PAGE 108 | printed 98]
 Percent of the Initial Note Balance at Various
 ABS Percentages (Base Transaction)
 Class C Notes
@@ -5652,6 +5867,8 @@ Weighted Average Life (Years) to Call |  |  | 3.40 |  |  |  | 2.77 |  |  |  | 2.
 Weighted Average Life (Years) to Maturity |  |  | 3.40 |  |  |  | 2.77 |  |  |  | 2.50 |  |  |  | 2.26 |  |  |  | 1.89 | 
 [/TABLE_327]
 98
+
+[PAGE 109 | printed 99]
 Percent of the Initial Note Balance at Various
 ABS Percentages (Upsize Transaction)
 Class C Notes
@@ -5709,6 +5926,8 @@ Weighted Average Life (Years) to Call |  |  | 3.40 |  |  |  | 2.77 |  |  |  | 2.
 Weighted Average Life (Years) to Maturity |  |  | 3.40 |  |  |  | 2.77 |  |  |  | 2.50 |  |  |  | 2.26 |  |  |  | 1.89 | 
 [/TABLE_328]
 99
+
+[PAGE 110 | printed 100]
 Percent of the Initial Note Balance at Various
 ABS Percentages (Base Transaction)
 Class D Notes
@@ -5768,6 +5987,8 @@ March 15, 2030 |  |  | 74 | % |  |  | 0 | % |  |  | 0 | % |  |  | 0 | % |  |  | 
 April 15, 2030 |  |  | 66 | % |  |  | 0 | % |  |  | 0 | % |  |  | 0 | % |  |  | 0 | %
 [/TABLE_329]
 100
+
+[PAGE 111 | printed 101]
 [TABLE_330]
 Payment Date |  |  | 1.00% |  |  |  | 1.50% |  |  |  | 1.75% |  |  |  | 2.00% |  |  |  | 2.50% | 
 May 15, 2030 |  |  | 59 | % |  |  | 0 | % |  |  | 0 | % |  |  | 0 | % |  |  | 0 | %
@@ -5782,6 +6003,8 @@ Weighted Average Life (Years) to Call |  |  | 4.43 |  |  |  | 3.70 |  |  |  | 3.
 Weighted Average Life (Years) to Maturity |  |  | 4.43 |  |  |  | 3.70 |  |  |  | 3.34 |  |  |  | 3.01 |  |  |  | 2.49 | 
 [/TABLE_330]
 101
+
+[PAGE 112 | printed 102]
 Percent of the Initial Note Balance at Various
 ABS Percentages (Upsize Transaction)
 Class D Notes
@@ -5841,6 +6064,8 @@ March 15, 2030 |  |  | 74 | % |  |  | 0 | % |  |  | 0 | % |  |  | 0 | % |  |  | 
 April 15, 2030 |  |  | 66 | % |  |  | 0 | % |  |  | 0 | % |  |  | 0 | % |  |  | 0 | %
 [/TABLE_331]
 102
+
+[PAGE 113 | printed 103]
 [TABLE_332]
 Payment Date |  |  | 1.00% |  |  |  | 1.50% |  |  |  | 1.75% |  |  |  | 2.00% |  |  |  | 2.50% | 
 May 15, 2030 |  |  | 59 | % |  |  | 0 | % |  |  | 0 | % |  |  | 0 | % |  |  | 0 | %
@@ -5855,6 +6080,8 @@ Weighted Average Life (Years) to Call |  |  | 4.43 |  |  |  | 3.70 |  |  |  | 3.
 Weighted Average Life (Years) to Maturity |  |  | 4.43 |  |  |  | 3.70 |  |  |  | 3.33 |  |  |  | 3.01 |  |  |  | 2.49 | 
 [/TABLE_332]
 103
+
+[PAGE 114 | printed 104]
 Percent of the Initial Note Balance at Various
 ABS Percentages (Base Transaction)
 Class E Notes
@@ -5914,6 +6141,8 @@ March 15, 2030 |  |  | 100 | % |  |  | 0 | % |  |  | 0 | % |  |  | 0 | % |  |  |
 April 15, 2030 |  |  | 100 | % |  |  | 0 | % |  |  | 0 | % |  |  | 0 | % |  |  | 0 | %
 [/TABLE_333]
 104
+
+[PAGE 115 | printed 105]
 [TABLE_334]
 Payment Date |  | 1.00% |  |  | 1.50% |  |  | 1.75% |  |  | 2.00% |  |  | 2.50% | 
 May 15, 2030 |  |  | 100 | % |  |  | 0 | % |  |  | 0 | % |  |  | 0 | % |  |  | 0 | %
@@ -5928,6 +6157,8 @@ Weighted Average Life (Years) to Call |  |  | 4.88 |  |  |  | 4.13 |  |  |  | 3.
 Weighted Average Life (Years) to Maturity |  |  | 5.21 |  |  |  | 4.47 |  |  |  | 4.01 |  |  |  | 3.59 |  |  |  | 2.91 | 
 [/TABLE_334]
 105
+
+[PAGE 116 | printed 106]
 Percent of the Initial Note Balance at Various
 ABS Percentages (Upsize Transaction)
 Class E Notes
@@ -5987,6 +6218,8 @@ March 15, 2030 |  |  | 100 | % |  |  | 0 | % |  |  | 0 | % |  |  | 0 | % |  |  |
 April 15, 2030 |  |  | 100 | % |  |  | 0 | % |  |  | 0 | % |  |  | 0 | % |  |  | 0 | %
 [/TABLE_335]
 106
+
+[PAGE 117 | printed 107]
 [TABLE_336]
 Payment Date |  | 1.00% |  |  | 1.50% |  |  | 1.75% |  |  | 2.00% |  |  | 2.50% | 
 May 15, 2030 |  |  | 100 | % |  |  | 0 | % |  |  | 0 | % |  |  | 0 | % |  |  | 0 | %
@@ -6001,6 +6234,8 @@ Weighted Average Life (Years) to Call |  |  | 4.88 |  |  |  | 4.13 |  |  |  | 3.
 Weighted Average Life (Years) to Maturity |  |  | 5.21 |  |  |  | 4.47 |  |  |  | 4.01 |  |  |  | 3.59 |  |  |  | 2.91 | 
 [/TABLE_336]
 107
+
+[PAGE 118 | printed 108]
 THE NOTES
 General
 The issuing entity will issue the notes pursuant
@@ -6069,6 +6304,8 @@ As a result, investors in the offered notes will
 only be able to exercise their rights as a noteholder indirectly through DTC (if in the United States) and its participating organizations,
 or Clearstream (if in Europe or Asia) and
 108
+
+[PAGE 119 | printed 109]
 its participating organizations. Holding the notes in book-entry form
 could also limit an investor’s ability to pledge or transfer its notes to persons or entities that do not participate in DTC or
 Clearstream.
@@ -6126,6 +6363,8 @@ Notes in definitive registered form will be transferable
 and exchangeable at the offices of the indenture trustee, or at the offices of a transfer agent or registrar named in a notice delivered
 to holders of notes in definitive
 109
+
+[PAGE 120 | printed 110]
 registered form. No service charge will be imposed for any registration
 of transfer or exchange, but the indenture trustee, the transfer agent or the registrar may require payment of a sum sufficient to cover
 any tax or other governmental charge imposed in connection therewith.
@@ -6187,6 +6426,8 @@ on such payment date;
 Principal, the Fifth Allocation of Principal and the Regular Allocation of Principal for such payment date;
 [/TABLE_345]
 110
+
+[PAGE 121 | printed 111]
 [TABLE_346]
  | · | the number of, and aggregate amount of monthly principal and interest payments due on, the related receivables which are delinquent
 as of the end of the related Collection Period;
@@ -6253,6 +6494,8 @@ as of the closing date; thereafter, each Note Factor will decline to reflect red
 As a noteholder, your share of the principal amount of a particular class of notes is the product of (1) the original denomination
 of your note and (2) the applicable class Note Factor.
 111
+
+[PAGE 122 | printed 112]
 The “
 Pool Factor
 ” will be, for
@@ -6307,6 +6550,8 @@ date occurs, assuming a 30-day calendar month. Interest accrued as of any paymen
 the next payment date, together with interest on such amount at the applicable interest rate (to the extent lawful).
 [/TABLE_362]
 112
+
+[PAGE 123 | printed 113]
 For notes in book-entry form, interest on each
 note will be paid to noteholders of record of the notes as of the Business Day immediately preceding the payment date. For notes in definitive
 form, interest on each note will be paid to noteholders of record of the notes as of the close of business on the last Business Day of
@@ -6372,6 +6617,8 @@ payment date
  | · | for the Class E notes, the February 2033 payment date.
 [/TABLE_369]
 113
+
+[PAGE 124 | printed 114]
 Payments of Principal of the Notes on each
 Payment Date (Other than Payment Dates after the Notes Have Been Accelerated Following the Occurrence of an Event of Default)
 THE TRANSFER AGREEMENTS AND THE ADMINISTRATION
@@ -6399,6 +6646,8 @@ to the time we file this prospectus with the SEC. This is not a complete descrip
 agreement, and the summaries of the transfer agreements and the administration agreement in this prospectus are subject to all of the
 provisions of the transfer agreements and the administration agreement.
 114
+
+[PAGE 125 | printed 115]
 Sale and Assignment of Receivables
 Under the purchase agreement, on the closing date
 BAC will sell, transfer, assign, contribute and otherwise convey to the depositor all of its right, title and interest in, to and under
@@ -6458,6 +6707,8 @@ amortize the amount financed over the original term (except that the first or la
  | · | had an outstanding principal balance of not more than $60,000;
 [/TABLE_379]
 115
+
+[PAGE 126 | printed 116]
 [TABLE_380]
  | · | was originated in the United States and denominated in dollars;
 [/TABLE_380]
@@ -6522,6 +6773,8 @@ receivable being currently the subject of a verified bankruptcy proceeding;
  | · | such receivable is evidenced by a single authoritative copy; and
 [/TABLE_392]
 116
+
+[PAGE 127 | printed 117]
 [TABLE_393]
  | · | such receivable provides that a prepayment by the related obligor will fully
 pay the principal balance and accrued interest through the date of prepayment based on such receivable’s contract rate.
@@ -6580,6 +6833,8 @@ as described below under “— Delinquency Trigger ”; and
 Subject Receivables pursuant to the process described below under “— Asset Review Voting ”.
 [/TABLE_395]
 117
+
+[PAGE 128 | printed 118]
 If the asset review
 conditions are satisfied (the first date on which the asset review conditions are satisfied is referred to as the “
 Review Satisfaction
@@ -6653,6 +6908,8 @@ Direction
 of directing a review by the asset representations reviewer. BAC, the depositor and the issuing entity are required under the transaction
 documents to cooperate with the indenture trustee to facilitate the voting process. Following the completion of the
 118
+
+[PAGE 129 | printed 119]
 voting process, the next Form 10-D filed by the depositor will
 disclose whether or not a Noteholder Direction has occurred.
 Within five Business Days of the Review Satisfaction
@@ -6708,6 +6965,8 @@ Asset Review is not designed to determine why an obligor is delinquent or the cr
 Asset Review or at the time of origination of the related receivable. The Asset Review is also not designed to establish cause, materiality
 or recourse for any failure of a receivable to comply with the Eligibility Representations.
 119
+
+[PAGE 130 | printed 120]
 Under the asset representations review agreement,
 the asset representations reviewer is required to complete its review of the Subject Receivables by the 60
 th
@@ -6767,6 +7026,8 @@ will be deemed to be a “requesting party.” If both the owner trustee (on beh
 indenture trustee (on behalf of one or more Note Owners or noteholders) are requesting parties, then the indenture trustee as requesting
 party will have the
 120
+
+[PAGE 131 | printed 121]
 right to make the selection of mediation (including nonbinding arbitration)
 or arbitration. If more than one Note Owner or noteholder has directed the indenture trustee in connection with a request to pursue dispute
 resolution, then the indenture trustee will act at the written direction of the Note Owners or noteholders, as applicable, holding a majority
@@ -6817,6 +7078,8 @@ Association (the “
 AAA
 ”).
 121
+
+[PAGE 132 | printed 122]
 If the requesting
 party selects arbitration, the arbitration will be administered by a nationally recognized arbitration and mediation association jointly
 selected by the parties, and, if the parties are unable to agree on an association, by the AAA,
@@ -6878,6 +7141,8 @@ or arbitration as described above with respect to a receivable that is, or has b
 arbitration (whether by that requesting party or another requesting party) but will have the right, subject to a determination by the
 parties to the existing mediation or arbitration that such joinder would not prejudice the rights of the participants to such existing
 122
+
+[PAGE 133 | printed 123]
 mediation or arbitration or unduly delay such proceeding, to join an
 existing mediation or arbitration with respect to that receivable if the mediation or arbitration has not yet concluded. In the case of
 any such joinder, if the initial requesting party is the indenture trustee (on behalf of one or more Note Owners or noteholders), any
@@ -6930,6 +7195,8 @@ outstanding principal amount of the notes which were required to consent to such
 documents may also be amended without the consent of the noteholders or certificateholders for the purpose of conforming the terms of
 the transaction documents to the description of such terms in this prospectus or, to the extent not contrary to this prospectus, to the
 123
+
+[PAGE 134 | printed 124]
 description thereof in an offering memorandum with respect to any class
 of notes not offered by this prospectus or the certificates.
 In addition, the trust agreement, the grantor trust
@@ -6986,6 +7253,8 @@ the priority of payments described below under “
 ” on each payment date, and any investment
 income (net of investment losses and expenses) from funds on deposit in the reserve account will be distributed to the depositor.
 124
+
+[PAGE 135 | printed 125]
 Deposits to the Collection Account
 BAC will be required to remit Collections it receives
 on the receivables to the collection account within two Business Days after identification. Pending deposit into the collection account,
@@ -7047,6 +7316,8 @@ The reserve account is expected to constitute an
  “eligible horizontal cash reserve account” under Regulation RR, and BAC (as the sponsor) intends (by itself or through a majority-owned
 affiliate) to establish and
 125
+
+[PAGE 136 | printed 126]
 fund the reserve account in partial satisfaction of its risk retention
 obligations. BAC (by itself or through a majority-owned affiliate) may fund the reserve account on the closing date with an amount greater
 than the reserve account required amount set forth above. See “
@@ -7126,6 +7397,8 @@ due and accrued for the related interest period on the Class B notes at the Clas
 as of the previous payment date or the closing date, as the case may be, after giving effect to all payments of principal to the Class B
 noteholders on or prior to the
 126
+
+[PAGE 137 | printed 127]
 preceding payment date, and (ii) the excess, if any,
 of the amount of interest due and payable to the Class B noteholders on prior payment dates over the amounts in respect of interest
 actually paid to the Class B noteholders on those prior payment dates, plus interest on any such shortfall at the Class B interest
@@ -7205,6 +7478,8 @@ or clause
 second
 due solely to the per annum limitation set forth therein; and
 127
+
+[PAGE 138 | printed 128]
 sixteenth
 , to
 the certificateholders, pro rata, based on the Percentage Interest of each certificateholder, or, to the extent definitive certificates
@@ -7264,6 +7539,8 @@ related financed vehicle has been repossessed and (b) the amount necessary to pa
 for such payment date) (i) the servicing fee for such payment date and all unpaid servicing fees for prior periods, (ii) all
 fees, expenses and indemnities owed to the indenture
 128
+
+[PAGE 139 | printed 129]
 trustee, the owner trustee (including in its individual capacity) and
 the grantor trust trustee (including in its individual capacity) and not previously paid, (iii) all fees, expenses and indemnities
 owed to the standby servicer and not previously paid, (iv) interest then due on the outstanding notes and (v) the aggregate
@@ -7330,6 +7607,8 @@ claim that the indenture trustee breached its standard of care and legal fees an
 the indemnifying party) incurred by it in connection with the administration of the trusts under the indenture or under any other transaction
 document or performance of any of its powers or duties under the indenture or the enforcement of its rights
 129
+
+[PAGE 140 | printed 130]
 (including indemnification rights) under the transaction documents.
 Such amounts will be payable by the issuing entity from Available Funds available therefor as described above under “
 —Priority
@@ -7396,6 +7675,8 @@ provided
 , that amounts withdrawn from the reserve account may not be used
 for this purpose so long as BAC or an affiliate of BAC is the
 130
+
+[PAGE 141 | printed 131]
 servicer. The servicer will pay all expenses (other than Liquidation
 Reimbursements) incurred by it in connection with its servicing activities (including any fees and expenses of sub-servicers to whom it
 has delegated servicing responsibilities) and will not be entitled to reimbursement of those expenses. The servicer will be entitled to
@@ -7452,6 +7733,8 @@ months by which the payment due date relating to such loan to be extended in the
 12-month period;
 [/TABLE_405]
 131
+
+[PAGE 142 | printed 132]
 [TABLE_406]
  | · | such Receivable Modification is a change of payment frequency on a receivable;
 [/TABLE_406]
@@ -7506,6 +7789,8 @@ law or court order, at the direction of a regulatory authority or in accordance 
 servicer may not
 release the financed vehicle securing each receivable from the security
 132
+
+[PAGE 143 | printed 133]
 interest granted by such receivable in
 whole or in part except in the event of payment in full by or on behalf of the obligor
 thereunder or payment in full less a deficiency
@@ -7560,6 +7845,8 @@ of 60 days after discovery thereof by a responsible officer of the servicer or r
 the
 [/TABLE_411]
 133
+
+[PAGE 144 | printed 134]
 indenture trustee (acting at the written
 direction of noteholders evidencing at least a majority of the aggregate Note Balance of all outstanding notes) or noteholders evidencing
 at least a majority of the aggregate Note Balance of all outstanding notes; or
@@ -7605,6 +7892,8 @@ the predecessor servicer ceases to act as servicer of the receivables, the inden
 servicer. However, if the indenture trustee is legally unable or is unwilling to act as servicer, the indenture trustee will appoint (or
 petition a court to appoint) a successor servicer.
 134
+
+[PAGE 145 | printed 135]
 Upon appointment of a successor servicer, the successor
 servicer will assume all of the responsibilities, duties and liabilities of the servicer with respect to the receivables (other than the
 obligations of the predecessor servicer that survive its termination as servicer, including its obligation to indemnify against certain
@@ -7660,6 +7949,8 @@ agreement has been made under the supervision of the officer, and (ii) to the be
 review, the servicer has fulfilled all its obligations under the sale and servicing agreement in all material respects throughout the
 year, or, if
 135
+
+[PAGE 146 | printed 136]
 there has been a failure to fulfill any of these obligations in any
 material respect, specifying each failure known to the officer and the nature and status of the failure.
 In addition, except as described below, the servicer
@@ -7711,6 +8002,8 @@ or assets of the issuing entity or the grantor trust or engage in any other acti
 selling and managing the receivables, the grantor trust certificate and other collateral;
 [/TABLE_417]
 136
+
+[PAGE 147 | printed 137]
 [TABLE_418]
  | · | except as contemplated by the indenture or the other transaction documents, claim any credit on or make any deduction from the principal
 and interest payable in respect of the notes (other than amounts withheld under the Internal Revenue Code of 1986, as amended (the “ Code ”),
@@ -7760,6 +8053,8 @@ Balance of the notes, voting as a single class may, by written request to the in
 that the applicant proposes to send, obtain access to the list of all current noteholders maintained by the indenture trustee for the
 purpose of communicating with other noteholders with respect to their rights under the indenture or under the notes.
 137
+
+[PAGE 148 | printed 138]
 Annual Compliance Statement
 The issuing entity will be required to deliver
 annually to the indenture trustee a written officer’s statement as to the fulfillment of its obligations under the indenture which,
@@ -7810,6 +8105,8 @@ successor indenture trustee. Any resignation or removal of the indenture trustee
 not become effective until acceptance of the appointment by the successor indenture trustee for the issuing entity and payment of all
 fees, indemnities and expenses owed to the outgoing indenture trustee.
 138
+
+[PAGE 149 | printed 139]
 Events of Default
 The occurrence and continuation of any one of the
 following events will be an “
@@ -7865,6 +8162,8 @@ entity), the indenture trustee may, or if directed by the noteholders representi
 Controlling Class, will, declare all the notes to be immediately due and payable. Upon the occurrence of an event of default resulting
 from an event of bankruptcy, insolvency, receivership or liquidation of the issuing entity, the notes will automatically be
 139
+
+[PAGE 150 | printed 140]
 accelerated and all accrued and unpaid interest on and all unpaid principal
 of the notes will be due and payable without any declaration or other act by the indenture trustee or the noteholders.
 If an event of default has occurred and is continuing,
@@ -7884,7 +8183,7 @@ and acceleration of the notes unless:
 default ”) and the indenture trustee determines that the Collections on the receivables will not be sufficient on an ongoing
 basis to make all payments on the notes as such payments would have become due if the notes had not been declared due and payable or (b) relates
 to certain events of bankruptcy, insolvency, receivership or liquidation with respect to the issuing entity and, in each case, the indenture
-trustee obtains the consent of the holders of at least 66&frac23;% of the Note Balance of the Controlling Class.
+trustee obtains the consent of the holders of at least 66⅔% of the Note Balance of the Controlling Class.
 [/TABLE_439]
 Notwithstanding anything under this heading to
 the contrary, if the event of default does not relate to a payment default or certain events of bankruptcy, insolvency, receivership or
@@ -7915,6 +8214,8 @@ Servicing Transition Costs to the extent not previously paid by the predecessor 
 the reserve account may not be used to pay amounts due under clause (a) so
 [/TABLE_440]
 140
+
+[PAGE 151 | printed 141]
 long as BAC or an affiliate of BAC
 is the servicer or under clause (b) so long as BAC or an affiliate of BAC is the standby servicer;
 [TABLE_441]
@@ -7970,6 +8271,8 @@ on those prior payment dates, plus interest on any such shortfall at the Class C
 the extent permitted by law);
 [/TABLE_448]
 141
+
+[PAGE 152 | printed 142]
 [TABLE_449]
  | · | to the Class C noteholders, in respect of principal thereon, until the Class C notes have been paid in full;
 [/TABLE_449]
@@ -8027,6 +8330,8 @@ noteholders on or prior to the preceding payment date; and (ii) the excess, if a
 the Class D noteholders on prior payment dates over the amounts in respect of interest
 [/TABLE_457]
 142
+
+[PAGE 153 | printed 143]
 actually paid to the Class D noteholders
 on those prior payment dates, plus interest on any such shortfall at the Class D interest rate for the related interest period (to
 the extent permitted by law);
@@ -8082,6 +8387,8 @@ trustee, when authorized by an issuing entity order, may also with prior notice 
 the consent of the noteholders of not less than a majority of the Note Balance of the outstanding notes, voting together as a single class,
 execute a
 143
+
+[PAGE 154 | printed 144]
 supplemental indenture for the purpose of adding provisions to, changing
 in any manner or eliminating any provisions of, the indenture, or modifying in any manner the rights of the noteholders. Any such supplemental
 indenture that amends, modifies or supplements the rights of any noteholder in any of the following manners will require prior notice
@@ -8148,6 +8455,8 @@ corporation for United States federal income tax purposes or, in and of itself, 
 owned by a single taxpayer for United States federal income tax purposes) to be engaged in the conduct of a trade or business within the
 United States for United States federal income tax purposes.
 144
+
+[PAGE 155 | printed 145]
 MATERIAL LEGAL ASPECTS OF THE RECEIVABLES
 Rights in the Receivables
 The transfer of the receivables by BAC to the depositor,
@@ -8201,6 +8510,8 @@ in either tangible or electronic form and, if tangible, may have been electronic
 converted to tangible form. In the case of receivables evidenced by electronic contracts, BAC has contracted with third parties to facilitate
 the process of creating and storing those electronic contracts. Each third party’s technology system permits
 145
+
+[PAGE 156 | printed 146]
 transmission, storage, access and administration
 of electronic contracts and is comprised of proprietary and third-party software, hardware, network communications equipment, lines and
 services, computer servers, data centers, support and maintenance services, security devices and other related technology materials that
@@ -8252,6 +8563,8 @@ to the financed vehicles. Accordingly, the sponsor will continue to be named as 
 to the financed vehicles. In most states, assignments such as those under the transfer agreements relating to the grantor trust are an
 effective conveyance of the security interests in the financed vehicles without
 146
+
+[PAGE 157 | printed 147]
 amendment of the lien noted on the related certificate of title, and
 the new secured party succeeds to the assignor’s rights as the secured party. However, a risk exists in not identifying the grantor
 trust as the new secured party on the certificate of title because the security interest of the grantor trust could be released without
@@ -8300,6 +8613,8 @@ Motor Vehicles of evidence that the prior lien has been satisfied without any si
 is possible that, as a result of fraud, forgery, negligence or error, a lien on a financed vehicle could be released without prior payment
 in full of the receivable.
 147
+
+[PAGE 158 | printed 148]
 Under the laws of most states, statutory liens
 such as liens for unpaid taxes, liens for towing, storage and repairs performed on a motor vehicle, motor vehicle accident liens and liens
 arising under various state and federal criminal statutes take priority over a perfected security interest in a financed vehicle. Under
@@ -8348,6 +8663,8 @@ sale or entry by the secured party into a contract for sale of the collateral by
 of the obligation, accrued interest thereon, reasonable expenses for repossessing, holding and preparing the collateral for disposition
 and arranging for its sale, plus, in some jurisdictions, reasonable attorneys’ fees and legal expenses.
 148
+
+[PAGE 159 | printed 149]
 Deficiency Judgments and Excess Proceeds
 The proceeds of resale of the repossessed vehicles
 generally will be applied first to the expenses of resale and repossession and then to the satisfaction of the indebtedness. While some
@@ -8404,6 +8721,8 @@ HDC Rule
 ”) has the effect of subjecting any assignee of the sellers
 in a consumer credit transaction, and related creditors and their
 149
+
+[PAGE 160 | printed 150]
 assignees, to all claims and defenses which the obligor in the transaction
 could assert against the sellers. Liability under the HDC Rule is limited to the amounts paid by the obligor under the receivable,
 and the holder of the receivable may also be unable to collect any balance remaining due thereunder from the obligor. The HDC Rule is
@@ -8457,6 +8776,8 @@ The CFPB conducted fair lending examinations of automobile lenders and their dea
 has also been
 scrutinizing certain other
 150
+
+[PAGE 161 | printed 151]
 automobile lending and servicing practices,
 including repossessions, the sale of extended warranties, credit insurance and other add-on products, such as GAP contracts and refunds
 and cancellation practices associated with these products.
@@ -8516,6 +8837,8 @@ petition for relief by BAC under applicable insolvency laws will result in the c
 of a conservatorship or receivership, of the assets and liabilities of the depositor with those of BAC. These steps include the organization
 of the depositor as a limited purpose entity pursuant to its limited liability company agreement or trust agreement containing certain
 151
+
+[PAGE 162 | printed 152]
 limitations (including restrictions on the limited nature of depositor’s
 business and on its ability to commence a voluntary case or proceeding under any insolvency law without an affirmative vote of all of
 its directors, including independent directors).
@@ -8566,6 +8889,8 @@ but for the Relief Act is forgiven. The Relief Act applies to obligors who are s
 Air Force, Marines, Space Force, National Guard, Reserves (when such enlisted person is called to active duty), Coast Guard, officers
 of the National Oceanic and Atmospheric Administration,
 152
+
+[PAGE 163 | printed 153]
 officers of the U.S. Public Health Service
 assigned to duty with the Army or Navy and certain other persons as specified in the Relief Act. Because the Relief Act applies to obligors
 in military service (including reservists who are called to active duty) after origination of the related receivable, no information can
@@ -8612,6 +8937,8 @@ losses arising in connection with the matters described above, to the extent not
 noteholders
 from amounts available under a credit enhancement mechanism, could result in losses to noteholders.
 153
+
+[PAGE 164 | printed 154]
 Dodd Frank Orderly Liquidation Framework
 General
 .
@@ -8673,6 +9000,8 @@ and could be modified or withdrawn in the future, the advisory opinion also stat
 the FDIC Board of Directors incorporates a transition period of 90 days for any provisions in any further regulations affecting the statutory
 power to disaffirm or repudiate contracts.
 154
+
+[PAGE 165 | printed 155]
 To the extent any future regulations or subsequent FDIC actions in an OLA proceeding involving
 BAC or its subsidiaries (including the depositor, the issuing entity or the grantor trust) are contrary to this advisory opinion, payment
 or distributions of principal and interest on the notes issued by the issuing entity could be delayed or reduced.
@@ -8727,6 +9056,8 @@ possession of the FDIC, as receiver, being subject to levy, attachment, garnishm
 and (3) any person exercising any right or power to terminate, accelerate or declare a default under any contract to which BAC or
 a covered subsidiary (including the issuing entity) that is subject to OLA is a party, or to obtain possession of or
 155
+
+[PAGE 166 | printed 156]
 exercise control
 over any property of BAC or any covered subsidiary or affect any contractual rights of BAC or a covered subsidiary (including the issuing
 entity) that is subject to OLA, without the consent of the FDIC for 90 days after appointment of FDIC as receiver. The requirement to
@@ -8775,6 +9106,8 @@ EU Securitization
 Regulation
 ”) has direct effect in member states of the EU and also applies in non-EU states of the EEA.
 156
+
+[PAGE 167 | printed 157]
 The EU Securitization Regulation places certain
 conditions (the “
 EU Investor Requirements
@@ -8849,6 +9182,8 @@ in accordance with the EU Securitization Regulation, (b) the originator, sponsor
 information as required by the EU Securitization Regulation, and (c) except in certain specified cases, certain credit-granting requirements
 are satisfied.
 157
+
+[PAGE 168 | printed 158]
 Pursuant to the UK
 Investor Requirements, a UK Affected Investor must, amongst other things, prior to investing in a securitization, verify certain matters
 in accordance with the elements of the UK Securitization Framework to which it is subject, including that (a) the originator, sponsor
@@ -8901,6 +9236,8 @@ Material Federal Income Tax Considerations
 that these statements discuss all material United States federal income tax considerations for investors of the purchase, ownership and
 disposition of the offered notes.
 158
+
+[PAGE 169 | printed 159]
 However, the following discussion does not purport
 to deal with all aspects of United States federal income taxation that may be relevant to the noteholders in light of their personal investment
 circumstances nor, except for limited discussions of particular topics, to holders subject to special treatment under the United States
@@ -8971,6 +9308,8 @@ tax purposes, the grantor trust will be classified as a grantor trust, and (iii)
 the Class C notes and the Class D notes (other than, in each case, notes, if any, owned by: (i) the issuing entity or a
 person considered to be the same person as the issuing entity for United States federal income tax purposes, (ii) a
 159
+
+[PAGE 170 | printed 160]
 member of an
 expanded group (as defined in Treasury Regulation Section 1.385-1(c)(4) or any successor regulation then in effect) that includes
 the issuing entity (or a person considered to be the same person as the issuing entity for United States federal income tax purposes),
@@ -9023,6 +9362,8 @@ for United States federal income tax purposes, partnership audit rules would gen
 unless an entity elects otherwise, taxes arising from audit adjustments are required to be paid by the entity rather than by its partners
 or members. The parties responsible for the tax administration of the issuing entity described herein will have the authority to utilize,
 160
+
+[PAGE 171 | printed 161]
 and intend to utilize, any exceptions available under these provisions (including any changes) and IRS regulations so that the issuing
 entity’s members, to the fullest extent possible, rather than the issuing entity itself, will be liable for any taxes arising from
 audit adjustments to the issuing entity’s taxable income if the issuing entity is treated as a partnership. It is unclear to what
@@ -9073,6 +9414,8 @@ Maturity and Prepayment Considerations
 Accordingly, noteholders are advised to consult their own tax advisors regarding the impact of any prepayments under the receivables (and
 the OID rules) if the offered notes offered hereunder are issued with OID.
 161
+
+[PAGE 172 | printed 162]
 In the case of an offered note purchased with
 de
 minimis
@@ -9131,6 +9474,8 @@ adjusted basis in the offered note immediately after its acquisition, the issue 
 by the electing noteholder, and no payments on the offered note will be treated as payments of qualified stated interest. This election
 will
 162
+
+[PAGE 173 | printed 163]
 generally apply only to the offered note with respect to which it is made and may not be revoked without the consent of the IRS.
 Noteholders should consult with their own advisers as to the effect in their circumstances of making this election.
 Amortizable Bond Premium
@@ -9182,6 +9527,8 @@ Income
 . Certain non-corporate U.S. holders will be subject to a 3.8% tax, in addition to regular tax on income and gains, on
 some or all of their “net investment income,” which generally will include
 163
+
+[PAGE 174 | printed 164]
 interest, OID and market discount realized on an
 offered note and any net gain recognized upon a disposition of an offered note. U.S. holders should consult their tax advisors regarding
 the applicability of this tax in respect of their offered notes.
@@ -9240,6 +9587,8 @@ held by a Non-U.S. Person is effectively connected with the conduct of a trade o
 although exempt from the withholding tax previously discussed if it provides a timely and properly executed IRS Form W-8ECI, generally
 will be subject to United States federal income tax on the interest, gain or income at regular federal
 164
+
+[PAGE 175 | printed 165]
 income tax rates. In addition,
 if the Non-U.S. Person is a foreign corporation, it may be subject to a branch profits tax equal to the currently applicable rate of its
  “
@@ -9296,6 +9645,8 @@ basis noteholders might be required to report income when it accrues to the part
 Payments on the recharacterized notes may be treated as “guaranteed payments” within the meaning of Section 707 of the
 Code, in
 165
+
+[PAGE 176 | printed 166]
 which case the amount and timing of income to a U.S. noteholder would generally not be expected to materially differ from that
 which would be the case were the notes not recharacterized.
 However, in the case of recharacterized notes, the intent is that U.S.
@@ -9347,6 +9698,8 @@ would probably be treated as dividends. Such an entity-level tax could result in
 the issuing entity’s ability to make payments of principal and interest with respect to the offered notes. To the extent distributions
 on such offered notes were treated as dividends, a Non-U.S. Person would
 166
+
+[PAGE 177 | printed 167]
 generally be subject to tax (and withholding) on the gross amount
 of such dividends at a rate of 30% unless reduced or eliminated pursuant to an applicable income tax treaty.
 STATE AND LOCAL TAX CONSIDERATIONS
@@ -9409,6 +9762,8 @@ debt features of the offered notes, including the reasonable expectation of purc
 when due, traditional default remedies, as well as the absence of conversion rights, warrants or other typical equity features. The debt
 treatment of the offered notes for ERISA purposes could change if the issuing entity
 167
+
+[PAGE 178 | printed 168]
 incurs losses. This risk of recharacterization is
 enhanced for offered notes that are subordinated to other classes of securities.
 However, without regard to whether the offered
@@ -9464,6 +9819,8 @@ and agrees if it is a Benefit Plan or a Plan that is subject to Similar Law, it 
 any time that the ratings on such note are below investment grade or if such note has been characterized as other than indebtedness for
 applicable local law purposes.
 168
+
+[PAGE 179 | printed 169]
 The sale of offered notes to a Plan is in no respect
 a representation that this investment meets all relevant legal requirements with respect to investments by Plans generally or by a particular
 Plan, or that this investment is appropriate for Plans generally or any particular Plan.
@@ -9513,6 +9870,8 @@ amount of the Class A-3 notes will be $131,256,000, the principal amount of the 
 amount of the Class C notes will be $97,278,000 and the principal amount of the Class D notes will be $101,458,000.
 [/TABLE_504]
 169
+
+[PAGE 180 | printed 170]
 The underwriting agreement provides that the obligations
 of the underwriters are subject to certain conditions precedent and that the underwriters will be obligated to purchase all the offered
 notes if any are purchased. The underwriting agreement provides that, in the event of a default by an underwriter, in certain circumstances
@@ -9566,6 +9925,8 @@ underwriters to reclaim a selling concession from a syndicate member when the of
 purchased in a syndicate covering transaction. These over-allotment transactions, stabilizing transactions, syndicate covering transactions
 and penalty bids may cause the prices of the offered notes to be higher than they would otherwise be in the absence
 170
+
+[PAGE 181 | printed 171]
 of these transactions.
 Neither the depositor nor any of the underwriters will represent that it will engage in any of these transactions or that these transactions,
 once commenced, will not be discontinued without notice.
@@ -9617,6 +9978,8 @@ depositor will be responsible for underwriting discounts or commissions or agent
 one or more transactions at fixed prices, prevailing market prices at the time of sale, varying prices determined at the time of sale
 or negotiated prices.
 171
+
+[PAGE 182 | printed 172]
 Offering Restrictions
 Each underwriter has severally, but not jointly,
 represented to and agreed with the depositor and BAC that:
@@ -9678,6 +10041,8 @@ or otherwise make available any offered notes to any EU retail investor in the E
 as defined in point (10) of Article 4(1) of MiFID II; or
 [/TABLE_517]
 172
+
+[PAGE 183 | printed 173]
 [TABLE_518]
  | (iii) | not a qualified investor as defined in Article 2 of the EU Prospectus Regulation; and
 [/TABLE_518]
@@ -9739,6 +10104,8 @@ Future performance and actual results may differ
 materially from those expressed in forward-looking statements. Many of the factors that will determine these results and values are beyond
 the ability of the sponsor,
 173
+
+[PAGE 184 | printed 174]
 the issuing entity or the depositor to control or predict. The forward-looking statements made by us or on
 our behalf speak only as of the date they are made or as of the date indicated, and the sponsor, the issuing entity and the depositor
 do not undertake any obligation to update forward-looking statements as a result of new information, future events or otherwise.
@@ -9752,6 +10119,8 @@ Certain legal matters with respect to the notes,
 including United States federal income tax matters, will be passed upon for the servicer, the depositor and the issuing entity by Mayer
 Brown LLP. Certain legal matters for the underwriters will be passed upon by Sidley Austin LLP.
 174
+
+[PAGE 185 | printed 175]
 GLOSSARY
 “
 Actual
@@ -9829,6 +10198,8 @@ Note Balance
 made prior to such time on the Class A-3 notes; and if the Upsize Transaction is issued, at any time, $131,256,000, reduced by all
 payments of principal made prior to such time on the Class A-3 notes.
 175
+
+[PAGE 186 | printed 176]
 “
 Class B
 Note Balance
@@ -9900,6 +10271,8 @@ Deficiency Balance
 with respect to any receivable, any deficiency balance, charged-off amount, principal balance, accrued interest and/or fees and any related
 security; provided, that such amounts and related security relate to a receivable which is a Defaulted Receivable.
 176
+
+[PAGE 187 | printed 177]
 “
 Delinquency Trigger
 ” means,
@@ -9985,6 +10358,8 @@ Majority Certificateholders
 ”
 means certificateholders holding in the aggregate more than 50% of the Percentage Interests.
 177
+
+[PAGE 188 | printed 178]
 “
 Non-U.S.
 Person
@@ -10056,6 +10431,8 @@ Servicing Transition Costs
 means any transition expenses and costs due in respect of the transfer of servicing to the standby servicer (including any boarding fees
 or other expenses payable by the issuing entity).
 178
+
+[PAGE 189 | printed 179]
 “
 Severely
 Distressed Receivable
@@ -10131,6 +10508,8 @@ to not constitute Collections with respect to the receivables and (c) amounts re
 that the servicer is prohibited from depositing into the collection account or otherwise remitting to the issuing entity by law or court
 order, the direction of a regulatory authority or regulatory guidance.
 179
+
+[PAGE 190 | printed I-1]
 INDEX
 [TABLE_527]
 10 percent shareholder | 164
@@ -10242,6 +10621,8 @@ Investment Company Act | 13, 156
 [/TABLE_528]
 I-
 1
+
+[PAGE 191 | printed I-2]
 [TABLE_529]
 Investor Requirements | 157
 investors | 108
@@ -10344,6 +10725,8 @@ Wells Fargo Bank | 40
 [/TABLE_530]
 I-
 2
+
+[PAGE 192 | printed A-1]
 [TABLE_531]
 APPENDIX A Static Pool Information Regarding Prior Securitized Pools
 [/TABLE_531]
@@ -10368,6 +10751,8 @@ the future when they are required to be repaid. Losses, prepayments and delinque
 in the prospectus may differ from the information shown below.
 A-
 1
+
+[PAGE 193 | printed A-2]
 Summary Information and Composition for Prior
 Securitized Pools as of November 30, 2025
 [TABLE_532]
@@ -10408,6 +10793,8 @@ receivable. See “ Origination—Underwriting and Credit Scoring Models ” for
 [/TABLE_533]
 A-
 2
+
+[PAGE 194 | printed A-3]
 [TABLE_534]
 Summary Statistics |  | DTAOT 2022-1 |  |  | DTAOT 2022-2 |  |  | DTAOT 2022-3 |  |  | DTAOT 2023-1 |  |  | DTAOT 2023-2 |  |  | DTAOT 2023-3 |  |  | BLAST 2023-1 | 
 Outstanding Principal Balance at Cutoff |  | $ | 428,958,103 |  |  | $ | 455,071,926 |  |  | $ | 500,000,002 |  |  | $ | 717,000,087 |  |  | $ | 629,314,748 |  |  | $ | 558,314,811 |  |  | $ | 700,003,859 | 
@@ -10446,6 +10833,8 @@ receivable. See “ Origination—Underwriting and Credit Scoring Models ” for
 [/TABLE_535]
 A-
 3
+
+[PAGE 195 | printed A-4]
 [TABLE_536]
 Summary Statistics |  | BLAST 2024-1 |  |  | BLAST 2024-2 |  |  | BLAST 2024-3 |  |  | BLAST 2024-4 |  |  | BLAST 2025-1 |  |  | BLAST 2025-2 |  |  | BLAST 2025-3 |  |  | BLAST 2025-4 | 
 Outstanding Principal Balance at Cutoff |  | $ | 700,000,143 |  |  | $ | 700,000,011 |  |  | $ | 800,000,007 |  |  | $ | 800,000,113 |  |  | $ | 725,000,004 |  |  | $ | 850,000,059 |  |  | $ | 550,000,413 |  |  | $ | 700,014,795 | 
@@ -10484,6 +10873,8 @@ receivable. See “ Origination—Underwriting and Credit Scoring Models ” for
 [/TABLE_537]
 A-
 4
+
+[PAGE 196 | printed A-5]
 Monthly Cumulative Gross Loss Rates
 As of November 30, 2025
 [TABLE_538]
@@ -10559,6 +10950,8 @@ Period |  | DTAOT
 [/TABLE_538]
 A-
 5
+
+[PAGE 197 | printed A-6]
 Monthly Cumulative Gross Loss Information.
 The graph below shows
 cumulative gross losses of the retail installment contracts included in certain prior DTAOT and BLAST private sub-prime securitization
@@ -10575,6 +10968,8 @@ accurate predictor of the performance of the receivables.
 [/TABLE_539]
 A-
 6
+
+[PAGE 198 | printed A-7]
 Monthly Cumulative Net Loss Rates
 As of November 30, 2025
 [TABLE_540]
@@ -10650,6 +11045,8 @@ Period |  | DTAOT
 [/TABLE_540]
 A-
 7
+
+[PAGE 199 | printed A-8]
 Monthly Cumulative Net Loss Information.
 The graph below shows
 cumulative net losses of the retail installment contracts included in certain prior DTAOT and BLAST private sub-prime securitization transactions.
@@ -10668,6 +11065,8 @@ transaction to transaction, and there can be no assurance that the performance o
 predictor of the performance of the receivables.
 A-
 8
+
+[PAGE 200 | printed A-9]
 31-60 Days Delinquency Rates
 As of November 30, 2025
 [TABLE_541]
@@ -10745,6 +11144,8 @@ Period |  | DTAOT
 [/TABLE_541]
 A-
 9
+
+[PAGE 201 | printed A-10]
 61-90 Days Delinquency Rates
 As of November 30, 2025
 [TABLE_542]
@@ -10822,6 +11223,8 @@ Period |  | DTAOT
 [/TABLE_542]
 A-
 10
+
+[PAGE 202 | printed A-11]
 91-120 Days Delinquency Rates
 As of November 30, 2025
 [TABLE_543]
@@ -10899,6 +11302,8 @@ Period |  | DTAOT
 [/TABLE_543]
 A-
 11
+
+[PAGE 203 | printed A-12]
 Delinquency Information.
 The graphs below show delinquency information
 for retail installment contracts included in certain prior DTAOT and BLAST private sub-prime securitization transactions.
@@ -10914,10 +11319,16 @@ accurate predictor of the performance of the receivables.
 [/TABLE_544]
 A-
 12
+
+[PAGE 204 | printed A-13]
 A-
 13
+
+[PAGE 205 | printed A-14]
 A-
 14
+
+[PAGE 206 | printed A-15]
 Pool Factor Rates
 As of November 30, 2025
 [TABLE_545]
@@ -10995,6 +11406,8 @@ Period |  | DTAOT
 [/TABLE_545]
 A-
 15
+
+[PAGE 207 | printed A-16]
 Pool Factor Information.
 The graph below shows pool factor for
 retail installment contracts originated by the sponsor or an affiliate and included in certain prior DTAOT and BLAST private sub-prime
@@ -11011,6 +11424,8 @@ accurate predictor of the performance of the receivables.
 [/TABLE_546]
 A-
 16
+
+[PAGE 208 | printed A-17]
 Prepayment Speeds (1-month ABS)
 As of November 30, 2025
 [TABLE_547]
@@ -11088,6 +11503,8 @@ Period |  | DTAOT
 [/TABLE_547]
 A-
 17
+
+[PAGE 209 | printed A-18]
 Prepayment Speeds Information.
 The graph below shows the prepayment
 speeds for retail installment contracts originated by the sponsor or an affiliate and included in certain prior DTAOT and BLAST private
@@ -11104,6 +11521,8 @@ accurate predictor of the performance of the receivables.
 [/TABLE_548]
 A-
 18
+
+[PAGE 210]
 ​
 ​
 ​

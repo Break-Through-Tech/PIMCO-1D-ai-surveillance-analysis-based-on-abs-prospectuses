@@ -1,3 +1,4 @@
+[PAGE 1]
 TABLE OF CONTENTS
 The information contained in this prospectus is subject to completion or amendment. This prospectus shall not constitute an offer to sell or the solicitation of an offer to buy nor shall there be any sale of the notes in any jurisdiction in which the offer, solicitation or sale would be unlawful prior to registration or qualification under the securities laws of such jurisdiction.
 SUBJECT TO COMPLETION, DATED MAY 8, 2024
@@ -54,6 +55,8 @@ Co-Managers
 ​ | BBVA | ​ | ​ | CastleOak Securities, L.P. | ​ | ​ | Mizuho | ​ | ​ | PNC Capital Markets LLC | ​ | ​ | R. Seelaus & Co., LLC | ​
 [/TABLE_3]
 Prospectus dated May    , 2024
+
+[PAGE 2 | printed i]
 TABLE OF CONTENTS
 ​
 TABLE OF CONTENTS
@@ -102,6 +105,8 @@ TABLE OF CONTENTS
 ​ | Yield and Prepayment Considerations | ​ | ​ | ​ | ​ | 63 | ​ | ​
 [/TABLE_4]
 i
+
+[PAGE 3 | printed ii]
 TABLE OF CONTENTS
 ​
 [TABLE_5]
@@ -151,6 +156,8 @@ TABLE OF CONTENTS
 ​ | Servicing | ​ | ​ | ​ | ​ | 91 | ​ | ​
 [/TABLE_5]
 ii
+
+[PAGE 4 | printed iii]
 TABLE OF CONTENTS
 ​
 [TABLE_6]
@@ -200,6 +207,8 @@ TABLE OF CONTENTS
 ​ | Election to Treat All Interest as OID | ​ | ​ | ​ | ​ | 113 | ​ | ​
 [/TABLE_6]
 iii
+
+[PAGE 5 | printed iv]
 TABLE OF CONTENTS
 ​
 [TABLE_7]
@@ -229,6 +238,8 @@ TABLE OF CONTENTS
 ​ | ANNEX II—Static Pool Information (Prior Securitized Pools) | ​ | ​ | ​ | ​ | II-1 | ​ | ​
 [/TABLE_7]
 iv
+
+[PAGE 6 | printed v]
 TABLE OF CONTENTS
 ​
 Regarding this prospectus
@@ -239,12 +250,16 @@ Risk Factors
 ” in this prospectus. You are urged to consider these factors in evaluating the forward-looking statements and cautioned not to place undue reliance on such forward-looking statements. The forward-looking statements included in this prospectus are made only as of the date of this prospectus, and we disclaim any obligation to publicly update such forward-looking statements to reflect subsequent events or circumstances, including changes in economic conditions, portfolio or asset pool performance or other circumstances or developments that may arise after the date of this prospectus, other than as required by law.
 If you have received a copy of this prospectus in an electronic format, and if the legal prospectus delivery period has not expired, you may obtain a paper copy of this prospectus from Harley-Davidson Credit Corp. or any of the underwriters by asking any of them for it.
 v
+
+[PAGE 7 | printed vi]
 TABLE OF CONTENTS
 ​
 Summary of Transaction Structure and Flow of Funds
 This structural summary briefly describes certain major structural components, the relationships among the parties, the flow of proceeds from the issuance of the notes and certain other material features of the transaction. This structural summary does not contain all of the information that you need to consider in making your investment decision. You should carefully read this entire prospectus to understand all the terms of this offering.
 Harley-Davidson Customer Funding Corp., the depositor, will purchase from Harley-Davidson Credit Corp., the sponsor, a pool of motorcycle promissory notes and security agreements purchased by Harley-Davidson Credit Corp. from Eaglemark Savings Bank. Harley-Davidson Customer Funding Corp. then will sell the contracts to Harley-Davidson Motorcycle Trust 2024-A, the issuing entity. The following chart illustrates the use of proceeds from investors by the issuing entity and the depositor to purchase the contracts.
 vi
+
+[PAGE 8 | printed vii]
 TABLE OF CONTENTS
 ​
 Flow of Funds
@@ -271,6 +286,8 @@ Distributions
 ” in this prospectus for a more detailed description.
 ​
 vii
+
+[PAGE 9 | printed 1]
 TABLE OF CONTENTS
 ​
 Summary of Terms
@@ -305,6 +322,8 @@ On or about May 22, 2024
 Terms of the Notes
 The issuing entity will issue the following classes of notes having the principal terms described below:
 1
+
+[PAGE 10 | printed 2]
 TABLE OF CONTENTS
 [TABLE_8]
 Class | ​ | ​ | Initial Principal Amount | ​ | ​ | Initial Offered Amount (1) | ​ | ​ | Interest Rate | ​
@@ -336,6 +355,8 @@ Interest on the notes will accrue in the following manner:
 The issuing entity will pay interest on the Class A-1 notes on each payment date based on the actual days elapsed during the period for which interest is payable and a 360-day year. The issuing entity will pay interest on the remaining classes of notes on each payment date based on a 360-day year consisting of twelve 30-day months.
 Interest on the Class A-1 notes will accrue at the interest rate for the related class during the period from and including the prior
 2
+
+[PAGE 11 | printed 3]
 TABLE OF CONTENTS
 payment date (or, in the case of the initial payment date, from and including the closing date) to but excluding the current payment date, and interest on the remaining classes of notes will accrue at the interest rate for the related class during the period from and including the 15
 th
@@ -372,6 +393,8 @@ The servicer has the option to purchase all of the outstanding contracts (and re
 initial pool balance
 ”.
 3
+
+[PAGE 12 | printed 4]
 TABLE OF CONTENTS
 If the servicer exercises this option, the notes will be redeemed at a price equal to the unpaid principal amount thereof plus accrued interest thereon. See “
 Description of the Notes and the Indenture—
@@ -410,6 +433,8 @@ In addition to the purchase of contracts from the issuing entity in connection w
 Optional Redemption
 ”, contracts will be required to be repurchased from the issuing entity by the depositor if certain representations and warranties concerning the characteristics of the contracts are breached, and by the servicer if certain servicing covenants are breached, in each case if the breach is uncured and materially and adversely affects the issuing entity’s interest in the contract. In addition, a contract may be repurchased, in limited circumstances, at the option of the sponsor if it is determined by the servicer that amendment of the terms of such contract could better ensure compliance with applicable laws.
 4
+
+[PAGE 13 | printed 5]
 TABLE OF CONTENTS
 No contract will have a scheduled maturity later than May 10, 2031. An obligor can prepay their contract in whole or in part at any time without penalty.
 The aggregate outstanding principal balance of the pool of contracts as of the cutoff date was $607,819,486.44. As of the cutoff date, the pool of contracts had the following characteristics:
@@ -459,6 +484,8 @@ As of the cutoff date, no other state or geographic area (including the District
 Credit Risk Retention
 The depositor is a wholly-owned affiliate of the sponsor and will initially retain the required economic interest in the credit risk of the contracts to satisfy the sponsor’s requirements under Regulation RR.
 5
+
+[PAGE 14 | printed 6]
 TABLE OF CONTENTS
 The depositor’s retention of at least 5% of each class of notes and the residual interest satisfies the requirements for an “eligible vertical interest” under Regulation RR. The depositor, or a majority-owned affiliate of the sponsor, is required to retain this interest until the latest of:
 •
@@ -502,6 +529,8 @@ excess cash flow, which generally consists of interest
 ​
 ​
 6
+
+[PAGE 15 | printed 7]
 TABLE OF CONTENTS
 collections on the contracts in excess of the amount of interest required to be paid on the notes and the fees and expenses of the issuing entity
 See “
@@ -530,6 +559,8 @@ If the amount on deposit in the reserve fund on any payment date is less than th
 If on any payment date the funds available to the issuing entity to pay principal of and interest on the notes are insufficient to make those payments, the issuing entity will use funds on deposit in the reserve fund to cover any shortfalls in those payments, but only to the extent of the amounts on deposit in the reserve fund at that time.
 If on the final scheduled payment date of any class of notes the principal amount of a class has not been paid in full, the issuing
 7
+
+[PAGE 16 | printed 8]
 TABLE OF CONTENTS
 entity will use funds on deposit in the reserve fund to pay the remaining principal amount due on that class of notes, subject to the order of priority described in “
 Priority of Payments
@@ -560,6 +591,8 @@ On each payment date, the servicer will be entitled to receive a monthly servici
 th
 of 1.00% of the pool balance as of the first day of the related due period (or with respect to the first payment date, the initial pool balance). The monthly servicing fee will be paid to the servicer prior to any payments to the noteholders.
 8
+
+[PAGE 17 | printed 9]
 TABLE OF CONTENTS
 The monthly servicing fee will be paid from funds on deposit in the collection account. The servicer will also be entitled to retain any late payment fees, extension fees, convenience fees, and other similar fees and charges received with respect to the contracts. See “
 Payments to the Noteholders—Servicing Compensation and Reimbursement of Servicer Advances
@@ -603,6 +636,8 @@ certain events of bankruptcy, insolvency, receivership or liquidation of the iss
 ​
 ​
 9
+
+[PAGE 18 | printed 10]
 TABLE OF CONTENTS
 If the notes have been declared to be due and payable following an event of default, the indenture trustee may:
 •
@@ -641,6 +676,8 @@ Principal—the principal distributable amount, first, to the Class A-1 notehold
 ​
 ​
 10
+
+[PAGE 19 | printed 11]
 TABLE OF CONTENTS
 (7)
 Reserve Fund—to the reserve fund, the amount, if any, needed to increase the balance in the reserve fund to the required amount;
@@ -676,6 +713,8 @@ ERISA and Related Considerations
 Ratings
 The sponsor expects that the notes will receive credit ratings from two nationally recognized statistical rating organizations, or “rating agencies”, hired by the sponsor to assign ratings on the notes.
 11
+
+[PAGE 20 | printed 12]
 TABLE OF CONTENTS
 The ratings of the notes will address the likelihood of payment of principal of and interest on the notes according to their terms. Each rating agency that the sponsor has hired to rate the notes has informed the sponsor that it will monitor the ratings using its normal surveillance procedures. A rating is not a recommendation to buy, sell or hold securities. Ratings on the notes may be lowered, qualified or withdrawn at any time by the rating agencies. Each rating is based on the applicable rating agency’s independent evaluation of the contracts and the availability of any credit enhancement for the notes. A rating, or a change or a withdrawal of a rating, by one rating agency will not necessarily correspond to a rating, or a change or a withdrawal of a rating, by another rating agency. No transaction party will be responsible for monitoring any changes to the ratings on the notes. See “
 Ratings of the Notes
@@ -694,6 +733,8 @@ Class A-4 | ​ | ​ | ​ | ​ | 412922AD8 | ​ | ​
 Mailing Address and Telephone Numbers of Principal Executive Offices
 The mailing address of the seller is 222 West Adams Street, Suite 3100, Chicago, Illinois 60606, telephone (312) 368-9501. The mailing address of the depositor is 9850 Double R Blvd., Suite 200, Reno, NV 89521, telephone (775) 886-3000. The principal office of the issuing entity is in care of Wilmington Trust, National Association, 1100 North Market Street, Wilmington, Delaware 19890-1605, telephone (302) 636-6000.
 12
+
+[PAGE 21 | printed 13]
 TABLE OF CONTENTS
 ​
 Summary of Risk Factors
@@ -756,6 +797,8 @@ failures to repossess financed motorcycles from defaulting obligors, recalls of 
 ​
 ​
 13
+
+[PAGE 22 | printed 14]
 TABLE OF CONTENTS
 •
 limitations on enforceability of security interests in the financed motorcycles may hinder the issuing entity’s ability to realize the value of the financed motorcycles;
@@ -820,6 +863,8 @@ the seller, the servicer and their affiliates must comply with governmental laws
 ​
 ​
 14
+
+[PAGE 23 | printed 15]
 TABLE OF CONTENTS
 ​
 Risk Factors
@@ -838,6 +883,8 @@ Description of the Notes and the Indenture—The Indenture—Events of Default; 
 The issuing entity’s recourse against the seller, the depositor and the servicer is limited to certain repurchase and/or purchase obligations
 In connection with the sale of contracts by the depositor to the issuing entity, the depositor will make representations and warranties with respect to certain characteristics of such contracts, and in certain circumstances, the depositor may be required to repurchase contracts with respect to which such representations and warranties have been breached. The seller will correspondingly be obligated to the depositor under the transfer and sale agreement (which rights of the depositor against the seller will be
 15
+
+[PAGE 24 | printed 16]
 TABLE OF CONTENTS
 assigned to the issuing entity) to repurchase the contracts from the depositor contemporaneously with the depositor’s repurchase of the contracts from the issuing entity. In addition, the servicer may be required to purchase contracts from the issuing entity if the servicer breaches certain servicing obligations relating to those contracts as specified in the sale and servicing agreement. There can be no assurance that the depositor, the seller or the servicer will be able to purchase or repurchase a contract at the time that it has an obligation to do so. See
 “Description of the Transfer and Servicing Agreements—Sale and Assignment of Contracts by Seller”, “Description of the Transfer and Servicing Agreements—Representations and Warranties Made by the Seller and the Depositor” and “Description of the Transfer and Servicing Agreements—Servicing
@@ -854,6 +901,8 @@ Additionally, the sponsor or the depositor is required to provide the hired rati
 that were not hired by the sponsor in connection with the issuance of the notes.
 The sponsor has not hired any other NRSRO to assign ratings on the notes and is not aware that any other NRSRO has assigned or will assign ratings on the notes. However, under SEC rules, information that the sponsor (or another acting on the sponsor’s behalf) has provided to a rating agency that the sponsor hired for the purpose of assigning or monitoring the ratings on the notes must be available to each other NRSRO to make it possible for such other NRSROs to assign unsolicited ratings on the notes. An NRSRO
 16
+
+[PAGE 25 | printed 17]
 TABLE OF CONTENTS
 could assign a rating that the sponsor has not solicited at any time, including prior to the closing date, and none of the depositor, the sponsor, the underwriters or any of their affiliates will have any obligation to inform you of any unsolicited ratings that an NRSRO has assigned after the date of this prospectus. NRSROs, including the rating agencies that the sponsor hired to rate the notes, have different methodologies, criteria, models and requirements. If any non-hired NRSRO assigns an unsolicited rating on the notes, such rating may be lower than the ratings that the rating agencies that the sponsor hired to rate the notes have provided, which could adversely affect the market value of your notes and/or limit your ability to resell your notes.
 Similar ratings on different types of notes do not necessarily mean the same thing. You should analyze the significance of each rating independently from any other rating. At any time, a rating agency may lower its ratings on the notes or withdraw its ratings entirely if, in the rating agency’s judgment, circumstances in the future so warrant. If a rating assigned to any security is lowered or withdrawn for any reason, possible consequences include that you may not be able to resell your notes or that you may be able to resell them only at a substantial discount. For more detailed information regarding the ratings assigned to any class of notes, see
@@ -869,6 +918,8 @@ If it meets certain conditions set forth in the sale and servicing agreement, th
 The payment priorities increase the risk of loss or delay in payment to certain classes of notes
 Unless the notes have been accelerated following an event of default, the issuing entity will pay principal of the notes sequentially until each class of notes has been paid in full. In all cases, the issuing entity will pay principal of the Class A-1 notes before any other notes. If the notes have been accelerated following an event of default, the issuing entity will not pay principal of the Class A-2 notes, the Class A-3 notes and the Class A-4 notes sequentially; instead, the issuing entity will pay principal of the Class A-2 notes,
 17
+
+[PAGE 26 | printed 18]
 TABLE OF CONTENTS
 the Class A-3 notes and the Class A-4 notes,
 pro rata
@@ -891,6 +942,8 @@ GAAP
 If the FDIC were to take the position that FDIC regulations, or other statutory or regulatory requirements applicable to the transactions, were not satisfied or otherwise applied to the transfers of the contracts from Eaglemark Savings Bank to the seller, the FDIC, as conservator or receiver, might attempt to repudiate or disaffirm the bank sale and participation agreement and limit claims of the issuing entity for such repudiation to “actual direct compensatory damages”. In addition, the issuing entity could be stayed from enforcing its security interest or exercising any control over the contracts without the consent of the FDIC for a period of 45 days (in the case of a conservatorship) or 90 days (in the case of a receivership), and the FDIC may require the issuing entity to go through the administrative claims procedure established by the FDIC in order to establish its rights to payments on the contracts.
 Applicable law does not define “actual direct compensatory damages”. However, these damages do not include damages for lost profits or opportunity, and no damages would be paid for the period after the date of the appointment of the FDIC as conservator or receiver. The FDIC could delay its decision whether to recognize Eaglemark Savings Bank’s transfer of the contracts for a reasonable period following its
 18
+
+[PAGE 27 | printed 19]
 TABLE OF CONTENTS
 appointment as conservator or receiver. Additionally, the issuing entity could be limited to seeking recovery based upon the obligation of the seller to repurchase contracts for which it did not have good and marketable title. Any of these actions could result in losses or delays in payments on your notes. See “
 Legal Aspects of the Contracts—Bank Insolvency
@@ -918,6 +971,8 @@ Book-Entry Registration
 ”. Holding the offered notes in book-entry form could also limit your ability to pledge your notes to persons or entities that do not participate in DTC or Clearstream and to take other actions that require a physical note.
 Interest on and principal of the offered notes will be paid by the issuing entity to DTC as the holder of record of the notes while they are held in book-entry form. DTC will credit payments received from the issuing entity to the accounts of its participants which, in turn, will credit those amounts to noteholders either
 19
+
+[PAGE 28 | printed 20]
 TABLE OF CONTENTS
 directly or indirectly through indirect participants. This process may delay your receipt of principal and interest payments from the issuing entity.
 Risks relating to the contracts and the related motorcycles
@@ -938,6 +993,8 @@ Description of the Transfer and Servicing Agreements
 ” in this prospectus. The manner in which the servicer exercises that discretion could have an impact on the amount and timing of the issuing entity’s receipt of collections from the contracts. If servicing procedures do not maximize the receipts from the contracts, you may experience losses or delays in payment on your notes.
 The servicer may modify the contracts in situations where the servicer believes such action is likely to maximize the amount collected, and permit an extension on payments due on contracts on a case-by-case basis or as part of a program offering. Any of these modifications or extensions may extend the maturity of the contracts and increase the weighted average life of the notes. The weighted average life and yield on your notes may be adversely affected by extensions on the contracts. However, the servicer will be required to purchase the contract from the issuing entity if it extends the term of the contract beyond the latest final scheduled maturity date for the notes. The servicer may permit extensions as part of a program or promotion for reasons that benefit the seller or the servicer and these extensions may not benefit you as a noteholder. The servicer will be entitled to retain any fees that an obligor pays to receive an extension. In response to the COVID-19 pandemic, the servicer temporarily offered payment relief options to customers
 20
+
+[PAGE 29 | printed 21]
 TABLE OF CONTENTS
 impacted by the COVID-19 pandemic in the form of payment extensions. It is possible that the servicer could implement such programs in the future to address similar or other economic impacts.
 It is possible that failures to repossess financed motorcycles from defaulting obligors, recalls of Harley-Davidson models, or various factors, including the sale of financed motorcycles repossessed from defaulting obligors, may result in less than a full recovery of amounts due
@@ -953,6 +1010,8 @@ Early defaults on contracts may adversely affect your notes
 Financing options resulting in a contract having an initial principal balance in excess of the retail price of a motorcycle may increase the risk that the amount of any related sales proceeds would not be sufficient to satisfy the outstanding principal balance of the contract. For a further discussion of certain promotional financing programs and potential risks associated therewith, see “—
 Potential losses on the notes are likely
 21
+
+[PAGE 30 | printed 22]
 TABLE OF CONTENTS
 to be higher for contracts originated under promotional financing programs or if there are excessive prepayments or defaults on contracts with higher contract interest rates
 ” below.
@@ -967,6 +1026,8 @@ In addition, a contract may provide that the first payment is deferred for a spe
 The Contracts—Criteria for Selecting the Contracts
 ” in this prospectus. The obligor on a contract with a deferred first payment is entitled to use the motorcycle during the deferral period. Accordingly, the value of the motorcycle may be reduced
 22
+
+[PAGE 31 | printed 23]
 TABLE OF CONTENTS
 during the deferral period without any reduction of the principal balance of the related contract. Thus, on the date on which the first payment is due on a contract with a deferred first payment, the principal balance of the contract relative to the value of the motorcycle will be greater than would have been the case had the first payment on the contract not been deferred. The frequency and severity of losses on contracts with a deferred first payment will depend, in part, on the length of the deferral period and may be higher than the frequency and severity of losses on contracts without a deferred first payment.
 Additionally, some of the contracts will have contract interest rates that are less than the interest rate on your notes plus various fees. Excessive prepayments and defaults on contracts with higher contract interest rates may adversely affect your notes by reducing the amounts available to make interest and principal payments on the notes.
@@ -990,6 +1051,8 @@ We cannot assure you that prepayments on the contracts held by the issuing entit
 “Weighted Average Lives of the Notes”
 in this prospectus.
 23
+
+[PAGE 32 | printed 24]
 TABLE OF CONTENTS
 Interests of other persons in the contracts or the financed motorcycles could reduce the funds available to make payments on your notes
 A person could acquire an interest in a contract that is superior to those of the issuing entity and the indenture trustee. The seller’s accounting records and computer systems will be marked to reflect the sales of the contracts to the depositor and the issuing entity (and the pledge of the contracts to the indenture trustee), but the servicer (or a third-party service provider acting on behalf of the servicer) will retain possession and control of the contracts. The paper contracts will not be marked to indicate that they have been sold to the issuing entity or pledged to the indenture trustee. The electronic contracts will be marked to indicate that they have been sold to the issuing entity but will not be marked to indicate that they have been pledged to the indenture trustee. In order to protect the issuing entity’s ownership interest and the indenture trustee’s security interest in the contracts, the depositor will file UCC-1 financing statements with the appropriate governmental authorities to give notice of the issuing entity’s ownership of, and the indenture trustee’s security interest in, the contracts.
@@ -1002,6 +1065,8 @@ The sale and servicing agreement will obligate the servicer to maintain the perf
 The issuing entity and the indenture trustee could lose possession of a paper contract or control over an electronic contract through fraud, forgery, negligence or error (or, in the case of electronic contracts, as a result of a computer virus or a weakness in or failure of the e-contracts system). There can be no assurance that the e-contracts system will perform as represented to the servicer in maintaining the systems and controls required to provide assurance that the servicer maintains control over an electronic contract. In that event, there may be delays in obtaining copies of the electronic contract or confirming ownership and control of the electronic contract. There is a risk that the e-contracts system employed to maintain control of the electronic contracts may be insufficient under applicable law to give the issuing entity an interest in the electronic contracts that is perfected by control.
 A person could also acquire an interest in a financed motorcycle that is superior to those of the issuing entity and the indenture trustee because of the failure to identify the issuing entity as the secured party on the related certificate of title. The seller will assign its security interests in the financed motorcycles to the depositor, and the depositor will assign its security interests in the financed motorcycles to the issuing entity. The seller’s assignment to the depositor and the depositor’s subsequent assignment to the issuing entity are subject to state vehicle registration laws. These registration laws generally require that the secured party’s name appear on the certificate or similar registration of title in order for the secured party’s security interest to be perfected. To facilitate servicing and reduce administrative costs, the servicer (or a third-party service provider acting on behalf of the servicer) will continue to hold the certificates of title for the financed motorcycles (where state law provides for lienholders to do so) and will not endorse or otherwise amend the certificates of title to identify the issuing entity as the new secured party. In most states, the issuing entity, as assignee of a contract, will have the benefits of the first-priority security interest in the related financed motorcycle obtained by Eaglemark Savings Bank, even though the issuing entity is not listed on the certificate of title as a secured party. However, the issuing entity may not have a perfected security interest in the financed motorcycles in certain states because the certificates or similar registrations of title will not be amended to reflect the assignment of the security interests in the financed motorcycles to
 24
+
+[PAGE 33 | printed 25]
 TABLE OF CONTENTS
 the issuing entity. If the issuing entity does not have a perfected security interest in a financed motorcycle, its ability to realize on the financed motorcycle following an obligor default would be adversely affected. In addition, because the issuing entity will not be identified as the secured party on any certificate of title or similar registration of title, the security interest of the issuing entity in the motorcycles may be defeated through fraud, forgery, negligence or error.
 In addition, the holders of some types of liens, such as tax liens or mechanics liens, may have priority over the issuing entity’s security interest in the financed motorcycles. The issuing entity also may lose its security interest in a financed motorcycle that is confiscated by the government.
@@ -1021,6 +1086,8 @@ Risks relating to macroeconomic, regulatory and other external factors
 The sponsor’s business and Harley-Davidson’s business could be negatively impacted by a pandemic such as the Coronavirus (“COVID-19”) pandemic
 The global outbreak of COVID-19 led to restrictions on the level of economic activity around the world, including in the United States. The spread of COVID-19 also led to supply chain destabilization, facility closures, workforce disruption, consumer and manufacturing price increases (including as a result of inflation) and volatility in the global economy and capital markets, which adversely impacted and may again impact access to capital, the cost of capital and overall liquidity levels. Measures to address the impact of a pandemic such as the COVID-19 pandemic could have significant adverse impacts on domestic and foreign economies of uncertain severity and duration, and neither the seller nor the depositor is able to determine or predict to what extent these factors would affect the performance of the obligors on the contracts. The United States economy experienced a recession following the outbreak of the COVID-19 pandemic
 25
+
+[PAGE 34 | printed 26]
 TABLE OF CONTENTS
 and could experience volatility in the capital markets or a recession following the outbreak of a future pandemic, which may adversely affect the performance and market value of the notes. There may be increased delinquencies and losses on the contracts as a result of another pandemic, which could impact obligors nationwide. Because there is no recent precedent for the mitigation efforts undertaken by the federal government, through stimulus payments, and by the sponsor during the recent COVID-19 pandemic, it is possible that the sponsor’s most recent historical loss and delinquency experience, which timeframe is inclusive of the COVID-19 pandemic, will not accurately predict the performance of the contracts. See also
 “—Risks relating to the contracts and the related motorcycles—Future delinquency and loss experience of the contracts may be worse than the servicer’s historical experience
@@ -1042,6 +1109,8 @@ and
 “—Economic developments may adversely affect the performance and market value of your notes and may limit your ability to resell your notes”
 .
 26
+
+[PAGE 35 | printed 27]
 TABLE OF CONTENTS
 Economic developments may adversely affect the business of the sponsor and the performance and market value of your notes and may limit your ability to resell your notes
 If general economic conditions worsen, increases in unemployment, decreases in home values, changes in the credit cycle, increases in the rate of inflation, uncertainty regarding the path of U.S. monetary policy, and a lack of available credit could lead to increases in delinquencies and default rates, as well as decreased consumer demand for motorcycles, that may adversely affect the performance and market value of your notes.
@@ -1055,6 +1124,8 @@ Events affecting the domestic and global financial markets, the ongoing military
 Additionally, threatened hostilities with other countries, political unrest and instability in the United States and around the world, continuing threats of terrorist attacks, as well as any actual armed hostilities, and any future terrorist attacks in the United States or abroad, could also have an adverse impact on the U.S. economy, global financial markets and payments and collections on the contracts, which could adversely affect payments on the notes.
 You should consider the possible effects of the above on the delinquency, default and prepayment experience of the contracts. For example, sanctions implemented in connection with the conflict between Russia and Ukraine have had and may continue to have an inflationary impact on consumer goods, which may result in increased delinquency and loss experience relating to obligors and reduce amounts available for distribution on the notes. Additionally, U.S. military operations as a result of the conflict between Russia and the Ukraine or otherwise could increase the number of citizens who are in active military service, including persons in reserve status who are called to active duty. Under the Servicemembers Civil Relief Act, obligors who are members of the military on active duty, including reservists who are called to active duty after the origination of their contracts, may be entitled to reductions in interest rates to 6% and a stay of foreclosure
 27
+
+[PAGE 36 | printed 28]
 TABLE OF CONTENTS
 and similar actions. We cannot provide information as to the number of contracts that the Servicemembers Civil Relief Act may impact. If an obligor’s obligation to make payments is reduced, adjusted or extended, the servicer will only be required to advance accrued interest with respect to contracts that were 30 days or more delinquent at the end of the related due period, assuming 30-day months, and only to the extent the servicer believes that such amounts will ultimately be recoverable through collection. Any resulting shortfalls in interest or principal will reduce the amount available for distribution on the notes.
 The Servicemembers Civil Relief Act also limits the ability of the servicer to repossess the financed motorcycle securing a contract during the related obligor’s period of active duty and, in some cases, may require the servicer to extend the maturity of the contract, lower the monthly payments and readjust the payment schedule for a period of time after completion of the obligor’s military service. As a result, there may be delays in payment and increased losses on the contracts.
@@ -1084,6 +1155,8 @@ The Contracts
 ” in this prospectus.
 Regional factors, including earthquakes, floods, hurricanes, wildfires, unemployment, changes in governmental rules or fiscal policies or terrorist acts, may increase the delinquency or loss experience of the contracts. For example, obligors located in California are more likely to be affected by certain hazards (such as earthquakes or widespread fires) than obligors located in other parts of the country, and the occurrence of a natural disaster in California may increase the delinquency or loan loss experience of the contracts related to obligors located in California. In addition, obligors located in coastal states such as Florida are more likely to be affected by hurricanes than obligors located in other parts of the country. Hurricanes can cause extensive and catastrophic physical damage in and to coastal and inland areas, including uninsured damage to motorcycles. In addition, there have been predictions that climate change may lead to an increase in the frequency of natural disasters and extreme weather conditions, with certain states bearing a greater risk of the adverse effects of climate change, which could increase the risks related to
 28
+
+[PAGE 37 | printed 29]
 TABLE OF CONTENTS
 geographic concentration in the pool. The damage caused by extreme weather conditions, and the national, regional and local economic and other effects of that damage, may increase the delinquency or loan loss experience of the contracts related to the affected obligors.
 Local and regional economic factors also impact the delinquency and loss experience of the contracts. For example, a substantial downturn in the financial services industry, which is highly concentrated in the states of New York, New Jersey and Connecticut, in the automotive or steel industries, which are concentrated in the states of Michigan, Ohio and Pennsylvania, or in the oil and gas industry, which is concentrated in the states of Texas, Oklahoma, Alaska, Louisiana and North Dakota, may reduce the income of obligors in those states and ultimately may reduce the related obligors’ ability to make timely payments on their contracts.
@@ -1103,6 +1176,8 @@ Risks relating to the transaction parties
 The conflict of interest created by the sponsor’s payment of fees charged by the rating agencies for their rating services may affect the ratings of your notes, as well as other functions that the rating agencies perform relating to the notes
 The sponsor has hired two rating agencies and will pay them a fee to assign ratings on the notes. SEC regulations define as a conflict of interest the arrangement where, as is the industry standard and the case with the ratings of the notes, the sponsor pays the fees charged by the rating agencies for their rating services. This conflict of interest may affect the ratings that rating agencies hired by the sponsor assign to the notes and other functions that the rating agencies perform relating to the notes. The rating agencies that the sponsor
 29
+
+[PAGE 38 | printed 30]
 TABLE OF CONTENTS
 hired to rate the notes may revise or withdraw the ratings at any time, including as a result of a failure by the sponsor or the depositor to provide such rating agencies with information requested by the rating agencies or to comply with any of their respective obligations contained in the engagement letters with such rating agencies. For example, if the sponsor fails to make available to any non-hired NRSRO any information provided to any rating agency that the sponsor hired to rate the notes for the purpose of assigning or monitoring the ratings on the notes, a rating agency that the sponsor hired to rate the notes could withdraw its ratings on the notes, which could adversely affect the market value of your notes and/or limit your ability to resell your notes. Potential investors in the notes are urged to make their own evaluation of the creditworthiness of the contracts and the credit enhancement on the notes, and not to rely solely on the ratings on the notes.
 Adverse events with respect to the seller, the servicer or their affiliates may affect the timing of payments on your notes or have other adverse effects on your notes
@@ -1112,6 +1187,8 @@ A security breach or a cyber-attack affecting HDCC could adversely affect HDCC�
 HDCC collects and stores certain personal and financial information from customers, employees, and other third parties. Security breaches or cyber-attacks involving HDCC’s systems or facilities, or the systems or facilities of HDCC’s service providers, could expose HDCC to a risk of loss of personally identifiable information of customers, employees and third parties or other proprietary or competitively sensitive information, business interruptions, regulatory scrutiny, actions and penalties, litigation, reputational harm, a loss of confidence, and other financial and non-financial costs, all of which could potentially have an adverse impact on HDCC’s future business with current and potential customers, results of operations and financial condition and could adversely affect HDCC’s ability to service the contracts and perform its other obligations under the transaction agreements, which could have an adverse effect on your notes. In addition, while remote work arrangements, which offer employees the flexibility to regularly work remotely rather than “in office” and were formalized by HDCC through its “virtual-first” policy as of the first fiscal quarter of 2020, have been accompanied by increases in cyber-security protections, additional cyber-security risks related to the “virtual-first” policy could arise on an ongoing basis.
 HDCC and its service providers rely on encryption and other information security technologies licensed from third parties to provide security controls necessary to help in securing online transmission of confidential information pertaining to customers, employees and other aspects of HDCC’s business. Advances in information system capabilities, new discoveries in the field of cryptography or other events or developments may result in a compromise of the environment that HDCC or its service providers use to
 30
+
+[PAGE 39 | printed 31]
 TABLE OF CONTENTS
 protect sensitive data. A party who is able to circumvent HDCC’s security measures by methods such as hacking, fraud, trickery or other forms of deception could misappropriate proprietary information or cause interruption in HDCC’s operations. HDCC may be required to expend capital and other resources to protect against such security breaches or cyber-attacks or to remediate problems caused by such breaches or attacks on its own systems or the systems of its service providers. HDCC’s security measures are designed to protect against security breaches and cyber-attacks, but HDCC’s failure to prevent such security breaches and cyber-attacks could subject HDCC to liability, decrease HDCC’s profitability and damage HDCC’s reputation. Even if a failure of, or interruption in, HDCC’s systems or facilities is timely resolved or an attempted cyber incident or other security breach is successfully avoided or thwarted, it may require HDCC to expend substantial resources or to take actions that could adversely affect customer satisfaction or behavior and expose HDCC to reputational harm.
 HDCC could also be subjected to cyber-attacks that could result in slow performance and loss or temporary unavailability of HDCC’s information systems. Information security risks have increased because of new technologies, the use of the internet and telecommunications technologies (including mobile devices) to conduct financial and other business transactions, and the increased sophistication and activities of organized crime, perpetrators of fraud, hackers, terrorists, and others. HDCC may not be able to anticipate or implement effective preventative measures against all security breaches of these types, especially because the techniques used change frequently and because attacks can originate from a wide variety of sources.
@@ -1128,6 +1205,8 @@ Covered Entities
 Additionally, the CFPB, the Federal Trade Commission and the Department of Justice have pursued various enforcement actions against lenders involving significant penalties, consent orders, cease and desist orders, and similar remedies that, if applicable to HDCC and the products, services and operations of the nature offered by HDCC, may require the cessation or alteration of certain business practices, which could have a material adverse effect on our financial condition and results of operations.
 The CFPB has conducted fair lending examinations and investigations of vehicle financiers and their dealer participation policies and other compensation practices. Although the impact of CFPB oversight on the business of HDCC and its affiliates remains uncertain, the CFPB continues to monitor, examine, and
 31
+
+[PAGE 40 | printed 32]
 TABLE OF CONTENTS
 regulate the fair lending practices of vehicle finance providers. In March 2013, the CFPB issued a bulletin stating that indirect auto lenders may be liable for violations under the Equal Credit Opportunity Act based on dealer-specific and portfolio-wide disparities on a prohibited basis. However, on May 21, 2018, a resolution approved by Congress under the Congressional Review Act was signed into law, which repealed the CFPB’s fair lending guidance contained in the bulletin and prohibits the future enactment of a similar rule without Congressional approval. The impact of the repeal of this guidance on fair lending enforcement at the CFPB is uncertain.
 The CFPB has successfully asserted the power to investigate and bring enforcement actions directly against securitization vehicles. On December 13, 2021, in an action brought by the CFPB, the U.S. District Court for the District of Delaware denied a motion to dismiss filed by a securitization trust by holding that the trust is a “covered person” under the Dodd-Frank Act because it engages in the servicing of loans, even if through servicers and subservicers
@@ -1140,6 +1219,8 @@ Compliance with applicable law can be costly and can affect operating results be
 Many provisions of the Dodd-Frank Act are required to be implemented through rulemaking by the applicable federal regulatory agencies. Accordingly, the impact on the securitization market of any rules yet to be finalized or to become effective will not be known until the applicable agencies have completed their rulemaking and market participants have implemented the rules. Any such new regulations may have a significant adverse impact on the issuing entity, the depositor or HDCC, as sponsor, seller and/or servicer, including on the servicing of the contracts or on the regulation and supervision of HDCC and/or its affiliates generally, or on the price that a subsequent purchaser would be willing to pay for the notes.
 Additionally, various federal and state governmental agencies have instituted and may in the future institute programs to assist consumers during an economic downturn. It is possible that any such programs and related legislation could affect an obligor’s contract, resulting in the reduction of an obligor’s obligations under their contract or the diminution of a creditor’s rights under a contract. If a significant number of contracts are impacted in this fashion, you may not receive interest and principal payments on your notes in the amounts and at the times you expect and the issuing entity may not have sufficient funds to pay all of the classes of notes in full.
 32
+
+[PAGE 41 | printed 33]
 TABLE OF CONTENTS
 ​
 ​
@@ -1178,6 +1259,8 @@ Promptly after the execution of any amendment to the certificate of trust, the o
 Prior to the execution of any amendment to the trust agreement or the certificate of trust, the owner trustee will be entitled to receive and rely upon an opinion of counsel stating that the execution of such amendment is authorized or permitted by the trust agreement. The owner trustee may, but will not be obligated to, enter into any amendment that affects the owner trustee’s own rights, duties or immunities under the trust agreement or otherwise.
 Under the transfer and sale agreement between the seller and the depositor, the seller will sell all of the contracts and the related property to the depositor. Under the sale and servicing agreement among the issuing entity, the depositor, the servicer and the indenture trustee, the depositor will transfer all of the contracts and the related property to the issuing entity.
 33
+
+[PAGE 42 | printed 34]
 TABLE OF CONTENTS
 ​
 The property of the issuing entity will consist of:
@@ -1241,6 +1324,8 @@ The following table illustrates the expected capitalization of the issuing entit
 ​ | Total | ​ | ​ | ​ | $ | 607,819,486.44 | ​ | ​
 [/TABLE_13]
 34
+
+[PAGE 43 | printed 35]
 TABLE OF CONTENTS
 ​
 ​
@@ -1277,6 +1362,8 @@ Insurance and related services, including extended service agreements, property 
 HDCC’s and its affiliates’ retail financing and insurance programs are designed to work together as a package that appeals to the needs of consumers of applicable manufactured motorcycles and to provide a competitive advantage over HDCC’s and its affiliates’ competitors.
 The sponsor began its asset-backed securities program and securitizing motorcycle contracts in 1994 and, to date, has securitized only contracts relating to the retail purchase of new and used applicable manufactured motorcycles and, to a limited extent, other retail consumer products. From the inception of
 35
+
+[PAGE 44 | printed 36]
 TABLE OF CONTENTS
 ​
 ​
@@ -1306,6 +1393,8 @@ Each class of notes retained by the depositor as part of the “eligible vertica
 Origination
 The seller primarily purchases contracts from Eaglemark Savings Bank, a Nevada thrift and FDIC regulated and insured institution and a wholly-owned subsidiary of the seller. Eaglemark Savings Bank
 36
+
+[PAGE 45 | printed 37]
 TABLE OF CONTENTS
 began originating retail motorcycle contracts in 2002. Eaglemark Savings Bank sells a majority of its loan originations on a daily basis to the seller pursuant to an agreement between Eaglemark Savings Bank and the seller (the
 “bank sale and participation agreement”
@@ -1321,6 +1410,8 @@ motorcycles. Such promotional financing options may include, but are not limited
 If a motorcycle dealer and the dealer’s customer wish to use Eaglemark Savings Bank’s available financing for a retail purchase, a credit application will be submitted via an internet connection or via facsimile to Eaglemark Savings Bank. Alternatively, an applicant may choose to apply using the Eaglemark Savings Bank on-line application in advance of visiting a dealership. The credit application contains credit information about the applicant, which may include the applicant’s income, employment information, and other relevant personal information bearing on the decision to extend credit, as well as a description of the financed motorcycle that will secure the contract. A standard automated process requests a credit report for all applicants from up to two credit bureaus. Any resulting credit report is used in conjunction with the application information, the applicant’s historical performance specific to the servicer, and the applicant’s personal financial data to make a determination regarding the application. Credit application information is often verified independently, depending on the applicant’s determined credit risk.
 Once a credit application has been approved by Eaglemark Savings Bank, the motorcycle dealer’s personnel will then explain the financing plans, terms, prevailing rates and credit and financing policies to the obligor.
 37
+
+[PAGE 46 | printed 38]
 TABLE OF CONTENTS
 ​
 The terms of each contract grant to Eaglemark Savings Bank a security interest in the motorcycle that the obligor is financing and require the obligor to have Eaglemark Savings Bank, Eaglemark Savings Bank and/or its assigns, or HDCC noted as lienholder on the electronic lien or certificate of title for the motorcycle. Generally, it is the responsibility of the motorcycle dealer to ensure that contracts, and other documents to perfect the security interest in the motorcycle covered by the contract, are filed and recorded, or that the security interest is otherwise perfected. Eaglemark Savings Bank or HDCC, directly or through third-party collateral management service providers, verify lienholder accuracy, retain the title or the lienholder notification, and perform any necessary title maintenance to ensure continued perfection of the lien on the related motorcycle.
@@ -1329,6 +1420,8 @@ Underwriting
 For all contract originations, each applicant’s (or applicants’) credit application is underwritten and approved or declined in accordance with Eaglemark Savings Bank’s underwriting guidelines, and such guidelines have been reviewed and approved by the seller. These underwriting guidelines are intended to assess the applicant’s ability to repay all amounts due under the contract, based upon a review of the information contained in the credit application, the credit bureau reports, other consumer investigative reports and servicer records, and the related financed motorcycle as collateral. Eaglemark Savings Bank uses custom credit scoring models, information from certain reports, including credit bureau reports, and internally developed decision rules to help objectively assess an applicant’s creditworthiness and to help Eaglemark Savings Bank quantify credit risk. Until recently, custom credit scoring models were developed using a third-party provider; however, in the third fiscal quarter of 2023, Eaglemark Savings Bank began using an internally developed scorecard, which utilizes statistical analysis of Eaglemark Savings Bank’s and HDCC’s consumer portfolio databases of contracts originated in recent years to identify key variables that predict an applicant’s likelihood of repayment. Scoring models are used to differentiate credit applicants and to statistically segment credit risk into categories based on likelihood of repayment. Using credit scoring models does not eliminate credit risk. Eaglemark Savings Bank considers both negative factors such as past due credit, repossessions, loans charged off by other lenders and previous bankruptcy, and also positive factors such as favorable payment history, the presence of accounts with lengthy credit history, and responsible utilization of revolving credit lines. The credit decision process considers multiple factors, which may include credit information, employment and residence stability, application information, income, the ratio of the monthly contract payment to income, collateral characteristics, and the terms of the contract. Eaglemark Savings Bank makes its final credit decision based upon the perceived degree of credit risk, its assessment of the obligor’s ability to repay the loan, the collateral, and the loan credit structure.
 Credit applications are automatically evaluated and a majority are approved or declined based on an automated decisioning process in order to expedite the review of applications and allow Eaglemark Savings Bank to make and communicate underwriting decisions to dealers and consumers more quickly and efficiently than it otherwise would be able. The automated decisioning process approves or declines applications by applying the underwriting guidelines against data provided in the credit application, credit bureau reports, the servicer records, and consumer investigative reports using the custom credit scores and logic based on various combinations of credit factors that in Eaglemark Savings Bank’s experience have been predictive factors in credit performance. This automated review process evaluates key data elements, including but not limited to credit bureau attributes, external credit information, application information, income, the ratio of the monthly contract payment to income, loan and payment history with the servicer (if applicable), an internal custom credit score calculated from credit bureau data and a credit bureau score, and measures them against internally determined thresholds based on associated risk. Credit applications that are neither approved nor declined in the automated decisioning process are assigned to a credit analyst for
 38
+
+[PAGE 47 | printed 39]
 TABLE OF CONTENTS
 further evaluation. Failure to be approved by the automated decisioning model does not mean that a credit application does not meet Eaglemark Savings Bank’s underwriting standards. Many high quality applications are evaluated and approved by a credit analyst although they were not approved by the automated decisioning process. While the same underwriting standards are used for the automated decisioning process and the manual underwriting process, circumstances can arise such that a contract meets the underwriting standards but is not identified and approved during the automated decisioning process. For example, applicants with a FICO
 ®
@@ -1349,6 +1442,8 @@ FICO
 is a federally registered servicemark of Fair Isaac Corporation.
 ​
 39
+
+[PAGE 48 | printed 40]
 TABLE OF CONTENTS
 ​
 maximum available financing for new motorcycles generally ranges from 85% to 150% of the sum of MSRP plus 10% of MSRP in order to account for motorcycle customization. The maximum available financing for used motorcycles generally ranges from 60% to 150% of the NADA average retail value. For the seller’s most qualified obligors, the maximum advance rate for both new and used motorcycle financing may be up to twelve percentage points higher in limited circumstances.
@@ -1376,6 +1471,8 @@ The seller regularly makes a detailed analysis of its portfolio of contracts to 
 Electronic Contracting
 A majority of the contracts are originated electronically. Eaglemark Savings Bank, through its parent, has contracted with a third party to facilitate the process of creating and storing those electronic contracts. The e-contract system permits transmission, storage, access and administration of electronic contracts and comprises proprietary and third-party software, hardware, network communications equipment, lines and services, computer servers, data centers, support and maintenance services, security devices and other related technology that enable electronic contracting in the vehicle industry. Through use of the e-contract system, Eaglemark Savings Bank originates promissory notes and security agreements and then transfers the electronic contracts to HDCC.
 40
+
+[PAGE 49 | printed 41]
 TABLE OF CONTENTS
 ​
 ​
@@ -1388,6 +1485,8 @@ The servicer uses multiple technologies to provide customer service. For inbound
 The servicer applies almost all payments that are received before the designated processing time on each business day to an obligor’s account on the day payment is received. By the end of the next business day, the servicer researches, matches and applies most payments that do not include adequate information to identify the correct account for payment application. The remaining small number of payments that have not been matched to an account are researched and resolved with a payment application shortly thereafter. If a payment is applied to an obligor’s account but is later reversed, or if a misapplied payment is reversed or corrected, an account may have negative collections for the period. The servicer’s collection efforts include identifying the level of risk of a delinquent obligor using tools that include a custom behavior score, stage of delinquency and account balance, and prioritizing collection efforts based on that risk level. The custom behavior scoring model assesses the probability of payment default for each account and implements collection efforts based on its determination of the credit risk of the obligor on the payment due date. Variables considered by the model include obligor account history and account payment history. The model’s results guide the servicer to determine how soon an obligor is contacted after a payment is missed, allowing the servicer to prioritize collection efforts and improve and make more efficient the utilization of its resources in such collections.
 Delinquent obligors with a high level of risk may be contacted by the servicer’s personnel (or a third-party vendor) using a predictive dialer as early as two days past due and may be contacted on a regular basis thereafter; customer permissions are obtained, as appropriate, for contact by mobile phone. Lower risk delinquent obligors may be contacted later in delinquency. The servicer’s general approach is to
 41
+
+[PAGE 50 | printed 42]
 TABLE OF CONTENTS
 attempt to establish a repayment plan with the obligor of a delinquent contract as opposed to repossessing the related motorcycle; however, the servicer takes a risk-based approach with respect to a specific obligor, which includes both quantitative and qualitative factors such as the obligor’s responsiveness and ability to pay.
 The servicer makes reasonable efforts to collect on delinquent contracts and to keep contracts current. Repossession is based on analysis of risk factors and is utilized as the servicer deems appropriate to minimize loss; timing varies by circumstance. Self-help repossession is the method used by the servicer in most cases and usually is accomplished by using a vendor service to secure possession of the financed motorcycle. Some jurisdictions provide the obligor with reinstatement or redemption rights. Legal requirements, particularly in the event of bankruptcy or in cases where the obligor may have protections under the Servicemembers Civil Relief Act, may limit the servicer’s ability to repossess or dispose of the repossessed motorcycle. Upon repossession and after any prescribed waiting period, the repossessed motorcycle is reconditioned, as deemed appropriate, then generally sold at an auction and the proceeds from the sale of the motorcycle, and any other recoveries, are applied to the outstanding obligations under the contract, which may include fees and expenses relating to the repossession and disposition of the motorcycle. Liquidation proceeds from the sale of the repossessed motorcycle and other recoveries are usually not sufficient to cover the outstanding balance of the contract.
@@ -1404,6 +1503,8 @@ Additionally, the servicer may permit an obligor to change the monthly payment d
 In response to COVID-19, the servicer temporarily offered payment relief options to customers impacted by COVID-19 in the form of payment extensions for an initial period of up to two months. In addition to the initial two-month extension, obligors could request (i) an additional one-month extension for a maximum three months of extensions and (ii) if the obligor simultaneously made a payment on the contract, another one-month extension for a maximum of four months of extensions. It is possible that the servicer could implement such programs in the future to address similar or other economic impacts.
 The servicer is responsible for all servicing functions for the contracts. As is customary in the servicing industry, the servicer engages vendors to perform certain of its servicing processes. The vendors providing
 42
+
+[PAGE 51 | printed 43]
 TABLE OF CONTENTS
 ​
 ​
@@ -1419,6 +1520,8 @@ The administrator will separately pay the fees of the owner trustee in connectio
 The owner trustee’s liability in connection with the issuance and sale of the notes is limited solely to the express obligations set forth in the trust agreement, and the owner trustee will not be responsible for the action or inaction of the servicer or the administrator. The owner trustee of the issuing entity may resign at any time, in which event the administrator, on the issuing entity’s behalf, will be obligated to appoint a successor. If the owner trustee becomes insolvent or otherwise ceases to be eligible to continue in that capacity under the trust agreement, it may be removed by the administrator. In those circumstances, the issuing entity or the administrator, on the issuing entity’s behalf, will be obligated to appoint a successor. Any resignation or removal of the owner trustee will not become effective until acceptance of the appointment of a successor owner trustee. Any fees and expenses relating to the removal or replacement of the owner trustee will be paid by the administrator and will not be paid from collections or other amounts received in respect of the contracts.
 The owner trustee and any of its affiliates may hold notes in its own name or as a pledgee. For the purpose of meeting the legal requirements of some jurisdictions, the issuing entity and the owner trustee will have the power to appoint co-trustees or separate trustees of all or any part of the issuing entity.
 43
+
+[PAGE 52 | printed 44]
 TABLE OF CONTENTS
 ​
 Indenture Trustee
@@ -1434,6 +1537,8 @@ The indenture trustee fees will be paid by the administrator on behalf of the is
 The depositor and the issuing entity will indemnify the indenture trustee for, and will hold the indenture trustee harmless against, any loss, liability, fee, disbursement or expense incurred by it not resulting from its own willful misconduct, bad faith or negligence. The issuing entity or the administrator will also indemnify the indenture trustee for specified taxes that may be assessed in connection with the transaction.
 The indenture trustee’s liability in connection with the issuance and sale of the notes is limited solely to the express obligations set forth in the sale and servicing agreement or indenture, and the indenture trustee will not be responsible for the action or inaction of the servicer or the administrator. The indenture trustee may resign at any time, in which event the issuing entity or the administrator, on the issuing entity’s behalf, will be obligated to appoint a successor. If the indenture trustee becomes insolvent or otherwise ceases to be eligible to continue in its capacity under the indenture, it may be removed by the issuing entity or the administrator, on the issuing entity’s behalf. In those circumstances, the issuing entity or the
 44
+
+[PAGE 53 | printed 45]
 TABLE OF CONTENTS
 ​
 administrator, on the issuing entity’s behalf, will be obligated to appoint a successor. Any resignation or removal of the indenture trustee will not become effective until acceptance of the appointment of a successor indenture trustee. Any fees and expenses relating to the removal or replacement of an indenture trustee will be paid by the administrator and will not be paid from collections or other amounts received in respect of the contracts.
@@ -1463,6 +1568,8 @@ The servicer or the administrator, as applicable, on behalf of the issuing entit
 “Payments to the Noteholders—Distributions
 ” in this prospectus. The issuing entity will pay any of these amounts to the asset representations reviewer in excess of $200,000 per year only after paying in
 45
+
+[PAGE 54 | printed 46]
 TABLE OF CONTENTS
 ​
 full on each payment date all other fees and expenses of the issuing entity and all required payments of principal of and interest on the notes and after making any required deposits in the reserve fund.
@@ -1477,6 +1584,8 @@ The asset representations reviewer is not an affiliate of any of the depositor, 
 The sponsor (which is also the seller, the servicer and the administrator) and the depositor are affiliates and engage in transactions with each other involving the securitization of motorcycle receivables, including those described in this prospectus.
 The issuing entity will be a direct subsidiary or an affiliate of the depositor and an indirect subsidiary or an affiliate of the sponsor. The depositor will retain the certificate at closing and will retain the right to sell all or a portion of the certificate at any time, subject to Regulation RR. Following such a sale to an unaffiliated third party, the issuing entity may cease to be an affiliate of either the sponsor or the depositor.
 46
+
+[PAGE 55 | printed 47]
 TABLE OF CONTENTS
 ​
 ​
@@ -1519,6 +1628,8 @@ unit becoming a publicly traded company, with Harley-Davidson, Inc. maintaining 
 ®
 motorcycles and motorcycle parts and accessories.
 47
+
+[PAGE 56 | printed 48]
 TABLE OF CONTENTS
 ​
 ​
@@ -1581,6 +1692,8 @@ the contracts in the pool of contracts had remaining terms to maturity, as of th
 the contracts in the pool of contracts had a weighted average remaining term to maturity as of the cutoff date of approximately 60 months, and a weighted average original term to maturity of approximately 70 months;
 ​
 48
+
+[PAGE 57 | printed 49]
 TABLE OF CONTENTS
 •
 as of the cutoff date, the average outstanding principal balance per contract in the pool of contracts was approximately $20,120.48, and the outstanding principal balances on the contracts in the pool of contracts ranged from $505.57 to $64,731.00 (see Table 4 below);
@@ -1604,6 +1717,8 @@ The following tables describe the following characteristics of the pool of contr
 ®
 score as of the date of contract origination. At the time of and following the transfer of the contracts to the issuing entity, the aggregate characteristics of the pool of contracts will vary from those of the pool of contracts as of the cutoff date.
 49
+
+[PAGE 58 | printed 50]
 TABLE OF CONTENTS
 TABLE 1
 DISTRIBUTION BY CONTRACT INTEREST RATE OF THE POOL OF CONTRACTS
@@ -1662,6 +1777,8 @@ Asset-Level Information
 Percentages may not add to 100.00% because of rounding.
 ​
 50
+
+[PAGE 59 | printed 51]
 TABLE OF CONTENTS
 TABLE 3
 DISTRIBUTION BY ORIGINAL TERM (MONTHS) TO MATURITY
@@ -1715,6 +1832,8 @@ DISTRIBUTION BY OUTSTANDING PRINCIPAL BALANCE OF THE POOL OF CONTRACTS
 Percentages may not add to 100.00% because of rounding.
 ​
 51
+
+[PAGE 60 | printed 52]
 TABLE OF CONTENTS
 TABLE 5
 GEOGRAPHIC DISTRIBUTION OF THE POOL OF CONTRACTS
@@ -1761,6 +1880,8 @@ OKLAHOMA | ​ | ​ | ​ | ​ | 502 | ​ | ​ | ​ | ​ | ​ | 1.66 | �
 OREGON | ​ | ​ | ​ | ​ | 294 | ​ | ​ | ​ | ​ | ​ | 0.97 | ​ | ​ | ​ | ​ | ​ | 5,530,532.13 | ​ | ​ | ​ | ​ | ​ | 0.91 | ​ | ​
 [/TABLE_18]
 52
+
+[PAGE 61 | printed 53]
 TABLE OF CONTENTS
 [TABLE_19]
 geographic location (1) | ​ | ​ | number of contracts | ​ | ​ | percent of number of contracts (2) | ​ | ​ | total outstanding principal balance | ​ | ​ | percent of pool balance (2) | ​
@@ -1820,6 +1941,8 @@ scores obtained as of origination of each contract. There can be no assurance th
 ®
 scores will be an accurate predictor of the likelihood of repayment of the related contract or that any obligor’s credit score would not be lower if obtained as of the cutoff date.
 53
+
+[PAGE 62 | printed 54]
 TABLE OF CONTENTS
 ​
 TABLE 6
@@ -1855,6 +1978,8 @@ The pool composition and stratification tables under “
 The Contracts—Characteristics of the Contracts
 ” in this prospectus were reviewed by multiple parties, including third parties. The depositor determined the
 54
+
+[PAGE 63 | printed 55]
 TABLE OF CONTENTS
 ​
 ​
@@ -1886,6 +2011,8 @@ each contract is on a form contract that includes rights and remedies allowing t
 immediately before the sale of the contracts and other property to the depositor, HDCC had, and immediately following the sale the depositor will have, good title to the contracts and other property, free and clear of liens not permitted by the transaction documents.
 ​
 55
+
+[PAGE 64 | printed 56]
 TABLE OF CONTENTS
 ​
 ​
@@ -1908,6 +2035,8 @@ As seller, HDCC will make representations to the depositor about each contract. 
 Criteria for Selecting the Contracts”
 in this prospectus.
 56
+
+[PAGE 65 | printed 57]
 TABLE OF CONTENTS
 ​
 ​
@@ -1936,6 +2065,8 @@ The review will be performed on each contract that is 60 days or more delinquent
 review contracts
 ”). Within 60 days of the receipt of a review notice, the servicer will give the asset representations reviewer access to the contract files and other information necessary for the review of all of the review contracts. Upon receiving access to the review materials, the asset representations reviewer will start its review of the review contracts and complete its review within 60 days after receiving access to the review materials. The review period may be extended by up to an additional 30 days if review materials that the asset representations reviewer determines to be incomplete or insufficient are subsequently
 57
+
+[PAGE 66 | printed 58]
 TABLE OF CONTENTS
 ​
 ​
@@ -1953,6 +2084,8 @@ Dispute Resolution for Repurchase Requests
 If a request is made for the repurchase of a contract due to a breach of a representation and warranty made about the contracts and the repurchase is not resolved within 180 days after receipt by HDCC or the depositor of notice of the repurchase request, the requesting party, including a beneficial owner of a note, will have the right to refer the matter, in its discretion, to either mediation (including non-binding arbitration) or binding third-party arbitration. The requesting party must start the mediation or arbitration proceeding according to the rules of the mediation or arbitration organization within 90 days after the end of the 180-day period. HDCC and the depositor agree to participate in the dispute resolution method selected by the requesting party. Dispute resolution to resolve repurchase requests will be available regardless of whether the beneficial owner voted to direct an asset representations review or whether the delinquency trigger occurred.
 A mediation or arbitration will be administered by The American Arbitration Association using its mediation or arbitration rules in effect at the time of the proceeding. If The American Arbitration Association no longer exists, or if its rules would no longer permit mediation or arbitration of the dispute, the matter will be administered by another nationally recognized mediation or arbitration organization selected by HDCC, using its rules then in effect. However, if any rules of the mediation or arbitration organization are inconsistent with the procedures for the mediation or arbitration stated in the transaction documents, the procedures in the transaction documents will control. Any mediation or arbitration will be held in New
 58
+
+[PAGE 67 | printed 59]
 TABLE OF CONTENTS
 ​
 York City at the offices of the mediator or arbitrator or at another location selected by HDCC or the depositor. Any party or witness may appear by teleconference or video conference.
@@ -1967,6 +2100,8 @@ asset-level data
 ”) as an exhibit to Form ABS-EE that was filed by the issuing entity on or prior to the date of the filing of this prospectus, which is hereby incorporated by reference. The asset-level data comprises each of the data points required with respect to automobile loans identified on Schedule AL to Regulation AB and generally includes, with respect to each contract, information about the related financed motorcycle, information about the related obligor and information about the status of each contract and origination information.
 The asset-level data presented in the initial asset-level data filing may have been calculated as of different dates. Further, certain characteristics of the contracts are required to be calculated differently in the asset-level data filing than how they are calculated in this prospectus. As a result, certain asset-level data presented in this prospectus, including, but not limited to, such data related to original terms, remaining terms, and weighted averages, may not match the data presented in the initial asset-level data filing due to those differences in how this data is calculated.
 59
+
+[PAGE 68 | printed 60]
 TABLE OF CONTENTS
 ​
 Additionally, the servicer will provide updated asset-level data with respect to the contracts, including information about activity on the contracts, information about delinquencies on the contracts and information about modifications, charge offs and/or liquidations, as defined under the transaction documents, of the contracts, each month as an exhibit to the monthly distribution reports filed with the SEC on Form 10-D. The issuing entity’s CIK number is 0002017611.
@@ -2003,6 +2138,8 @@ Rounded to the nearest thousand; the sum of the amounts in each column may not m
 The period of delinquency is based on the number of days payment is contractually past due (assuming 30-day months). Consequently, a payment due on the first day of a month is not 30 days delinquent until the first day of the next month.
 ​
 60
+
+[PAGE 69 | printed 61]
 TABLE OF CONTENTS
 [TABLE_22]
 ​ | ​ | ​ | As of March 31, | ​
@@ -2051,6 +2188,8 @@ Net losses equal charge-offs net of recoveries. Repossessed collateral is carrie
 As a percentage of the outstanding balance of all contracts serviced, calculated on an annualized basis.
 ​
 61
+
+[PAGE 70 | printed 62]
 TABLE OF CONTENTS
 ​
 [TABLE_24]
@@ -2102,6 +2241,8 @@ range of contract balances;
 weighted average contract interest rate;
 ​
 62
+
+[PAGE 71 | printed 63]
 TABLE OF CONTENTS
 ​
 ​
@@ -2157,6 +2298,8 @@ Any prepayments, repurchases or purchases of contracts will reduce the average l
 prepayment
 ”
 63
+
+[PAGE 72 | printed 64]
 TABLE OF CONTENTS
 ​
 includes liquidations due to default, as well as receipt of proceeds from credit life, credit disability and casualty insurance policies and debt cancellation agreements).
@@ -2212,6 +2355,8 @@ occurs; and
 all fees and expenses, other than the servicing fee, are equal to zero.
 ​
 64
+
+[PAGE 73 | printed 65]
 TABLE OF CONTENTS
 The ABS Tables also assume that the contracts have been aggregated into hypothetical pools with all of the contracts within each pool having the following characteristics and that the scheduled monthly payment for each of the pools will be such that each pool will be fully amortized by the end of its remaining term to maturity.
 [TABLE_25]
@@ -2228,6 +2373,8 @@ Total: | ​ | ​ | ​ | $ | 607,819,486.44 | ​ | ​ | ​ | ​ | ​ | 9.
 The ABS Tables indicate the projected weighted average life of each class of notes and set forth the percentage of the initial principal amount of each class of notes that is projected to be outstanding after each of the payment dates shown at various constant ABS percentages.
 The actual characteristics and performance of the contracts will differ from the assumptions used to prepare the ABS Tables. The assumptions used are hypothetical and have been provided only to give a general sense of how the principal cash flows might behave under varying prepayment rates. Any difference between the assumptions and the actual characteristics and performance of the contracts or actual prepayment experience will affect the percentages of initial principal amounts outstanding over time and the weighted average lives of each class of notes.
 65
+
+[PAGE 74 | printed 66]
 TABLE OF CONTENTS
 [TABLE_26]
 ​ | ​ | ​ | Class A-1 Notes | ​
@@ -2256,6 +2403,8 @@ The weighted average life of a note is determined by (i) multiplying the amount 
 Assumes that the servicer exercises its clean-up call option on the earliest payment date on which it is permitted.
 ​
 66
+
+[PAGE 75 | printed 67]
 TABLE OF CONTENTS
 [TABLE_27]
 ​ | ​ | ​ | Class A-2 Notes | ​
@@ -2303,6 +2452,8 @@ The weighted average life of a note is determined by (i) multiplying the amount 
 Assumes that the servicer exercises its clean-up call option on the earliest payment date on which it is permitted.
 ​
 67
+
+[PAGE 76 | printed 68]
 TABLE OF CONTENTS
 [TABLE_28]
 ​ | ​ | ​ | Class A-3 Notes | ​
@@ -2351,6 +2502,8 @@ Closing Date | ​ | ​ | ​ | ​ | 100.00 % | ​ | ​ | ​ | ​ | ​ | 
 9/15/2027 | ​ | ​ | ​ | ​ | 57.02 % | ​ | ​ | ​ | ​ | ​ | 37.79 % | ​ | ​ | ​ | ​ | ​ | 16.70 % | ​ | ​ | ​ | ​ | ​ | 0.00 % | ​ | ​ | ​ | ​ | ​ | 0.00 % | ​ | ​ | ​ | ​ | ​ | 0.00 % | ​ | ​ | ​ | ​ | ​ | 0.00 % | ​ | ​
 [/TABLE_28]
 68
+
+[PAGE 77 | printed 69]
 TABLE OF CONTENTS
 [TABLE_29]
 ​ | ​ | ​ | Class A-3 Notes | ​
@@ -2382,6 +2535,8 @@ The weighted average life of a note is determined by (i) multiplying the amount 
 Assumes that the servicer exercises its clean-up call option on the earliest payment date on which it is permitted.
 ​
 69
+
+[PAGE 78 | printed 70]
 TABLE OF CONTENTS
 [TABLE_30]
 ​ | ​ | ​ | Class A-4 Notes | ​
@@ -2430,6 +2585,8 @@ Closing Date | ​ | ​ | ​ | ​ | 100.00 % | ​ | ​ | ​ | ​ | ​ | 
 9/15/2027 | ​ | ​ | ​ | ​ | 100.00 % | ​ | ​ | ​ | ​ | ​ | 100.00 % | ​ | ​ | ​ | ​ | ​ | 100.00 % | ​ | ​ | ​ | ​ | ​ | 92.55 % | ​ | ​ | ​ | ​ | ​ | 0.00 % | ​ | ​ | ​ | ​ | ​ | 0.00 % | ​ | ​ | ​ | ​ | ​ | 0.00 % | ​ | ​
 [/TABLE_30]
 70
+
+[PAGE 79 | printed 71]
 TABLE OF CONTENTS
 ​
 ​
@@ -2472,6 +2629,8 @@ This summary describes the material terms of the indenture and the notes. This s
 General
 The offered notes will be issued pursuant to the terms of the indenture between the issuing entity and the indenture trustee, a form of which was filed with the SEC as an exhibit to the registration statement of which this prospectus is a part. The offered notes will be delivered in book-entry form only and will be issued in initial denominations of $1,000 and multiples thereof.
 71
+
+[PAGE 80 | printed 72]
 TABLE OF CONTENTS
 ​
 ​
@@ -2504,6 +2663,8 @@ provided, however, that
 if (A) a contract is repurchased from the issuing entity by the depositor because of a breach or
 ​
 72
+
+[PAGE 81 | printed 73]
 TABLE OF CONTENTS
 ​
 potential breach of a representation or warranty or is purchased by the servicer because of a breach or potential breach of its servicing obligations relating to such contract, or (B) the servicer gives notice of its intent to purchase the contracts in connection with an optional redemption of the notes, in each case the principal balance of such contract or contracts shall be deemed to be zero for the calendar month in which such event occurs and for each due period thereafter; and
@@ -2551,6 +2712,8 @@ any accrued and unpaid servicing fees and indenture trustee fees to the date of 
 ​
 The servicer will furnish each rating agency notice of such redemption and will furnish notice of such redemption to the indenture trustee not later than 20 days prior to the date on which the notes will be
 73
+
+[PAGE 82 | printed 74]
 TABLE OF CONTENTS
 ​
 ​
@@ -2590,6 +2753,8 @@ to convey, transfer, assign, mortgage or pledge any property to or with the inde
 to cure any ambiguity, to correct or supplement any provision in the indenture which may be inconsistent with any other provision in the indenture and the other transaction documents or this prospectus, or to add any other provision with respect to matters or questions arising under the indenture and the other transaction documents or this prospectus; provided that such action will not adversely affect the interests of the noteholders;
 ​
 74
+
+[PAGE 83 | printed 75]
 TABLE OF CONTENTS
 ​
 ​
@@ -2639,6 +2804,8 @@ a default in the payment of the principal of or any installment of the principal
 a default in the observance or performance of any covenant or agreement of the issuing entity made in the indenture (other than those specifically addressed in the indenture), which default has a material adverse effect on the noteholders and continues for 30 days after written notice thereof is given to the issuing entity by the indenture trustee or by holders of at least 25% of the aggregate outstanding principal amount of the notes;
 ​
 75
+
+[PAGE 84 | printed 76]
 TABLE OF CONTENTS
 •
 any representation or warranty made by the issuing entity in the indenture or in any certificate or other writing delivered pursuant thereto was incorrect in any material respect as of the time made, and continues to be incorrect for a period of 30 days after notice thereof is given to the issuing entity by the indenture trustee or by holders of at least 25% of the aggregate outstanding principal amount of the notes; and
@@ -2678,6 +2845,8 @@ Payments to the Noteholders—Distributions
 ”.
 If an event of default occurs and is continuing, the indenture trustee will be under no obligation to exercise any of the rights or powers under the indenture at the request or direction of any of the noteholders if the indenture trustee reasonably believes it will not be adequately indemnified against the costs, expenses and liabilities which it may incur in complying with that request. Subject to the preceding sentence, holders of more than 50% of the aggregate outstanding principal amount of the notes will have the right to direct the time, method and place of conducting any proceeding for any remedy available to the indenture trustee. Additionally, holders of more than 50% of the aggregate outstanding principal amount of the notes may,
 76
+
+[PAGE 85 | printed 77]
 TABLE OF CONTENTS
 ​
 in some cases, waive any default, except a default in the payment of principal or interest or a default in respect of a covenant or provision of the indenture that cannot be modified without the waiver or consent of all of the holders of the outstanding notes.
@@ -2724,6 +2893,8 @@ any action as is necessary to maintain the lien and security interest of the ind
 the issuing entity has delivered to the indenture trustee an officer’s certificate and an opinion of counsel (which shall describe the actions taken as required by the immediately preceding bullet above or that no such actions will be taken) each stating that such consolidation or merger and such
 ​
 77
+
+[PAGE 86 | printed 78]
 TABLE OF CONTENTS
 ​
 ​
@@ -2786,6 +2957,8 @@ reserve fund
 distribution account
 ”.
 78
+
+[PAGE 87 | printed 79]
 TABLE OF CONTENTS
 ​
 ​
@@ -2815,6 +2988,8 @@ Credit Enhancement—The Reserve Fund
 ” below.
 Amounts held from time to time in the reserve fund will be held for the benefit of noteholders and will be invested at the direction of the servicer in investments meeting the requirements specified in the sale and servicing agreement. Investment income on those investments will be deposited into the reserve fund. If the amount on deposit in the reserve fund on any payment date exceeds the amount that is required to be on deposit in the reserve fund on that payment date (after giving effect to all deposits thereto and withdrawals therefrom on such payment date), the indenture trustee will withdraw that excess and pay it to the certificateholder. Upon any distribution to the certificateholder of those excess amounts, the noteholders will not have any rights in, or claims to, those amounts.
 79
+
+[PAGE 88 | printed 80]
 TABLE OF CONTENTS
 ​
 ​
@@ -2855,6 +3030,8 @@ Certain Information Regarding the Notes
 Noteholder Communication
 A noteholder may communicate with the indenture trustee and provide notices and make requests and demands and give directions to the indenture trustee as permitted by the transaction documents through
 80
+
+[PAGE 89 | printed 81]
 TABLE OF CONTENTS
 ​
 the procedures of DTC and by notice to the indenture trustee. For purposes of this section, a “noteholder” is the beneficial owner of a note.
@@ -2899,6 +3076,8 @@ clearing corporations;
 ​
 and may include other organizations.
 81
+
+[PAGE 90 | printed 82]
 TABLE OF CONTENTS
 Indirect access to the DTC system is also available to others such as banks, brokers, dealers and trust companies that clear through or maintain a custodial relationship with a direct participant, either directly or indirectly.
 To facilitate subsequent transfers, DTC will register all deposited notes in the name of DTC’s nominee, Cede & Co. The deposit of the notes with DTC and their registration in the name of Cede & Co. do not effect any change in beneficial ownership. DTC has no knowledge of the actual holders of the notes; DTC’s records only identify its direct participants to whose accounts the notes are credited, which may or may not be the beneficial owners of the notes. DTC’s direct and indirect participants will remain responsible for keeping account of their holdings on behalf of their customers.
@@ -2919,6 +3098,8 @@ Standing instructions and customary practices govern payments by DTC participant
 Purchases of notes under the DTC system must be made by or through direct participants, which will receive a credit for the notes on DTC’s records. The ownership interests of actual beneficial owners are in turn to be recorded on the direct participants’ and indirect participants’ records. You will not receive written confirmation from DTC of your purchase, but you are expected to receive written confirmations providing details of the transaction, as well as periodic statements of your holdings, from the direct participant or indirect participant through which you entered into the transaction. Entries made on the books of DTC’s participants acting on behalf of you evidence transfers of ownership interests in the notes.
 DTC has advised the depositor that it will take any action permitted to be taken by a holder of notes only at the direction of one or more direct participants to whose accounts with DTC the notes are credited. Additionally, DTC has advised the depositor that to the extent that the trust agreement or the indenture, as applicable, requires that any action may be taken only by holders representing a specified percentage of the aggregate outstanding principal amount of the notes, DTC will take the action only at the direction of and on behalf of direct participants whose holdings include undivided interests that satisfy the specified percentage.
 82
+
+[PAGE 91 | printed 83]
 TABLE OF CONTENTS
 ​
 DTC may discontinue providing its services as depository with respect to any class of notes at any time by giving reasonable notice to the indenture trustee. Under these circumstances, in the event that a successor depository is not obtained, fully registered, definitive notes are required to be printed and delivered. The issuing entity may decide to discontinue use of the system of book-entry transfers through DTC or a successor notes depository. In that event, fully registered, definitive notes will be delivered to you. See “—
@@ -2938,6 +3119,8 @@ The issuing entity will issue the notes in fully registered, definitive form to 
 DTC is no longer willing or able to discharge properly its responsibilities as depository with respect to the notes, and the indenture trustee is unable to locate a qualified successor;
 ​
 83
+
+[PAGE 92 | printed 84]
 TABLE OF CONTENTS
 ​
 ​
@@ -2964,6 +3147,8 @@ the original denomination of the notes of the class you own; and
 the decimal factor relating to the class of notes at the time of determination (calculated as described above).
 ​
 84
+
+[PAGE 93 | printed 85]
 TABLE OF CONTENTS
 ​
 ​
@@ -3012,6 +3197,8 @@ The following table describes the fees and expenses that are paid or payable out
 Distributions
 ” below.
 85
+
+[PAGE 94 | printed 86]
 TABLE OF CONTENTS
 ​
 ​
@@ -3057,6 +3244,8 @@ Servicing Fee—the monthly servicing fee, including any unpaid monthly servicin
 Indenture Trustee Fee and Expenses—to the indenture trustee, to the extent not already paid by the administrator on behalf of the issuing entity, (i) the indenture trustee fee, including any unpaid
 ​
 86
+
+[PAGE 95 | printed 87]
 TABLE OF CONTENTS
 indenture trustee fee with respect to one or more prior payment dates, and (ii) expenses and indemnity amounts, up to an amount not to exceed $150,000 per calendar year;
 (4)
@@ -3093,6 +3282,8 @@ On each payment date after an event of default under the indenture and the accel
 ​ | second, Asset Representations Reviewer Fee and Expenses—to the asset representations reviewer, to the extent not already paid by the administrator on behalf of the issuing entity, the asset representations reviewer fee and expenses and indemnity amounts due and owing under the asset representations review agreement, up to an amount not to exceed $200,000 per calendar year; | ​
 [/TABLE_33]
 87
+
+[PAGE 96 | printed 88]
 TABLE OF CONTENTS
 ​
 ​
@@ -3136,6 +3327,8 @@ security interests in the financed motorcycles securing the contracts and any re
 the rights to proceeds from claims on theft, physical damage, credit life and disability or other individual insurance policies (including any applicable “forced place” policy) and any debt insurance policy or debt cancellation agreements covering the financed motorcycles or the obligors;
 ​
 88
+
+[PAGE 97 | printed 89]
 TABLE OF CONTENTS
 ​
 ​
@@ -3185,6 +3378,8 @@ On the closing date:
 the seller will sell, transfer, assign, set over and otherwise convey to the depositor the contracts and related assets;
 ​
 89
+
+[PAGE 98 | printed 90]
 TABLE OF CONTENTS
 ​
 •
@@ -3230,6 +3425,8 @@ In the event of an uncured breach of any representation or warranty with respect
 “Representations, Repurchase, and Asset Representations Review—Obligations to Repurchase Contracts”
 .
 90
+
+[PAGE 99 | printed 91]
 TABLE OF CONTENTS
 ​
 ​
@@ -3274,6 +3471,8 @@ reviewing the contract files in the normal course of business;
 billing, collecting and recording payments from obligors;
 ​
 91
+
+[PAGE 100 | printed 92]
 TABLE OF CONTENTS
 ​
 •
@@ -3299,6 +3498,8 @@ The servicer will be obligated to deliver to the owner trustee and the indenture
 In addition, the servicer will be obligated to deliver to the indenture trustee an annual statement of compliance signed by an officer of the servicer stating that a review of the servicer’s activities during the immediately preceding fiscal year of the issuing entity and of its performance under the sale and servicing agreement has been made under such officer’s supervision and that to the best of such officer’s knowledge based on such review, the servicer has fulfilled all of its obligations under the sale and servicing agreement in all material respects throughout the immediately preceding fiscal year of the issuing entity or, if there has been a failure to fulfill any such obligation in any material respect, specifying each such failure known to such officer and the nature and status thereof.
 You may obtain copies of these reports and certificates by delivering a request (through DTC) in writing to the indenture trustee at the address set forth in this prospectus.
 92
+
+[PAGE 101 | printed 93]
 TABLE OF CONTENTS
 ​
 ​
@@ -3324,6 +3525,8 @@ Rights upon Servicer Default
 If a servicer default remains unremedied, the indenture trustee or the holders of a majority of the aggregate outstanding principal amount of the notes may terminate all (but not less than all) of the rights and obligations of the servicer under the sale and servicing agreement (provided, however, that any indemnification obligations of the servicer that arose prior to such termination will survive). When this happens, the indenture trustee will succeed to all of the responsibilities, duties and liabilities of the servicer under the sale and servicing agreement. If the indenture trustee is unwilling or legally unable to act as the successor servicer, the indenture trustee or the holders of a majority of the aggregate outstanding principal amount of the notes may appoint a successor servicer.
 Compensation to any successor servicer may not exceed the servicing fee payable to the servicer. Any successor servicer will not be liable for any acts or omissions of the prior servicer occurring prior to such transfer of the servicer’s servicing and related functions or for any breach by the prior servicer of any of its representations and warranties contained in any of the transaction documents. Following the appointment of
 93
+
+[PAGE 102 | printed 94]
 TABLE OF CONTENTS
 ​
 ​
@@ -3355,6 +3558,8 @@ the amount of servicing fees payable to the servicer and fees and other amounts 
 the amount of principal and interest due on that payment date for any class of notes that was not paid during the prior month, and the change in such amounts from the immediately preceding payment date;
 ​
 94
+
+[PAGE 103 | printed 95]
 TABLE OF CONTENTS
 ​
 ​
@@ -3396,6 +3601,8 @@ The servicer will be obligated to advance each month an amount equal to accrued 
 Payments to the Noteholders—Servicing Compensation and Reimbursement of Servicer Advances
 ” in this prospectus.
 95
+
+[PAGE 104 | printed 96]
 TABLE OF CONTENTS
 ​
 ​
@@ -3426,6 +3633,8 @@ that adversely affects the priority of payment of principal or interest to the n
 that reduces the percentage of noteholders required to consent to these amendments or any waiver under the transfer and servicing agreement,
 ​
 96
+
+[PAGE 105 | printed 97]
 TABLE OF CONTENTS
 ​
 ​
@@ -3443,6 +3652,8 @@ Authority and Duties of the Owner Trustee
 The owner trustee will administer the issuing entity in the interest of the certificateholder, subject to the lien of the indenture, in accordance with the trust agreement and the other transaction documents. In addition, the owner trustee will cooperate with the administrator in carrying out the administrator’s obligation to qualify and preserve the issuing entity’s qualification to do business in each jurisdiction, if any, in which such qualification is or shall be necessary to protect the validity and enforceability of the indenture, the notes, the contracts and any other instrument and agreement included in the trust estate. The owner trustee may rely on advice of counsel with respect to such obligation.
 The owner trustee will not be required to perform any of the obligations of the issuing entity under the trust agreement or the other transaction documents that are required to be performed by the administrator under the administration agreement. In addition, the owner trustee will have no liability or obligation to perform the obligations of the issuing entity under the transaction documents other than as set forth in the trust agreement.
 97
+
+[PAGE 106 | printed 98]
 TABLE OF CONTENTS
 ​
 The owner trustee will not manage, control, use, sell, dispose of or otherwise deal with any part of the issuing entity property except in accordance with (i) the powers granted to and the authority conferred upon the owner trustee pursuant to the trust agreement, (ii) the other transaction documents to which the issuing entity or the owner trustee is a party, and (iii) any document or instruction delivered to the owner trustee pursuant to the trust agreement.
@@ -3490,6 +3701,8 @@ authorize the merger or consolidation of the issuing entity with or into any oth
 amend the certificate of trust.
 ​
 98
+
+[PAGE 107 | printed 99]
 TABLE OF CONTENTS
 ​
 ​
@@ -3528,6 +3741,8 @@ increase or reduce in any manner the amount of, or accelerate or delay the timin
 eliminate the requirement for certificateholder’s consent or reduce the percentage of the outstanding amount of the certificates required to consent to any such amendment (as set forth in the trust agreement).
 ​
 99
+
+[PAGE 108 | printed 100]
 TABLE OF CONTENTS
 ​
 ​
@@ -3549,6 +3764,8 @@ Perfection
 A security interest in a financed motorcycle is governed by the laws of the state under whose certificate of title the financed motorcycle is covered. A security interest in a motor vehicle is perfected by obtaining possession of the certificate of title to the motor vehicle or by notation of the secured party’s lien on the motor vehicle’s certificate of title.
 All contracts acquired by the seller from Eaglemark Savings Bank will name either Eaglemark Savings Bank, Eaglemark Savings Bank and/or its assigns, or HDCC as the secured party. The seller will also take all actions necessary under the laws of the state under whose certificate of title the related financed motorcycle is covered to perfect its security interest in that financed motorcycle, including, where applicable, having a notation of its lien recorded on the related certificate of title, obtaining possession of that certificate of title and/or filing financing statements. Because Harley-Davidson Credit Corp. will continue to service the contracts as servicer under the sale and servicing agreement, the obligors on the contracts will not be notified of the sale from the seller to the depositor or the sale from the depositor to the issuing entity or the pledge by the issuing entity to the indenture trustee.
 100
+
+[PAGE 109 | printed 101]
 TABLE OF CONTENTS
 The seller will sell and assign its security interest in the financed motorcycles to the depositor, the depositor will assign its security interest in the financed motorcycles to the issuing entity, and the issuing entity will assign its security interest in the financed motorcycles to the indenture trustee. Generally, Eaglemark Savings Bank or Eaglemark Savings Bank and/or its assigns will be named as lienholder on the certificate of title for each financed motorcycle. Because of the administrative burden and expense, none of the seller, the depositor or the issuing entity will amend any certificate of title to identify the issuing entity or indenture trustee as the new secured party on that certificate of title relating to a financed motorcycle.
 UCC financing statements with respect to the transfer to the depositor of the seller’s security interest in the financed motorcycles, the transfer to the issuing entity of the depositor’s security interest in the financed motorcycles and the pledge to the indenture trustee of the issuing entity’s security interest in the financed motorcycles will be filed. In addition, the servicer (or a third-party service provider on behalf of the servicer) will continue to hold any certificates of title relating to the financed motorcycles in its possession as custodian for the issuing entity and the indenture trustee. See “
@@ -3561,6 +3778,8 @@ and
 in this prospectus.
 As mentioned above, the requirements for the creation, perfection, transfer and release of liens in financed vehicles are generally governed by state law, and these requirements vary on a state-by-state basis. Failure to comply with these detailed requirements could result in the release of the lien on the motorcycle or other adverse consequences. Some states permit the release of a lien on a vehicle upon the presentation by the dealer, obligor or persons other than the servicer to the applicable state registrar of liens of various forms of evidence that the debt secured by the lien has been paid in full. For example, New York law provides that a dealer who receives a vehicle for resale and satisfies any security interest in such vehicle, but has not received a release of the security interest for such vehicle, may apply to the commissioner of motor vehicles for a certificate of title free of liens, upon the submission of proof that the security interest in such vehicle has been satisfied. The law authorizes the commissioner to release a lien on a vehicle to a dealer without the confirmation or involvement of the lienholder. Because the lien on a motorcycle may be released without confirmation from the lienholder that the lien and security interest have actually been satisfied, it is possible that the lien on a motorcycle in New York may be released by a dealer through negligence, mistake, fraud, inadvertence or similar circumstances.
 101
+
+[PAGE 110 | printed 102]
 TABLE OF CONTENTS
 ​
 ​
@@ -3575,6 +3794,8 @@ In the event of default by an obligor, the holder of the related contract has al
 Notice of Sale; Redemption Rights
 The UCC and other state laws require the secured party to provide an obligor with reasonable notice of the date, time and place of any public sale and/or the date after which any private sale of the collateral may
 102
+
+[PAGE 111 | printed 103]
 TABLE OF CONTENTS
 ​
 ​
@@ -3596,6 +3817,8 @@ an attempt were to be made to litigate any of the foregoing issues.
 ​
 On the closing date, FisherBroyles LLP will give an opinion to the effect that, based on a reasoned analysis of analogous case law, although there is no precedent based on directly similar facts, and, subject to facts, assumptions and qualifications specified in the opinion and applying the principles set forth in the opinion, in the event of a voluntary or involuntary bankruptcy case in respect of the seller under Title 11 of the United States Bankruptcy Code at a time when the seller was insolvent, the property of the depositor would not properly be substantively consolidated with the assets of the seller. Among other things, that
 103
+
+[PAGE 112 | printed 104]
 TABLE OF CONTENTS
 ​
 opinion will assume that each of the depositor and the seller will follow specified procedures in the conduct of its affairs, including maintaining records and books of account separate from those of the other, refraining from commingling its assets with those of the other, and refraining from holding itself out as having agreed to pay, or being liable for, the debts of the other. The depositor and the seller intend to follow these and other procedures related to maintaining their separate identities. However, there can be no assurance that a court would not conclude that the assets and liabilities of the depositor should be consolidated with those of the seller.
@@ -3607,6 +3830,8 @@ Bank Insolvency
 Eaglemark Savings Bank is organized as a Nevada thrift and is regulated and supervised by the Department of Business and Industry Financial Institutions Division, which is authorized to appoint the FDIC as a conservator or receiver for Eaglemark Savings Bank if specified events occur relating to Eaglemark Savings Bank’s financial condition or the propriety of its actions. In addition, the FDIC could appoint itself as conservator or receiver for Eaglemark Savings Bank.
 If Eaglemark Savings Bank becomes insolvent, is in an unsound condition, violates its bylaws or regulations or engages in similar activity, the FDIC could be appointed as conservator or receiver for Eaglemark Savings Bank. In a receivership or conservatorship of Eaglemark Savings Bank, the FDIC as receiver or conservator could, among other things, repudiate the transfer of contracts to Harley-Davidson Credit Corp. The FDIC has issued regulations that limit the FDIC’s potential use of its repudiation powers in the context of securitization transactions, so long as certain conditions are satisfied. Sales of contracts pursuant to the bank sale and participation agreement are effected on a daily basis in the ordinary course of business of Eaglemark Savings Bank. Eaglemark Savings Bank sells all of its right, title and interest in each contract to Harley-Davidson Credit Corp. Both Eaglemark Savings Bank and Harley-Davidson Credit
 104
+
+[PAGE 113 | printed 105]
 TABLE OF CONTENTS
 ​
 Corp. treat each transfer of a contract as an absolute sale to Harley-Davidson Credit Corp., without recourse, and each transfer is accounted for as a “sale” under GAAP. Harley-Davidson Credit Corp., as seller, will determine which contracts are to be included in the securitization transactions contemplated by the offerings of the notes. Since Harley-Davidson Credit Corp. is not itself an FDIC-insured bank, the transfers will not be structured to fall under any of the FDIC regulations or safe harbors.
@@ -3633,6 +3858,8 @@ an OLA proceeding would mitigate these effects.
 No assurances can be given that OLA would not apply to HDCC or its affiliates, including the depositor and the issuing entity.
 If the FDIC were appointed receiver of HDCC or its affiliates, the FDIC would, among other powers, have the power to repudiate any contract to which the entity in receivership was a party, and might seek to use such power to recover any receivables transferred under any such contract, if the FDIC determined that performance of the contract was burdensome and that repudiation would promote the orderly administration of such entity’s affairs. The FDIC’s repudiation power also extends to continuing obligations of any such entity, including, as applicable, the entity’s obligation to repurchase receivables for breaches of representation or warranty as well as its obligation to service the contracts. Based on a January 2011 advisory opinion issued by the then-acting general counsel of the FDIC, the FDIC will not seek to exercise its authority to repudiate contracts to recover receivables transferred by an entity in receivership under a contract prior to the end of a transition period, provided that such transfer satisfies the conditions for exclusion of such assets from the property of the estate of such entity under the U.S. Bankruptcy Code. Although counsel for HDCC will deliver an opinion to HDCC to the effect that the contracts transferred to the depositor would not be property of the estate of HDCC in a proceeding under the U.S. Bankruptcy Code, there is no assurance that the FDIC would agree with such opinion. The FDIC advisory opinion states that it does not bind the FDIC or its Board of Directors and may be modified or withdrawn in the future.
 105
+
+[PAGE 114 | printed 106]
 TABLE OF CONTENTS
 ​
 If the issuing entity were to become subject to OLA, the FDIC could seek to repudiate the notes. If it did so, the noteholders would have a claim in the receivership for their “actual direct compensatory damages” for no less than the principal amount of the notes plus interest accrued to the date the FDIC was appointed receiver and, if the value of the collateral securing the notes exceeds such amount, the noteholders would have a claim for interest accrued after the appointment at least through the date of repudiation (although the allowed claim may be for less than the contract rate of interest). Noteholders would be stayed from accelerating the notes or exercising any other rights or remedies for a period of 90 days after a receiver was appointed and might have to present and prove their claims in the receivership, which could further delay the exercise of such rights.
@@ -3645,6 +3872,8 @@ FTC Rule
 ”), the provisions of which are generally duplicated by the Uniform Consumer Credit Code, other statutes or the common law in some states, has the effect of subjecting a creditor (and its assignees) in certain consumer credit transactions to all claims and defenses that the obligor in the transaction could assert against the seller of the goods being financed. Liability under the FTC Rule is limited to the amounts paid by the obligor under the contract, and the holder of the contract may also be unable to collect any balance remaining due under that contract from the obligor.
 The contracts generally will be subject to the requirements of the FTC Rule. Accordingly, the issuing entity, as holder of the related contracts, will be subject to any claims or defenses that the purchaser of the applicable financed motorcycle may assert against the dealer that sold the related financed motorcycle. As to each obligor, these claims are limited to a maximum liability equal to the amounts paid by the obligor on the related contract. Under most state motor vehicle dealer licensing laws, sellers of motorcycles are required to be licensed to sell motorcycles at retail sale. Furthermore, federal odometer regulations promulgated under the Motor Vehicle Information and Cost Savings Act require that all sellers of new and used motorcycles furnish a written statement signed by the seller certifying the accuracy of the odometer reading. If the motorcycle dealer is not properly licensed or if a written odometer disclosure statement was not provided to the purchaser of the related financed motorcycle, an obligor may be able to assert a defense against the motorcycle dealer. If an obligor were successful in asserting any of those claims or defenses, that claim or
 106
+
+[PAGE 115 | printed 107]
 TABLE OF CONTENTS
 ​
 ​
@@ -3670,6 +3899,8 @@ Additionally, the CFPB has issued new rules for third party debt collectors, and
 Other Considerations
 In addition to the laws limiting or prohibiting deficiency judgments, numerous other statutory provisions, including federal bankruptcy laws and related state laws, may interfere with or affect the ability
 107
+
+[PAGE 116 | printed 108]
 TABLE OF CONTENTS
 ​
 of a secured party to realize upon collateral or to enforce a deficiency judgment. For example, in a Chapter 13 proceeding under the United States Bankruptcy Code, a court may prevent a creditor from repossessing a vehicle and, as part of the rehabilitation plan, reduce the amount of the secured indebtedness to the market value of the vehicle at the time of bankruptcy, as determined by the court, leaving the creditor as a general unsecured creditor for the remainder of the indebtedness. A bankruptcy court may also reduce the monthly payments due under a contract or change the rate of interest and time of repayment of the indebtedness.
@@ -3696,6 +3927,8 @@ an estate the income of which is subject to U.S. federal income taxation regardl
 a trust (i) whose administration is subject to the primary supervision of a court within the United States and all substantial decisions of which are subject to the control of one or more United States persons as described in Section 7701(a)(30) of the Internal Revenue Code or (ii) that has a valid election in effect under applicable Treasury regulations to be treated as a United States person.
 ​
 108
+
+[PAGE 117 | printed 109]
 TABLE OF CONTENTS
 ​
 For purposes of this summary, a “
@@ -3707,6 +3940,8 @@ Classification of the Notes as Indebtedness; Tax Characterization of Issuing Ent
 The determination of whether an instrument is classified as indebtedness, rather than as equity, for U.S. federal income tax purposes requires a judgment based on all relevant facts and circumstances. There is no statutory, judicial, or administrative authority that directly addresses the U.S. federal income tax treatment of an instrument similar to the notes. FisherBroyles LLP, federal tax counsel to the issuing entity, is of the opinion that, subject to certain assumptions and qualifications, the notes owned by parties unaffiliated with the depositor will be characterized for U.S. federal income tax purposes as indebtedness when issued, and the issuing entity will not be characterized as an association (or publicly traded partnership) taxable as a corporation for U.S. federal income tax purposes. The assumptions upon which this opinion is based include (i) the assumption of continuing compliance with the indenture and the trust agreement, and (ii) the assumption that the depositor, and any other owner of the certificate, will take all action necessary to prevent the certificates from being treated for purposes of Section 7704 of the Internal Revenue Code as being traded on an established securities market or as being readily tradable on a secondary market (or the substantial equivalent thereof). This opinion is not binding on the IRS or any court and there can be no assurance that the IRS or a court will agree with this opinion.
 It is possible that the IRS could assert that, for U.S. federal income tax purposes, one or more classes of the notes are not classified as indebtedness but are instead treated as an interest in the assets of the issuing
 109
+
+[PAGE 118 | printed 110]
 TABLE OF CONTENTS
 ​
 ​
@@ -3737,6 +3972,8 @@ If the “issue price” of a note (other than a short-term note, as defined bel
 de minimis
 amount equal to
 110
+
+[PAGE 119 | printed 111]
 TABLE OF CONTENTS
 0.25% of the stated redemption price at maturity multiplied by the number of complete years to its maturity (or, in the case of a note providing for the payment of any amount other than qualified stated interest, as defined below, prior to maturity, multiplied by the weighted average maturity of the note), then the difference is treated as original issue discount (
 “OID”
@@ -3757,6 +3994,8 @@ OID generally must include such
 de minimis
 OID in income, as capital gain, on a pro rata basis as principal payments are made on the note.
 111
+
+[PAGE 120 | printed 112]
 TABLE OF CONTENTS
 ​
 Acquisition premium
@@ -3774,6 +4013,8 @@ Amortizable Bond Premium
 If a U.S. holder purchases a note at a cost that is greater than the stated redemption price at maturity of the note, the excess will be treated as “amortizable bond premium” under Section 171 of the Internal Revenue Code, and the U.S. holder may elect to amortize the premium as an offset to interest income otherwise required to be included in income in respect of the note during the taxable year, using a constant yield method, over the remaining term of the note (ignoring any option that the issuing entity or servicer has to redeem the note at 100% of the principal amount). In the case of a note that is subject to call at the option of the issuing entity or servicer, the amount of amortizable bond premium is calculated based on the amount payable at the applicable call date, but only if the use of the call date (in lieu of the stated maturity date) results in a smaller amortizable bond premium for the period ending on the call date. If a note is subject to Section 1272(a)(6) of the Internal Revenue Code, it is unclear whether a prepayment assumption should be taken into account in determining the term of the note for purposes of determining the amount of amortizable bond premium that is allocable to a particular year.
 A U.S. holder who elects to amortize bond premium must reduce the U.S. holder’s tax basis in the note by the amount of the premium used to offset interest income as set forth above. An election to amortize bond premium applies to all taxable debt instruments held or acquired by the U.S. holder on or after the first day of the first taxable year to which such election applies, and may not be revoked without the consent of the IRS. If a U.S. holder does not elect to amortize the premium, that premium will remain included in the U.S. holder’s adjusted tax basis in its note and will decrease the gain or increase the loss that would otherwise be recognized on a sale, exchange, retirement, or other disposition of the note.
 112
+
+[PAGE 121 | printed 113]
 TABLE OF CONTENTS
 ​
 ​
@@ -3795,6 +4036,8 @@ market discount, and unstated interest, as adjusted by any amortizable bond prem
 Disposition of Notes
 In the case of a sale, exchange or other taxable disposition (including a redemption or retirement) of a note, a U.S. holder will recognize gain or loss equal to the difference, if any, between (i) the amount received (other than any amount representing accrued but unpaid interest, which will be treated as ordinary income to the extent not previously included in income) and (ii) the U.S. holder’s adjusted tax basis in the note. A U.S. holder’s adjusted tax basis in a note generally will equal the cost of the note (net of accrued interest) to the U.S. holder, increased by amounts includible in income as OID (or market discount if the U.S. holder elects to include market discount in income on a current basis) and reduced by any amortizable bond premium and any payments (other than payments of qualified stated interest) made on such note. Except as described above with respect to market discount and with respect to short-term notes, a gain or loss recognized by a U.S. holder on a sale or other disposition of a note generally will constitute capital gain or loss. Capital gains recognized by an individual upon the sale or other disposition of a note that is held for more than one year are generally eligible for reduced rates of U.S. federal income taxation. The deductibility of a capital loss recognized upon the sale or other disposition of a note is subject to limitations.
 113
+
+[PAGE 122 | printed 114]
 TABLE OF CONTENTS
 ​
 ​
@@ -3824,6 +4067,8 @@ the interest is not effectively connected with the conduct of a trade or busines
 In general, the certification requirements will be satisfied if either (i) the beneficial owner of the note provides, to the person who otherwise would be required to withhold U.S. tax, a properly completed IRS Form W-8BEN, W-8BEN-E, or a suitable substitute form, that includes the beneficial owner’s name and address and that certifies, under penalties of perjury, that the beneficial owner is not a United States person, or (ii) a securities clearing organization, bank, or other financial institution which holds customers’ securities in the ordinary course of its trade or business holds the note on behalf of a beneficial owner and provides to the person who otherwise would be required to withhold U.S. tax, a statement certifying under penalties of perjury that an applicable IRS Form W-8BEN, W-8BEN-E, or a suitable substitute form, has been received by it from the beneficial owner, or from another financial institution acting on behalf of the beneficial owner, and furnishes a copy to the person who otherwise would be required to withhold U.S. tax. These certification requirements may be satisfied with other documentary evidence in the case of a note held through a qualified intermediary.
 Any interest (including any OID) earned on a note, and any gain recognized upon a sale or other taxable disposition (including a redemption or retirement) of a note, that is effectively connected with the conduct of a trade or business (or, if a United States income tax treaty applies, is attributable to a permanent establishment maintained) within the United States by a non-U.S. holder will be subject to U.S. federal
 114
+
+[PAGE 123 | printed 115]
 TABLE OF CONTENTS
 ​
 income tax at regular graduated rates. If the non-U.S. holder is classified as a corporation for U.S. federal income tax purposes, such amounts will also be taken into account for purposes of determining the amount of U.S. branch profits tax, which is imposed at a rate of 30% (or at a lower rate under an applicable tax treaty) on effectively connected earnings and profits, subject to certain adjustments. However, such effectively connected income will not be subject to U.S. federal income tax withholding, provided that, with respect to any interest (including any OID) earned on a note, the non-U.S. holder furnishes a properly completed IRS Form W-8ECI (or a suitable substitute form) to the person that otherwise would be required to withhold U.S. tax.
@@ -3835,6 +4080,8 @@ Any payments of interest (including any OID) on the notes to a non-U.S. holder g
 Any payments of interest (including any OID) on the notes to a non-U.S. holder generally will not be subject to backup withholding and additional information reporting, provided that (i) the non-U.S. holder certifies, under penalties of perjury, on a properly completed IRS Form W-8BEN, W-8BEN-E, W-8ECI, or a suitable substitute form, that it is not a United States person and certain other conditions are met, or (ii) the non-U.S. holder otherwise establishes an exemption (and the payor does not have actual knowledge or reason to know that the conditions of any exemption are not satisfied).
 The payment to a non-U.S. holder of the proceeds of a disposition of a note by or through the U.S. office of a broker generally will not be subject to information reporting or backup withholding if the non-U.S. holder either certifies, under penalties of perjury, on a properly completed IRS Form W-8BEN, W-8BEN-E, or a suitable substitute form, that it is not a United States person and certain other conditions are met, or the non-U.S. holder otherwise establishes an exemption. Information reporting and backup withholding generally will not apply to the payment of the proceeds of a disposition of a note by or through the foreign office of a foreign broker (as defined in applicable Treasury regulations). Information reporting requirements (but not backup withholding) will apply, however, to a payment of the proceeds of the disposition of a note by or through a foreign office of a U.S. broker or of a foreign broker with certain relationships to the United States, unless the broker has documentary evidence in its records that the holder
 115
+
+[PAGE 124 | printed 116]
 TABLE OF CONTENTS
 ​
 ​
@@ -3863,6 +4110,8 @@ These rules are generally not applicable to individual retirement accounts or in
 “non-ERISA plan investors”
 ). Consequently, much of the following discussion of the fiduciary issues arising under ERISA is generally not applicable to such investors. Non-ERISA plan investors may
 116
+
+[PAGE 125 | printed 117]
 TABLE OF CONTENTS
 ​
 be subject to various other fiduciary or other legal requirements under state law or other applicable law, however, which they should consider before investing in the notes.
@@ -3888,6 +4137,8 @@ ERISA plan investors may currently maintain relationships with the indenture tru
 Each ERISA plan investor should consult with its own legal counsel to determine whether investment in the notes may be prohibited by ERISA or the Internal Revenue Code or otherwise would violate ERISA or the Code.
 Each non-ERISA plan investor that is subject to the prohibited transactions rules under Section 4975 of the Internal Revenue Code should consult with its legal counsel to determine whether investment in the
 117
+
+[PAGE 126 | printed 118]
 TABLE OF CONTENTS
 ​
 ​
@@ -3906,6 +4157,8 @@ HDCC, as sponsor, expects that the notes will receive credit ratings in the high
 A rating is based on the rating agency’s independent evaluation of the contracts and the availability of any credit enhancement for the notes. Ratings on the notes may be lowered, qualified or withdrawn at any time by either of the rating agencies. If a rating or ratings of notes is lowered, qualified or withdrawn, no person or entity will be obligated to provide any additional credit enhancement with respect to the notes so lowered, qualified or withdrawn and no transaction party will be responsible for monitoring any changes to the ratings on the notes.
 In addition, a rating agency not hired by the sponsor to rate the notes may provide an unsolicited rating that is higher or lower than the ratings provided by the rating agencies hired by the sponsor to rate the notes. Any rating action taken by one rating agency may not necessarily be taken by another rating agency.
 118
+
+[PAGE 127 | printed 119]
 TABLE OF CONTENTS
 ​
 ​
@@ -3937,6 +4190,8 @@ Class A-4 notes | ​ | ​ | ​ | ​ | ​ % | ​ | ​ | ​ | ​ | ​ | 
 [/TABLE_36]
 After the initial public offering of the offered notes, the offering prices and other selling terms may be varied by the underwriters.
 119
+
+[PAGE 128 | printed 120]
 TABLE OF CONTENTS
 ​
 The underwriting agreement provides that the seller and the depositor will indemnify the underwriters against certain liabilities, including liabilities under the Securities Act of 1933, or contribute to payments the underwriters may be required to make in respect thereof.
@@ -3967,6 +4222,8 @@ EU Prospectus Regulation
 offer
 ” includes the communication in any form and by any means of sufficient information on the terms of the offer and the offered notes so as to enable an investor to decide to purchase or subscribe for the offered notes.
 120
+
+[PAGE 129 | printed 121]
 TABLE OF CONTENTS
 ​
 ​
@@ -4003,6 +4260,8 @@ The notes are not intended to be offered, sold or otherwise made available to, a
 UK PRIIPs Regulation
 ”) for offering or selling the
 121
+
+[PAGE 130 | printed 122]
 TABLE OF CONTENTS
 ​
 ​
@@ -4025,6 +4284,8 @@ The depositor (Harley-Davidson Customer Funding Corp.; Commission File Number 33
 Our filings with the SEC are available to the public on the SEC Internet site (http://www.sec.gov), which contains reports, proxy and information statements, and other information regarding issuers that file electronically with the SEC.
 The SEC allows us to “incorporate by reference” information in documents we file with it, which means that we can disclose important information to you by referring you to those documents. The information incorporated by reference is considered to be part of this prospectus. All periodic reports on
 122
+
+[PAGE 131 | printed 123]
 TABLE OF CONTENTS
 ​
 Form 10-D and current reports on Form 8-K filed by the issuing entity subsequent to the date of this prospectus and prior to the termination of the offering of the offered notes shall be deemed to be incorporated by reference in this prospectus. In all cases, you should rely on the later information over different information included in this prospectus.
@@ -4046,6 +4307,8 @@ The SEC allows offerors of securities to incorporate by reference some of the in
 All documents filed by the administrator, on behalf of the issuing entity, or the depositor under Section 13(a), 13(c), 14 or 15(d) of the Securities Exchange Act of 1934, after the date of this prospectus and prior to the termination of the offering of the notes, will be incorporated by reference into this prospectus.
 If you are a beneficial owner of the notes to whom a prospectus has been delivered, the depositor will, on request, send you a copy of the information that has been incorporated by reference in this prospectus. The depositor will provide this information at no cost to you. Please address requests to the depositor: c/o Harley-Davidson Credit Corp., 222 West Adams Street, Suite 3100, Chicago, Illinois 60606.
 123
+
+[PAGE 132 | printed 124]
 TABLE OF CONTENTS
 INDEX OF DEFINED TERMS
 [TABLE_37]
@@ -4093,6 +4356,8 @@ INDEX OF DEFINED TERMS
 ​ | indenture trustee | ​ | ​ | 1 | ​
 [/TABLE_37]
 124
+
+[PAGE 133 | printed 125]
 TABLE OF CONTENTS
 [TABLE_38]
 ​ | initial pool balance | ​ | ​ | 4, 48 | ​
@@ -4134,6 +4399,8 @@ TABLE OF CONTENTS
 ​ | UK Securitization Rules | ​ | ​ | 6 | ​
 [/TABLE_38]
 125
+
+[PAGE 134 | printed I-1]
 TABLE OF CONTENTS
 ​
 ANNEX I
@@ -4166,6 +4433,8 @@ Trading between Clearstream Participants
 Trading between DTC seller and Clearstream purchaser
 .   When Global Securities are to be transferred from the account of a DTC participant to the account of a Clearstream participant, the purchaser will send instructions to Clearstream through a Clearstream participant at least one business day prior to settlement. Clearstream will instruct the depository to receive the Global Securities against payment. Payment will include interest accrued on the Global Securities from and including the last coupon payment date to and excluding
 I-1
+
+[PAGE 135 | printed I-2]
 TABLE OF CONTENTS
 the settlement date. Payment will then be made by the respective depository to the DTC participant’s account against delivery of the Global Securities. After settlement has been completed, the Global Securities will be credited to the respective clearing system and by the clearing system, in accordance with its usual procedures, to the Clearstream participant’s account. The Global Securities credit will appear the next day (European time) and the cash debit will be back-valued to, and the interest on the Global Securities will accrue from, the value date (which would be the preceding day when settlement occurred in New York). If settlement is not completed on the intended value date (
 i.e
@@ -4187,6 +4456,8 @@ borrowing the Global Securities in the U.S. from a DTC participant no later than
 staggering the value dates for the buy and sell sides of the trade so that the value date for the purchase from the DTC participant is at least one day prior to the value date for the sale to the Clearstream participant.
 ​
 I-2
+
+[PAGE 136 | printed I-3]
 TABLE OF CONTENTS
 Certain U.S. Federal Income Tax Documentation Requirements
 A beneficial owner of Global Securities holding securities through Clearstream (or through DTC if the holder has an address outside the U.S.) will be subject to the 30% U.S. withholding tax that generally applies to payments of interest (including original issue discount) on registered debt issued by “U.S. Persons”, unless (i) each clearing system, bank or other financial institution that holds customers’ securities in the ordinary course of its trade or business in the chain of intermediaries between such beneficial owner and the U.S. entity required to withhold tax complies with applicable certification requirements and (ii) such beneficial owner takes one of the following steps to obtain an exemption or reduced tax rate:
@@ -4204,6 +4475,8 @@ The term “
 U.S. Person
 ” means (i) a citizen or resident of the United States, (ii) a corporation or partnership (or other business entity treated as such) created or organized in or under the laws of the United States, any state or political subdivision thereof or the District of Columbia, (iii) an estate the income of which is includible in gross income for United States federal income tax purposes, regardless of its source or (iv) a trust if a court within the United States is able to exercise primary supervision over the administration of the trust and one or more United States persons have the authority to control all substantial decisions of the trust. Notwithstanding the preceding sentence, to the extent provided in Treasury regulations, certain trusts in existence on August 20, 1996, and treated as United States persons under the United States Internal Revenue Code and applicable Treasury regulations thereunder prior to such date, that elect to continue to be treated as United States persons under the Internal Revenue Code or applicable Treasury regulations thereunder also will be a “U.S. Person”. This summary does not deal with all aspects of U.S. Federal income tax withholding that may be relevant to foreign holders of the Global Securities. Investors are advised to consult their own tax advisors for specific tax advice concerning their holding and disposing of the Global Securities.
 I-3
+
+[PAGE 137]
 TABLE OF CONTENTS
 ​
 ANNEX II
@@ -4213,6 +4486,8 @@ STATIC POOL INFORMATION
 This Annex II contains static pool information regarding delinquencies, cumulative losses and prepayments and summary pool characteristics presented for the pool of contracts relating to each prior public securitization transaction sponsored by the sponsor during the five years preceding the date of this prospectus. The static pool information is provided for illustrative purposes only.
 Eaglemark Savings Bank’s underwriting standards and procedures have remained consistent over time. However, social, economic and other conditions existing at the time when the contracts were originated and repaid, may vary materially from the social, economic and other conditions existing at the time the contracts in the pool of contracts were originated and those that will exist in the future when the contracts in the contract pool are required to be repaid. As a result, there can be no assurance that the static pool data presented below will correspond to or be an accurate predictor of the performance of the contract pool. The summary characteristics for each prior securitized pool of contracts in this Annex II describe the pool of contracts as of the cutoff date for such pool.
 II-1
+
+[PAGE 138]
 TABLE OF CONTENTS
 [TABLE_39]
 ​ | ​ | ​ | 2019-A | ​ | ​ | 2020-A | ​ | ​ | 2021-A | ​ | ​ | 2021-B | ​ | ​ | 2022-A | ​ | ​ | 2023-A | ​ | ​ | 2023-B | ​
@@ -4255,6 +4530,8 @@ FICO
 scores with respect to any contract are as of origination.
 ​
 II-2
+
+[PAGE 139]
 TABLE OF CONTENTS
 A pool factor equals the pool balance at the end of the related period divided by the initial pool balance. Information is reported as of March 31, 2024.
 [TABLE_40]
@@ -4304,6 +4581,8 @@ Month | ​ | ​ | 2019-A | ​ | ​ | 2020-A | ​ | ​ | 2021-A | ​ | ​
 43 | ​ | ​ | 0.0931 | ​ | ​ | 0.0979 | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​
 [/TABLE_40]
 II-3
+
+[PAGE 140]
 TABLE OF CONTENTS
 30 - 59 Day Delinquencies
 Principal balance of contracts that are 30-59 days delinquent at the end of the related period (assuming 30-day months), divided by the pool balance at the beginning of such period. Information is reported as of March 31, 2024.
@@ -4354,6 +4633,8 @@ Month | ​ | ​ | 2019-A | ​ | ​ | 2020-A | ​ | ​ | 2021-A | ​ | ​
 43 | ​ | ​ | 0.92% | ​ | ​ | 0.96% | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​
 [/TABLE_41]
 II-4
+
+[PAGE 141]
 TABLE OF CONTENTS
 60 - 89 Day Delinquencies
 Principal balance of contracts that are 60-89 days delinquent at the end of the related period (assuming 30-day months), divided by the pool balance at the beginning of such period. Information is reported as of March 31, 2024.
@@ -4404,6 +4685,8 @@ Month | ​ | ​ | 2019-A | ​ | ​ | 2020-A | ​ | ​ | 2021-A | ​ | ​
 43 | ​ | ​ | 0.33% | ​ | ​ | 0.38% | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​
 [/TABLE_42]
 II-5
+
+[PAGE 142]
 TABLE OF CONTENTS
 90 - 119 Day Delinquencies
 Principal balance of contracts that are 90-119 days delinquent at the end of the related period (assuming 30-day months), divided by the pool balance at the beginning of such period. Information is reported as of March 31, 2024.
@@ -4454,6 +4737,8 @@ Month | ​ | ​ | 2019-A | ​ | ​ | 2020-A | ​ | ​ | 2021-A | ​ | ​
 43 | ​ | ​ | 0.16% | ​ | ​ | 0.24% | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​
 [/TABLE_43]
 II-6
+
+[PAGE 143]
 TABLE OF CONTENTS
 120 - 149 Day Delinquencies
 Principal balance of contracts that are 120-149 days delinquent at the end of the related period (assuming 30-day months), divided by the pool balance at the beginning of such period. Information is reported as of March 31, 2024.
@@ -4504,6 +4789,8 @@ Month | ​ | ​ | 2019-A | ​ | ​ | 2020-A | ​ | ​ | 2021-A | ​ | ​
 43 | ​ | ​ | 0.20% | ​ | ​ | 0.06% | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​
 [/TABLE_44]
 II-7
+
+[PAGE 144]
 TABLE OF CONTENTS
 60+ Day Delinquencies
 Principal balance of contracts that are 60 or more days delinquent at the end of the related period (assuming 30-day months), divided by the pool balance at the beginning of such period. Information is reported as of March 31, 2024.
@@ -4554,6 +4841,8 @@ Month | ​ | ​ | 2019-A | ​ | ​ | 2020-A | ​ | ​ | 2021-A | ​ | ​
 43 | ​ | ​ | 0.69% | ​ | ​ | 0.68% | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​
 [/TABLE_45]
 II-8
+
+[PAGE 145]
 TABLE OF CONTENTS
 Cumulative Net Losses
 Cumulative losses represent the aggregative principal balance of liquidated contracts, less recoveries, divided by the initial pool balance. Information is reported as of March 31, 2024.
@@ -4604,6 +4893,8 @@ Month | ​ | ​ | 2019-A | ​ | ​ | 2020-A | ​ | ​ | 2021-A | ​ | ​
 43 | ​ | ​ | 0.56% | ​ | ​ | 0.55% | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​
 [/TABLE_46]
 II-9
+
+[PAGE 146]
 TABLE OF CONTENTS
 One-Month ABS Speed
 The ABS Speed is a measurement of the non-scheduled amortization of the pool of contracts and is derived by calculating a monthly single month mortality rate, or SMM, which is the sum of the nonscheduled reduction in the pool of contracts, including prepayments and defaults, divided by the beginning of month pool balance less any scheduled payments received. The scheduled principal is calculated assuming the contracts have been aggregated into one pool. The non-scheduled amortization is assumed to be the difference between the beginning pool balance less the scheduled principal minus the actual ending pool balance. The SMM is converted into the ABS Speed by dividing (a) the product of 100 and the SMM by (b) the sum of (i) 100 and (ii) the SMM multiplied by the age of the pool. The age of the pool is the age of the pool as of the end of the prior calendar month. Information is reported as of March 31, 2024.
@@ -4654,6 +4945,8 @@ Month | ​ | ​ | 2019-A | ​ | ​ | 2020-A | ​ | ​ | 2021-A | ​ | ​
 43 | ​ | ​ | 1.25% | ​ | ​ | 1.33% | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​
 [/TABLE_47]
 II-10
+
+[PAGE 147]
 TABLE OF CONTENTS
 ​
 (1)
@@ -4664,12 +4957,16 @@ Delinquencies represent the aggregate outstanding principal balance of the delin
 Cumulative Net Losses represent the aggregate outstanding principal balance of contracts that have been liquidated to date, as a percentage of the initial pool balance.
 ​
 II-11
+
+[PAGE 148]
 TABLE OF CONTENTS
 ​
 (3)
 Monthly Prepayments represent non-scheduled amortization of the pool of contracts. It is derived by calculating a monthly single month mortality rate, or SMM, which is the sum of the nonscheduled reduction in the pool of contracts, including prepayments and defaults, divided by the beginning of month pool balance less any scheduled payments received. The scheduled principal is calculated assuming the contracts have been aggregated into one pool. The non-scheduled amortization is assumed to be the difference between the beginning pool balance less the scheduled principal minus the actual ending pool balance. The SMM is converted into the ABS speed by dividing (a) the product of 100 and the SMM by (b) the sum of (i) 100 and (ii) the SMM multiplied by the age of the pool. The age of the pool is the age of the pool as of the end of the prior calendar month.
 ​
 II-12
+
+[PAGE 149]
 TABLE OF CONTENTS
 ​
 ​
