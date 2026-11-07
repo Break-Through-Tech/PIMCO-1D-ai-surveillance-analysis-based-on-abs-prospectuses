@@ -1,8 +1,8 @@
 """
 Milestone 2 — Page-based chunker
 =================================
-For every .htm filing:
-  1. Re-parse with page markers so every page gets a [PAGE N | printed X] header.
+For every clean text file in data/clean_text/ (written by parse_filings.py):
+  1. Read the text; every page already starts with a [PAGE N | printed X] header.
   2. Split at those markers → one raw chunk per physical page.
   3. Classify each chunk:
        "toc"      – the page(s) that contain the TABLE OF CONTENTS heading
@@ -28,7 +28,7 @@ For every .htm filing:
 Usage
 -----
     python notebooks/chunk_filings.py                  # all filings
-    python notebooks/chunk_filings.py --filing TOYOTA_AUTO_FINANCE_RECEIVABLES_LLC_2024-04-18_424H.htm
+    python notebooks/chunk_filings.py --filing TOYOTA_AUTO_FINANCE_RECEIVABLES_LLC_2024-04-18_424H_clean.txt
     python notebooks/chunk_filings.py --limit 5        # first N filings (smoke test)
 """
 
@@ -46,66 +46,13 @@ import tiktoken
 # ---------------------------------------------------------------------------
 ROOT = Path(__file__).parent.parent
 DATA_DIR = ROOT / "data"
+CLEAN_DIR = DATA_DIR / "clean_text"
 CHUNKS_DIR = DATA_DIR / "chunks"
 INDEX_PATH = DATA_DIR / "filings_index.csv"
 
 sys.path.insert(0, str(Path(__file__).parent))
-# Import only the functions we need; avoid parse_filings top-level which
-# requires the missing config.companies module.
-from page_markers import (                                # compiled regex + helpers
-    PAGE_MARKER, insert_page_boundaries, number_pages
-)
-from bs4 import BeautifulSoup
+from page_markers import PAGE_MARKER                      # compiled regex
 
-
-# ---------------------------------------------------------------------------
-# Minimal re-implementation of strip_sec_wrapper + clean_html from parse_filings
-# (avoids the missing config.companies import)
-# ---------------------------------------------------------------------------
-def strip_sec_wrapper(raw: str) -> str:
-    m = re.search(r"<TEXT>(.*?)</TEXT>", raw, re.DOTALL | re.IGNORECASE)
-    if m:
-        return m.group(1).strip()
-    m = re.search(r"<TEXT>(.*)", raw, re.DOTALL | re.IGNORECASE)
-    return m.group(1).strip() if m else raw
-
-
-def _parse_table(table_tag) -> list[list[str]]:
-    rows = []
-    for tr in table_tag.find_all("tr"):
-        cells = [td.get_text(separator=" ", strip=True) for td in tr.find_all(["td", "th"])]
-        if any(c for c in cells):
-            rows.append(cells)
-    return rows
-
-
-def clean_html(html: str) -> dict:
-    soup = BeautifulSoup(html, "lxml")
-    page_style = insert_page_boundaries(soup)
-    for tag in soup.find_all(["script", "style", "img"]):
-        tag.decompose()
-    table_index = 0
-    for table in soup.find_all("table"):
-        rows = _parse_table(table)
-        if rows:
-            placeholder = soup.new_tag("p")
-            placeholder.string = (
-                f"[TABLE_{table_index}]\n"
-                + "\n".join(" | ".join(row) for row in rows)
-                + f"\n[/TABLE_{table_index}]"
-            )
-            table.replace_with(placeholder)
-            table_index += 1
-        else:
-            table.decompose()
-    body = soup.find("body") or soup
-    raw_text = body.get_text(separator="\n", strip=True)
-    num_pages = 0
-    if page_style != "none":
-        raw_text, num_pages = number_pages(raw_text)
-    clean_text = re.sub(r"\n{3,}", "\n\n", raw_text)
-    clean_text = clean_text.replace("\xa0", " ").strip()
-    return {"clean_text": clean_text, "page_style": page_style, "num_pages": num_pages}
 
 # ---------------------------------------------------------------------------
 # Constants
@@ -361,18 +308,20 @@ def split_oversized(text: str) -> list[str]:
 # ---------------------------------------------------------------------------
 # Core chunker
 # ---------------------------------------------------------------------------
-def chunk_filing(htm_path: Path) -> list[dict]:
+def filing_stem_of(clean_path: Path) -> str:
+    """Filing name without the _clean suffix, so chunk IDs match the source filing."""
+    return clean_path.stem.removesuffix("_clean")
+
+
+def chunk_filing(clean_path: Path) -> list[dict]:
     """
-    Parse one .htm filing and return a list of chunk dicts.
+    Read one clean text filing and return a list of chunk dicts.
     Each dict has:
         chunk_id, filing_stem, page_num, printed_label, chunk_part,
         chunk_type, toc_section, token_count, embed (bool),
         raw_text, embed_text
     """
-    raw = htm_path.read_text(encoding="utf-8", errors="replace")
-    html = strip_sec_wrapper(raw)
-    result = clean_html(html)
-    paged_text: str = result["clean_text"]
+    paged_text = clean_path.read_text(encoding="utf-8", errors="replace")
 
     # ---- Build TOC map ------------------------------------------------
     toc_map = parse_toc(paged_text)
@@ -383,7 +332,7 @@ def chunk_filing(htm_path: Path) -> list[dict]:
     # Groups of 3 after the leading pre_text.
     split_parts = PAGE_MARKER.split(paged_text)
 
-    # If no page markers exist (page_style == "none"), treat the whole
+    # If no page markers exist, treat the whole
     # document as a single page.
     if len(split_parts) == 1:
         pages = [("1", None, paged_text.strip())]
@@ -410,7 +359,7 @@ def chunk_filing(htm_path: Path) -> list[dict]:
                 toc_page_nums.add(page_num_str)
 
     # ---- Emit chunks --------------------------------------------------
-    filing_stem = htm_path.stem
+    filing_stem = filing_stem_of(clean_path)
     chunks: list[dict] = []
     chunk_seq = 0  # global sequence within this filing
 
@@ -461,15 +410,15 @@ def chunk_filing(htm_path: Path) -> list[dict]:
 # Metadata join
 # ---------------------------------------------------------------------------
 def load_filing_metadata() -> dict[str, dict]:
-    """Return a dict keyed by htm filename stem → metadata dict from filings_index.csv."""
+    """Return a dict keyed by filing stem → metadata dict from filings_index.csv."""
     if not INDEX_PATH.exists():
         return {}
     df = pd.read_csv(INDEX_PATH, dtype=str)
-    # filings_index uses clean .txt filenames; convert to .htm stem
-    df["htm_stem"] = df["filename"].str.replace("_clean.txt", "", regex=False).str.replace(".txt", "", regex=False)
+    # filings_index uses clean .txt filenames; convert to the filing stem
+    df["filing_stem"] = df["filename"].str.replace("_clean.txt", "", regex=False).str.replace(".txt", "", regex=False)
     meta = {}
     for _, row in df.iterrows():
-        meta[row["htm_stem"]] = row.drop("htm_stem").to_dict()
+        meta[row["filing_stem"]] = row.drop("filing_stem").to_dict()
     return meta
 
 
@@ -478,7 +427,7 @@ def load_filing_metadata() -> dict[str, dict]:
 # ---------------------------------------------------------------------------
 def main():
     parser = argparse.ArgumentParser(description="Chunk SEC 424H filings by page.")
-    parser.add_argument("--filing", help="Process a single .htm filename (basename only).")
+    parser.add_argument("--filing", help="Process a single clean text filename (basename only).")
     parser.add_argument("--limit", type=int, help="Process at most N filings (smoke test).")
     args = parser.parse_args()
 
@@ -486,34 +435,34 @@ def main():
     filing_meta = load_filing_metadata()
 
     if args.filing:
-        htm_files = [DATA_DIR / args.filing]
+        clean_files = [CLEAN_DIR / args.filing]
     else:
-        htm_files = sorted(DATA_DIR.glob("*_424H.htm"))
+        clean_files = sorted(CLEAN_DIR.glob("*_424H_clean.txt"))
 
     if args.limit:
-        htm_files = htm_files[: args.limit]
+        clean_files = clean_files[: args.limit]
 
     manifest_rows: list[dict] = []
 
-    for htm_path in htm_files:
-        if not htm_path.exists():
-            print(f"  [WARN] Not found: {htm_path}")
+    for clean_path in clean_files:
+        if not clean_path.exists():
+            print(f"  [WARN] Not found: {clean_path}")
             continue
 
-        print(f"  Chunking: {htm_path.name}")
+        print(f"  Chunking: {clean_path.name}")
         try:
-            chunks = chunk_filing(htm_path)
+            chunks = chunk_filing(clean_path)
         except Exception as exc:
             print(f"    ERROR: {exc}")
             continue
 
         # Attach filing-level metadata to every chunk
-        meta = filing_meta.get(htm_path.stem, {})
+        meta = filing_meta.get(filing_stem_of(clean_path), {})
         for chunk in chunks:
             chunk.update(meta)
 
         # Write JSONL
-        out_path = CHUNKS_DIR / f"{htm_path.stem}_chunks.jsonl"
+        out_path = CHUNKS_DIR / f"{filing_stem_of(clean_path)}_chunks.jsonl"
         with out_path.open("w", encoding="utf-8") as fh:
             for chunk in chunks:
                 fh.write(json.dumps(chunk, ensure_ascii=False) + "\n")
@@ -522,7 +471,7 @@ def main():
         embed_chunks = [c for c in chunks if c["embed"]]
         oversized_before = sum(1 for c in chunks if c["chunk_type"] == "body" and c["chunk_part"] > 0)
         manifest_rows.append({
-            "filing":          htm_path.name,
+            "filing":          clean_path.name,
             "total_chunks":    len(chunks),
             "body_chunks":     sum(1 for c in chunks if c["chunk_type"] == "body"),
             "toc_chunks":      sum(1 for c in chunks if c["chunk_type"] == "toc"),
