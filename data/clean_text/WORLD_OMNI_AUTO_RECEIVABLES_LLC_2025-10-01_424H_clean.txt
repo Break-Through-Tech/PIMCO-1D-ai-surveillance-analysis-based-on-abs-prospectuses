@@ -156,7 +156,7 @@ Comerica
 The date of this Prospectus is October ●,
 2025
 
-[PAGE 2]
+[PAGE 2 | printed i]
 Important Notice about
 Information Presented in this Prospectus
 You should rely only on the information contained
@@ -195,9 +195,9 @@ of Certain Information By Reference
 ” in this prospectus.
 In this prospectus, the terms “Depositor,”
  “we,” “us” and “our” refer to World Omni Auto Receivables LLC.
-
-[PAGE 3]
 i
+
+[PAGE 3 | printed ii]
 NOTICE TO INVESTORS:
 UNITED KINGDOM
 IN THE UNITED KINGDOM (THE “
@@ -256,9 +256,9 @@ OR SUBSECTION 73.3(1) OF THE
 SECURITIES
 ACT
 (ONTARIO), AND ARE PERMITTED CLIENTS, AS DEFINED IN NATIONAL INSTRUMENT 31-
-
-[PAGE 4]
 ii
+
+[PAGE 4 | printed iii]
 103
 REGISTRATION REQUIREMENTS, EXEMPTIONS AND ONGOING REGISTRANT
 OBLIGATIONS
@@ -309,9 +309,9 @@ EU PRIIPs Regulation
 offering or selling the OFFERED NOTES or otherwise making them available to EU retail investors in the EEA has been prepared and therefore
 offering or selling the OFFERED NOTES or otherwise making them available to any EU retail investor in the EEA may be unlawful under the
 EU PRIIPS Regulation.
-
-[PAGE 5]
 iii
+
+[PAGE 5 | printed iv]
 CERTAIN VOLCKER RULE
 CONSIDERATIONS
 The Issuing Entity is not registered or required
@@ -325,9 +325,9 @@ fund” for purposes of the “Volcker Rule,” adopted to implement Section 619
 and Consumer Protection Act (the “
 Dodd-Frank Act
 ”).
-
-[PAGE 6]
 iv
+
+[PAGE 6 | printed v]
 TABLE OF CONTENTS
 [TABLE_6]
 Important Notice about Information
@@ -426,9 +426,9 @@ Adverse
 Commingling
     by the Servicer May Result in Delays and Reductions in Payments on Your Notes | 24
 [/TABLE_7]
-
-[PAGE 7]
 v
+
+[PAGE 7 | printed vi]
 [TABLE_8]
 A
     Security Breach or a Cyber-Attack Affecting World Omni Financial Corp. Could Adversely Affect World Omni Financial Corp.’s
@@ -531,9 +531,9 @@ STATIC
 PREPAYMENT
     AND YIELD CONSIDERATIONS—WEIGHTED AVERAGE LIFE OF THE SECURITIES | 69
 [/TABLE_9]
-
-[PAGE 8]
 vi
+
+[PAGE 8 | printed vii]
 [TABLE_10]
 NOTE
     POOL FACTORS AND OTHER INFORMATION | 79
@@ -703,9 +703,9 @@ GLOSSARY
 APPENDIX
     A: STATIC POOL INFORMATION ABOUT RECEIVABLES IN CERTAIN PREVIOUS SECURITIZED POOLS | A-1
 [/TABLE_11]
-
-[PAGE 9]
 vii
+
+[PAGE 9 | printed viii]
 TRANSACTION
 STRUCTURE AND PARTIES
 (1)
@@ -718,9 +718,9 @@ description.
   may also initially be retained by the Depositor or one or more affiliates thereof on the Closing Date. The Depositor will also initially
   retain the certificates of the Issuing Entity.
 [/TABLE_12]
-
-[PAGE 10]
 viii
+
+[PAGE 10 | printed 1]
 SUMMARY OF TERMS
 The following summary is a concise description
 of the main terms of the Notes. For this reason, the summary does not contain all the information that may be important to you. You will
@@ -787,9 +787,9 @@ Class A-2
 Asset-Backed Notes in the aggregate initial principal amount of $314,000,000, which may be comprised of $
 ● Class A-2a
  ●% Fixed Rate Asset-
-
-[PAGE 11]
 1
+
+[PAGE 11 | printed 2]
 Backed Notes and $
 ● Class A-2b
 SOFR Rate plus ●% Floating Rate Asset-Backed Notes;
@@ -878,9 +878,9 @@ on the next business day. We refer to such date as a “
 Payment
 Date
 .” The initial Payment Date will be November 17, 2025.
-
-[PAGE 12]
 2
+
+[PAGE 12 | printed 3]
 The Final Scheduled
 Payment Date
 for each class of Notes is listed below. The Depositor expects that each class of Notes will be paid in full prior to its Final Scheduled
@@ -981,9 +981,9 @@ you to “
 Description of the Notes—Payments of Interest
 ”
 in this prospectus.
-
-[PAGE 13]
 3
+
+[PAGE 13 | printed 4]
 Principal
 On each Payment Date, from the amounts allocated to the
 holders
@@ -1051,9 +1051,9 @@ this prospectus;
 Notes;
 (5) principal of the Notes in
 an amount equal to the amount by which (a) the aggregate outstanding
-
-[PAGE 14]
 4
+
+[PAGE 14 | printed 5]
 principal amount of the Class A Notes and the Class B
 Notes as of the day immediately preceding such Payment Date exceeds (b) the aggregate principal balance of Receivables as of the
 last day of the related Collection Period less the YSOC Amount as of the last day of the related Collection Period less (c) any
@@ -1120,9 +1120,9 @@ under the indenture:
  | · | a default for five
                                             business days or more in the payment of any interest on any Note of the
 [/TABLE_20]
-
-[PAGE 15]
 5
+
+[PAGE 15 | printed 6]
 Controlling Securities;
 [TABLE_21]
  | · | a default in the payment
@@ -1202,9 +1202,9 @@ as of the Cutoff Date as the “starting principal balance” of that Receivable
 of the date it was originated as the “original principal balance” of that Receivable.
 There is no requirement or ability to add or
 remove Receivables from the pool other than the right of the Issuing Entity to cause World Omni Financial Corp. to
-
-[PAGE 16]
 6
+
+[PAGE 16 | printed 7]
 repurchase Receivables upon a breach of a representation, warranty
 or covenant. The sole remedy for such breach shall be repurchase of any such affected Receivables as described under “
 Description
@@ -1283,9 +1283,9 @@ reserve account will result in a corresponding increase to the amount required t
 Date, as described below.
 On each Payment Date, in accordance with the
 instructions of the Servicer (based on information
-
-[PAGE 17]
 7
+
+[PAGE 17 | printed 8]
 contained in the related Servicer certificate), the Indenture Trustee
 will, or will cause the Account Bank to, apply funds from the reserve account to make the payments in the pre-acceleration priority of
 payment clauses (1) through (7) under the section entitled
@@ -1351,9 +1351,9 @@ of Payments
 Amount, but not less than 0.50% of the aggregate starting principal balance of the Receivables less the YSOC Amount as of the Closing
 Date (which will be the YSOC Amount as calculated as of the Cutoff Date). The overcollateralization will be available to absorb losses
 on the Receivables that are
-
-[PAGE 18]
 8
+
+[PAGE 18 | printed 9]
 not otherwise covered by excess collections on the Receivables, if
 any.
 The Yield Supplement Overcollateralization Amount
@@ -1420,9 +1420,9 @@ for ERISA and Other U.S. Employee Benefit Plan Investors
 Ratings of the Notes
 We expect that the Offered Notes will receive
 credit ratings from at least two nationally recognized rating
-
-[PAGE 19]
 9
+
+[PAGE 19 | printed 10]
 agencies hired by the Sponsor to rate the Offered
 Notes.
 The rating agencies hired by the Sponsor have
@@ -1481,9 +1481,9 @@ of the valuation methodology used to calculate the fair values of the Notes and 
 interest set forth in the preceding paragraphs, see “
 U.S. Credit Risk Retention
 ” in this prospectus.
-
-[PAGE 20]
 10
+
+[PAGE 20 | printed 11]
 The Sponsor does not intend to transfer or hedge
 the portion of its retained economic interest that is intended to satisfy the requirements of Regulation RR except as permitted under
 Regulation RR. See “
@@ -1524,9 +1524,9 @@ For more information regarding
 the EU Securitisation Regulation and the UK Securitisation Framework, see “
 Underwriting
 ” below.
-
-[PAGE 21]
 11
+
+[PAGE 21 | printed 12]
 SUMMARY OF RISK FACTORS
 The following summary is a concise description
 of some of the material risks applicable to this transaction. For this reason, the summary does not contain all the information that
@@ -1629,9 +1629,9 @@ The Notes are subject to certain risks related
 to general, macroeconomic conditions, and other external factors such as natural disasters and catastrophes, pandemics, epidemics and
 other wide-spread adverse events which may lead to payment delays, shortfalls or losses on your Notes, adversely affect the resale value
 of your Notes and/or limit your ability to resell your
-
-[PAGE 22]
 12
+
+[PAGE 22 | printed 13]
 Notes, including due to factors such as, but not limited to:
 [TABLE_43]
  | · | the
@@ -1724,9 +1724,9 @@ such as, but not limited to:
                                             delays of your receipt of principal and interest payments from the Indenture Trustee due
                                             to payments on the Notes being made through DTC.
 [/TABLE_57]
-
-[PAGE 23]
 13
+
+[PAGE 23 | printed 14]
 RISK FACTORS
 You should carefully consider the following
 risks for the Notes before making an investment decision. In particular, distributions on your Notes will depend on payments received
@@ -1767,9 +1767,9 @@ Class B
     described in “ Description of the Notes—Payments of Interest, ” “ Description of the Notes—Payments
     of Principal ” and “ Description of the Trust Documents—Distributions ” in this
 [/TABLE_58]
-
-[PAGE 24]
 14
+
+[PAGE 24 | printed 15]
 [TABLE_59]
  | prospectus,
                                             to payments of interest on and principal of the Class A Notes and the Class B Notes. Interest
@@ -1811,9 +1811,9 @@ Payment Priorities Increase Risk of Loss or Delay
     the principal of each class of Notes generally will be paid sequentially, (i) classes of Class A Notes that have higher
     numerical class designations will be outstanding longer than classes of Class A
 [/TABLE_59]
-
-[PAGE 25]
 15
+
+[PAGE 25 | printed 16]
 [TABLE_60]
  | Notes that have lower numerical class designations, and, therefore,
     will be exposed to greater risk of losses on the Receivables during the periods after Class A Notes with lower numerical designations
@@ -1844,9 +1844,9 @@ The
     circumstances, the holders of the subordinated classes of Notes which are not Controlling Securities will not have any right to declare
     an event of default, to cause the maturity of the Notes to be accelerated or to direct or consent to any action under the indenture.
 [/TABLE_60]
-
-[PAGE 26]
 16
+
+[PAGE 26 | printed 17]
 [TABLE_61]
 Proceeds
     of the Sale of Receivables May Not Be Sufficient to Pay Your Notes in Full; Failure to Pay Principal on Your Notes Will Not
@@ -1881,9 +1881,9 @@ Risks
     market for any Class A-2a Notes or Class A-2b Notes may result if the Class A-2a Notes or Class A-2b Notes, if
     any, have a small principal amount as compared to the Class A-2b Notes or Class A-2a Notes, respectively.
 [/TABLE_61]
-
-[PAGE 27]
 17
+
+[PAGE 27 | printed 18]
 [TABLE_62]
 The Issuing Entity May Issue Floating
     Rate Class A-2b Notes, but the Issuing Entity Will Not Enter Into Any Interest Rate Swaps and You May Suffer Losses on
@@ -1920,9 +1920,9 @@ Finance Repo transaction data and data on bilateral Treasury repo transactions c
 delivery-versus-payment service. The FRBNY notes that it obtains information from DTCC Solutions LLC, an affiliate of DTC. The FRBNY
 states on its publication page for SOFR that the use of SOFR is subject to important limitations and disclaimers, including that
 [/TABLE_62]
-
-[PAGE 28]
 18
+
+[PAGE 28 | printed 19]
 [TABLE_63]
  | the
 FRBNY may alter the methods of calculation, publication schedule, rate revision practices or availability of SOFR at any time without
@@ -1956,9 +1956,9 @@ more than floating rate debt securities that are linked to less volatile rates. 
 perform in the same way as LIBOR would have at any time, including, without limitation, as a result of changes in interest and yield
 rates in the market, market volatility or global or
 [/TABLE_63]
-
-[PAGE 29]
 19
+
+[PAGE 29 | printed 20]
 [TABLE_64]
  | regional economic, financial, political, regulatory, judicial or other events.
 Effects
@@ -1988,9 +1988,9 @@ based on Compounded SOFR, or in the implementations of Compounded SOFR with resp
 consider whether any future reliance on Compounded SOFR may adversely affect the market values and yields of the Class A-2b Notes
 due to potentially limited liquidity and resulting constraints on available hedging and financing alternatives.
 [/TABLE_64]
-
-[PAGE 30]
 20
+
+[PAGE 30 | printed 21]
 [TABLE_65]
  | Additionally,
 the Issuing Entity and the Administrator cannot anticipate how long it will take to develop the systems and processes necessary to adopt
@@ -2027,9 +2027,9 @@ You
     you may receive payment of principal on the Notes earlier than you expected. See “ Risk Factors—Risks Relating to the
     Notes and the Structure of the Transaction—
 [/TABLE_65]
-
-[PAGE 31]
 21
+
+[PAGE 31 | printed 22]
 [TABLE_66]
  | Prepayments on Receivables Will Cause Prepayments on Your Notes ” in this prospectus.
 The
@@ -2067,9 +2067,9 @@ Prepayments
     purchase by the Servicer of the Receivables when the aggregate principal balance thereof is 10.00% or less of the aggregate starting
     principal balance.
 [/TABLE_66]
-
-[PAGE 32]
 22
+
+[PAGE 32 | printed 23]
 [TABLE_67]
  | The rate of prepayments of Receivables
                                             cannot be predicted and, therefore, no assurance can be given as to the level of prepayments
@@ -2107,9 +2107,9 @@ A
  | Following a bankruptcy
     or insolvency of World Omni Financial Corp., a court could conclude that the Receivables are owned by World Omni
 [/TABLE_67]
-
-[PAGE 33]
 23
+
+[PAGE 33 | printed 24]
 [TABLE_68]
  | Financial Corp. instead of the Issuing Entity. A court could reach this conclusion
     either because the transfer of the Receivables from World Omni Financial Corp. to World Omni Auto Receivables LLC was not a true
@@ -2146,9 +2146,9 @@ Commingling
     the Servicer must deposit into the collection account, all payments on the Receivables received from the obligors and all proceeds
     relating to the Receivables and the financed vehicles collected during the related Collection Period.
 [/TABLE_68]
-
-[PAGE 34]
 24
+
+[PAGE 34 | printed 25]
 [TABLE_69]
 A
     Security Breach or a Cyber-Attack Affecting World Omni Financial Corp. Could Adversely Affect World Omni Financial Corp.’s
@@ -2183,9 +2183,9 @@ You
     system processes targeted to occur during December 2025. Although not anticipated, it is possible that the implementation of
     the new servicing system could result in certain
 [/TABLE_69]
-
-[PAGE 35]
 25
+
+[PAGE 35 | printed 26]
 [TABLE_70]
  | portions of the servicing system not operating as expected, resulting in a loss of
     functionality or data delays, which could adversely affect the servicing of the Receivables.  One of the process modifications
@@ -2219,9 +2219,9 @@ The
     an adverse effect on World Omni Financial Corp.’s ability to operate its business or perform its obligations under the trust
     documents or could cause a disruption in collection activities with respect to the Receivables owned by the Issuing Entity .
 [/TABLE_70]
-
-[PAGE 36]
 26
+
+[PAGE 36 | printed 27]
 [TABLE_71]
  | A pandemic, epidemic or other wide-spread public
     health event may also have the effect of heightening many of the other risks described in this “ Risk Factors ”
@@ -2257,9 +2257,9 @@ The
     under the transaction documents regarding the condition of any vehicle securing the Receivables as of the Cutoff Date or any other
     date. Under the terms of each Receivable, the related
 [/TABLE_71]
-
-[PAGE 37]
 27
+
+[PAGE 37 | printed 28]
 [TABLE_72]
  | obligor is required to maintain physical damage insurance covering the related financed
     vehicle. However, there can be no assurance that such insurance has been maintained in all cases or would fully cover any damage
@@ -2296,9 +2296,9 @@ The Notes May Not Be a Suitable Investment for Investors Subject
                                        rules and guidance adopted by the UK Financial Conduct Authority (the “ SECN ”),
                                        (iii) the Securitisation Part
 [/TABLE_72]
-
-[PAGE 38]
 28
+
+[PAGE 38 | printed 29]
 [TABLE_73]
  | of the rulebook of published policy of the Prudential Regulatory
     Authority of the Bank of England (the “ PRASR ”) and (iv) relevant provisions of the Financial Services and
@@ -2330,9 +2330,9 @@ The
     unrest or war, extreme weather conditions or other events. As a result of any deterioration of economic conditions, you may experience
     payment delays and losses on your Notes. An improvement in economic
 [/TABLE_73]
-
-[PAGE 39]
 29
+
+[PAGE 39 | printed 30]
 [TABLE_74]
  | conditions could result in prepayments
                                             by the obligors of their payment obligations under the Receivables. As a result, you may
@@ -2371,9 +2371,9 @@ global climate change and its impact. The precise implications of those actions,
 adversely impact the business operations and financial condition of manufacturers, suppliers and other interdependent market participants
 in the auto
 [/TABLE_74]
-
-[PAGE 40]
 30
+
+[PAGE 40 | printed 31]
 [TABLE_75]
  | industry, including auto finance companies such as World Omni Financial Corp. World Omni Financial
     Corp.’s ability to acquire new retail installment sales contracts financing Toyota-branded motor vehicles which meet certain
@@ -2405,9 +2405,9 @@ a new framework for the regulation of over-the-counter derivatives activities; �
 the regulatory oversight of securities and capital markets activities by the Securities and Exchange Commission (the “ SEC ”);
 and
 [/TABLE_75]
-
-[PAGE 41]
 31
+
+[PAGE 41 | printed 32]
 [TABLE_76]
  | · created
                                        a liquidation framework for the resolution of bank holding companies and other non-bank financial
@@ -2439,9 +2439,9 @@ which includes World Omni Financial Corp.
 the CFPB’s application of UDAAP principles and supervision of World Omni Financial Corp. by the CFPB, may increase World Omni Financial
 Corp.’s compliance costs, require changes in World Omni
 [/TABLE_76]
-
-[PAGE 42]
 32
+
+[PAGE 42 | printed 33]
 [TABLE_77]
  | Financial Corp.’s
                                             business practices, affect World Omni Financial Corp.’s competitiveness, impair World
@@ -2473,9 +2473,9 @@ scheduled to go into effect on July 30, 2024, but the FTC stayed the implementat
 a legal challenge to the final rule. On January 27, 2025, the U.S. Court of Appeals for the Fifth Circuit held that the final rule was
 invalid on procedural grounds and vacated the final rule. The FTC has
 [/TABLE_77]
-
-[PAGE 43]
 33
+
+[PAGE 43 | printed 34]
 [TABLE_78]
  | not appealed the
                                             Fifth Circuit’s decision and the period for such appeal has lapsed. At this stage,
@@ -2510,9 +2510,9 @@ entered by the district court, and on April 25, 2025, the CFPB and the NCSL Trus
 of the case. The court dismissed the case with prejudice on April 28, 2025. In addition, on May 6, 2024, the CFPB filed a separate complaint
 against the NCSL Trusts, as well as the Pennsylvania Higher Education
 [/TABLE_78]
-
-[PAGE 44]
 34
+
+[PAGE 44 | printed 35]
 [TABLE_79]
  | Assistance Agency
                                             (“ PHEAA ”), the primary student loan servicer for active student loans
@@ -2551,9 +2551,9 @@ rules limit the ability of third-party debt collectors to make debt collection p
 the independent contractors retained by World Omni Financial Corp. to perform collection services. The CFPB previously indicated that
 it intends to address first-party debt
 [/TABLE_79]
-
-[PAGE 45]
 35
+
+[PAGE 45 | printed 36]
 [TABLE_80]
  | collection
                                             activities in future rulemakings. World Omni Financial Corp. may be required to comply with
@@ -2588,9 +2588,9 @@ be permitted to accelerate the debt, exercise remedies against the collateral or
 for 90 days after the receiver is appointed. As a result of any of these events, delays in payments on the Notes would occur and possible
 reductions in the amount of those payments could occur. See “ Some Legal Aspects of the Receivables—Dodd-
 [/TABLE_80]
-
-[PAGE 46]
 36
+
+[PAGE 46 | printed 37]
 [TABLE_81]
  | Frank Orderly Liquidation Authority Provisions—FDIC’s
 Repudiation Power Under OLA ” in this prospectus. In addition, and also assuming that the FDIC
@@ -2627,9 +2627,9 @@ Receivables
     requirements of applicable law in all material respects at the time it was originated. If any such representation or warranty proves
     incorrect, has certain material and adverse effects on
 [/TABLE_81]
-
-[PAGE 47]
 37
+
+[PAGE 47 | printed 38]
 [TABLE_82]
  | the Receivable, and is not timely cured, World Omni Financial Corp. will be required
     to repurchase any affected Receivable. To the extent World Omni Financial Corp. fails to make such repurchase payment or the Issuing
@@ -2663,9 +2663,9 @@ Interests
     in the financed vehicles securing the Receivables in some states. World Omni Financial Corp. will be obligated to repurchase any
     Receivable sold to the Issuing Entity which did not have
 [/TABLE_82]
-
-[PAGE 48]
 38
+
+[PAGE 48 | printed 39]
 [TABLE_83]
  | a perfected security interest in the name of World Omni Financial Corp. in the financed
     vehicle on the Closing Date. World Omni Financial Corp. will also be obligated to purchase any Receivable sold to the Issuing Entity
@@ -2698,9 +2698,9 @@ If
     Financial Corp. The electronic vaulting system recognizes World Omni Financial Corp. as the party having control of the Receivables
     originated electronically by World Omni Financial Corp., and World Omni Financial Corp., as Servicer, is required to maintain
 [/TABLE_83]
-
-[PAGE 49]
 39
+
+[PAGE 49 | printed 40]
 [TABLE_84]
  | control of those Receivables on behalf of World
 Omni Financial Corp. and its assigns.  The electronic vaulting system is designed to enable World Omni Financial Corp. to perfect
@@ -2732,9 +2732,9 @@ a new amended electronic contract or as a tangible amendment to an existing elec
 is evidenced in tangible form, World Omni Financial Corp., as Servicer, will agree to maintain the perfected security interest in the
 Receivables
 [/TABLE_84]
-
-[PAGE 50]
 40
+
+[PAGE 50 | printed 41]
 [TABLE_85]
  | (consisting
                                             of the electronic contract and tangible amendment) by possession of the tangible amendment
@@ -2769,9 +2769,9 @@ Withdrawal
     agencies to issue or maintain a credit rating on asset-backed securities is a conflict of interest for rating agencies. In the view
     of the SEC, this conflict is particularly acute
 [/TABLE_85]
-
-[PAGE 51]
 41
+
+[PAGE 51 | printed 42]
 [TABLE_86]
  | because arrangers of asset-backed securities
                                             transactions provide repeat business to the rating agencies. Under SEC rules, information
@@ -2809,9 +2809,9 @@ Because
     Europe) and their participating organizations. Your ability to pledge your Notes to persons or entities that do not participate in
     DTC or Clearstream, or to otherwise take actions relating to your Notes, may be limited due to lack of a physical Note.
 [/TABLE_86]
-
-[PAGE 52]
 42
+
+[PAGE 52 | printed 43]
 [TABLE_87]
 You
     May Suffer Delays in Payments as a Result of the Manner in Which Principal and Interest of the Offered Notes is Paid | Payments
@@ -2826,9 +2826,9 @@ Combination
     the risk of loss to an investor may be significantly increased. In considering the potential effects of layered risks, you should
     carefully review the descriptions of the Receivables and the Offered Notes.
 [/TABLE_87]
-
-[PAGE 53]
 43
+
+[PAGE 53 | printed 44]
 WORLD OMNI FINANCIAL
 CORP.
 World Omni Financial Corp. is a Florida corporation
@@ -2873,9 +2873,9 @@ and “
 Description of the Trust Documents—The Servicer.
 ” No securitization sponsored by World Omni Financial Corp.
 has defaulted or experienced an early amortization triggering event.
-
-[PAGE 54]
 44
+
+[PAGE 54 | printed 45]
 WORLD OMNI FINANCIAL
 CORP.’S AUTOMOBILE FINANCE BUSINESS
 World Omni Financial Corp. purchases retail installment
@@ -2935,9 +2935,9 @@ of the applicant’s financial condition, the applicant is required to provide c
 Upon receipt of a credit application, either electronically
 through an online source such as DealerTrack, RouteOne, DocuSign, or in limited cases, via facsimile, World Omni Financial Corp. transfers
 all application data into a centralized computer network owned and operated by a third-party vendor. The origination system obtains an
-
-[PAGE 55]
 45
+
+[PAGE 55 | printed 46]
 independent credit bureau report and the computer network automatically
 relays the application and credit bureau data to decision software which has been customized to perform credit evaluations for World
 Omni Financial Corp. The decision software uses a number of factors in performing the credit evaluation, such as the amount of the monthly
@@ -2985,9 +2985,9 @@ in other states in which World Omni Financial Corp. conducts business, World Omn
 contracts directly with customers under a lease termination program that provides obligors who lease vehicles through World Omni Financial
 Corp., and in certain cases assignees of those obligors, the option of financing the purchase of the leased vehicle on or prior to lease
 expiration. This “lease-to-retail” loan origination process relies, in large part, on the applicant’s past
-
-[PAGE 56]
 46
+
+[PAGE 56 | printed 47]
 payment history and, in some cases, credit bureau score. All lease-to-retail
 applicants are required to go through the credit approval process, which is the same in all material respects as the one used in connection
 with the evaluation of applications submitted from dealers, although more weight may be given to the applicant’s payment history
@@ -3032,9 +3032,9 @@ developed to establish when the first call will be made or the first letter will
 Accounts are also segregated into specialized
 call work lists based on legal requirements applicable to the accounts. These specialized work lists generally include active bankruptcies,
 litigations, confiscations, and accounts
-
-[PAGE 57]
 47
+
+[PAGE 57 | printed 48]
 protected by the Servicemembers Civil Relief Act. Specialized manual
 account calling may be initiated at later stages of delinquency status.
 Calls to obligors are placed by World Omni Financial
@@ -3086,9 +3086,9 @@ World Omni Financial Corp. does not require obligors
 to maintain credit disability, credit life or credit health or other similar insurance coverage which provides for payments to be made
 on the automobile and light-duty truck retail installment sale contracts that it purchases or originates on behalf of the obligors in
 the event of disability
-
-[PAGE 58]
 48
+
+[PAGE 58 | printed 49]
 or death. To the extent that any of these insurance coverages are
 obtained on behalf of an obligor, payments received in respect of coverage may, if permitted by applicable law, be applied to payments
 on the related Receivable to the extent the obligor’s beneficiary chooses to do so. If the obligor finances the purchase of such
@@ -3121,9 +3121,9 @@ World Omni Financial Corp. and their affiliates periodically review sustainabili
 appropriate in their sole discretion. These adjustments may include, without limitation, ceasing to participate in a particular program
 that no longer aligns with or supports JMFE’s strategic direction and priorities. No representation is made regarding the applicability
 of any ESG or other investment criteria to the Notes.
-
-[PAGE 59]
 49
+
+[PAGE 59 | printed 50]
 THE DEPOSITOR
 World Omni Auto Receivables LLC was formed as
 a Delaware limited liability company on April 13, 1999. The principal executive offices of the Depositor are located at 250 Jim Moran
@@ -3163,9 +3163,9 @@ except as permitted under Regulation RR. For more information about the required
 you should read “
 U.S. Credit Risk Retention
 .”
-
-[PAGE 60]
 50
+
+[PAGE 60 | printed 51]
 THE ISSUING ENTITY
 The Issuing Entity is a statutory trust formed
 under the laws of the State of Delaware pursuant to a trust agreement between the Depositor and the Owner Trustee. Before the sale and
@@ -3239,9 +3239,9 @@ Total |  | $ | 918,380,000 |
 [/TABLE_99]
 No expenses incurred in connection with the selection
 and acquisition of the Receivables are to be payable from the offering proceeds.
-
-[PAGE 61]
 51
+
+[PAGE 61 | printed 52]
 The Issuing Entity’s fiscal year ends on
 December 31.
 The Owner Trustee
@@ -3296,9 +3296,9 @@ the eventual outcomes of pending actions, BNY Mellon denies liability and intend
 The Indenture Trustee will not have any responsibility
 on behalf of the Issuing Entity to make any determination with respect to, or monitor or enforce the satisfaction of, any risk retention
 or other regulatory requirement.
-
-[PAGE 62]
 52
+
+[PAGE 62 | printed 53]
 The Indenture Trustee’s
 liability in connection with the issuance and sale of the Notes is limited solely to the express obligations of the Indenture Trustee
 described in the trust documents
@@ -3348,9 +3348,9 @@ The underwriting criteria applicable to the Receivables
 included in the Issuing Entity are described under “
 World Omni Financial Corp.’s Automobile Finance Business—Underwriting.
 ”
-
-[PAGE 63]
 53
+
+[PAGE 63 | printed 54]
 ASSET REPRESENTATIONS
 REVIEWER
 Clayton Fixed Income Services LLC, a Delaware
@@ -3405,9 +3405,9 @@ set forth in the asset representations review agreement. The Asset Representatio
 the Receivables for compliance with the representations under the trust documents, except in connection with a review under the asset
 representations review agreement or (b) determining whether noncompliance with any representation is a breach of the trust documents
 or if any Receivable is required to be repurchased.
-
-[PAGE 64]
 54
+
+[PAGE 64 | printed 55]
 The Asset Representations Reviewer will not be
 liable for any action taken, or not taken, in good faith under the asset representations review agreement or for errors in judgment.
 However, the Asset Representations Reviewer will be liable for its willful misconduct, bad faith or negligence in performing its obligations
@@ -3429,9 +3429,9 @@ Description of the Trust Documents—Periodic Reports
 description of the date and circumstances surrounding any resignation, removal, replacement or substitution of the Asset Representations
 Reviewer that occurred during the related Collection Period. Reasonable expenses associated with the termination of the Asset Representations
 Reviewer and the appointment of a successor will be borne by the outgoing Asset Representations Reviewer.
-
-[PAGE 65]
 55
+
+[PAGE 65 | printed 56]
 THE
 RECEIVABLES POOL
 The primary assets of the Issuing Entity will
@@ -3501,9 +3501,9 @@ that each Receivable:
  | · | provided
                                             for the payment of a finance charge at a stated contract rate ranging from 0.00% to 20.00%;
 [/TABLE_117]
-
-[PAGE 66]
 56
+
+[PAGE 66 | printed 57]
 [TABLE_118]
  | · | did
                                             not have a scheduled payment for which more than the Delinquency Threshold Amount was more
@@ -3526,9 +3526,9 @@ that each Receivable:
 The pool of Receivables was selected from World
 Omni Financial Corp.’s portfolio of Receivables that meet the criteria described above and other administrative criteria utilized
 by World Omni Financial Corp. from time to time.
-
-[PAGE 67]
 57
+
+[PAGE 67 | printed 58]
 The following table
 sets forth information regarding the composition of the Receivables in the pool as of the Cutoff Date. The “
 Weighted Average
@@ -3549,9 +3549,9 @@ Average Maximum FICO
 score
 ” in the table are weighted based on the
 aggregate starting principal balance of the Receivables.
-
-[PAGE 68]
 58
+
+[PAGE 68 | printed 59]
 Composition of the Receivables in the Pool
 as of the Cutoff Date
 [TABLE_122]
@@ -3643,9 +3643,9 @@ Percent of Aggregate Starting Principal Balance that
 [TABLE_128]
  | (6) | Includes vehicles with a plug-in hybrid electric power source.
 [/TABLE_128]
-
-[PAGE 69]
 59
+
+[PAGE 69 | printed 60]
 The following table sets forth information regarding
 the composition of the Receivables relating to financings of Toyota-branded vehicles in the pool as of the Cutoff Date. The percentages
 in the table may not add up to 100.00% because of rounding.
@@ -3680,9 +3680,9 @@ South Carolina |  |  | 2,808 |  |  |  | 7.75 | % |  |  | 76,521,365.89 |  |  |  
 All Others |  |  | 1,116 |  |  |  | 3.08 | % |  |  | 24,078,255.72 |  |  |  | 2.45 | %
 Total |  |  | 36,214 |  |  |  | 100.00 | % |  | $ | 982,748,036.14 |  |  |  | 100.00 | %
 [/TABLE_130]
-
-[PAGE 70]
 60
+
+[PAGE 70 | printed 61]
 The following table sets forth information regarding
 the distribution by contract rate of the Receivables in the pool as of the Cutoff Date. The percentages in the table may not add up to
 100.00% because of rounding.
@@ -3759,9 +3759,9 @@ applicant FICO
 score or, if not available, the co-applicant FICO
 ®
 score.
-
-[PAGE 71]
 61
+
+[PAGE 71 | printed 62]
 The following table
 sets forth information regarding the distribution by vehicle model of the Receivables in the pool as of the Cutoff Date. No other vehicle
 model accounts for more than
@@ -3808,9 +3808,9 @@ Total |  |  | 36,214 |  |  |  | 100.00 | % |  | $ | 982,748,036.14 |  |  |  | 10
 [TABLE_135]
  | (1) | Includes vehicles with a plug-in hybrid electric power source.
 [/TABLE_135]
-
-[PAGE 72]
 62
+
+[PAGE 72 | printed 63]
 Asset-Level Data
 The Depositor prepared an asset-level data file
 for the pool of Receivables disclosed in this prospectus for a hypothetical reporting period commencing on August 1, 2025 and ending
@@ -3863,9 +3863,9 @@ of World Omni Financial Corp., who approved those descriptions as accurate in al
 by external counsel, also reviewed the Rule 193 Information consisting of descriptions of portions of the trust documents and compared
 that Rule 193 Information to the related trust documents to provide reasonable assurance that the descriptions were accurate in
 all material respects. Members of World Omni Financial Corp.’s
-
-[PAGE 73]
 63
+
+[PAGE 73 | printed 64]
 treasury group also consulted with internal regulatory personnel and
 counsel, as well as external counsel, with respect to the description of the legal and regulatory provisions that may materially and
 adversely affect the performance of the Receivables or payments on the Notes.
@@ -3931,9 +3931,9 @@ performed regularly on key business functions.
 After undertaking the review described above,
 the Depositor has found and concluded that it has reasonable assurance that the Rule 193 Information in this prospectus is accurate
 in all material respects.
-
-[PAGE 74]
 64
+
+[PAGE 74 | printed 65]
 DELINQUENCIES, REPOSSESSIONS
 AND NET LOSSES
 The following tables set forth information concerning
@@ -3957,9 +3957,9 @@ and the supply of and demand for automobiles and light-duty trucks. The percenta
 the effect of the growth of World Omni Financial Corp.’s originated portfolio. Accordingly, the repossession and net loss percentages
 would be expected to be higher than those shown if a group of contracts were isolated for a period of time and the repossession and net
 loss data showed the activity only for that isolated group over the periods indicated.
-
-[PAGE 75]
 65
+
+[PAGE 75 | printed 66]
 Delinquency Experience
 (Dollars in Thousands)
 [TABLE_136]
@@ -4015,9 +4015,9 @@ Total (2) |  |  | 2.27 | % |  |  | 2.27 | % |  |  | 2.46 | % |  |  | 2.38 | % | 
 [/TABLE_138]
 * Represents a value that is greater than zero (0.00%)
 but less than 0.005%.
-
-[PAGE 76]
 66
+
+[PAGE 76 | printed 67]
 Net Loss and Repossession Experience
 (Dollars in Thousands)
 [TABLE_139]
@@ -4053,9 +4053,9 @@ the period of charge-off, minus the total amount recovered during that period fr
 recoveries for any period equal the total amount recovered during that period on retail installment sale contracts previously charged-off
 and does not net any expenses incurred to dispose of or recover vehicles. Net Charge-Off Losses equal gross charge-offs minus recoveries
 of retail installment sale contracts previously charged-off.
-
-[PAGE 77]
 67
+
+[PAGE 77 | printed 68]
 STATIC POOL INFORMATION
 ABOUT CERTAIN PRIOR SECURITIZED POOLS
 The pool of retail installment sale contracts
@@ -4077,9 +4077,9 @@ the social, economic and other conditions existing at the time when such Receiva
 future when such Receivables are required to be repaid. There is no assurance that World Omni Financial Corp.’s delinquency, cumulative
 net loss, and prepayment experience with respect to the Receivables included in the securitized pool described in this prospectus will
 be similar to that described in Appendix A to this prospectus.
-
-[PAGE 78]
 68
+
+[PAGE 78 | printed 69]
 PREPAYMENT AND YIELD
 CONSIDERATIONS—WEIGHTED AVERAGE LIFE OF THE SECURITIES
 Subject to certain exceptions, the Receivables
@@ -4142,9 +4142,9 @@ prepared on the basis of the characteristics of the Receivables in the pool. Eac
                                             day count, 4.36% per annum for the Class A-3 Notes based on a 30/360 day count, 4.46%
                                             per annum for the Class A-4 Notes based on
 [/TABLE_144]
-
-[PAGE 79]
 69
+
+[PAGE 79 | printed 70]
 [TABLE_145]
  |  | a 30/360 day count,
                                             4.70% per annum for the Class B Notes based on a 30/360 day count, and 4.90% per annum
@@ -4197,9 +4197,9 @@ prepared on the basis of the characteristics of the Receivables in the pool. Eac
  | · | no
                                             amounts will be owed by the Issuing Entity to the Asset Representations Reviewer.
 [/TABLE_155]
-
-[PAGE 80]
 70
+
+[PAGE 80 | printed 71]
 The YSOC Amount
 schedule set forth below is utilized to calculate the weighted average lives and percentages of original principal amounts at various
 absolute prepayment model percentages under “
@@ -4305,9 +4305,9 @@ October 2031 |  | $ | 2,127.36 |  |  | $ | 1,845.22 |
 November 2031 |  | $ | 345.41 |  |  | $ | 300.07 | 
 December 2031 and thereafter |  | $ | 0.00 |  |  | $ | 0.00 | 
 [/TABLE_157]
-
-[PAGE 81]
 71
+
+[PAGE 81 | printed 72]
 For purposes of these absolute prepayment model
 tables, the Receivables have an assumed next Payment Date as set forth in the table below. Each absolute prepayment model table indicates
 the projected weighted average life of each class of Notes and sets forth the percent of the initial principal amount of each class of
@@ -4336,9 +4336,9 @@ Pool |  | Next Payment Date |  | Aggregate Starting Principal Balance |  |  | We
 14 |  | Sep 2025 |  |  | 47,519,560.13 |  |  |  | 8.717 | % |  | 73 |  | 2
 Total |  |  |  | $ | 982,748,036.14 |  |  |  |  |  |  |  |  | 
 [/TABLE_158]
-
-[PAGE 82]
 72
+
+[PAGE 82 | printed 73]
 The information included in the following tables
 represents forward-looking statements and involves risks and uncertainties that could cause actual results to differ materially from
 the results hypothesized in the forward-looking statements. The actual characteristics and performance of the Receivables will differ
@@ -4374,9 +4374,9 @@ Weighted
 weighted average life of a Note is determined by (a) multiplying the amount of each principal payment of the Note by the number
 of years from the date of issuance of the Note to the related Payment Date, (b) adding the results and (c) dividing the sum
 by the initial principal amount of the Note.
-
-[PAGE 83]
 73
+
+[PAGE 83 | printed 74]
 Percentage of Original Class A-2a and
 A-2b Principal Amount
 at Various Absolute Prepayment Model Percentages:
@@ -4422,9 +4422,9 @@ Weighted
 weighted average life of a Note is determined by (a) multiplying the amount of each principal payment of the Note by the number
 of years from the date of issuance of the Note to the related Payment Date, (b) adding the results and (c) dividing the sum
 by the initial principal amount of the Note.
-
-[PAGE 84]
 74
+
+[PAGE 84 | printed 75]
 Percentage of Original Class A-3 Principal
 Amount
 at Various Absolute Prepayment Model Percentages:
@@ -4497,9 +4497,9 @@ Weighted
 weighted average life of a Note is determined by (a) multiplying the amount of each principal payment of the Note by the number
 of years from the date of issuance of the Note to the related Payment Date, (b) adding the results and (c) dividing the sum
 by the initial principal amount of the Note.
-
-[PAGE 85]
 75
+
+[PAGE 85 | printed 76]
 Percentage of Original Class A-4 Principal
 Amount
 at Various Absolute Prepayment Model Percentages:
@@ -4573,9 +4573,9 @@ Weighted
 weighted average life of a Note is determined by (a) multiplying the amount of each principal payment of the Note by the number
 of years from the date of issuance of the Note to the related Payment Date, (b) adding the results and (c) dividing the sum
 by the initial principal amount of the Note.
-
-[PAGE 86]
 76
+
+[PAGE 86 | printed 77]
 Percentage of Original Class B Principal
 Amount
 at Various Absolute Prepayment Model Percentages:
@@ -4650,9 +4650,9 @@ Weighted
 weighted average life of a Note is determined by (a) multiplying the amount of each principal payment of the Note by the number
 of years from the date of issuance of the Note to the related Payment Date, (b) adding the results and (c) dividing the sum
 by the initial principal amount of the Note.
-
-[PAGE 87]
 77
+
+[PAGE 87 | printed 78]
 Percentage of Original Class C Principal
 Amount
 at Various Absolute Prepayment Model Percentages:
@@ -4727,9 +4727,9 @@ Weighted
 weighted average life of a Note is determined by (a) multiplying the amount of each principal payment of the Note by the number
 of years from the date of issuance of the Note to the related Payment Date, (b) adding the results and (c) dividing the sum
 by the initial principal amount of the Note.
-
-[PAGE 88]
 78
+
+[PAGE 88 | printed 79]
 NOTE POOL FACTORS AND
 OTHER INFORMATION
 The note pool factor with respect to any class
@@ -4779,9 +4779,9 @@ CIK number is 0001004150. For additional information about obtaining a copy of t
 Incorporation
 of Certain Information By Reference
 ” in this prospectus.
-
-[PAGE 89]
 79
+
+[PAGE 89 | printed 80]
 DESCRIPTION OF THE NOTES
 The Notes will be issued under the terms of an
 indenture between the Issuing Entity and the Indenture Trustee. We have filed a form of the indenture and trust agreement as exhibits
@@ -4848,9 +4848,9 @@ or
 (2) if the rate specified in (1) above
 does not so appear, the applicable compounded average of SOFR for the Corresponding Tenor as published in respect of the first preceding
 U.S. Government Securities Business Day for which such rate appeared on the FRBNY’s Website.
-
-[PAGE 90]
 80
+
+[PAGE 90 | printed 81]
 The specific Compounded SOFR rate is referred
 to by its tenor. For example, “30-day Average SOFR” refers to the compounded average SOFR over a rolling 30-calendar day
 period as published on the FRBNY’s Website.
@@ -4911,9 +4911,9 @@ Entity, the Owner Trustee, the Indenture Trustee, the Administrator, the Sponsor
 relating to any such determinations.
 With respect to a Benchmark Transition Event,
 the following terms will have the following respective meanings:
-
-[PAGE 91]
 81
+
+[PAGE 91 | printed 82]
 “
 Benchmark
 ”
@@ -4978,9 +4978,9 @@ Benchmark Transition Event
 ”
 means the occurrence of one or more of the following events with respect to the then-current Benchmark (including the daily published
 component used in the calculation thereof):
-
-[PAGE 92]
 82
+
+[PAGE 92 | printed 83]
 (1) a public statement or publication of
 information by or on behalf of the administrator of the Benchmark (or such component) announcing that such administrator has ceased or
 will cease to provide the Benchmark (or such component), permanently or indefinitely, provided that, at the time of such statement or
@@ -5045,9 +5045,9 @@ Neither the Owner Trustee nor the Indenture Trustee
 will have any liability for any interest rate published by any publication that is the source for determining the interest rates of the
 Notes, including but not limited to the FRBNY’s Website (or any successor source), for any rates compiled by the FRBNY or any successor
 thereto, or for any rates published on any publicly available source, or
-
-[PAGE 93]
 83
+
+[PAGE 93 | printed 84]
 in any of the foregoing cases for any delay, error or inaccuracy in
 the publication of any such rates, or for any subsequent correction or adjustment thereto.
 Interest on the
@@ -5127,9 +5127,9 @@ Payments of Principal
 On each Payment Date, in accordance with the instructions
 of the Servicer (based on information contained in the related Servicer Certificate), the Indenture Trustee will, or will cause the Account
 Bank to, remit principal payments to the Noteholders in an amount generally equal to the excess, if any, of:
-
-[PAGE 94]
 84
+
+[PAGE 94 | printed 85]
 [TABLE_171]
  | · | the
                                             aggregate outstanding principal amount of the Notes as of the day immediately preceding that
@@ -5218,9 +5218,9 @@ for each class of Notes are as follows:
                                             principal amount of the Class A-3 Notes, to the extent not previously paid, will be
                                             due on the Payment Date in March 2031;
 [/TABLE_185]
-
-[PAGE 95]
 85
+
+[PAGE 95 | printed 86]
 [TABLE_186]
  | · | the
                                             principal amount of the Class A-4 Notes, to the extent not previously paid, will be
@@ -5251,9 +5251,9 @@ redemption under the indenture must be given by the Indenture Trustee not later 
 of Notes. In addition, the Servicer or the Issuing Entity will notify each rating agency hired by the Sponsor to rate the Notes upon
 redemption of the Notes. The final distribution to any Noteholder will be made only upon surrender and cancellation of each Noteholder’s
 Note at the office or agency of the Indenture Trustee specified in the notice of termination.
-
-[PAGE 96]
 86
+
+[PAGE 96 | printed 87]
 REGISTRATION OF THE NOTES
 Book-Entry Registration
 The Offered Notes will be available only in book-entry
@@ -5315,9 +5315,9 @@ Definitive Notes will be transferable and exchangeable
 at the offices of the Indenture Trustee or of a note registrar named in a notice delivered to holders of the definitive Notes. No service
 charge will be imposed for any registration of transfer or exchange, but the Issuing Entity, Indenture Trustee or note registrar
 may require payment of a sum sufficient to cover any tax or other governmental charge imposed in connection therewith.
-
-[PAGE 97]
 87
+
+[PAGE 97 | printed 88]
 DESCRIPTION OF THE TRUST
 DOCUMENTS
 The following summary describes the material terms
@@ -5386,9 +5386,9 @@ provide representations and warranties by World Omni Financial Corp. to the Depo
                                             for work, labor or materials relating to a financed vehicle that are liens prior or equal
                                             to the security interest in the financed vehicle granted by any Receivable;
 [/TABLE_195]
-
-[PAGE 98]
 88
+
+[PAGE 98 | printed 89]
 [TABLE_196]
  | · | no
                                             Receivable has a scheduled payment for which more than the Delinquency Threshold Amount is
@@ -5463,9 +5463,9 @@ occurs. The second trigger is a voting trigger that will be met if, following th
 a 5% voting quorum, the Noteholders of a majority of the outstanding principal amount of the Notes that are voted vote for a review.
 The review fees will be $200 for each Receivable tested in the review.
 Delinquency Trigger
-
-[PAGE 99]
 89
+
+[PAGE 99 | printed 90]
 A delinquent Receivable is defined as a Receivable
 with more than the Delinquency Threshold Amount of a scheduled payment past due, including Receivables with bankrupt obligors but excluding
 Defaulted Receivables. As of the date of this prospectus, the Delinquency Threshold Amount, the portion of a scheduled payment that an
@@ -5541,9 +5541,9 @@ outstanding principal amount of the Notes is reached, if the Noteholders of a ma
 that are voted vote to direct a review, the Indenture Trustee will notify the Asset Representations Reviewer, the Issuing Entity and
 the Servicer to start the review. The Issuing Entity’s Form 10-D for the Collection Period in which the Asset Representations
 Reviewer received the notice to start the
-
-[PAGE 100]
 90
+
+[PAGE 100 | printed 91]
 review will specify that the requisite Noteholders have directed the
 Asset Representations Reviewer to perform a review. If the requirements of the voting trigger are not met within these time periods,
 no asset representations review will occur for that occurrence of the Delinquency Trigger.
@@ -5606,9 +5606,9 @@ by a party to the dispute resolution, the expenses will be paid by the Servicer 
 to the priority of payments as described under “
 Description of the Trust Documents—Distributions.
 ”
-
-[PAGE 101]
 91
+
+[PAGE 101 | printed 92]
 For more information about the Asset Representations
 Reviewer, you should read “
 The Asset Representations Reviewer.
@@ -5683,9 +5683,9 @@ For a mediation, the proceeding will start within
 15 days after the selection of the mediator and conclude within 30 days after the start of the mediation. The expenses of the mediation
 will be allocated among the parties as mutually agreed by the parties as part of the mediation. If the parties fail to agree at the completion
 of the mediation, the requesting party may refer the repurchase request to arbitration or court adjudication.
-
-[PAGE 102]
 92
+
+[PAGE 102 | printed 93]
 For an arbitration, the arbitrator will have the
 authority to schedule, hear and determine any motions, including dispositive and discovery motions, according to New York law, and will
 do so at the motion of any party. Discovery will be completed within 30 days of selection of the arbitrator and will be limited for each
@@ -5742,9 +5742,9 @@ Funds in the Trust Accounts will be invested in
 eligible investments upon direction from the Issuing Entity (or the Servicer on its behalf). Absent such direction, such funds will be
 invested or remain uninvested in accordance with the indenture. Eligible investments are generally limited to investments acceptable
 to the rating agencies hired by the Sponsor to rate the securities as being
-
-[PAGE 103]
 93
+
+[PAGE 103 | printed 94]
 consistent with the rating of the securities. In addition, funds in
 the reserve account may only be invested in eligible investments that satisfy the requirements of Regulation RR, as determined solely
 by the Servicer. Eligible investments must generally be high quality, highly liquid, short-term investments that mature before the related
@@ -5804,9 +5804,9 @@ if any, at a public or private sale, or take any other action permitted by appli
 Some Legal Aspects
 of the Receivables.
 ”
-
-[PAGE 104]
 94
+
+[PAGE 104 | printed 95]
 The Servicer has not modified its servicing policies
 and procedures in any material respect in the last three years with respect to the Receivables.
 Payments on Receivables
@@ -5866,9 +5866,9 @@ and duties under the sale and servicing agreement unless it determines that its 
 or regulations. No resignation will become effective until the Indenture Trustee or a successor Servicer has assumed the Servicer’s
 obligations and duties under the sale and servicing agreement. The Servicer may not assign the sale and servicing agreement or any of
 its rights, powers, duties or obligations under the sale and servicing
-
-[PAGE 105]
 95
+
+[PAGE 105 | printed 96]
 agreement except as otherwise provided or except in connection with
 a permitted consolidation, merger, conveyance or transfer of its properties and assets.
 Any entity into which the Servicer may be merged
@@ -5936,9 +5936,9 @@ As long as a Servicer termination event under
 the trust documents remains unremedied, the Indenture Trustee or holders of the Controlling Securities evidencing at least a majority
 of the voting rights of the Controlling Securities may terminate all the rights and obligations of the Servicer, if any, under the sale
 and servicing agreement, whereupon a successor Servicer appointed by the
-
-[PAGE 106]
 96
+
+[PAGE 106 | printed 97]
 Indenture Trustee or, if no successor Servicer has been appointed
 at the time the outgoing Servicer ceases to act, the Indenture Trustee, will become Servicer under the trust documents. If the Indenture
 Trustee is unwilling or legally unable to so act, it may appoint, or petition a court of competent jurisdiction for the appointment of,
@@ -6010,9 +6010,9 @@ of such funds pursuant to prior clauses:
  | (8) | to the reserve account, the excess, if any, of the Required Reserve
                                             Amount over the amount then on deposit in the reserve account;
 [/TABLE_219]
-
-[PAGE 107]
 97
+
+[PAGE 107 | printed 98]
 [TABLE_220]
  | (9) | to the holders of the Notes for distribution in respect of principal
                                             of the Notes as described under “ —Payments to Noteholders, ” an amount
@@ -6072,18 +6072,18 @@ order of priority:
 [/TABLE_230]
 Upon the distribution of any amounts to the certificateholders,
 the Noteholders will not have any rights in, or claims to, these amounts.
-
-[PAGE 108]
 98
+
+[PAGE 108 | printed 99]
 The following chart shows how payments
 from Available Funds are made on each Payment Date.
 (1)
 (1) As described in the definition of “Available
 Funds,” such amounts available for each Payment Date are reduced by the servicing fee for that Payment Date and any previously
 unpaid servicing fees prior to the distributions shown in this chart.
-
-[PAGE 109]
 99
+
+[PAGE 109 | printed 100]
 Payments to Noteholders
 On each Payment Date:
 [TABLE_231]
@@ -6162,9 +6162,9 @@ reserve account will provide protection to the Noteholders by adding an addition
 on the securities. On the Closing Date, the Depositor will cause to be deposited into the reserve account cash or eligible investments
 in the amount of $2,295,965.66 (the “
 Reserve Account Initial
-
-[PAGE 110]
 100
+
+[PAGE 110 | printed 101]
 Deposit
 ”), which
 is equal to approximately 0.25% of the aggregate starting principal balance of the Receivables less the YSOC Amount as of the Cutoff
@@ -6225,9 +6225,9 @@ less than the Required Rate, other than a Defaulted Receivable, exceeds the pres
 Rate, of each scheduled payment of each such Receivable assuming such scheduled payment is made on the last day of each month and each
 month has 30 days. This pool overcollateralization will be created on the Closing Date to provide credit enhancement to compensate for
 low contract rates on certain Receivables.
-
-[PAGE 111]
 101
+
+[PAGE 111 | printed 102]
 Indenture
 Notwithstanding the description of events of default
 under the indenture and resulting rights of Noteholders in this prospectus under the caption “
@@ -6298,9 +6298,9 @@ using its best efforts to perform its obligations in a timely manner in accordan
 or the Indenture Trustee, as applicable, shall provide the Indenture Trustee (if such delay or failure is a result of a delay or failure
 by the Issuing Entity), the Owner Trustee, the Noteholders and the certificateholders prompt notice of such failure or delay by it, together
 with a description of its efforts to so perform its obligations.
-
-[PAGE 112]
 102
+
+[PAGE 112 | printed 103]
 The indenture generally entitles Noteholders to
 principal only to the extent of amounts deposited in the note distribution account. Therefore, the failure to pay principal on a class
 of Notes generally will not result in the occurrence of an event of default until the Final Scheduled Payment Date for that class of
@@ -6372,9 +6372,9 @@ to dispute resolution, no Noteholder will have the right to institute any procee
                                             Indenture Trustee has for 60 days after its receipt of such notice, request and offer
                                             of indemnity failed to institute such proceeding; and
 [/TABLE_256]
-
-[PAGE 113]
 103
+
+[PAGE 113 | printed 104]
 [TABLE_257]
  | · | no
                                             direction inconsistent with the written request has been given to the Indenture Trustee during
@@ -6442,9 +6442,9 @@ with the Indenture Trustee a written officer’s statement as to the fulfillment
 include a statement that to the best of the officer’s knowledge, the Issuing Entity has complied with all conditions and covenants
 under the indenture throughout that year, or, if there has been a default in the compliance of any condition or covenant, specifying
 each default known to that officer and the nature and status of that default.
-
-[PAGE 114]
 104
+
+[PAGE 114 | printed 105]
 Indenture Trustee’s Annual Report
 The indenture requires the Indenture Trustee,
 if required by the Trust Indenture Act of 1939, to make available each year to all Noteholders a brief report relating to its eligibility
@@ -6501,9 +6501,9 @@ to the trust assets securing the Notes upon the delivery to the Indenture Truste
 upon deposit with such Indenture Trustee of funds sufficient for the payment in full of principal and accrued interest on such Notes;
 the payment of all other sums due under the indenture and the delivery to the Indenture Trustee of an officer’s certificate and
 opinion of counsel stating that all conditions precedent for the satisfaction and discharge of the indenture have been complied with.
-
-[PAGE 115]
 105
+
+[PAGE 115 | printed 106]
 The Indenture Trustee
 The Indenture Trustee may resign at any time with
 thirty days’ prior written notice to the Issuing Entity, in which event the Issuing Entity will appoint a successor Indenture Trustee.
@@ -6592,9 +6592,9 @@ the Servicer Certificate prepared by the Servicer setting forth the following:
 [TABLE_285]
  | (17) | the YSOC Amount for the related Payment Date;
 [/TABLE_285]
-
-[PAGE 116]
 106
+
+[PAGE 116 | printed 107]
 [TABLE_286]
  | (18) | a material change in the Depositor’s retained interest in the
                                             securitization transaction;
@@ -6677,9 +6677,9 @@ the requesting party must either be a Noteholder of record or must provide a wri
 of a Note, together with at least one form of documentation such as a trade confirmation, an account statement, a letter from a broker
 or dealer verifying ownership or another similar document evidencing ownership of a Note, upon which the Indenture Trustee may conclusively
 rely.
-
-[PAGE 117]
 107
+
+[PAGE 117 | printed 108]
 Evidence as to Compliance
 Annually, the Servicer will make available to
 the Issuing Entity and the Indenture Trustee an officer’s certificate stating that to the best of such officer’s knowledge
@@ -6734,9 +6734,9 @@ Upon the resignation or removal of the Owner Trustee,
 the Administrator will appoint a successor Owner Trustee and will provide notice of the resignation or removal of the Owner Trustee and
 the acceptance of appointment by the successor Owner Trustee to the certificateholders, the Noteholders, the Indenture Trustee and the
 rating agencies hired by the Sponsor. Any successor Owner
-
-[PAGE 118]
 108
+
+[PAGE 118 | printed 109]
 Trustee must at all times: (1) be a corporation that satisfies
 the provisions of Section 12-3807(a) of the Statutory Trust Act and be authorized to exercise corporate trust powers, (2) have
 a combined capital and surplus of at least $50,000,000 and (3) have (or have a parent which has) a long-term rating in any generic
@@ -6797,9 +6797,9 @@ of adding, changing, modifying or eliminating any of the provisions of those tru
                                             delivery by the Servicer of an officer’s certificate stating that the amendment will
                                             not materially and adversely affect the interest of any holder of the affected securities.
 [/TABLE_295]
-
-[PAGE 119]
 109
+
+[PAGE 119 | printed 110]
 In addition, the Depositor, the Servicer, the
 Issuing Entity and the applicable trustee, with the consent of the holders of the Controlling Securities evidencing at least a majority
 of the voting rights of the Controlling Securities, unless the interests of the Noteholders are not materially and adversely affected
@@ -6845,9 +6845,9 @@ of the Controlling Securities. Holders of senior securities may be the Controlli
 by the Issuing Entity, any other obligor upon the Notes, the Depositor or any affiliate of any of the foregoing persons will be disregarded
 and deemed not to be outstanding in determining whether the holders of the requisite outstanding principal amount of the Controlling
 Securities have given any request, demand, authorization, direction, notice, consent or waiver under any trust document.
-
-[PAGE 120]
 110
+
+[PAGE 120 | printed 111]
 U.S. CREDIT RISK RETENTION
 Regulation RR requires
 the Sponsor to retain, either directly or through a majority-owned affiliate, an economic interest in the credit risk of the Receivables.
@@ -6951,9 +6951,9 @@ and
 “
 —The YSOC Amount.
 ”
-
-[PAGE 121]
 111
+
+[PAGE 121 | printed 112]
 The fair value of
 the Notes and the
 certificates is summarized below. The totals in the table may not sum due to rounding:
@@ -7032,9 +7032,9 @@ In completing these calculations, World Omni Financial Corp. made the following 
                                             Class A-2 Notes with an initial principal amount of $314,000,000, Class A-3 Notes
                                             with an initial principal amount of $314,000,000, Class A-4 Notes with
 [/TABLE_306]
-
-[PAGE 122]
 112
+
+[PAGE 122 | printed 113]
 [TABLE_307]
  |  | an initial principal amount of $59,060,000, Class B Notes with an initial principal amount of
                               $27,530,000 and Class C Notes with an initial principal amount of $13,790,000.
@@ -7129,9 +7129,9 @@ In no event
 shall the Indenture Trustee or Owner Trustee have any responsibility to monitor compliance with or enforce compliance with Regulation
 RR or other rules or regulations relating to risk retention. The Indenture Trustee or Owner Trustee shall not be charged with knowledge
 of such rules, nor shall it be liable to any Noteholder or other party for violation of such rules now or hereinafter in effect.
-
-[PAGE 123]
 113
+
+[PAGE 123 | printed 114]
 AFFILIATIONS AND RELATIONSHIPS
 AMONG TRANSACTION PARTIES
 The Owner Trustee is not an affiliate of any of
@@ -7163,9 +7163,9 @@ and the Issuing Entity or the Owner Trustee, on the other hand, members of
 any partnership, joint venture, association, syndicate,
 unincorporated business or other separate entity, (ii) be construed to impose any liability as such on any of them or (iii) be
 deemed to confer on any of them any express, implied or apparent authority to incur any obligation or liability on behalf of the others.
-
-[PAGE 124]
 114
+
+[PAGE 124 | printed 115]
 FEES AND EXPENSES
 Set forth below is a list of all fees and expenses
 payable on each Payment Date out of Available Funds.
@@ -7236,9 +7236,9 @@ Owner
                                             holders of certificates evidencing at least a majority of the percentage interest of the
                                             certificates or satisfaction of the rating agency condition.
 [/TABLE_325]
-
-[PAGE 125]
 115
+
+[PAGE 125 | printed 116]
 SOME LEGAL ASPECTS OF
 THE RECEIVABLES
 The transfer of Receivables by World Omni Financial
@@ -7297,9 +7297,9 @@ Only authorized World Omni Financial Corp. associates, auditors and other repres
 When a contract closes, the lien on the title
 is released and, except in those states in which the title is held by the obligor, the title is mailed to the appropriate party. In states
 that require the return of the contract, the contract is returned to the obligor.
-
-[PAGE 126]
 116
+
+[PAGE 126 | printed 117]
 Security Interests in the Financed Vehicles
 In states in which retail installment sale contracts
 evidence the credit sale of financed vehicles by dealers to obligors, the contracts also constitute personal property security agreements
@@ -7353,9 +7353,9 @@ where specifically limited by other state laws. Among the Uniform Commercial Cod
 self-help repossession unless the act would constitute a breach of the peace or would otherwise violate judicially created limitations
 on the remedy of self-help repossession. Unless the financed vehicle is voluntarily surrendered, self-help is the most likely method
 to be used by the Servicer and is accomplished by retaking
-
-[PAGE 127]
 117
+
+[PAGE 127 | printed 118]
 possession of the financed vehicle. Some jurisdictions require that
 the obligor be notified of the default and be given a time period within which the obligor may cure the default prior to repossession.
 In cases where legal recovery of a vehicle becomes necessary, or if otherwise required by applicable state law, a court order must be
@@ -7421,9 +7421,9 @@ laws and related regulations impose substantial requirements upon lenders and se
 of these laws to particular circumstances is often unclear and some courts and regulatory authorities have adopted new interpretations
 of such laws. These laws include the Dodd-Frank Act and its implementing regulations, Truth-in-Lending Act, the Equal Credit Opportunity
 Act, the Federal Trade Commission Act, the Fair
-
-[PAGE 128]
 118
+
+[PAGE 128 | printed 119]
 Credit Reporting Act, the Fair Debt Collection Practices Act, the
 Gramm Leach Bliley Act, the Magnuson-Moss Warranty Act, the Consumer Financial Protection Act, the CFPB’s Regulations B, V and
 Z, the Servicemembers Civil Relief Act, the Telephone Consumer Protection Act, states’ adoption of the National Consumer Act and
@@ -7485,9 +7485,9 @@ companies engaged in auto finance activities over the sale and financing of serv
 or extended service agreements) and other add-on products such as guaranteed asset protection (GAP) waivers. State attorneys general
 have also increased their scrutiny of these products. Both the CFPB and the FTC have previously taken various enforcement actions against
 lenders and finance companies involving significant penalties, consent orders,
-
-[PAGE 129]
 119
+
+[PAGE 129 | printed 120]
 cease and desist
 orders and similar remedies that, if applicable to auto finance providers and the type of products, services and operations
 World
@@ -7569,9 +7569,9 @@ and OLA provisions, the uncertainty of the Secretary of the Treasury’s determi
 be made in the future under potentially different circumstances, no assurance can be given that the Secretary of the Treasury would not
 determine that the failure of World Omni Financial Corp. would have serious adverse effects on the financial stability in the United
 States. In addition, no assurance can be given that OLA provisions
-
-[PAGE 130]
 120
+
+[PAGE 130 | printed 121]
 would not apply to World Omni Financial Corp., the Issuing Entity
 or the Depositor or, if it were to apply, that the timing and amounts of payments to the Noteholders would not be less favorable than
 under the United States Bankruptcy Code.
@@ -7631,9 +7631,9 @@ payments or distributions of principal and interest on the Notes issued by the I
 In addition, under OLA, none of the parties to
 the receivables purchase agreement, sale and servicing agreement, the administration agreement and the indenture could exercise any right
 or power to terminate, accelerate, or declare a default under those
-
-[PAGE 131]
 121
+
+[PAGE 131 | printed 122]
 contracts, or otherwise affect World Omni Financial Corp.’s
 or a covered subsidiary’s rights under those contracts without the FDIC’s consent for 90 days after the receiver is appointed.
 During the same period, the FDIC’s consent would also be needed for any attempt to obtain possession of or exercise control over
@@ -7680,9 +7680,9 @@ Risk Factors—Risks Relating to Certain Regulatory and Material Legal Aspects o
 That Fail to Comply With Consumer Protection Laws May Be Unenforceable, Which May Result in Losses on Your Investment
 ”
 in this prospectus.
-
-[PAGE 132]
 122
+
+[PAGE 132 | printed 123]
 MATERIAL U.S. FEDERAL
 INCOME TAX CONSEQUENCES
 The discussion under
@@ -7748,9 +7748,9 @@ Mayer Brown LLP will deliver its opinion at closing
 that the Issuing Entity will not be treated as an association (or publicly traded partnership), in either case, taxable as a corporation
 for U.S. federal income tax purposes. This opinion will be based on the assumption that the terms of the sale and servicing agreement
 and indenture and related documents will be complied with, including
-
-[PAGE 133]
 123
+
+[PAGE 133 | printed 124]
 that the Issuing Entity will not make an affirmative election to be
 treated as a corporation for U.S. federal income tax purposes. Such opinion will also be subject to qualifications and other assumptions
 as set forth therein.
@@ -7816,9 +7816,9 @@ prepay at a 1.30% absolute prepayment model rate, and there will be no extension
 is made that the
 Receivables or the Notes will prepay at the absolute prepayment model
 rate described above or at any other rate.
-
-[PAGE 134]
 124
+
+[PAGE 134 | printed 125]
 Short-Term Notes
 A holder of a Note that has a fixed maturity date
 of no more than one year from the issue date of that Note (a “
@@ -7889,9 +7889,9 @@ stated interest, but in excess of its adjusted issue price (any such excess bein
 Acquisition Premium
 ”) and that
 does not make the election described below under “Election to Treat All Interest as Original
-
-[PAGE 135]
 125
+
+[PAGE 135 | printed 126]
 Issue Discount,” is required to reduce the daily
 portions of OID by a fraction, the numerator of which is the excess of the holder’s adjusted tax basis in the Note immediately
 after its purchase over the Note’s adjusted issue price, and the denominator of which is the excess of the sum of all amounts payable
@@ -7958,9 +7958,9 @@ that:
                                             gain is not effectively connected with the conduct of a trade or business in the United States
                                             by the Non-U.S. Person; and
 [/TABLE_336]
-
-[PAGE 136]
 126
+
+[PAGE 136 | printed 127]
 [TABLE_337]
  | · | in
                                             the case of an individual Non-U.S. Person, the Non-U.S. Person is not present in the United
@@ -8021,9 +8021,9 @@ not treated as debt for U.S. federal income tax purposes, it is expected that th
 income tax purposes as interests in a partnership. In such case, it is expected that stated interest payments on such class of Notes
 would be treated either as guaranteed payments under Section 707(c) of the Internal Revenue Code or as a preferential allocation
 of net income of the Issuing Entity, with all other items of the Issuing Entity’s
-
-[PAGE 137]
 127
+
+[PAGE 137 | printed 128]
 income, gain, loss, deduction and credit being allocated to the holders
 of the certificates. Although the U.S. federal income tax treatment of the Notes for most accrual basis taxpayers should not differ materially
 under this alternative characterization than if the Notes were treated as debt, the characterization could result in adverse effects
@@ -8082,9 +8082,9 @@ the “new” Note (which, depending on whether such Note were then treated as b
 the fair market value rather than the principal amount of such Note), and the U.S. Person’s tax basis in the “old”
 Note.  If U.S. Persons are deemed to have exchanged their Class A-2b Notes in a taxable exchange, such U.S. Persons would begin
 a new holding period in their Class A-2b Notes for purposes of determining whether gain or loss on a further
-
-[PAGE 138]
 128
+
+[PAGE 138 | printed 129]
 exchange would be long-term or short-term
 capital gain or loss.  Holders of the Class A-2b Notes should consult their own tax advisors with respect to the consequences
 of a change in the rate of interest due to the unavailability of a published SOFR
@@ -8101,9 +8101,9 @@ based upon any of several indicia, one or more of which may be present with resp
 imposed for failure to comply with these disclosure requirements. Prospective investors should be aware that the transferor and other
 participants in the transaction intend to comply with such disclosure and investor list requirements. Prospective investors are encouraged
 to consult their tax advisors concerning any possible disclosure obligation with respect to their investment.
-
-[PAGE 139]
 129
+
+[PAGE 139 | printed 130]
 STATE AND LOCAL TAX CONSEQUENCES
 A rule under the Florida Income Tax Code
 (the “
@@ -8126,9 +8126,9 @@ treatment of the Issuing Entity, the securities or the security owners under any
 extent set forth above. Prospective investors are urged to consult their own tax advisors regarding the state and local tax treatment
 of the Issuing Entity and the securities, and the consequences of purchase, ownership or disposition of the securities under any state
 or local tax law, if applicable.
-
-[PAGE 140]
 130
+
+[PAGE 140 | printed 131]
 CERTAIN CONSIDERATIONS
 FOR ERISA AND OTHER U.S. BENEFIT PLAN INVESTORS
 Section 406 of the Employee Retirement Income
@@ -8199,9 +8199,9 @@ By acquiring an Offered Note, each purchaser and
 transferee thereof will be deemed to represent and warrant that either (i) it is not acquiring and will not hold such Offered Note
 (or a beneficial interest therein) on behalf of, or with the assets of any Benefit Plan or any plan or arrangement that is subject to
 Similar Law; or (ii) its acquisition, holding and disposition of such Offered Note (or
-
-[PAGE 141]
 131
+
+[PAGE 141 | printed 132]
 a beneficial interest therein) will not constitute or give rise to
 a nonexempt prohibited transaction under Section 406 of ERISA or Section 4975 of the Internal Revenue Code or a violation of
 Similar Law.
@@ -8209,9 +8209,9 @@ A plan fiduciary considering the purchase of Offered
 Notes is encouraged to consult its legal advisors regarding the matters discussed above and other applicable legal requirements, including,
 without limitation, whether the assets of the Issuing Entity would be considered plan assets, the possibility of exemptive relief from
 the prohibited transaction rules and other related issues and their potential consequences.
-
-[PAGE 142]
 132
+
+[PAGE 142 | printed 133]
 UNDERWRITING
 Under the terms and subject to the conditions
 contained in an underwriting agreement dated October ●, 2025 among World Omni Financial Corp., the Depositor, and Mizuho Securities
@@ -8282,9 +8282,9 @@ places certain conditions on investments in a “securitisation” (as defined i
 EU
 Due Diligence Requirements
 ”) by “institutional investors”, defined in the EU Securitisation
-
-[PAGE 143]
 133
+
+[PAGE 143 | printed 134]
 Regulation to include insurance undertakings, reinsurance undertaking,
 institutions for occupational retirement provision, investment managers and authorized entities appointed by such institutions, alternative
 investment fund managers that manage and/or market alternative investment funds in the EU (or, as applicable, in the EEA), management
@@ -8351,9 +8351,9 @@ Prospective investors are responsible for, and
 should analyze, their own legal and regulatory position and are encouraged to consult with their own investment and legal advisors regarding
 the suitability of the Notes for investment and the scope and applicability of, and compliance with, the EU Securitisation Regulation,
 the UK Securitisation Framework and any other existing or future similar regimes in any relevant jurisdictions or other applicable regulations.
-
-[PAGE 144]
 134
+
+[PAGE 144 | printed 135]
 The Notes are a new issue of securities with no
 established trading market. World Omni Financial Corp. and the Depositor do not intend to apply for listing of the Notes on a national
 securities exchange. Certain of the underwriters have advised World Omni Financial Corp. and the Depositor that they intend to act as
@@ -8415,18 +8415,18 @@ offering of the Offered Notes may be made concurrently through more than one of 
  | · | by
                                             direct placements by the Depositor with investors.
 [/TABLE_342]
-
-[PAGE 145]
 135
+
+[PAGE 145 | printed 136]
 Each Noteholder, by its acceptance of a Note,
 represents that it has, independently and without reliance upon the Indenture Trustee or any other person, and based on such documents
 and information as it has deemed appropriate, made its own investment decision in respect of the Notes. Each Noteholder also represents
 that it will, independently and without reliance upon the Indenture Trustee or any other person, and based on such documents and information
 as it shall deem appropriate at the time, continue to make its own decisions in taking or not taking action under the indenture or any
 other document and in connection with the Notes.
-
-[PAGE 146]
 136
+
+[PAGE 146 | printed 137]
 European Economic Area
 Each underwriter has (severally, and not jointly)
 represented, warranted and agreed that it has not offered, sold or otherwise made available and will not offer, sell or otherwise make
@@ -8503,9 +8503,9 @@ available any Offered Notes to any UK retail investor in the UK. For these purpo
                                             terms of the offer and the Offered Notes to be offered so as to enable an investor to decide
                                             to purchase or subscribe for the Offered Notes.
 [/TABLE_352]
-
-[PAGE 147]
 137
+
+[PAGE 147 | printed 138]
 FORWARD-LOOKING STATEMENTS
 This prospectus, including information included
 or incorporated by reference in this prospectus, may contain certain forward-looking statements. In addition, certain statements made
@@ -8539,9 +8539,9 @@ in this prospectus, each of the Indenture Trustee and the Owner Trustee has repr
 date of this prospectus, there are no pending legal proceedings, or any other such proceedings known to be contemplated by governmental
 authorities, involving the Indenture Trustee and the Owner Trustee, respectively, that, individually or in the aggregate, would have
 a material adverse impact on investors in the Notes being offered under this prospectus.
-
-[PAGE 148]
 138
+
+[PAGE 148 | printed 139]
 INCORPORATION OF CERTAIN
 INFORMATION BY REFERENCE
 The Issuing Entity
@@ -8588,9 +8588,9 @@ including the legality opinion for the Notes and certain U.S. federal income tax
 upon for the Depositor and the Servicer by Mayer Brown LLP. Some legal matters relating to the Loan Rule will be passed upon by
 Bilzin Sumberg Baena Price & Axelrod LLP, Miami, Florida. Some legal matters relating to the Offered Notes will be passed upon
 for the underwriters by Morgan, Lewis & Bockius LLP.
-
-[PAGE 149]
 139
+
+[PAGE 149 | printed 140]
 GLOSSARY OF TERMS TO
 THE PROSPECTUS
 The following are definitions of terms used in
@@ -8687,9 +8687,9 @@ BNY
 Mellon
 ”
 is defined on page 52.
-
-[PAGE 150]
 140
+
+[PAGE 150 | printed 141]
 “
 Benefit
 Plan
@@ -8786,9 +8786,9 @@ page 123.
 Collection Period
 ”
 is defined on page 85.
-
-[PAGE 151]
 141
+
+[PAGE 151 | printed 142]
 “
 Controlling
 Securities
@@ -8885,9 +8885,9 @@ on page iii.
 EU Securitisation Regulation
 ”
 is defined on pages 28 and 133.
-
-[PAGE 152]
 142
+
+[PAGE 152 | printed 143]
 “
 EUWA
 ” is defined on page ii.
@@ -8996,9 +8996,9 @@ is defined on page 2.
 NRSRO
 ”
 is defined on page 41.
-
-[PAGE 153]
 143
+
+[PAGE 153 | printed 144]
 “
 Offered Notes
 ” is defined
@@ -9113,9 +9113,9 @@ principal based on the actual date on which a payment is received.
 “
 SOFR
 ” is defined on page 18.
-
-[PAGE 154]
 144
+
+[PAGE 154 | printed 145]
 “
 SOFR Adjustment Conforming Changes
 ”
@@ -9217,9 +9217,9 @@ Date, the aggregate amount by which the principal balance as of the last day of 
 the related Receivables with a contract rate less than the Required Rate, other than a Defaulted Receivable, exceeds the present value,
 calculated using a discount rate of the Required Rate, of each scheduled payment of each such Receivable assuming such scheduled payment
 is made on the last day of each month and each month has 30 days.
-
-[PAGE 155]
 145
+
+[PAGE 155 | printed A-1]
 Appendix A
 STATIC POOL INFORMATION ABOUT RECEIVABLES IN
 CERTAIN PREVIOUS SECURITIZED POOLS
@@ -9231,11 +9231,11 @@ information of each securitized pool described above are based on the securitize
 of the final pool of Receivables for that transaction may vary somewhat from the characteristics of the Receivables in the applicable
 securitized pool. The delinquency, cumulative net loss and prepayment speed tables below are based on the final pool of Receivables for
 that transaction. The static pool information in this Appendix A is presented for illustrative purposes only.
-
-[PAGE 156]
 [TABLE_365]
  | A- 1 | 
 [/TABLE_365]
+
+[PAGE 156 | printed A-2]
 WORLD
 OMNI AUTO RECEIVABLES TRUSTS
 ORIGINAL PORTFOLIO CHARACTERISTICS
@@ -9338,11 +9338,11 @@ Used (2) |  |  | 6 | % |  |  | 6 | % |  |  | 5 | % |  |  | 6 | % |  |  | 6 | %
                                             on the aggregate starting principal balance of the applicable Receivables) falling below
                                             662.
 [/TABLE_372]
-
-[PAGE 157]
 [TABLE_373]
  | A- 2 | 
 [/TABLE_373]
+
+[PAGE 157 | printed A-3]
 [TABLE_374]
  |  | WOART 2022-A |  |  | WOART 2022-B |  |  | WOART 2022-C |  |  | WOART 2022-D |  |  | WOART 2023-A | 
 Closing Date |  |  | February 16,
@@ -9419,11 +9419,11 @@ Wtd.
 New (2) |  |  | 95 | % |  |  | 95 | % |  |  | 96 | % |  |  | 96 | % |  |  | 95 | %
 Used (2) |  |  | 5 | % |  |  | 5 | % |  |  | 4 | % |  |  | 4 | % |  |  | 5 | %
 [/TABLE_374]
-
-[PAGE 158]
 [TABLE_375]
  | A- 3 | 
 [/TABLE_375]
+
+[PAGE 158 | printed A-4]
 [TABLE_376]
  |  | WOART 2024-C |  |  | WOART 2025-A |  |  | WOART 2025-B |  |  | WOART 2025-C | 
 Closing Date |  |  | August 20,
@@ -9515,11 +9515,11 @@ Used (2) |  |  | 2 | % |  |  |  |  |  |  |  |  |  |  |  |
                                             on the aggregate starting principal balance of the applicable Receivables) falling below
                                             662.
 [/TABLE_382]
-
-[PAGE 159]
 [TABLE_383]
  | A- 4 | 
 [/TABLE_383]
+
+[PAGE 159 | printed A-5]
 Geographical
 InfoRMATION
 (1)(2)
@@ -9562,11 +9562,11 @@ Total |  |  | 1,157,521,164.95 |  |  |  | 100.0 | % |  |  | 1,102,919,763.19 |  
 [TABLE_387]
  | (2) | Based on the billing addresses of the obligors.
 [/TABLE_387]
-
-[PAGE 160]
 [TABLE_388]
  | A- 5 | 
 [/TABLE_388]
+
+[PAGE 160 | printed A-6]
 [TABLE_389]
  |  | WOART 2021-D |  |  | WOART 2022-A |  |  | WOART 2022-B | 
  |  | Starting Principal Balance ($) |  |  | %
@@ -9630,11 +9630,11 @@ Total |  |  | 1,343,677,474.68 |  |  |  | 100.0 | % |  |  | 1,335,109,741.10 |  
 [TABLE_394]
  | (2) | Based on the billing addresses of the obligors.
 [/TABLE_394]
-
-[PAGE 161]
 [TABLE_395]
  | A- 6 | 
 [/TABLE_395]
+
+[PAGE 161 | printed A-7]
 [TABLE_396]
  |  | WOART 2025-A |  |  | WOART 2025-B |  |  | WOART 2025-C | 
  |  | Starting Principal Balance ($) |  |  | %
@@ -9667,11 +9667,11 @@ Total |  |  | 982,748,036.14 |  |  |  | 100.0 | % |  |  |  |  |  |  |  |  |  |  
 [TABLE_398]
  | (2) | Based on the billing addresses of the obligors.
 [/TABLE_398]
-
-[PAGE 162]
 [TABLE_399]
  | A- 7 | 
 [/TABLE_399]
+
+[PAGE 162 | printed A-8]
 DELINQUENCIES
 (1)(2)
 The following tables set forth information regarding
@@ -9707,11 +9707,11 @@ issued during the five years preceding the date of this prospectus.
                                             or insurance financed on the original contract; and (iii) any payment of the Purchase
                                             Amount with respect to the Receivable allocable to principal.
 [/TABLE_401]
-
-[PAGE 163]
 [TABLE_402]
  | A- 8 | 
 [/TABLE_402]
+
+[PAGE 163 | printed A-9]
 WOART
 2020-A
 [TABLE_403]
@@ -9770,11 +9770,11 @@ Collection Period |  |  | End-of-Month Aggregate Principal Balance ($) |  |  | 3
 47 |  |  |  | 91,237,469 |  |  |  | 148 |  |  |  | 1,905,976 |  |  |  | 38 |  |  |  | 478,421 |  |  |  | 3 |  |  |  | 31,150 |  |  |  | 0 |  |  |  | 0 |  |  |  | 0.56 | %
 48 |  |  |  | 84,496,264 |  |  |  | 124 |  |  |  | 1,577,581 |  |  |  | 34 |  |  |  | 445,035 |  |  |  | 6 |  |  |  | 65,296 |  |  |  | 0 |  |  |  | 0 |  |  |  | 0.60 | %
 [/TABLE_403]
-
-[PAGE 164]
 [TABLE_404]
  | A- 9 | 
 [/TABLE_404]
+
+[PAGE 164 | printed A-10]
 WOART
 2020-B
 [TABLE_405]
@@ -9833,11 +9833,11 @@ Collection Period |  |  | End-of-Month Aggregate Principal Balance ($) |  |  | 3
 47 |  |  |  | 89,903,059 |  |  |  | 69 |  |  |  | 788,095 |  |  |  | 27 |  |  |  | 331,225 |  |  |  | 5 |  |  |  | 63,858 |  |  |  | 0 |  |  |  | 0 |  |  |  | 0.44 | %
 48 |  |  |  | 82,664,912 |  |  |  | 87 |  |  |  | 949,908 |  |  |  | 21 |  |  |  | 218,151 |  |  |  | 4 |  |  |  | 41,091 |  |  |  | 0 |  |  |  | 0 |  |  |  | 0.31 | %
 [/TABLE_405]
-
-[PAGE 165]
 [TABLE_406]
  | A- 10 | 
 [/TABLE_406]
+
+[PAGE 165 | printed A-11]
 WOART
 2020-C
 [TABLE_407]
@@ -9898,11 +9898,11 @@ Collection Period |  |  | End-of-Month Aggregate Principal Balance ($) |  |  | 3
 49 |  |  |  | 134,728,575 |  |  |  | 170 |  |  |  | 2,097,741 |  |  |  | 59 |  |  |  | 805,408 |  |  |  | 10 |  |  |  | 82,047 |  |  |  | 0 |  |  |  | 0 |  |  |  | 0.66 | %
 50 |  |  |  | 124,619,233 |  |  |  | 204 |  |  |  | 2,332,355 |  |  |  | 45 |  |  |  | 572,227 |  |  |  | 14 |  |  |  | 178,159 |  |  |  | 0 |  |  |  | 0 |  |  |  | 0.60 | %
 [/TABLE_407]
-
-[PAGE 166]
 [TABLE_408]
  | A- 11 | 
 [/TABLE_408]
+
+[PAGE 166 | printed A-12]
 WOART
 2021-A
 [TABLE_409]
@@ -9961,11 +9961,11 @@ Collection Period |  |  | End-of-Month Aggregate Principal Balance ($) |  |  | 3
 47 |  |  |  | 123,720,246 |  |  |  | 251 |  |  |  | 3,026,814 |  |  |  | 76 |  |  |  | 1,035,205 |  |  |  | 13 |  |  |  | 166,242 |  |  |  | 0 |  |  |  | 0 |  |  |  | 0.97 | %
 48 |  |  |  | 113,744,998 |  |  |  | 240 |  |  |  | 2,808,159 |  |  |  | 74 |  |  |  | 1,007,757 |  |  |  | 12 |  |  |  | 138,137 |  |  |  | 0 |  |  |  | 0 |  |  |  | 1.01 | %
 [/TABLE_409]
-
-[PAGE 167]
 [TABLE_410]
  | A- 12 | 
 [/TABLE_410]
+
+[PAGE 167 | printed A-13]
 WOART
 2021-B
 [TABLE_411]
@@ -10025,11 +10025,11 @@ Collection Period |  |  | End-of-Month Aggregate Principal Balance ($) |  |  | 3
 48 |  |  |  | 119,358,402 |  |  |  | 203 |  |  |  | 2,472,392 |  |  |  | 72 |  |  |  | 963,899 |  |  |  | 7 |  |  |  | 69,178 |  |  |  | 0 |  |  |  | 0 |  |  |  | 0.87 | %
 49 |  |  |  | 109,976,537 |  |  |  | 211 |  |  |  | 2,511,610 |  |  |  | 57 |  |  |  | 692,244 |  |  |  | 11 |  |  |  | 151,280 |  |  |  | 0 |  |  |  | 0 |  |  |  | 0.77 | %
 [/TABLE_411]
-
-[PAGE 168]
 [TABLE_412]
  | A- 13 | 
 [/TABLE_412]
+
+[PAGE 168 | printed A-14]
 WOART
 2021-C
 [TABLE_413]
@@ -10089,11 +10089,11 @@ Collection Period |  |  | End-of-Month Aggregate Principal Balance ($) |  |  | 3
 48 |  |  |  | 120,861,921 |  |  |  | 292 |  |  |  | 3,864,721 |  |  |  | 82 |  |  |  | 1,110,432 |  |  |  | 8 |  |  |  | 113,161 |  |  |  | 0 |  |  |  | 0 |  |  |  | 1.01 | %
 49 |  |  |  | 111,953,304 |  |  |  | 291 |  |  |  | 3,769,091 |  |  |  | 90 |  |  |  | 1,194,083 |  |  |  | 16 |  |  |  | 239,594 |  |  |  | 0 |  |  |  | 0 |  |  |  | 1.28 | %
 [/TABLE_413]
-
-[PAGE 169]
 [TABLE_414]
  | A- 14 | 
 [/TABLE_414]
+
+[PAGE 169 | printed A-15]
 WOART
 2021-D
 [TABLE_415]
@@ -10150,11 +10150,11 @@ Collection Period |  |  | End-of-Month Aggregate Principal Balance ($) |  |  | 3
 45 |  |  |  | 148,773,008 |  |  |  | 313 |  |  |  | 4,277,766 |  |  |  | 78 |  |  |  | 1,155,013 |  |  |  | 12 |  |  |  | 163,859 |  |  |  | 0 |  |  |  | 0 |  |  |  | 0.89 | %
 46 |  |  |  | 138,692,814 |  |  |  | 301 |  |  |  | 3,995,238 |  |  |  | 104 |  |  |  | 1,395,526 |  |  |  | 14 |  |  |  | 173,818 |  |  |  | 0 |  |  |  | 0 |  |  |  | 1.13 | %
 [/TABLE_415]
-
-[PAGE 170]
 [TABLE_416]
  | A- 15 | 
 [/TABLE_416]
+
+[PAGE 170 | printed A-16]
 WOART
 2022-A
 [TABLE_417]
@@ -10208,11 +10208,11 @@ Collection Period |  |  | End-of-Month Aggregate Principal Balance ($) |  |  | 3
 42 |  |  |  | 153,711,983 |  |  |  | 289 |  |  |  | 4,814,374 |  |  |  | 77 |  |  |  | 1,310,596 |  |  |  | 10 |  |  |  | 185,251 |  |  |  | 0 |  |  |  | 0 |  |  |  | 0.97 | %
 43 |  |  |  | 144,528,764 |  |  |  | 307 |  |  |  | 4,952,151 |  |  |  | 73 |  |  |  | 1,199,517 |  |  |  | 11 |  |  |  | 182,676 |  |  |  | 0 |  |  |  | 0 |  |  |  | 0.96 | %
 [/TABLE_417]
-
-[PAGE 171]
 [TABLE_418]
  | A- 16 | 
 [/TABLE_418]
+
+[PAGE 171 | printed A-17]
 WOART
 2022-B
 [TABLE_419]
@@ -10262,11 +10262,11 @@ Collection Period |  |  | End-of-Month Aggregate Principal Balance ($) |  |  | 3
 38 |  |  |  | 196,899,670 |  |  |  | 288 |  |  |  | 5,466,240 |  |  |  | 72 |  |  |  | 1,252,913 |  |  |  | 11 |  |  |  | 194,822 |  |  |  | 0 |  |  |  | 0 |  |  |  | 0.74 | %
 39 |  |  |  | 186,269,001 |  |  |  | 278 |  |  |  | 5,089,020 |  |  |  | 75 |  |  |  | 1,295,262 |  |  |  | 22 |  |  |  | 384,998 |  |  |  | 0 |  |  |  | 0 |  |  |  | 0.90 | %
 [/TABLE_419]
-
-[PAGE 172]
 [TABLE_420]
  | A- 17 | 
 [/TABLE_420]
+
+[PAGE 172 | printed A-18]
 WOART
 2022-C
 [TABLE_421]
@@ -10314,11 +10314,11 @@ Collection Period |  |  | End-of-Month Aggregate Principal Balance ($) |  |  | 3
 36 |  |  |  | 250,486,556 |  |  |  | 285 |  |  |  | 6,130,975 |  |  |  | 87 |  |  |  | 1,737,218 |  |  |  | 16 |  |  |  | 297,133 |  |  |  | 0 |  |  |  | 0 |  |  |  | 0.81 | %
 37 |  |  |  | 238,108,588 |  |  |  | 275 |  |  |  | 5,806,498 |  |  |  | 92 |  |  |  | 1,823,415 |  |  |  | 22 |  |  |  | 415,730 |  |  |  | 0 |  |  |  | 0 |  |  |  | 0.94 | %
 [/TABLE_421]
-
-[PAGE 173]
 [TABLE_422]
  | A- 18 | 
 [/TABLE_422]
+
+[PAGE 173 | printed A-19]
 WOART
 2022-D
 [TABLE_423]
@@ -10363,11 +10363,11 @@ Collection Period |  |  | End-of-Month Aggregate Principal Balance ($) |  |  | 3
 33 |  |  |  | 297,434,919 |  |  |  | 293 |  |  |  | 6,961,304 |  |  |  | 74 |  |  |  | 1,768,612 |  |  |  | 15 |  |  |  | 333,359 |  |  |  | 0 |  |  |  | 0 |  |  |  | 0.71 | %
 34 |  |  |  | 283,682,277 |  |  |  | 259 |  |  |  | 5,705,143 |  |  |  | 87 |  |  |  | 2,180,248 |  |  |  | 24 |  |  |  | 578,859 |  |  |  | 0 |  |  |  | 0 |  |  |  | 0.97 | %
 [/TABLE_423]
-
-[PAGE 174]
 [TABLE_424]
  | A- 19 | 
 [/TABLE_424]
+
+[PAGE 174 | printed A-20]
 WOART
 2023-A
 [TABLE_425]
@@ -10409,11 +10409,11 @@ Collection Period |  |  | End-of-Month Aggregate Principal Balance ($) |  |  | 3
 30 |  |  |  | 312,308,382 |  |  |  | 262 |  |  |  | 6,719,836 |  |  |  | 59 |  |  |  | 1,715,844 |  |  |  | 17 |  |  |  | 325,940 |  |  |  | 0 |  |  |  | 0 |  |  |  | 0.65 | %
 31 |  |  |  | 297,251,092 |  |  |  | 271 |  |  |  | 6,815,648 |  |  |  | 87 |  |  |  | 2,256,226 |  |  |  | 7 |  |  |  | 176,212 |  |  |  | 0 |  |  |  | 0 |  |  |  | 0.82 | %
 [/TABLE_425]
-
-[PAGE 175]
 [TABLE_426]
  | A- 20 | 
 [/TABLE_426]
+
+[PAGE 175 | printed A-21]
 WOART
 2023-B
 [TABLE_427]
@@ -10453,11 +10453,11 @@ Collection Period |  |  | End-of-Month Aggregate Principal Balance ($) |  |  | 3
 28 |  |  |  | 361,403,540 |  |  |  | 293 |  |  |  | 7,529,284 |  |  |  | 89 |  |  |  | 2,249,691 |  |  |  | 17 |  |  |  | 451,249 |  |  |  | 0 |  |  |  | 0 |  |  |  | 0.75 | %
 29 |  |  |  | 343,656,895 |  |  |  | 257 |  |  |  | 6,583,287 |  |  |  | 96 |  |  |  | 2,556,929 |  |  |  | 18 |  |  |  | 399,609 |  |  |  | 0 |  |  |  | 0 |  |  |  | 0.86 | %
 [/TABLE_427]
-
-[PAGE 176]
 [TABLE_428]
  | A- 21 | 
 [/TABLE_428]
+
+[PAGE 176 | printed A-22]
 WOART
 2023-C
 [TABLE_429]
@@ -10493,11 +10493,11 @@ Collection Period |  |  | End-of-Month Aggregate Principal Balance ($) |  |  | 3
 24 |  |  |  | 424,077,290 |  |  |  | 326 |  |  |  | 8,098,264 |  |  |  | 93 |  |  |  | 2,514,427 |  |  |  | 15 |  |  |  | 361,463 |  |  |  | 0 |  |  |  | 0 |  |  |  | 0.68 | %
 25 |  |  |  | 403,436,433 |  |  |  | 313 |  |  |  | 8,065,307 |  |  |  | 112 |  |  |  | 2,865,646 |  |  |  | 17 |  |  |  | 444,001 |  |  |  | 0 |  |  |  | 0 |  |  |  | 0.82 | %
 [/TABLE_429]
-
-[PAGE 177]
 [TABLE_430]
  | A- 22 | 
 [/TABLE_430]
+
+[PAGE 177 | printed A-23]
 WOART
 2023-D
 [TABLE_431]
@@ -10530,11 +10530,11 @@ Collection Period |  |  | End-of-Month Aggregate Principal Balance ($) |  |  | 3
 21 |  |  |  | 464,975,075 |  |  |  | 361 |  |  |  | 8,636,048 |  |  |  | 98 |  |  |  | 2,631,412 |  |  |  | 14 |  |  |  | 413,415 |  |  |  | 0 |  |  |  | 0 |  |  |  | 0.65 | %
 22 |  |  |  | 443,670,190 |  |  |  | 347 |  |  |  | 8,620,387 |  |  |  | 107 |  |  |  | 2,577,875 |  |  |  | 18 |  |  |  | 459,863 |  |  |  | 0 |  |  |  | 0 |  |  |  | 0.68 | %
 [/TABLE_431]
-
-[PAGE 178]
 [TABLE_432]
  | A- 23 | 
 [/TABLE_432]
+
+[PAGE 178 | printed A-24]
 WOART
 2024-A
 [TABLE_433]
@@ -10564,11 +10564,11 @@ Collection Period |  |  | End-of-Month Aggregate Principal Balance ($) |  |  | 3
 18 |  |  |  | 660,144,446 |  |  |  | 363 |  |  |  | 11,162,770 |  |  |  | 101 |  |  |  | 2,836,419 |  |  |  | 31 |  |  |  | 944,120 |  |  |  | 0 |  |  |  | 0 |  |  |  | 0.57 | %
 19 |  |  |  | 629,843,929 |  |  |  | 344 |  |  |  | 10,499,189 |  |  |  | 128 |  |  |  | 3,625,176 |  |  |  | 23 |  |  |  | 579,339 |  |  |  | 0 |  |  |  | 0 |  |  |  | 0.67 | %
 [/TABLE_433]
-
-[PAGE 179]
 [TABLE_434]
  | A- 24 | 
 [/TABLE_434]
+
+[PAGE 179 | printed A-25]
 WOART
 2024-B
 [TABLE_435]
@@ -10595,11 +10595,11 @@ Collection Period |  |  | End-of-Month Aggregate Principal Balance ($) |  |  | 3
 15 |  |  |  | 711,076,688 |  |  |  | 382 |  |  |  | 10,175,894 |  |  |  | 100 |  |  |  | 2,765,845 |  |  |  | 19 |  |  |  | 499,637 |  |  |  | 0 |  |  |  | 0 |  |  |  | 0.46 | %
 16 |  |  |  | 680,727,863 |  |  |  | 410 |  |  |  | 10,605,444 |  |  |  | 122 |  |  |  | 3,648,833 |  |  |  | 28 |  |  |  | 847,028 |  |  |  | 0 |  |  |  | 0 |  |  |  | 0.66 | %
 [/TABLE_435]
-
-[PAGE 180]
 [TABLE_436]
  | A- 25 | 
 [/TABLE_436]
+
+[PAGE 180 | printed A-26]
 WOART
 2024-C
 [TABLE_437]
@@ -10623,11 +10623,11 @@ Collection Period |  |  | End-of-Month Aggregate Principal Balance ($) |  |  | 3
 12 |  |  |  | 797,893,758 |  |  |  | 348 |  |  |  | 10,471,664 |  |  |  | 103 |  |  |  | 3,003,797 |  |  |  | 20 |  |  |  | 572,799 |  |  |  | 0 |  |  |  | 0 |  |  |  | 0.45 | %
 13 |  |  |  | 764,295,358 |  |  |  | 372 |  |  |  | 11,086,820 |  |  |  | 131 |  |  |  | 3,977,417 |  |  |  | 26 |  |  |  | 643,470 |  |  |  | 0 |  |  |  | 0 |  |  |  | 0.60 | %
 [/TABLE_437]
-
-[PAGE 181]
 [TABLE_438]
  | A- 26 | 
 [/TABLE_438]
+
+[PAGE 181 | printed A-27]
 WOART
 2025-A
 [TABLE_439]
@@ -10646,11 +10646,11 @@ Collection Period |  |  | End-of-Month Aggregate Principal Balance ($) |  |  | 3
 7 |  |  |  | 1,006,337,271 |  |  |  | 335 |  |  |  | 10,745,315 |  |  |  | 84 |  |  |  | 2,711,174 |  |  |  | 19 |  |  |  | 362,771 |  |  |  | 0 |  |  |  | 0 |  |  |  | 0.31 | %
 8 |  |  |  | 966,309,000 |  |  |  | 332 |  |  |  | 10,183,186 |  |  |  | 121 |  |  |  | 4,054,805 |  |  |  | 24 |  |  |  | 620,716 |  |  |  | 0 |  |  |  | 0 |  |  |  | 0.48 | %
 [/TABLE_439]
-
-[PAGE 182]
 [TABLE_440]
  | A- 27 | 
 [/TABLE_440]
+
+[PAGE 182 | printed A-28]
 WOART
 2025-B
 [TABLE_441]
@@ -10665,11 +10665,11 @@ Collection Period |  |  | End-of-Month Aggregate Principal Balance ($) |  |  | 3
 3 |  |  |  | 1,124,977,293 |  |  |  | 318 |  |  |  | 7,523,883 |  |  |  | 71 |  |  |  | 2,097,738 |  |  |  | 26 |  |  |  | 671,940 |  |  |  | 0 |  |  |  | 0 |  |  |  | 0.25 | %
 4 |  |  |  | 1,085,641,205 |  |  |  | 352 |  |  |  | 9,119,889 |  |  |  | 99 |  |  |  | 2,782,752 |  |  |  | 22 |  |  |  | 423,035 |  |  |  | 0 |  |  |  | 0 |  |  |  | 0.30 | %
 [/TABLE_441]
-
-[PAGE 183]
 [TABLE_442]
  | A- 28 | 
 [/TABLE_442]
+
+[PAGE 183 | printed A-29]
 WOART
 2025-c
 [TABLE_443]
@@ -10681,20 +10681,20 @@ Collection Period |  |  | End-of-Month Aggregate Principal Balance ($) |  |  | 3
     Due 61+ Days (%) | 
 1 |  |  |  | 1,232,552,861 |  |  |  | 286 |  |  |  | 7,114,277 |  |  |  | 49 |  |  |  | 1,622,611 |  |  |  | 0 |  |  |  | 0 |  |  |  | 0 |  |  |  | 0 |  |  |  | 0.13 | %
 [/TABLE_443]
-
-[PAGE 184]
 [TABLE_444]
  | A- 29 | 
 [/TABLE_444]
+
+[PAGE 184 | printed A-30]
 Delinquency Information.
 The
 graph below shows delinquency information for World Omni Financial Corp.’s prior securitized pools of retail installment sale contracts
 for all transactions issued during the five years preceding the date of this prospectus.
-
-[PAGE 185]
 [TABLE_445]
  | A- 30 | 
 [/TABLE_445]
+
+[PAGE 185 | printed A-31]
 CUMULATIVE NET LOSSES
 (1)
 The following table sets forth information regarding
@@ -10747,11 +10747,11 @@ Collection Period |  | WOART 2020-A |  | WOART 2020-B |  | WOART 2020-C |  | WOA
 43 |  | 0.58 | % |  | 0.23 | % |  | 0.33 | % |  | 0.36 | % |  | 0.40 | % |  | 0.48 | % |  | 0.51 | % |  | 0.66 | % |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
 44 |  | 0.58 | % |  | 0.23 | % |  | 0.33 | % |  | 0.36 | % |  | 0.40 | % |  | 0.47 | % |  | 0.51 | % |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
 [/TABLE_446]
-
-[PAGE 186]
 [TABLE_447]
  | A- 31 | 
 [/TABLE_447]
+
+[PAGE 186 | printed A-32]
 [TABLE_448]
 Collection Period |  | WOART 2020-A |  | WOART 2020-B |  | WOART 2020-C |  | WOART 2021-A |  | WOART 2021-B |  | WOART 2021-C |  | WOART 2021-D |  | WOART 2022-A |  | WOART 2022-B |  | WOART 2022-C |  | WOART 2022-D |  | WOART 2023-A |  | WOART 2023-B |  | WOART 2023-C |  | WOART 2023-D |  | WOART 2024-A |  | WOART 2024-B |  | WOART 2024-C |  | WOART 2025-A |  | WOART 2025-B |  | WOART 2025-C | 
 45 |  | 0.58 | % |  | 0.23 | % |  | 0.32 | % |  | 0.38 | % |  | 0.40 | % |  | 0.47 | % |  | 0.52 | % |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
@@ -10777,19 +10777,19 @@ Collection Period |  | WOART 2020-A |  | WOART 2020-B |  | WOART 2020-C |  | WOA
                                             contract; and (iii) any payment of the Purchase Amount with respect to the Receivable
                                             allocable to principal.
 [/TABLE_449]
-
-[PAGE 187]
 [TABLE_450]
  | A- 32 | 
 [/TABLE_450]
+
+[PAGE 187 | printed A-33]
 Cumulative Net Loss Information.
 The graph below shows cumulative net loss information for World Omni Financial Corp.’s prior securitized pools of retail
 installment sale contracts for all transactions issued during the five years preceding the date of this prospectus.
-
-[PAGE 188]
 [TABLE_451]
  | A- 33 | 
 [/TABLE_451]
+
+[PAGE 188 | printed A-34]
 ABS
 SPEED
 (1)
@@ -10848,11 +10848,11 @@ Collection
 47 |  | 1.15 | % |  | 1.11 | % |  | 1.00 | % |  | 1.09 | % |  | 1.15 | % |  | 1.01 | % |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
 48 |  | 1.07 | % |  | 1.12 | % |  | 1.18 | % |  | 1.14 | % |  | 1.13 | % |  | 1.11 | % |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
 [/TABLE_452]
-
-[PAGE 189]
 [TABLE_453]
  | A- 34 | 
 [/TABLE_453]
+
+[PAGE 189 | printed A-35]
 [TABLE_454]
 Collection
     Period |  | WOART 2020-A |  | WOART 2020-B |  | WOART 2020-C |  | WOART 2021-A |  | WOART 2021-B |  | WOART 2021-C |  | WOART 2021-D |  | WOART 2022-A |  | WOART 2022-B |  | WOART 2022-C |  | WOART 2022-D |  | WOART 2023-A |  | WOART 2023-B |  | WOART 2023-C |  | WOART 2023-D |  | WOART 2024-A |  | WOART 2024-B |  | WOART 2024-C |  | WOART 2025-A |  | WOART 2025-B |  | WOART 2025-C | 
@@ -10875,11 +10875,11 @@ Average (2) |  | 1.31 | % |  | 1.31 | % |  | 1.33 | % |  | 1.27 | % |  | 1.29 | 
  | (2) | Numbers may not average
                                             due to rounding.
 [/TABLE_456]
-
-[PAGE 190]
 [TABLE_457]
  | A- 35 | 
 [/TABLE_457]
+
+[PAGE 190 | printed A-36]
 ABS Speed Information.
 The
 graph below shows historical minimum, maximum and average prepayment speed information based on one month ABS speed aggregated for World
@@ -10891,11 +10891,11 @@ years preceding the date of this prospectus.
                                             the five years preceding the date of this prospectus by the total number of series outstanding
                                             in such month.
 [/TABLE_458]
-
-[PAGE 191]
 [TABLE_459]
  | A- 36 | 
 [/TABLE_459]
+
+[PAGE 191]
 $918,380,000
 World Omni Auto
 Receivables Trust 2025-D
