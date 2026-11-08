@@ -364,6 +364,49 @@ class StreamTests(AnswerTestCase):
             list(pieces)
 
 
+class CitationTests(AnswerTestCase):
+    def test_grouped_citations_are_split(self):
+        cases = {
+            "A [Sources 1, 5].": "A [Source 1][Source 5].",
+            "A [Sources 1,5] B": "A [Source 1][Source 5] B",
+            "A [Source 1 and 3]": "A [Source 1][Source 3]",
+            "A [Sources 2-4]": "A [Source 2][Source 3][Source 4]",
+            "A [Sources 2–4, 6]": "A [Source 2][Source 3][Source 4][Source 6]",
+            "A [Source 1; Source 5]": "A [Source 1][Source 5]",
+            "A [Source 1, Source 2 & Source 3]": "A [Source 1][Source 2][Source 3]",
+        }
+        for text, expected in cases.items():
+            with self.subTest(text=text):
+                self.assertEqual(answer.normalize_citations(text), expected)
+
+    def test_other_text_is_left_alone(self):
+        for text in ("A [Source 1].", "A [Source 1][Source 5].", "Class A-2 [as defined] notes", "[TABLE_3] 1, 5"):
+            with self.subTest(text=text):
+                self.assertEqual(answer.normalize_citations(text), text)
+
+    def test_prompt_asks_for_separate_citations(self):
+        answer_question("q", client=self.client)
+        self.assertIn("never combine them as [Sources 1, 5]", self.prompt())
+
+    def test_full_answer_is_normalized(self):
+        client = FakeClient(pieces=["Servicer may be replaced [Sources 1, 5]."])
+        result = answer_question("q", client=client)
+        self.assertEqual(result["answer"], "Servicer may be replaced [Source 1][Source 5].")
+
+    def test_streamed_citation_split_across_pieces_is_normalized(self):
+        pieces = ["Servicer may ", "be replaced [Sour", "ces 1, ", "5] if ", "it fails [Source 2]."]
+        streamed = list(stream_answer("q", client=FakeClient(pieces=pieces))["answer"])
+        self.assertEqual("".join(streamed), "Servicer may be replaced [Source 1][Source 5] if it fails [Source 2].")
+        for piece in streamed:  # no piece carries half a citation
+            self.assertEqual(piece.count("["), piece.count("]"))
+        full = answer_question("q", client=FakeClient(pieces=pieces))["answer"]
+        self.assertEqual("".join(streamed), full)
+
+    def test_unfinished_bracket_at_the_end_is_still_sent(self):
+        streamed = list(stream_answer("q", client=FakeClient(pieces=["Done [Source"]))["answer"])
+        self.assertEqual("".join(streamed), "Done [Source")
+
+
 class FrontDoorTests(unittest.TestCase):
     def test_app_can_import_the_backend(self):
         # A fresh process in the repository root, as `streamlit run app.py` would be.
