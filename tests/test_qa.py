@@ -9,6 +9,7 @@ need no API key and no real embeddings. Run from the repository root:
 import json
 import math
 import os
+import subprocess
 import sys
 import tempfile
 import unittest
@@ -361,6 +362,27 @@ class StreamTests(AnswerTestCase):
         pieces = stream_answer("q", client=FakeClient(pieces=[]))["answer"]
         with self.assertRaises(QAError):
             list(pieces)
+
+
+class FrontDoorTests(unittest.TestCase):
+    def test_app_can_import_the_backend(self):
+        # A fresh process in the repository root, as `streamlit run app.py` would be.
+        code = (
+            "from src.qa import QAError, answer_question, filter_options, stream_answer\n"
+            "import src.qa\n"
+            "print(sorted(src.qa.__all__))"
+        )
+        result = subprocess.run([sys.executable, "-c", code], cwd=ROOT, capture_output=True, text=True)
+        self.assertEqual(result.returncode, 0, result.stderr)
+        self.assertEqual(result.stdout.strip(),
+                         "['QAError', 'answer_question', 'filter_options', 'stream_answer']")
+
+    def test_front_door_is_the_same_code(self):
+        import src.qa
+        self.assertIs(src.qa.answer_question, answer_question)
+        self.assertIs(src.qa.stream_answer, stream_answer)
+        self.assertIs(src.qa.filter_options, search.filter_options)
+        self.assertIs(src.qa.QAError, QAError)
 
 
 if __name__ == "__main__":
