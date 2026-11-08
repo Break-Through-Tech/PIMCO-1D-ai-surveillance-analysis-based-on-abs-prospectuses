@@ -14,7 +14,6 @@ from pathlib import Path
 
 ROOT = Path(__file__).parent.parent
 sys.path.insert(0, str(ROOT))
-# answer_questions.py imports retrieve from this module.
 from src.qa.search import QAError, retrieve
 
 

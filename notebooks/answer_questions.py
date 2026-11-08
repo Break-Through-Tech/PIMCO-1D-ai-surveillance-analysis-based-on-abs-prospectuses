@@ -1,7 +1,8 @@
 """Answer natural-language questions using retrieved filing chunks.
 
-Retrieval and answer generation are deliberately separate: the completion
-model receives only the top retrieved chunks, never the whole corpus.
+The answering itself lives in src/qa/answer.py; this script is its command
+line. The completion model receives only the top retrieved chunks, never the
+whole corpus.
 
 Examples:
     python notebooks/answer_questions.py --query "Which deals use physical custody?"
@@ -9,77 +10,24 @@ Examples:
 """
 
 import argparse
-import os
-
-from openai import OpenAI
-
-from search_embeddings import retrieve
+import sys
+from pathlib import Path
 
 
-DEFAULT_MODEL = "gpt-6-luna"
+ROOT = Path(__file__).parent.parent
+sys.path.insert(0, str(ROOT))
+from src.qa.answer import DEFAULT_MODEL, answer_question
+from src.qa.search import QAError
 
 
-def source_label(number: int, result: dict) -> str:
-    filing = result.get("filing_stem", "unknown filing")
-    page = result.get("page_num", "unknown")
-    printed = result.get("printed_label")
-    section = result.get("toc_section")
-    details = f"{filing}, physical page {page}"
-    if printed:
-        details += f", printed page {printed}"
-    if section:
-        details += f", section {section}"
-    return f"[Source {number}: {details}; chunk {result['chunk_id']}]"
-
-
-def build_prompt(query: str, results: list[dict]) -> str:
-    evidence = []
-    for number, result in enumerate(results, start=1):
-        evidence.append(
-            f"{source_label(number, result)}\n"
-            f"Similarity score: {result['similarity']:.4f}\n"
-            f"{result['embed_text']}"
-        )
+def source_line(source: dict) -> str:
+    label = source["deal_name"] or source["company"] or source["filing"]
+    page = source["page_label"] or "n/a"
     return (
-        "Answer the user's question using only the supplied evidence. "
-        "Do not rely on outside knowledge and do not invent facts. "
-        "If the evidence is insufficient or conflicting, say so clearly. "
-        "Cite every substantive claim with one or more source labels exactly "
-        "as written, such as [Source 1]. Keep the answer concise.\n\n"
-        f"User question:\n{query}\n\n"
-        "Retrieved evidence:\n"
-        + "\n\n".join(evidence)
+        f"[Source {source['number']}] {label} | {source['filing']} | "
+        f"printed page {page} (page {source['page']}) | "
+        f"section {source['section'] or 'n/a'} | chunk {source['chunk_id']}"
     )
-
-
-def answer_question(
-    query: str,
-    *,
-    top_k: int,
-    model: str,
-    client: OpenAI,
-) -> str:
-    results = retrieve(query, top_k=top_k, client=client)
-    if not results:
-        return "No evidence was retrieved for this question."
-
-    response = client.chat.completions.create(
-        model=model,
-        messages=[
-            {
-                "role": "system",
-                "content": (
-                    "You are a careful financial-document research assistant. "
-                    "Use only the retrieved evidence and always cite claims."
-                ),
-            },
-            {"role": "user", "content": build_prompt(query, results)},
-        ],
-    )
-    answer = response.choices[0].message.content
-    if not answer or not answer.strip():
-        raise RuntimeError("The completion API returned an empty answer.")
-    return answer.strip()
 
 
 def main() -> None:
@@ -92,15 +40,16 @@ def main() -> None:
     args = parser.parse_args()
     if args.top_k < 1:
         parser.error("--top-k must be positive")
-    if not os.getenv("OPENAI_API_KEY"):
-        raise SystemExit("OPENAI_API_KEY is not set; refusing to make an unauthenticated request.")
 
-    print(answer_question(
-        args.query,
-        top_k=args.top_k,
-        model=args.model,
-        client=OpenAI(),
-    ))
+    try:
+        result = answer_question(args.query, top_k=args.top_k, model=args.model)
+    except QAError as error:
+        raise SystemExit(str(error))
+    print(result["answer"])
+    if result["sources"]:
+        print("\nSources:")
+        for source in result["sources"]:
+            print(source_line(source))
 
 
 if __name__ == "__main__":

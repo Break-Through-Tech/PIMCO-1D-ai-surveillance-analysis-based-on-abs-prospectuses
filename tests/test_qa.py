@@ -22,7 +22,8 @@ import openai
 ROOT = Path(__file__).parent.parent
 sys.path.insert(0, str(ROOT))
 
-from src.qa import search
+from src.qa import answer, search
+from src.qa.answer import answer_question, stream_answer
 from src.qa.search import QAError
 
 
@@ -49,7 +50,8 @@ def openai_failure(error_class, message):
     return error
 
 
-def write_index(folder: Path, records=RECORDS, model="fake-embedding-model") -> None:
+def write_index(folder: Path, records=RECORDS, model="fake-embedding-model", texts=None) -> None:
+    texts = texts or {}
     metadata = [
         {
             "chunk_id": chunk_id,
@@ -57,7 +59,7 @@ def write_index(folder: Path, records=RECORDS, model="fake-embedding-model") -> 
             "page_num": number + 1,
             "printed_label": str(number + 1),
             "toc_section": "RISK FACTORS",
-            "embed_text": f"Passage {chunk_id}",
+            "embed_text": texts.get(chunk_id, f"Passage {chunk_id}"),
             "company": company,
             "deal_name": f"Deal {chunk_id}",
             "asset_type": asset_type,
@@ -85,9 +87,37 @@ class FakeEmbeddings:
         return SimpleNamespace(data=[SimpleNamespace(embedding=list(self.vector))])
 
 
+class FakeCompletions:
+    """Answers with `pieces` joined (or streamed one by one). `error` is raised
+    on the call; `error_after` is raised while streaming, after the first piece."""
+
+    def __init__(self, pieces, error=None, error_after=None):
+        self.pieces = pieces
+        self.error = error
+        self.error_after = error_after
+        self.calls = []
+
+    def create(self, model, messages, stream=False):
+        self.calls.append({"model": model, "messages": messages, "stream": stream})
+        if self.error:
+            raise self.error
+        if not stream:
+            message = SimpleNamespace(content="".join(self.pieces))
+            return SimpleNamespace(choices=[SimpleNamespace(message=message)])
+        return self._stream()
+
+    def _stream(self):
+        for number, piece in enumerate(self.pieces):
+            if self.error_after and number == 1:
+                raise self.error_after
+            yield SimpleNamespace(choices=[SimpleNamespace(delta=SimpleNamespace(content=piece))])
+
+
 class FakeClient:
-    def __init__(self, vector=QUERY_VECTOR, error=None):
+    def __init__(self, vector=QUERY_VECTOR, error=None, pieces=("Toyota uses ", "a reserve account ", "[Source 1]."),
+                 chat_error=None, chat_error_after=None):
         self.embeddings = FakeEmbeddings(vector, error)
+        self.chat = SimpleNamespace(completions=FakeCompletions(list(pieces), chat_error, chat_error_after))
 
 
 class SearchTests(unittest.TestCase):
@@ -196,6 +226,141 @@ class SearchErrorTests(unittest.TestCase):
             with self.subTest(text=text):
                 error = self.assertQAError(text, client=FakeClient(error=original))
                 self.assertIs(error.__cause__, original)
+
+
+SOURCE_FIELDS = {
+    "number", "deal_name", "company", "asset_type", "filing_date", "filing", "page",
+    "page_label", "section", "chunk_id", "similarity", "snippet", "text",
+}
+LONG_TEXT = "The reserve account is funded at closing. " * 20
+
+
+class AnswerTestCase(unittest.TestCase):
+    def setUp(self):
+        self.folder = Path(tempfile.mkdtemp())
+        write_index(self.folder, texts={"t1": LONG_TEXT})
+        patcher = mock.patch.object(search, "EMBEDDINGS_DIR", self.folder)
+        patcher.start()
+        self.addCleanup(patcher.stop)
+        self.client = FakeClient()
+
+    def prompt(self):
+        return self.client.chat.completions.calls[-1]["messages"][-1]["content"]
+
+
+class AnswerTests(AnswerTestCase):
+    def test_returns_answer_and_sources_only(self):
+        result = answer_question("How are reserve accounts funded?", top_k=3, client=self.client)
+        self.assertEqual(set(result), {"answer", "sources"})
+        self.assertEqual(result["answer"], "Toyota uses a reserve account [Source 1].")
+
+    def test_sources_follow_the_contract(self):
+        sources = answer_question("q", top_k=3, client=self.client)["sources"]
+        self.assertEqual([s["number"] for s in sources], [1, 2, 3])
+        self.assertEqual([s["chunk_id"] for s in sources], ["t1", "x1", "f1"])
+        for source in sources:
+            self.assertEqual(set(source), SOURCE_FIELDS)
+        first = sources[0]
+        self.assertEqual((first["deal_name"], first["company"], first["filing"]), ("Deal t1", "TOYOTA", "t1_filing"))
+        self.assertEqual((first["page"], first["page_label"], first["section"]), (1, "1", "RISK FACTORS"))
+
+    def test_missing_values_become_none(self):
+        missing = answer_question("q", top_k=3, client=self.client)["sources"][1]
+        self.assertEqual(missing["chunk_id"], "x1")
+        for field in ("company", "asset_type", "filing_date"):
+            self.assertIsNone(missing[field])
+
+    def test_snippet_is_short_and_text_is_full(self):
+        first = answer_question("q", top_k=1, client=self.client)["sources"][0]
+        self.assertEqual(first["text"], LONG_TEXT)
+        self.assertLessEqual(len(first["snippet"]), answer.SNIPPET_LENGTH + 1)
+        self.assertTrue(first["snippet"].endswith("…"))
+
+    def test_prompt_uses_short_source_labels(self):
+        sources = answer_question("q", top_k=3, client=self.client)["sources"]
+        prompt = self.prompt()
+        blocks = prompt.split("Retrieved evidence:\n")[1].split("\n\n")
+        for number, (block, source) in enumerate(zip(blocks, sources), start=1):
+            # [Source N] in the prompt is sources[N - 1].
+            self.assertTrue(block.startswith(f"[Source {number}]\n"))
+            self.assertIn(source["text"], block)
+        self.assertNotIn("[Source 1:", prompt)
+        self.assertIn("Deal t1 | t1_filing | filed 2024-04-18 | printed page 1 (page 1) | section RISK FACTORS", prompt)
+
+    def test_filters_reach_the_search(self):
+        sources = answer_question("q", top_k=5, filters={"company": ["FORD"]}, client=self.client)["sources"]
+        self.assertEqual([s["chunk_id"] for s in sources], ["f1", "f2"])
+
+    def test_no_match_answers_without_calling_openai(self):
+        result = answer_question("q", filters={"company": ["NOT_A_COMPANY"]}, client=self.client)
+        self.assertEqual(result, {"answer": answer.NO_MATCH_ANSWER, "sources": []})
+        self.assertEqual(self.client.embeddings.calls, [])
+        self.assertEqual(self.client.chat.completions.calls, [])
+
+    def test_default_and_chosen_model(self):
+        answer_question("q", client=self.client)
+        self.assertEqual(self.client.chat.completions.calls[-1]["model"], answer.DEFAULT_MODEL)
+        answer_question("q", model="other-model", client=self.client)
+        self.assertEqual(self.client.chat.completions.calls[-1]["model"], "other-model")
+
+    def test_empty_answer_is_an_error(self):
+        with self.assertRaises(QAError) as caught:
+            answer_question("q", client=FakeClient(pieces=["  "]))
+        self.assertIn("empty answer", str(caught.exception))
+
+    def test_openai_failure_is_an_error(self):
+        original = openai_failure(openai.APIConnectionError, "no network")
+        with self.assertRaises(QAError) as caught:
+            answer_question("q", client=FakeClient(chat_error=original))
+        self.assertIs(caught.exception.__cause__, original)
+
+    def test_missing_api_key(self):
+        with mock.patch.dict(os.environ, {}, clear=True):
+            for function in (answer_question, stream_answer):
+                with self.subTest(function=function.__name__), self.assertRaises(QAError):
+                    function("q")
+
+
+class StreamTests(AnswerTestCase):
+    def test_sources_are_ready_before_any_text(self):
+        result = stream_answer("q", top_k=3, client=self.client)
+        self.assertEqual(set(result), {"answer", "sources"})
+        self.assertEqual([s["chunk_id"] for s in result["sources"]], ["t1", "x1", "f1"])
+        self.assertEqual(self.client.chat.completions.calls, [])  # nothing requested yet
+        self.assertEqual(list(result["answer"]), ["Toyota uses ", "a reserve account ", "[Source 1]."])
+        self.assertTrue(self.client.chat.completions.calls[-1]["stream"])
+
+    def test_pieces_join_up_to_the_full_answer(self):
+        streamed = "".join(stream_answer("q", top_k=3, client=self.client)["answer"])
+        full = answer_question("q", top_k=3, client=FakeClient())["answer"]
+        self.assertEqual(streamed, full)
+
+    def test_same_sources_and_prompt_as_answer_question(self):
+        streamed = stream_answer("q", top_k=3, client=self.client)
+        list(streamed["answer"])
+        stream_prompt = self.prompt()
+        full = answer_question("q", top_k=3, client=self.client)
+        self.assertEqual(streamed["sources"], full["sources"])
+        self.assertEqual(stream_prompt, self.prompt())
+
+    def test_no_match_message_also_streams(self):
+        result = stream_answer("q", filters={"year": [1999]}, client=self.client)
+        self.assertEqual(result["sources"], [])
+        self.assertEqual(list(result["answer"]), [answer.NO_MATCH_ANSWER])
+        self.assertEqual(self.client.chat.completions.calls, [])
+
+    def test_failure_mid_answer_is_an_error(self):
+        original = openai_failure(openai.APIConnectionError, "dropped")
+        pieces = stream_answer("q", client=FakeClient(chat_error_after=original))["answer"]
+        self.assertEqual(next(pieces), "Toyota uses ")
+        with self.assertRaises(QAError) as caught:
+            next(pieces)
+        self.assertIs(caught.exception.__cause__, original)
+
+    def test_empty_stream_is_an_error(self):
+        pieces = stream_answer("q", client=FakeClient(pieces=[]))["answer"]
+        with self.assertRaises(QAError):
+            list(pieces)
 
 
 if __name__ == "__main__":
