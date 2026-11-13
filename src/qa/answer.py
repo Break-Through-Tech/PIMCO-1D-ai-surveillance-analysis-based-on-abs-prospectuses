@@ -129,8 +129,10 @@ def _messages(question: str, sources: list[dict]) -> list[dict]:
     ]
 
 
-def _find_sources(question: str, top_k: int, filters: dict | None, client: OpenAI | None) -> list[dict]:
-    records = retrieve(question, top_k=top_k, filters=filters, client=client)
+def _find_sources(
+    question: str, top_k: int, filters: dict | None, method: str, client: OpenAI | None
+) -> list[dict]:
+    records = retrieve(question, top_k=top_k, filters=filters, method=method, client=client)
     return [to_source(number, record) for number, record in enumerate(records, start=1)]
 
 
@@ -139,14 +141,17 @@ def answer_question(
     *,
     top_k: int = 5,
     filters: dict | None = None,
+    method: str = "hybrid",
     model: str = DEFAULT_MODEL,
     client: OpenAI | None = None,
 ) -> dict:
     """Return {"answer": text, "sources": [...]} with the complete answer.
 
-    Raises QAError with a plain-language message when something goes wrong.
+    method is the search method (see search.retrieve); leave it as "hybrid"
+    except when testing. Raises QAError with a plain-language message when
+    something goes wrong.
     """
-    sources = _find_sources(question, top_k, filters, client)
+    sources = _find_sources(question, top_k, filters, method, client)
     if not sources:
         return {"answer": NO_MATCH_ANSWER, "sources": []}
 
@@ -197,6 +202,7 @@ def stream_answer(
     *,
     top_k: int = 5,
     filters: dict | None = None,
+    method: str = "hybrid",
     model: str = DEFAULT_MODEL,
     client: OpenAI | None = None,
 ) -> dict:
@@ -206,7 +212,7 @@ def stream_answer(
     arrives. The answer is requested when the iterator is first read, so a
     QAError can also be raised while reading it.
     """
-    sources = _find_sources(question, top_k, filters, client)
+    sources = _find_sources(question, top_k, filters, method, client)
     if not sources:
         return {"answer": iter([NO_MATCH_ANSWER]), "sources": []}
 
