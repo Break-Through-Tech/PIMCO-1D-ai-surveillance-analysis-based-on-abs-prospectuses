@@ -84,11 +84,12 @@ def _details(source: dict) -> str:
     return " | ".join(part for part in parts if part)
 
 
-def build_prompt(question: str, sources: list[dict]) -> str:
+def build_prompt(question: str, sources: list[dict], instructions: str | None = None) -> str:
     evidence = [
         f"[Source {source['number']}]\n{_details(source)}\n{source['text']}"
         for source in sources
     ]
+    extra = f"Instructions for this answer:\n{instructions}\n\n" if instructions else ""
     return (
         "Answer the user's question using only the supplied evidence. "
         "Do not rely on outside knowledge and do not invent facts. "
@@ -99,7 +100,8 @@ def build_prompt(question: str, sources: list[dict]) -> str:
         "never combine them as [Sources 1, 5]. "
         "Keep the answer concise.\n\n"
         f"User question:\n{question}\n\n"
-        "Retrieved evidence:\n"
+        + extra
+        + "Retrieved evidence:\n"
         + "\n\n".join(evidence)
     )
 
@@ -122,10 +124,10 @@ def normalize_citations(text: str) -> str:
     return _GROUPED_CITATION.sub(_split_citation, text)
 
 
-def _messages(question: str, sources: list[dict]) -> list[dict]:
+def _messages(question: str, sources: list[dict], instructions: str | None) -> list[dict]:
     return [
         {"role": "system", "content": SYSTEM_PROMPT},
-        {"role": "user", "content": build_prompt(question, sources)},
+        {"role": "user", "content": build_prompt(question, sources, instructions)},
     ]
 
 
@@ -142,14 +144,16 @@ def answer_question(
     top_k: int = 5,
     filters: dict | None = None,
     method: str = "hybrid",
+    instructions: str | None = None,
     model: str = DEFAULT_MODEL,
     client: OpenAI | None = None,
 ) -> dict:
     """Return {"answer": text, "sources": [...]} with the complete answer.
 
     method is the search method (see search.retrieve); leave it as "hybrid"
-    except when testing. Raises QAError with a plain-language message when
-    something goes wrong.
+    except when testing. instructions, e.g. "Start your answer with Yes or
+    No.", go to the model only; the search uses the question alone. Raises
+    QAError with a plain-language message when something goes wrong.
     """
     sources = _find_sources(question, top_k, filters, method, client)
     if not sources:
@@ -157,7 +161,8 @@ def answer_question(
 
     client = client or openai_client()
     try:
-        response = client.chat.completions.create(model=model, messages=_messages(question, sources))
+        messages = _messages(question, sources, instructions)
+        response = client.chat.completions.create(model=model, messages=messages)
     except openai.OpenAIError as error:
         raise openai_error(error) from error
     answer = response.choices[0].message.content
@@ -203,6 +208,7 @@ def stream_answer(
     top_k: int = 5,
     filters: dict | None = None,
     method: str = "hybrid",
+    instructions: str | None = None,
     model: str = DEFAULT_MODEL,
     client: OpenAI | None = None,
 ) -> dict:
@@ -210,11 +216,13 @@ def stream_answer(
 
     The search runs straight away, so sources are ready before any text
     arrives. The answer is requested when the iterator is first read, so a
-    QAError can also be raised while reading it.
+    QAError can also be raised while reading it. method and instructions work
+    as in answer_question().
     """
     sources = _find_sources(question, top_k, filters, method, client)
     if not sources:
         return {"answer": iter([NO_MATCH_ANSWER]), "sources": []}
 
     client = client or openai_client()
-    return {"answer": _stream_pieces(client, model, _messages(question, sources)), "sources": sources}
+    messages = _messages(question, sources, instructions)
+    return {"answer": _stream_pieces(client, model, messages), "sources": sources}
