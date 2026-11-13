@@ -433,6 +433,29 @@ class StreamTests(AnswerTestCase):
             list(pieces)
 
 
+class InstructionTests(AnswerTestCase):
+    QUESTION = "Is the cutoff date April 14, 2024?"
+    INSTRUCTIONS = "Start your answer with Yes or No, then explain briefly."
+
+    def test_instructions_reach_the_model_but_not_the_search(self):
+        for function in (answer_question, stream_answer):
+            with self.subTest(function=function.__name__):
+                client = FakeClient()
+                with mock.patch.object(answer, "retrieve", wraps=search.retrieve) as spy:
+                    result = function(self.QUESTION, instructions=self.INSTRUCTIONS, client=client)
+                    if function is stream_answer:
+                        list(result["answer"])
+                self.assertEqual(spy.call_args.args[0], self.QUESTION)  # both searches get the question only
+                self.assertEqual(client.embeddings.calls[0][1], [self.QUESTION])
+                prompt = client.chat.completions.calls[-1]["messages"][-1]["content"]
+                self.assertIn(f"User question:\n{self.QUESTION}\n\nInstructions for this answer:\n{self.INSTRUCTIONS}",
+                              prompt)
+
+    def test_no_instructions_section_by_default(self):
+        answer_question(self.QUESTION, client=self.client)
+        self.assertNotIn("Instructions for this answer", self.prompt())
+
+
 class CitationTests(AnswerTestCase):
     def test_grouped_citations_are_split(self):
         cases = {
