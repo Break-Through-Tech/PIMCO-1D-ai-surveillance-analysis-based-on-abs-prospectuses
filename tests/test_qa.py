@@ -229,6 +229,75 @@ class SearchErrorTests(unittest.TestCase):
                 self.assertIs(error.__cause__, original)
 
 
+class HybridSearchTests(unittest.TestCase):
+    """By meaning alone the order is t1, x1, f1, t2, b1, f2, w1 (see RECORDS)."""
+
+    TEXTS = {
+        "w1": "The publicly offered notes are issued in minimum denominations of $1,000.",
+        "t2": "The reserve account is funded at closing.",
+        "b1": "The reserve account balance is $1,316,861,669.06 at the cutoff date.",
+        "f2": "The reserve account may be used to cover shortfalls.",
+    }
+
+    def setUp(self):
+        self.folder = Path(tempfile.mkdtemp())
+        write_index(self.folder, texts=self.TEXTS)
+        patcher = mock.patch.object(search, "EMBEDDINGS_DIR", self.folder)
+        patcher.start()
+        self.addCleanup(patcher.stop)
+        self.client = FakeClient()
+
+    def ids(self, query, **kwargs):
+        kwargs.setdefault("client", self.client)
+        return [r["chunk_id"] for r in search.retrieve(query, **kwargs)]
+
+    def test_hybrid_is_the_default(self):
+        query = "minimum denominations"
+        self.assertEqual(self.ids(query, top_k=7), self.ids(query, top_k=7, method="hybrid"))
+
+    def test_strong_keyword_match_moves_up(self):
+        # w1 is last by meaning, but the only passage with "denominations".
+        self.assertEqual(self.ids("minimum denominations", top_k=7, method="meaning")[-1], "w1")
+        self.assertEqual(self.ids("minimum denominations", top_k=1), ["w1"])
+
+    def test_without_keyword_matches_hybrid_keeps_the_meaning_order(self):
+        query = "the of a"  # stop words only
+        self.assertEqual(self.ids(query, top_k=7), self.ids(query, top_k=7, method="meaning"))
+
+    def test_rare_words_count_more_than_common_ones(self):
+        # "reserve" is in three passages, the amount in one.
+        self.assertEqual(self.ids("reserve $1,316,861,669.06", top_k=1, method="keyword"), ["b1"])
+
+    def test_keyword_method_needs_no_embedding_call(self):
+        results = search.retrieve("minimum denominations", top_k=2, method="keyword", client=self.client)
+        self.assertEqual(results[0]["chunk_id"], "w1")
+        self.assertIsNone(results[0]["similarity"])
+        self.assertEqual(self.client.embeddings.calls, [])
+
+    def test_hybrid_reports_meaning_similarity_and_embeds_once(self):
+        results = search.retrieve("minimum denominations", top_k=7, client=self.client)
+        meaning = {r["chunk_id"]: r["similarity"]
+                   for r in search.retrieve("minimum denominations", top_k=7, method="meaning", client=FakeClient())}
+        self.assertEqual({r["chunk_id"]: r["similarity"] for r in results}, meaning)
+        self.assertEqual(len(self.client.embeddings.calls), 1)
+
+    def test_filters_apply_to_keyword_search_too(self):
+        self.assertNotIn("w1", self.ids("minimum denominations", top_k=7, filters={"company": ["TOYOTA", "FORD"]}))
+        self.assertNotIn("w1", self.ids("minimum denominations", top_k=7, method="keyword",
+                                        filters={"company": ["TOYOTA", "FORD"]}))
+
+    def test_unknown_method_is_rejected(self):
+        with self.assertRaises(ValueError):
+            self.ids("q", method="magic")
+
+    def test_answer_functions_pass_the_method_through(self):
+        answer_question("minimum denominations", top_k=1, method="keyword", client=self.client)
+        list(stream_answer("minimum denominations", top_k=1, method="keyword", client=self.client)["answer"])
+        self.assertEqual(self.client.embeddings.calls, [])
+        prompt = self.client.chat.completions.calls[-1]["messages"][-1]["content"]
+        self.assertIn("minimum denominations of $1,000", prompt)
+
+
 SOURCE_FIELDS = {
     "number", "deal_name", "company", "asset_type", "filing_date", "filing", "page",
     "page_label", "section", "chunk_id", "similarity", "snippet", "text",
