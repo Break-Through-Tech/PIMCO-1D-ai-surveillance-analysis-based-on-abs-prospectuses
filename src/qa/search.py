@@ -5,7 +5,10 @@ notebooks/search_embeddings.py.
 """
 
 import json
+import math
 import os
+import re
+from collections import Counter
 from pathlib import Path
 
 import numpy as np
@@ -17,6 +20,20 @@ ROOT = Path(__file__).parent.parent.parent
 EMBEDDINGS_DIR = ROOT / "data" / "embeddings"
 # Filters a caller may pass to retrieve(); "year" is read from filing_date.
 FILTER_FIELDS = ("company", "asset_type", "year")
+# "hybrid" merges meaning and keyword rankings; the other two are for testing.
+METHODS = ("hybrid", "meaning", "keyword")
+# Reciprocal rank fusion: a passage ranked r in a list earns 1 / (RRF_K + r).
+RRF_K = 60
+# BM25 keyword scoring settings (the usual defaults).
+BM25_K1 = 1.5
+BM25_B = 0.75
+# Words too common to say which passage answers a question.
+STOP_WORDS = frozenset(
+    "a an the of to in on for by and or is are be was were do does did will may can with as at from "
+    "that this it its any all than more less into which what whose who whom how if not no yes approximately".split()
+)
+# Words, plus numbers and amounts such as "$1,316,861,669.06", "16.18%" and "a-1".
+_TOKEN = re.compile(r"[a-z0-9$%][a-z0-9$%.,\-]*[a-z0-9%]|[a-z0-9]")
 
 
 class QAError(Exception):
@@ -101,27 +118,12 @@ def filter_options() -> dict[str, list]:
     return options
 
 
-def retrieve(
-    query: str,
-    *,
-    top_k: int = 5,
-    filters: dict | None = None,
-    client: OpenAI | None = None,
-) -> list[dict]:
-    """Return the top_k chunks most similar to query, best first.
+def _tokens(text: str) -> list[str]:
+    return [word for word in _TOKEN.findall(str(text).lower()) if word not in STOP_WORDS]
 
-    filters, e.g. {"company": ["TOYOTA"], "year": [2024]}, are applied before
-    the similarity search, so top_k results come back whenever at least top_k
-    chunks match. Values within one filter are OR'd; different filters are AND'd.
-    """
-    if top_k < 1:
-        raise ValueError("top_k must be positive")
-    vectors, metadata, model = load_index()
-    filters = _clean_filters(filters)
-    candidates = np.flatnonzero([_matches(record, filters) for record in metadata])
-    if len(candidates) == 0:
-        return []  # nothing matches, so skip the paid embedding call
 
+def _meaning_scores(query: str, vectors: np.ndarray, model: str, client: OpenAI | None) -> np.ndarray:
+    """Cosine similarity between the query and each of vectors."""
     client = client or openai_client()
     try:
         response = client.embeddings.create(model=model, input=[query])
@@ -130,7 +132,85 @@ def retrieve(
     query_vector = np.asarray(response.data[0].embedding, dtype=np.float32)
     if vectors.shape[1] != query_vector.shape[0]:
         raise QAError("The search index doesn't match the embedding model. Rebuild it with embed_chunks.py.")
+    return vectors @ normalize(query_vector)
 
-    scores = vectors[candidates] @ normalize(query_vector)
-    order = np.argsort(scores)[::-1][:top_k]
-    return [{**metadata[candidates[i]], "similarity": float(scores[i])} for i in order]
+
+def _keyword_scores(query: str, metadata: list[dict], candidates: np.ndarray) -> np.ndarray:
+    """BM25 score of each candidate: rare query words count more than common ones.
+
+    Word rarity is measured across the whole index, not only the candidates.
+    """
+    documents = [Counter(_tokens(record.get("embed_text") or "")) for record in metadata]
+    lengths = np.array([sum(document.values()) for document in documents], dtype=float)
+    average_length = max(lengths.mean(), 1.0)
+    containing = Counter(word for document in documents for word in document)
+    total = len(documents)
+
+    scores = np.zeros(len(candidates))
+    for word in set(_tokens(query)):
+        if not containing[word]:
+            continue
+        rarity = math.log(1 + (total - containing[word] + 0.5) / (containing[word] + 0.5))
+        for position, index in enumerate(candidates):
+            count = documents[index][word]
+            if count:
+                length_factor = 1 - BM25_B + BM25_B * lengths[index] / average_length
+                scores[position] += rarity * count * (BM25_K1 + 1) / (count + BM25_K1 * length_factor)
+    return scores
+
+
+def _rank_points(scores: np.ndarray, matched: np.ndarray | None = None) -> np.ndarray:
+    """1 / (RRF_K + rank) for each score, best rank 1; unmatched entries get 0."""
+    ranks = np.empty(len(scores))
+    ranks[np.argsort(-scores, kind="stable")] = np.arange(1, len(scores) + 1)
+    points = 1 / (RRF_K + ranks)
+    return points if matched is None else np.where(matched, points, 0.0)
+
+
+def retrieve(
+    query: str,
+    *,
+    top_k: int = 5,
+    filters: dict | None = None,
+    method: str = "hybrid",
+    client: OpenAI | None = None,
+) -> list[dict]:
+    """Return the top_k chunks that best match query, best first.
+
+    method "hybrid" (the default) ranks chunks by meaning and by keywords and
+    merges the two rankings by rank (reciprocal rank fusion); "meaning" and
+    "keyword" use one ranking only, for testing. Each result's "similarity" is
+    its meaning (cosine) similarity, or None for "keyword".
+
+    filters, e.g. {"company": ["TOYOTA"], "year": [2024]}, are applied before
+    the search, so top_k results come back whenever at least top_k chunks
+    match. Values within one filter are OR'd; different filters are AND'd.
+    """
+    if top_k < 1:
+        raise ValueError("top_k must be positive")
+    if method not in METHODS:
+        raise ValueError(f"Unknown search method {method!r}; expected one of {METHODS}.")
+    vectors, metadata, model = load_index()
+    filters = _clean_filters(filters)
+    candidates = np.flatnonzero([_matches(record, filters) for record in metadata])
+    if len(candidates) == 0:
+        return []  # nothing matches, so skip the paid embedding call
+
+    similarity = None
+    if method in ("hybrid", "meaning"):
+        similarity = _meaning_scores(query, vectors[candidates], model, client)
+    if method in ("hybrid", "keyword"):
+        keyword = _keyword_scores(query, metadata, candidates)
+
+    if method == "meaning":
+        ranking = similarity
+    elif method == "keyword":
+        ranking = keyword
+    else:
+        ranking = _rank_points(similarity) + _rank_points(keyword, matched=keyword > 0)
+
+    order = np.argsort(-ranking, kind="stable")[:top_k]
+    return [
+        {**metadata[candidates[i]], "similarity": float(similarity[i]) if similarity is not None else None}
+        for i in order
+    ]
