@@ -11,6 +11,10 @@ Examples:
 import argparse
 import os
 
+from dotenv import load_dotenv
+from pathlib import Path
+load_dotenv(Path(__file__).parent.parent / ".env")
+
 from openai import OpenAI
 
 from search_embeddings import retrieve
