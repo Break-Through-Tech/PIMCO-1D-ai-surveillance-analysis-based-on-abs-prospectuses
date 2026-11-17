@@ -14,7 +14,7 @@ from collections.abc import Iterator
 import openai
 from openai import OpenAI
 
-from src.qa.search import QAError, openai_client, openai_error, retrieve
+from src.qa.search import DEFAULT_TOP_K, QAError, openai_client, openai_error, retrieve
 
 
 DEFAULT_MODEL = "gpt-6-luna"
@@ -141,7 +141,7 @@ def _find_sources(
 def answer_question(
     question: str,
     *,
-    top_k: int = 5,
+    top_k: int = DEFAULT_TOP_K,
     filters: dict | None = None,
     method: str = "hybrid",
     instructions: str | None = None,
@@ -205,7 +205,7 @@ def _stream_pieces(client: OpenAI, model: str, messages: list[dict]) -> Iterator
 def stream_answer(
     question: str,
     *,
-    top_k: int = 5,
+    top_k: int = DEFAULT_TOP_K,
     filters: dict | None = None,
     method: str = "hybrid",
     instructions: str | None = None,

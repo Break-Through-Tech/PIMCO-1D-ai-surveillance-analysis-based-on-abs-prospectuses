@@ -173,6 +173,13 @@ class SearchTests(unittest.TestCase):
         self.assertNotIn("x1", self.ids(top_k=7, filters=everyone))
         self.assertNotIn("x1", self.ids(top_k=7, filters={"year": [2024, 2025, 2026]}))
 
+    def test_default_returns_ten_passages(self):
+        records = [(f"c{n}", "TOYOTA", "auto_loans", "2024-04-18", [1.0, n / 10, 0.0]) for n in range(12)]
+        write_index(self.folder, records=records)
+        self.assertEqual(search.DEFAULT_TOP_K, 10)
+        self.assertEqual(len(search.retrieve("q", client=self.client)), 10)
+        self.assertEqual(len(answer_question("q", client=FakeClient())["sources"]), 10)
+
     def test_unknown_filter_is_rejected(self):
         with self.assertRaises(ValueError):
             self.ids(top_k=5, filters={"colour": ["red"]})

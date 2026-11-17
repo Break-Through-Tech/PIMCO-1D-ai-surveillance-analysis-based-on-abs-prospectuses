@@ -17,7 +17,7 @@ from pathlib import Path
 ROOT = Path(__file__).parent.parent
 sys.path.insert(0, str(ROOT))
 from src.qa.answer import DEFAULT_MODEL, answer_question
-from src.qa.search import QAError
+from src.qa.search import DEFAULT_TOP_K, QAError
 
 
 def source_line(source: dict) -> str:
@@ -35,7 +35,7 @@ def main() -> None:
         description="Answer a natural-language question from retrieved filing chunks."
     )
     parser.add_argument("--query", required=True, help="Natural-language question.")
-    parser.add_argument("--top-k", type=int, default=5, help="Chunks to retrieve.")
+    parser.add_argument("--top-k", type=int, default=DEFAULT_TOP_K, help="Chunks to retrieve.")
     parser.add_argument("--model", default=DEFAULT_MODEL, help="Completion model name.")
     args = parser.parse_args()
     if args.top_k < 1:

@@ -14,13 +14,13 @@ from pathlib import Path
 
 ROOT = Path(__file__).parent.parent
 sys.path.insert(0, str(ROOT))
-from src.qa.search import QAError, retrieve
+from src.qa.search import DEFAULT_TOP_K, QAError, retrieve
 
 
 def main() -> None:
     parser = argparse.ArgumentParser(description="Search a local semantic embedding index.")
     parser.add_argument("--query", required=True, help="Natural-language question or search phrase.")
-    parser.add_argument("--top-k", type=int, default=5, help="Number of chunks to return.")
+    parser.add_argument("--top-k", type=int, default=DEFAULT_TOP_K, help="Number of chunks to return.")
     parser.add_argument("--json", action="store_true", dest="as_json")
     args = parser.parse_args()
     if args.top_k < 1:

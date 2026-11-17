@@ -20,6 +20,8 @@ ROOT = Path(__file__).parent.parent.parent
 EMBEDDINGS_DIR = ROOT / "data" / "embeddings"
 # Filters a caller may pass to retrieve(); "year" is read from filing_date.
 FILTER_FIELDS = ("company", "asset_type", "year")
+# How many passages a search returns (and the answer is based on) by default.
+DEFAULT_TOP_K = 10
 # "hybrid" merges meaning and keyword rankings; the other two are for testing.
 METHODS = ("hybrid", "meaning", "keyword")
 # Reciprocal rank fusion: a passage ranked r in a list earns 1 / (RRF_K + r).
@@ -170,7 +172,7 @@ def _rank_points(scores: np.ndarray, matched: np.ndarray | None = None) -> np.nd
 def retrieve(
     query: str,
     *,
-    top_k: int = 5,
+    top_k: int = DEFAULT_TOP_K,
     filters: dict | None = None,
     method: str = "hybrid",
     client: OpenAI | None = None,
