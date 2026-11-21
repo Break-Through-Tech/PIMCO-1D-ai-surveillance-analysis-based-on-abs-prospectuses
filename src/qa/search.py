@@ -37,7 +37,8 @@ STOP_WORDS = frozenset(
 # Words, plus numbers and amounts such as "$1,316,861,669.06", "16.18%" and "a-1".
 _TOKEN = re.compile(r"[a-z0-9$%][a-z0-9$%.,\-]*[a-z0-9%]|[a-z0-9]")
 # Re-ranking: a model reads the question with each shortlisted passage and
-# scores how well the passage answers it; the shortlist is then reordered.
+# scores how well the passage answers it; the shortlist is then reordered by
+# blending that ranking with the search ranking.
 RERANK_MODEL = "Xenova/ms-marco-MiniLM-L-6-v2"
 RERANK_MODEL_DIR = ROOT / "data" / "models"
 # How many passages the first search hands to the re-ranker (at least top_k).
@@ -236,14 +237,23 @@ def get_reranker() -> Reranker:
 
 
 def _rerank(query: str, records: list[dict], reranker: Reranker) -> list[dict]:
-    """records reordered by their best window's re-ranking score, best first."""
+    """records (in search order, best first) reordered by blending the search
+    ranking with the re-ranking model's ranking.
+
+    Each record scores its best window; each ranking then gives it
+    1 / (RRF_K + rank) points, and the two are added. A record ranked high by
+    either keeps a high place, so pages the search finds by exact numbers or
+    terms aren't pushed out by the model.
+    """
     windows = [reranker.windows(record.get("embed_text") or "") for record in records]
     flat = reranker.scores(query, [window for group in windows for window in group])
     best, start = [], 0
     for group in windows:
         best.append(max(flat[start:start + len(group)]))
         start += len(group)
-    order = sorted(range(len(records)), key=lambda i: -best[i])  # ties keep search order
+    search_points = _rank_points(-np.arange(len(records), dtype=float))  # already in search order
+    blended = search_points + _rank_points(np.array(best))
+    order = np.argsort(-blended, kind="stable")  # ties keep search order
     return [{**records[i], "rerank_score": best[i]} for i in order]
 
 
@@ -265,8 +275,9 @@ def retrieve(
 
     rerank=True takes the best RERANK_SHORTLIST chunks (or top_k, if larger),
     has the re-ranking model score each against the query, and returns the
-    top_k by that score. Each result's "rerank_score" is that score (higher
-    is better), or None when not re-ranked.
+    top_k after blending the search ranking with the model's ranking (see
+    _rerank). Each result's "rerank_score" is the model's score (higher is
+    better), or None when not re-ranked.
 
     filters, e.g. {"company": ["TOYOTA"], "year": [2024]}, are applied before
     the search, so top_k results come back whenever at least top_k chunks

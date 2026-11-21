@@ -357,13 +357,22 @@ class RerankTests(unittest.TestCase):
         self.assertEqual([r["rerank_score"] for r in results], [None] * 3)
         self.assertEqual(self.reranker.calls, [])
 
-    def test_reorders_by_score(self):
-        results = self.results(top_k=3, rerank=True)
-        self.assertEqual([r["chunk_id"] for r in results], ["w1", "f2", "t1"])
-        self.assertEqual([r["rerank_score"] for r in results], [2.0, 1.0, 0.0])
+    def test_blends_search_and_model_rankings(self):
+        # The model ranks w1, f2 first (search: 7th, 6th); the blend lifts
+        # them past f1, t2 and b1 but not past the search's top two.
+        self.assertEqual(self.ids(top_k=7, rerank=True), ["t1", "x1", "w1", "f2", "f1", "t2", "b1"])
 
-    def test_ties_keep_the_search_order(self):
-        self.assertEqual(self.ids(top_k=7, rerank=True)[2:], ["t1", "x1", "f1", "t2", "b1"])
+    def test_strong_search_results_are_not_pushed_out(self):
+        # Ranked by the model alone, the top two would be w1 and f2.
+        self.assertEqual(self.ids(top_k=2, rerank=True), ["t1", "x1"])
+
+    def test_reports_the_model_score(self):
+        scores = {r["chunk_id"]: r["rerank_score"] for r in self.results(top_k=7, rerank=True)}
+        self.assertEqual(scores, {"w1": 2.0, "f2": 1.0, "t1": 0.0, "x1": 0.0, "f1": 0.0, "t2": 0.0, "b1": 0.0})
+
+    def test_equal_model_scores_keep_the_search_order(self):
+        write_index(self.folder)  # no passage says "answer"
+        self.assertEqual(self.ids(top_k=7, rerank=True), self.ids(top_k=7))
 
     def test_similarity_is_kept(self):
         plain = {r["chunk_id"]: r["similarity"] for r in self.results(top_k=7)}
@@ -386,15 +395,14 @@ class RerankTests(unittest.TestCase):
         together = "answer answer " + words(100)
         texts = {"t1": spread, "x1": together}
         write_index(self.folder, texts=texts)
-        results = self.results(top_k=2, rerank=True)
-        self.assertEqual([r["chunk_id"] for r in results], ["x1", "t1"])
-        self.assertEqual([r["rerank_score"] for r in results], [2.0, 1.0])
+        scores = {r["chunk_id"]: r["rerank_score"] for r in self.results(top_k=2, rerank=True)}
+        self.assertEqual(scores, {"t1": 1.0, "x1": 2.0})
 
     def test_answer_functions_pass_rerank_through(self):
-        result = answer_question("reserve account", top_k=1, method="meaning", rerank=True, client=self.client)
-        self.assertEqual(result["sources"][0]["chunk_id"], "w1")
-        self.assertEqual(result["sources"][0]["rerank_score"], 2.0)
-        streamed = stream_answer("reserve account", top_k=1, method="meaning", rerank=True, client=self.client)
+        result = answer_question("reserve account", top_k=3, method="meaning", rerank=True, client=self.client)
+        self.assertEqual([s["chunk_id"] for s in result["sources"]], ["t1", "x1", "w1"])
+        self.assertEqual(result["sources"][2]["rerank_score"], 2.0)
+        streamed = stream_answer("reserve account", top_k=3, method="meaning", rerank=True, client=self.client)
         self.assertEqual(streamed["sources"], result["sources"])
 
 
