@@ -307,7 +307,7 @@ class HybridSearchTests(unittest.TestCase):
 
 SOURCE_FIELDS = {
     "number", "deal_name", "company", "asset_type", "filing_date", "filing", "page",
-    "page_label", "section", "chunk_id", "similarity", "snippet", "text",
+    "page_label", "section", "chunk_id", "similarity", "rerank_score", "snippet", "text",
 }
 LONG_TEXT = "The reserve account is funded at closing. " * 20
 
