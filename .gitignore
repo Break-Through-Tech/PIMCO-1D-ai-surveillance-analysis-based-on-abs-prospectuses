@@ -9,3 +9,4 @@ __pycache__/
 data/chunks/
 data/embeddings/
 .streamlit/secrets.toml
+data/models/
