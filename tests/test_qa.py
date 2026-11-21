@@ -321,6 +321,15 @@ class FakeReranker:
         return [float(text.count("answer")) for text in texts]
 
 
+def setUpModule():
+    # Re-ranking is on by default; use the fake model everywhere so tests
+    # need no download. Tests about loading patch these again themselves.
+    for target, value in [("Reranker", FakeReranker), ("_reranker", None)]:
+        patcher = mock.patch.object(search, target, value)
+        patcher.start()
+        unittest.addModuleCleanup(patcher.stop)
+
+
 def words(count, word="filler"):
     return " ".join([word] * count)
 
@@ -351,11 +360,19 @@ class RerankTests(unittest.TestCase):
     def ids(self, **kwargs):
         return [r["chunk_id"] for r in self.results(**kwargs)]
 
-    def test_off_by_default(self):
-        results = self.results(top_k=3)
+    def test_on_by_default(self):
+        self.assertEqual(self.ids(top_k=7), self.ids(top_k=7, rerank=True))
+        self.assertEqual(len(self.reranker.calls), 2)
+
+    def test_can_be_turned_off(self):
+        results = self.results(top_k=3, rerank=False)
         self.assertEqual([r["chunk_id"] for r in results], ["t1", "x1", "f1"])
         self.assertEqual([r["rerank_score"] for r in results], [None] * 3)
         self.assertEqual(self.reranker.calls, [])
+
+    def test_answer_functions_rerank_by_default(self):
+        result = answer_question("reserve account", top_k=3, method="meaning", client=self.client)
+        self.assertEqual([s["chunk_id"] for s in result["sources"]], ["t1", "x1", "w1"])
 
     def test_blends_search_and_model_rankings(self):
         # The model ranks w1, f2 first (search: 7th, 6th); the blend lifts
@@ -372,10 +389,10 @@ class RerankTests(unittest.TestCase):
 
     def test_equal_model_scores_keep_the_search_order(self):
         write_index(self.folder)  # no passage says "answer"
-        self.assertEqual(self.ids(top_k=7, rerank=True), self.ids(top_k=7))
+        self.assertEqual(self.ids(top_k=7, rerank=True), self.ids(top_k=7, rerank=False))
 
     def test_similarity_is_kept(self):
-        plain = {r["chunk_id"]: r["similarity"] for r in self.results(top_k=7)}
+        plain = {r["chunk_id"]: r["similarity"] for r in self.results(top_k=7, rerank=False)}
         reranked = {r["chunk_id"]: r["similarity"] for r in self.results(top_k=7, rerank=True)}
         self.assertEqual(reranked, plain)
 

@@ -152,7 +152,7 @@ def answer_question(
     top_k: int = DEFAULT_TOP_K,
     filters: dict | None = None,
     method: str = "hybrid",
-    rerank: bool = False,
+    rerank: bool = True,
     instructions: str | None = None,
     model: str = DEFAULT_MODEL,
     client: OpenAI | None = None,
@@ -160,11 +160,11 @@ def answer_question(
     """Return {"answer": text, "sources": [...]} with the complete answer.
 
     method is the search method (see search.retrieve); leave it as "hybrid"
-    except when testing. rerank=True reorders the passages with the
-    re-ranking model (see search.retrieve). instructions, e.g. "Start your
-    answer with Yes or No.", go to the model only; the search uses the
-    question alone. Raises QAError with a plain-language message when
-    something goes wrong.
+    except when testing. rerank (on by default) reorders the passages with
+    the re-ranking model (see search.retrieve); False is for testing.
+    instructions, e.g. "Start your answer with Yes or No.", go to the model
+    only; the search uses the question alone. Raises QAError with a
+    plain-language message when something goes wrong.
     """
     sources = _find_sources(question, top_k, filters, method, rerank, client)
     if not sources:
@@ -219,7 +219,7 @@ def stream_answer(
     top_k: int = DEFAULT_TOP_K,
     filters: dict | None = None,
     method: str = "hybrid",
-    rerank: bool = False,
+    rerank: bool = True,
     instructions: str | None = None,
     model: str = DEFAULT_MODEL,
     client: OpenAI | None = None,

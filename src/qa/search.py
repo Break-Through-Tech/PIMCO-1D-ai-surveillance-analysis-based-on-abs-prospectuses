@@ -263,7 +263,7 @@ def retrieve(
     top_k: int = DEFAULT_TOP_K,
     filters: dict | None = None,
     method: str = "hybrid",
-    rerank: bool = False,
+    rerank: bool = True,
     client: OpenAI | None = None,
 ) -> list[dict]:
     """Return the top_k chunks that best match query, best first.
@@ -273,11 +273,12 @@ def retrieve(
     "keyword" use one ranking only, for testing. Each result's "similarity" is
     its meaning (cosine) similarity, or None for "keyword".
 
-    rerank=True takes the best RERANK_SHORTLIST chunks (or top_k, if larger),
-    has the re-ranking model score each against the query, and returns the
-    top_k after blending the search ranking with the model's ranking (see
-    _rerank). Each result's "rerank_score" is the model's score (higher is
-    better), or None when not re-ranked.
+    rerank=True (the default) takes the best RERANK_SHORTLIST chunks (or
+    top_k, if larger), has the re-ranking model score each against the
+    query, and returns the top_k after blending the search ranking with the
+    model's ranking (see _rerank). Each result's "rerank_score" is the
+    model's score (higher is better), or None when not re-ranked;
+    rerank=False is for testing.
 
     filters, e.g. {"company": ["TOYOTA"], "year": [2024]}, are applied before
     the search, so top_k results come back whenever at least top_k chunks

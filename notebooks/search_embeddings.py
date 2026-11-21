@@ -22,7 +22,8 @@ def main() -> None:
     parser.add_argument("--query", required=True, help="Natural-language question or search phrase.")
     parser.add_argument("--top-k", type=int, default=DEFAULT_TOP_K, help="Number of chunks to return.")
     parser.add_argument(
-        "--rerank", action="store_true", help="Reorder the results with the re-ranking model."
+        "--no-rerank", dest="rerank", action="store_false",
+        help="Skip reordering the results with the re-ranking model (for testing).",
     )
     parser.add_argument("--json", action="store_true", dest="as_json")
     args = parser.parse_args()
