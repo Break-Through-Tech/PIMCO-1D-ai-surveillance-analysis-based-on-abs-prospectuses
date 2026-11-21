@@ -9,6 +9,7 @@ need no API key and no real embeddings. Run from the repository root:
 import json
 import math
 import os
+import re
 import subprocess
 import sys
 import tempfile
@@ -303,6 +304,141 @@ class HybridSearchTests(unittest.TestCase):
         self.assertEqual(self.client.embeddings.calls, [])
         prompt = self.client.chat.completions.calls[-1]["messages"][-1]["content"]
         self.assertIn("minimum denominations of $1,000", prompt)
+
+
+class FakeReranker:
+    """Splits text into windows of words and scores each window by how many
+    times it says "answer", so tests need no model download."""
+
+    def __init__(self):
+        self.calls = []
+
+    def windows(self, text):
+        return search.window_texts(text, [m.span() for m in re.finditer(r"\S+", text)])
+
+    def scores(self, query, texts):
+        self.calls.append((query, texts))
+        return [float(text.count("answer")) for text in texts]
+
+
+def words(count, word="filler"):
+    return " ".join([word] * count)
+
+
+class RerankTests(unittest.TestCase):
+    """By meaning alone the order is t1, x1, f1, t2, b1, f2, w1 (see RECORDS)."""
+
+    TEXTS = {
+        "f2": "This passage holds the answer.",
+        "w1": "The answer, the whole answer.",
+    }
+
+    def setUp(self):
+        self.folder = Path(tempfile.mkdtemp())
+        write_index(self.folder, texts=self.TEXTS)
+        self.reranker = FakeReranker()
+        for target, value in [("EMBEDDINGS_DIR", self.folder), ("get_reranker", lambda: self.reranker)]:
+            patcher = mock.patch.object(search, target, value)
+            patcher.start()
+            self.addCleanup(patcher.stop)
+        self.client = FakeClient()
+
+    def results(self, **kwargs):
+        kwargs.setdefault("client", self.client)
+        kwargs.setdefault("method", "meaning")
+        return search.retrieve("reserve account", **kwargs)
+
+    def ids(self, **kwargs):
+        return [r["chunk_id"] for r in self.results(**kwargs)]
+
+    def test_off_by_default(self):
+        results = self.results(top_k=3)
+        self.assertEqual([r["chunk_id"] for r in results], ["t1", "x1", "f1"])
+        self.assertEqual([r["rerank_score"] for r in results], [None] * 3)
+        self.assertEqual(self.reranker.calls, [])
+
+    def test_reorders_by_score(self):
+        results = self.results(top_k=3, rerank=True)
+        self.assertEqual([r["chunk_id"] for r in results], ["w1", "f2", "t1"])
+        self.assertEqual([r["rerank_score"] for r in results], [2.0, 1.0, 0.0])
+
+    def test_ties_keep_the_search_order(self):
+        self.assertEqual(self.ids(top_k=7, rerank=True)[2:], ["t1", "x1", "f1", "t2", "b1"])
+
+    def test_similarity_is_kept(self):
+        plain = {r["chunk_id"]: r["similarity"] for r in self.results(top_k=7)}
+        reranked = {r["chunk_id"]: r["similarity"] for r in self.results(top_k=7, rerank=True)}
+        self.assertEqual(reranked, plain)
+
+    def test_only_the_shortlist_is_reranked(self):
+        # f2 and w1 are 6th and 7th by meaning, outside a shortlist of 5.
+        with mock.patch.object(search, "RERANK_SHORTLIST", 5):
+            self.assertEqual(self.ids(top_k=2, rerank=True), ["t1", "x1"])
+            self.assertEqual(len(self.reranker.calls[0][1]), 5)
+
+    def test_shortlist_grows_to_top_k(self):
+        with mock.patch.object(search, "RERANK_SHORTLIST", 2):
+            self.assertEqual(len(self.ids(top_k=4, rerank=True)), 4)
+
+    def test_page_scores_its_best_window_not_the_whole_page(self):
+        # "answer" three times far apart beats nothing; twice together wins.
+        spread = " ".join(["answer", words(499), "answer", words(499), "answer", words(200)])
+        together = "answer answer " + words(100)
+        texts = {"t1": spread, "x1": together}
+        write_index(self.folder, texts=texts)
+        results = self.results(top_k=2, rerank=True)
+        self.assertEqual([r["chunk_id"] for r in results], ["x1", "t1"])
+        self.assertEqual([r["rerank_score"] for r in results], [2.0, 1.0])
+
+    def test_answer_functions_pass_rerank_through(self):
+        result = answer_question("reserve account", top_k=1, method="meaning", rerank=True, client=self.client)
+        self.assertEqual(result["sources"][0]["chunk_id"], "w1")
+        self.assertEqual(result["sources"][0]["rerank_score"], 2.0)
+        streamed = stream_answer("reserve account", top_k=1, method="meaning", rerank=True, client=self.client)
+        self.assertEqual(streamed["sources"], result["sources"])
+
+
+class WindowTests(unittest.TestCase):
+    def windows(self, count):
+        text = " ".join(f"w{n}" for n in range(count))
+        return search.window_texts(text, [m.span() for m in re.finditer(r"\S+", text)])
+
+    def test_short_text_is_one_window(self):
+        self.assertEqual(self.windows(50), [" ".join(f"w{n}" for n in range(50))])
+
+    def test_long_text_is_covered_by_overlapping_windows(self):
+        windows = [window.split() for window in self.windows(1000)]
+        self.assertEqual([(w[0], w[-1]) for w in windows], [("w0", "w399"), ("w300", "w699"), ("w600", "w999")])
+
+    def test_windows_never_exceed_the_limit(self):
+        self.assertTrue(all(len(w.split()) <= search.WINDOW_TOKENS for w in self.windows(1234)))
+        self.assertEqual(self.windows(1234)[-1].split()[-1], "w1233")
+
+    def test_empty_text_is_one_empty_window(self):
+        self.assertEqual(search.window_texts("", []), [""])
+
+
+class RerankerLoadTests(unittest.TestCase):
+    def setUp(self):
+        patcher = mock.patch.object(search, "_reranker", None)
+        patcher.start()
+        self.addCleanup(patcher.stop)
+
+    def test_loaded_once_and_reused(self):
+        with mock.patch.object(search, "Reranker", side_effect=lambda: object()) as factory:
+            first = search.get_reranker()
+            self.assertIs(search.get_reranker(), first)
+        self.assertEqual(factory.call_count, 1)
+
+    def test_missing_package_is_a_plain_error(self):
+        with mock.patch.object(search, "Reranker", side_effect=ImportError("no fastembed")):
+            with self.assertRaisesRegex(QAError, "pip install -r requirements.txt"):
+                search.get_reranker()
+
+    def test_download_failure_is_a_plain_error(self):
+        with mock.patch.object(search, "Reranker", side_effect=OSError("network down")):
+            with self.assertRaisesRegex(QAError, "Couldn't load the re-ranking model"):
+                search.get_reranker()
 
 
 SOURCE_FIELDS = {
