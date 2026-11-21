@@ -36,6 +36,17 @@ STOP_WORDS = frozenset(
 )
 # Words, plus numbers and amounts such as "$1,316,861,669.06", "16.18%" and "a-1".
 _TOKEN = re.compile(r"[a-z0-9$%][a-z0-9$%.,\-]*[a-z0-9%]|[a-z0-9]")
+# Re-ranking: a model reads the question with each shortlisted passage and
+# scores how well the passage answers it; the shortlist is then reordered.
+RERANK_MODEL = "Xenova/ms-marco-MiniLM-L-6-v2"
+RERANK_MODEL_DIR = ROOT / "data" / "models"
+# How many passages the first search hands to the re-ranker (at least top_k).
+RERANK_SHORTLIST = 20
+# The model reads at most 512 tokens (question included), so each passage is
+# scored in overlapping windows and keeps its best window's score.
+WINDOW_TOKENS = 400
+WINDOW_OVERLAP = 100
+_reranker = None  # loaded on first use, then reused
 
 
 class QAError(Exception):
@@ -169,12 +180,80 @@ def _rank_points(scores: np.ndarray, matched: np.ndarray | None = None) -> np.nd
     return points if matched is None else np.where(matched, points, 0.0)
 
 
+class Reranker:
+    """Scores passages against a question with a local cross-encoder model."""
+
+    def __init__(self, model_name: str = RERANK_MODEL, cache_dir: Path = RERANK_MODEL_DIR):
+        from fastembed.rerank.cross_encoder import TextCrossEncoder
+        from tokenizers import Tokenizer
+
+        self.encoder = TextCrossEncoder(model_name, cache_dir=str(cache_dir))
+        # A copy of the model's tokenizer that doesn't cut text at 512 tokens,
+        # used only to split passages into windows.
+        self.tokenizer = Tokenizer.from_str(self.encoder.model.tokenizer.to_str())
+        self.tokenizer.no_truncation()
+        self.tokenizer.no_padding()
+
+    def windows(self, text: str) -> list[str]:
+        """text cut into overlapping windows of up to WINDOW_TOKENS tokens."""
+        spans = self.tokenizer.encode(text, add_special_tokens=False).offsets
+        return window_texts(text, spans)
+
+    def scores(self, query: str, texts: list[str]) -> list[float]:
+        return [float(score) for score in self.encoder.rerank(query, texts)]
+
+
+def window_texts(text: str, spans: list[tuple[int, int]]) -> list[str]:
+    """Slices of text covering WINDOW_TOKENS tokens each, overlapping by
+    WINDOW_OVERLAP; spans are each token's (start, end) character positions."""
+    if not spans:
+        return [text]
+    step = WINDOW_TOKENS - WINDOW_OVERLAP
+    windows = []
+    for first in range(0, len(spans), step):
+        last = min(first + WINDOW_TOKENS, len(spans)) - 1
+        windows.append(text[spans[first][0]:spans[last][1]])
+        if last == len(spans) - 1:
+            break
+    return windows
+
+
+def get_reranker() -> Reranker:
+    """The re-ranking model, loaded (and downloaded the first time) on first use."""
+    global _reranker
+    if _reranker is None:
+        try:
+            _reranker = Reranker()
+        except ImportError as error:
+            raise QAError(
+                "Re-ranking needs the fastembed package. Run pip install -r requirements.txt."
+            ) from error
+        except Exception as error:  # download or file problems; fastembed has no single error type
+            raise QAError(
+                "Couldn't load the re-ranking model. Check the internet connection and try again."
+            ) from error
+    return _reranker
+
+
+def _rerank(query: str, records: list[dict], reranker: Reranker) -> list[dict]:
+    """records reordered by their best window's re-ranking score, best first."""
+    windows = [reranker.windows(record.get("embed_text") or "") for record in records]
+    flat = reranker.scores(query, [window for group in windows for window in group])
+    best, start = [], 0
+    for group in windows:
+        best.append(max(flat[start:start + len(group)]))
+        start += len(group)
+    order = sorted(range(len(records)), key=lambda i: -best[i])  # ties keep search order
+    return [{**records[i], "rerank_score": best[i]} for i in order]
+
+
 def retrieve(
     query: str,
     *,
     top_k: int = DEFAULT_TOP_K,
     filters: dict | None = None,
     method: str = "hybrid",
+    rerank: bool = False,
     client: OpenAI | None = None,
 ) -> list[dict]:
     """Return the top_k chunks that best match query, best first.
@@ -183,6 +262,11 @@ def retrieve(
     merges the two rankings by rank (reciprocal rank fusion); "meaning" and
     "keyword" use one ranking only, for testing. Each result's "similarity" is
     its meaning (cosine) similarity, or None for "keyword".
+
+    rerank=True takes the best RERANK_SHORTLIST chunks (or top_k, if larger),
+    has the re-ranking model score each against the query, and returns the
+    top_k by that score. Each result's "rerank_score" is that score (higher
+    is better), or None when not re-ranked.
 
     filters, e.g. {"company": ["TOYOTA"], "year": [2024]}, are applied before
     the search, so top_k results come back whenever at least top_k chunks
@@ -211,8 +295,16 @@ def retrieve(
     else:
         ranking = _rank_points(similarity) + _rank_points(keyword, matched=keyword > 0)
 
-    order = np.argsort(-ranking, kind="stable")[:top_k]
-    return [
-        {**metadata[candidates[i]], "similarity": float(similarity[i]) if similarity is not None else None}
+    keep = max(top_k, RERANK_SHORTLIST) if rerank else top_k
+    order = np.argsort(-ranking, kind="stable")[:keep]
+    results = [
+        {
+            **metadata[candidates[i]],
+            "similarity": float(similarity[i]) if similarity is not None else None,
+            "rerank_score": None,
+        }
         for i in order
     ]
+    if rerank:
+        results = _rerank(query, results, get_reranker())
+    return results[:top_k]
