@@ -36,13 +36,16 @@ def main() -> None:
     )
     parser.add_argument("--query", required=True, help="Natural-language question.")
     parser.add_argument("--top-k", type=int, default=DEFAULT_TOP_K, help="Chunks to retrieve.")
+    parser.add_argument(
+        "--rerank", action="store_true", help="Reorder the results with the re-ranking model."
+    )
     parser.add_argument("--model", default=DEFAULT_MODEL, help="Completion model name.")
     args = parser.parse_args()
     if args.top_k < 1:
         parser.error("--top-k must be positive")
 
     try:
-        result = answer_question(args.query, top_k=args.top_k, model=args.model)
+        result = answer_question(args.query, top_k=args.top_k, rerank=args.rerank, model=args.model)
     except QAError as error:
         raise SystemExit(str(error))
     print(result["answer"])
