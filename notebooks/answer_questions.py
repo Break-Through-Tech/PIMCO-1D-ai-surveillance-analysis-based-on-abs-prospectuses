@@ -49,7 +49,9 @@ def build_prompt(query: str, results: list[dict]) -> str:
         "Do not rely on outside knowledge and do not invent facts. "
         "If the evidence is insufficient or conflicting, say so clearly. "
         "Cite every substantive claim with one or more source labels exactly "
-        "as written, such as [Source 1]. Keep the answer concise.\n\n"
+        "as written, such as [Source 1]. Format the response as a concise research note: "
+        "lead with the finding, then use short evidence and limitation bullets where useful. "
+        "Do not report a confidence score or make claims beyond the cited passages.\n\n"
         f"User question:\n{query}\n\n"
         "Retrieved evidence:\n"
         + "\n\n".join(evidence)
@@ -62,8 +64,9 @@ def answer_question(
     top_k: int,
     model: str,
     client: OpenAI,
+    retrieved: list[dict] | None = None,
 ) -> str:
-    results = retrieve(query, top_k=top_k, client=client)
+    results = retrieved if retrieved is not None else retrieve(query, top_k=top_k, client=client)
     if not results:
         return "No evidence was retrieved for this question."
 

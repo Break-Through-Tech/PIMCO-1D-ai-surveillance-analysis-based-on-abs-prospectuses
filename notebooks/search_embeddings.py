@@ -33,7 +33,13 @@ def load_metadata() -> list[dict]:
         return [json.loads(line) for line in handle if line.strip()]
 
 
-def retrieve(query: str, *, top_k: int, client: OpenAI) -> list[dict]:
+def retrieve(
+    query: str,
+    *,
+    top_k: int,
+    client: OpenAI,
+    filters: dict[str, str] | None = None,
+) -> list[dict]:
     vectors = np.load(EMBEDDINGS_DIR / "vectors.npy")
     metadata = load_metadata()
     if len(vectors) != len(metadata):
@@ -48,9 +54,29 @@ def retrieve(query: str, *, top_k: int, client: OpenAI) -> list[dict]:
     if vectors.shape[1] != query_vector.shape[0]:
         raise ValueError("Query vector dimensions do not match the stored index.")
 
-    scores = normalize(vectors) @ normalize(query_vector.reshape(1, -1))[0]
-    indices = np.argsort(scores)[::-1][:top_k]
-    return [{**metadata[index], "similarity": float(scores[index])} for index in indices]
+    candidates = []
+    filters = filters or {}
+    for index, item in enumerate(metadata):
+        matches = True
+        for name, value in filters.items():
+            if not value:
+                continue
+            if name == "year":
+                matches &= str(item.get("filing_date", "")).startswith(str(value))
+            else:
+                matches &= str(item.get(name, "")).casefold() == str(value).casefold()
+        if matches:
+            candidates.append(index)
+    if not candidates:
+        return []
+
+    candidate_vectors = vectors[candidates]
+    scores = normalize(candidate_vectors) @ normalize(query_vector.reshape(1, -1))[0]
+    ranked = np.argsort(scores)[::-1][:top_k]
+    return [
+        {**metadata[candidates[position]], "similarity": float(scores[position])}
+        for position in ranked
+    ]
 
 
 def main() -> None:
